@@ -1,2 +1,2 @@
-The Walters Art Museum Collections API (Beta Version)
+Walters Art Museum Collections API (Beta)
 ===========
