@@ -9,15 +9,15 @@ Documentation of the API for the collection of the Walters Art Museum. This docu
 - Register get token text (coming soon)
 - Review the documentation here
 
-# Objects
+# Overview
 
 There are 5 objects that you can get via the Walters API. Each of these has documentation available via the links below.
 
-- [Collections](#)
-- [Objects]()
-- [Geographies]()
-- [Exhibitions]()
-- [Museum Locations]()
+- [Collections](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections.md)
+- [Objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects.md)
+- [Geographies](https://github.com/WaltersArtMuseum/walters-api/blob/master/geographies.md)
+- [Exhibitions](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions.md)
+- [Museum Locations](https://github.com/WaltersArtMuseum/walters-api/blob/master/locations.md)
 
 ## Feedback
 
