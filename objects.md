@@ -15,11 +15,9 @@ Objects has several properties, listed below.
 
 There are 3 requests you can use to get museum objects.
 
-## Requests:
-
-`[GET v1/objects]` - Get museum objects via a number of paramaters.
-`GET v1/objects/{id}` - Get a museum object by ID.
-`GET v1/objects/{id}/images` - Get images of a museum object by ID.
+- `[GET v1/objects](#)` - Get museum objects via a number of paramaters.
+- `GET v1/objects/{id}` - Get a museum object by ID.
+- `GET v1/objects/{id}/images` - Get images of a museum object by ID.
  
 
 ## Results
