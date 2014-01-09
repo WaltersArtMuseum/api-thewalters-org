@@ -2,12 +2,14 @@ Walters Art Museum Collections API (Beta)
 ===========
 
 
-# Get Object
+## Get Object
 
-An object is a piece of art, an artifact or similar item within the Walters collections. 
-Each object has several properties, a unique ID and a number of images of various sizes. 
+An object is a piece of art, an artifact or similar item within the Walters collections. Each object has several properties, a unique ID and a number of images of various sizes. For example, the painting on canvas titled "The Ideal City" by artist Fra Carnevale, dating from the Renaissance, ca. 1480-1484. The resource URL for this object is http://art.thewalters.org/detail/37626. Another example of an object is an earthenware "Camel" created in China, dating from the 7th-8th century. The resource URL for this object is http://art.thewalters.org/detail/7363.
 
-For example, the painting on canvas titled "The Ideal City" by artist Fra Carnevale, dating from the Renaissance, ca. 1480-1484. The resource URL for this object is http://art.thewalters.org/detail/37626. Another example of an object is an earthenware "Camel" created in China, dating from the 7th-8th century. The resource URL for this object is http://art.thewalters.org/detail/7363.
+This is one of 3 requests you can use to get museum objects:
+- [GET v1/objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-get.md) Get museum objects via a number of parameters.
+- [GET v1/objects/{id}](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-id.md) Get a museum object by ID.
+- [GET v1/objects/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/object-image-id.md) Get images of a museum object by ID.
 
 
 ## Request
@@ -26,7 +28,7 @@ Name | Type | Description
 `CollectionID`|`integer` | Enter the ID number for a collection to filter objects by the collection they belong to. For more on collections, see [Get Collections](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections.md). 
 `YearBegin`|`integer` | Filter objects by the date range they were created, use YearBegin in combination with YearEnd to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearBegin values could be -300, 200, 1650, 1825.
 `YearEnd`|`integer` | Filter objects by the date range they were created, use YearEnd in combination with YearBegin to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearEnd values could be -300, 200, 1650, 1825.
-`Classification`|`string` | Classifications are broad categories of types of objects. A list of classifications is provided below.
+`Classification`|`string` | Classifications are broad categories of types of objects. [A list of classifications](#classifications) is provided below.
 `Medium`|`string` | Medium is the format of an object, art or artifact, or the materials it is made of or were part of it's creation. For example, medium values could be earthenware, ink and pigments on paper, stell and leather, gilded copper, oil on canvas.
 `orderBy`|`string` | Enter the name of another parameter that you wish to sort results by.
 `Page`|`integer` | Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. 

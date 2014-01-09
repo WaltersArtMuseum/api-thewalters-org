@@ -1,7 +1,6 @@
 Walters Art Museum Collections API (Beta)
 ===========
 
-{:toc}
 
 # Objects
 
@@ -9,6 +8,7 @@ An object is a piece of art, an artifact or similar item within the Walters coll
 Each object has several properties, a unique ID and a number of images of various sizes. 
 
 For example, the painting on canvas titled "The Ideal City" by artist Fra Carnevale, dating from the Renaissance, ca. 1480-1484. The resource URL for this object is http://art.thewalters.org/detail/37626. Another example of an object is an earthenware "Camel" created in China, dating from the 7th-8th century. The resource URL for this object is http://art.thewalters.org/detail/7363.
+
 
 ## Requests
 
