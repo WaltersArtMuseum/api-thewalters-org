@@ -22,12 +22,10 @@ Name | Type | Description
 `Keyword`|`string` | Not yet available.
 `Name`|`string` | The kind of object or artwork being described. For example, name values could be sword, painting, figurine, armor, mummy.  Filters "starting with" the value you enter, for example statue will return statue, statues and statuettes.
 `Title`|`string` | The proper title or identifying phrase given to an object. For example, title values could be "Bowl with Floral Pattern", "Springtime", "Head of a King", and "Puppies Under a Maple Branch"
-`Creator`|`string` | The proper name of the creator of the object, artwork or artifact. Due to the ethnographic nature of the Walters collection, creator is often a nationality or culture. 
-For example, creator values could be Egyptian, James Callowhill, Roman, T'oros Roslin, Claude Monet, Chinese, Iranian. 
+`Creator`|`string` | The proper name of the creator of the object, artwork or artifact. Due to the ethnographic nature of the Walters collection, creator is often a nationality or culture. For example, creator values could be Egyptian, James Callowhill, Roman, T'oros Roslin, Claude Monet, Chinese, Iranian. 
 `CollectionID`|`integer` | Enter the ID number for a collection to filter objects by the collection they belong to. For more on collections, see [Get Collections](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections.md). 
 `YearBegin`|`integer` | Filter objects by the date range they were created, use YearBegin in combination with YearEnd to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearBegin values could be -300, 200, 1650, 1825.
-`YearEnd`|`integer` | Filter objects by the date range they were created, use YearEnd in combination with YearBegin to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD.
-For example YearEnd values could be -300, 200, 1650, 1825.
+`YearEnd`|`integer` | Filter objects by the date range they were created, use YearEnd in combination with YearBegin to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearEnd values could be -300, 200, 1650, 1825.
 `Classification`|`string` | Classifications are broad categories of types of objects. A list of classifications is provided below.
 `Medium`|`string` | Medium is the format of an object, art or artifact, or the materials it is made of or were part of it's creation. For example, medium values could be earthenware, ink and pigments on paper, stell and leather, gilded copper, oil on canvas.
 `orderBy`|`string` | Enter the name of another parameter that you wish to sort results by.
