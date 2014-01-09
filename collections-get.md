@@ -14,7 +14,7 @@ This is one of 2 requests you can use to get museum collections data:
 ```
 GET v1/collections
 ```
-This request returns a distinct list of all the collections that match your criteria. 
+This request returns a distinct list of all the collections that match your criteria according to the parameters below.  
 
 
 ## Parameters
@@ -25,7 +25,7 @@ Name | Type | Description
 `desc`|`string` | Define this parameter in the request URI. Description. For example, use `http://api.thewalters.org/v1/collections?desc=jade` to return collections with the word jade in the collection's description.
 `keyword`|`string` | Not yet available.
 `orderBy`|`string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/collections?orderBy=CollectionName` will sort results by CollectionName.
-`Page`|`integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/collections?page=3` for page 3. 
+`page`|`integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/collections?page=3` for page 3. 
 `pageSize`|`integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/collections?pageSize=1` would produce a page with only one result.
 
 

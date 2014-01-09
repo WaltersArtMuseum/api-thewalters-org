@@ -14,7 +14,7 @@ This is one of 3 requests you can use to get museum objects:
 
 ## Request
 
-The `GET v1/objects` request will get museum objects via a number of parameters, listed below.
+The `GET v1/objects` request will get museum objects that match your criteria according to the parameters below. 
 
  
 ## Parameters
