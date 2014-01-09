@@ -7,7 +7,7 @@ A collection is a group of [museum objects](https://github.com/WaltersArtMuseum/
 
 This is one of 2 requests you can use to get museum collections data:
 - [GET v1/collections](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections-get.md) Get museum objects via a number of parameters.
-- [GET v1/objects/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections-image-id.md) Get images of a museum objects within a museum collection.
+- [GET v1/objects/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections-objects.md) Get images of a museum objects within a museum collection.
 
 ## Request
 
