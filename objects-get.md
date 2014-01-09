@@ -15,56 +15,6 @@ For example, the painting on canvas titled "The Ideal City" by artist Fra Carnev
 The 'GET v1/objects' will get museum objects via a number of parameters, listed below.
 
  
-## Results
-
-Here is a sample from a typical response, showing a museum object.
-
-```
-  {
-            "ObjectID": 1,
-            "ObjectNumber": "IL.2002.3.20",
-            "SortNumber": "IL 2002 3 20",
-            "ObjectName": "pins (fasteners)",
-            "CollectionID": 2,
-            "Collection": "Ancient Americas",
-            "DateBegin": 1200,
-            "DateEnd": 1400,
-            "Dated": "1200-1400",
-            "Title": "Pin with Carved Figures",
-            "Dimensions": "6 x 1 1/8 in. (15.3 x 2.8 cm) (h. x d.)",
-            "Medium": "wood",
-            "Style": null,
-            "Culture": "Chimú",
-            "Inscriptions": null,
-            "Classification": null,
-            "Period": "Late Intermediate",
-            "Description": "Though many wooden Chimú objects have survived in the desert climate of the Peruvian coast, few surpass the intricacy of this design. At top, the large bird nips at a rabbit, which climbs the back of a crouching figure, who holds another bird's beak directly to his nose. The precise arrangement of the group indicates a now-lost myth that would explain this puzzling interaction.",
-            "CreditLine": "Loaned by the Directors of The Austen-Stokes Ancient Americas Foundation",
-            "ResourceURL": "http://art.thewalters.org/detail/1",
-            "Provenance": "The Austen-Stokes Ancient Americas Foundation [date and mode of acquisition unknown].",
-            "Dynasty": null,
-            "Reign": null,
-            "IsParent": 1,
-            "CuratorRevISODate": "2009-04-14",
-            "CatalogueISODate": "2009-02-11",
-            "PublicAccess": 0,
-            "CuratorApproved": 1,
-            "OnView": 0,
-            "FlagEnteredDate": null,
-            "Creator": "Peruvian",
-            "PrimaryImage": {
-                "Tiny": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=50",
-                "Small": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=100",
-                "Medium": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=150",
-                "Large": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=250",
-                "Raw": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg"
-            },
-            "ExhibitionID": null,
-            "LocationID": null,
-            "GeographyID": null
-        }
-```
-
 ## Parameters
 
 Name | Type | Description
@@ -83,7 +33,7 @@ Name | Type | Description
 `pageSize`|`integer` | Description.
 
 
-### Keyword
+## Keyword
 Type: string
 Example: http://api.thewalters.org/v1/objects?keyword=camel
 Description: Under development
@@ -168,3 +118,57 @@ By default the value is 1, which will show you the first page of results.
 http://api.thewalters.org/v1/objects?pageSize=100
 ```
 By default page size is 25 results. 
+
+
+
+
+
+## Results
+
+Here is a sample from a typical response, showing a museum object.
+
+```
+  {
+            "ObjectID": 1,
+            "ObjectNumber": "IL.2002.3.20",
+            "SortNumber": "IL 2002 3 20",
+            "ObjectName": "pins (fasteners)",
+            "CollectionID": 2,
+            "Collection": "Ancient Americas",
+            "DateBegin": 1200,
+            "DateEnd": 1400,
+            "Dated": "1200-1400",
+            "Title": "Pin with Carved Figures",
+            "Dimensions": "6 x 1 1/8 in. (15.3 x 2.8 cm) (h. x d.)",
+            "Medium": "wood",
+            "Style": null,
+            "Culture": "Chimú",
+            "Inscriptions": null,
+            "Classification": null,
+            "Period": "Late Intermediate",
+            "Description": "Though many wooden Chimú objects have survived in the desert climate of the Peruvian coast, few surpass the intricacy of this design. At top, the large bird nips at a rabbit, which climbs the back of a crouching figure, who holds another bird's beak directly to his nose. The precise arrangement of the group indicates a now-lost myth that would explain this puzzling interaction.",
+            "CreditLine": "Loaned by the Directors of The Austen-Stokes Ancient Americas Foundation",
+            "ResourceURL": "http://art.thewalters.org/detail/1",
+            "Provenance": "The Austen-Stokes Ancient Americas Foundation [date and mode of acquisition unknown].",
+            "Dynasty": null,
+            "Reign": null,
+            "IsParent": 1,
+            "CuratorRevISODate": "2009-04-14",
+            "CatalogueISODate": "2009-02-11",
+            "PublicAccess": 0,
+            "CuratorApproved": 1,
+            "OnView": 0,
+            "FlagEnteredDate": null,
+            "Creator": "Peruvian",
+            "PrimaryImage": {
+                "Tiny": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=50",
+                "Small": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=100",
+                "Medium": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=150",
+                "Large": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=250",
+                "Raw": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg"
+            },
+            "ExhibitionID": null,
+            "LocationID": null,
+            "GeographyID": null
+        }
+```
