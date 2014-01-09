@@ -14,9 +14,6 @@ For example, the painting on canvas titled "The Ideal City" by artist Fra Carnev
 
 There are 3 requests you can use to get museum objects.
 
-[GET v1/objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-get.md) 
-: Get museum objects via a number of parameters.
-[GET v1/objects/{id}](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-id.md)
-: Get a museum object by ID.
-[GET v1/objects/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/object-image-id.md)
-: Get images of a museum object by ID.
+- [GET v1/objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-get.md) Get museum objects via a number of parameters.
+- [GET v1/objects/{id}](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-id.md) Get a museum object by ID.
+- [GET v1/objects/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/object-image-id.md) Get images of a museum object by ID.

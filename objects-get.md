@@ -12,7 +12,7 @@ For example, the painting on canvas titled "The Ideal City" by artist Fra Carnev
 
 ## Request
 
-The `GET v1/objects` will get museum objects via a number of parameters, listed below.
+The `GET v1/objects` request will get museum objects via a number of parameters, listed below.
 
  
 ## Parameters
