@@ -12,7 +12,7 @@ For example, the painting on canvas titled "The Ideal City" by artist Fra Carnev
 
 ## Request
 
-The 'GET v1/objects' will get museum objects via a number of parameters, listed below.
+The `GET v1/objects` will get museum objects via a number of parameters, listed below.
 
  
 ## Parameters
@@ -21,109 +21,53 @@ Name | Type | Description
 -----|------|--------------
 `Keyword`|`string` | Not yet available.
 `Name`|`string` | The kind of object or artwork being described. For example, name values could be sword, painting, figurine, armor, mummy.  Filters "starting with" the value you enter, for example statue will return statue, statues and statuettes.
-`Title`|`type` | Description.
-`Creator`|`string` | Description.
-`CollectionID`|`integer` | Description.
-`YearBegin`|`integer` | Description.
-`YearEnd`|`integer` | Description.
-`Classification`|`string` | Description.
-`Medium`|`string` | Description.
-`orderBy`|`string` | Description.
-`Page`|`integer` | Description.
-`pageSize`|`integer` | Description.
-
-
-## Keyword
-Type: string
-Example: http://api.thewalters.org/v1/objects?keyword=camel
-Description: Under development
-
-### Name 
-Type: string
-Example: http://api.thewalters.org/v1/objects?name=sword
-Description: The kind of object or artwork being described. For example, name values could be sword, painting, figurine, armor, mummy.  Filters "starting with" the value you enter, for example statue will return statue, statues and statuettes.
-
-###Title (string) = http://api.thewalters.org/v1/objects?title=title
-The proper title or identifying phrase given to an object. For example, title values could be "Bowl with Floral Pattern", "Springtime", "Head of a King", and "Puppies Under a Maple Branch".
-Filters "starting with" the value you enter, for example Bowl will return "Bowl", "Bowl with Floral Pattern", and "Bowl for Goldfish".
-/*Ask John about the logic of Title being filtered by starting with, should be contains*/
-
-###Creator  (string) = http://api.thewalters.org/v1/objects?creator=Egyptian
-The proper name of the creator of the object, artwork or artifact. Due to the ethnographic nature of the Walters collection, creator is often a nationality or culture. 
+`Title`|`string` | The proper title or identifying phrase given to an object. For example, title values could be "Bowl with Floral Pattern", "Springtime", "Head of a King", and "Puppies Under a Maple Branch"
+`Creator`|`string` | The proper name of the creator of the object, artwork or artifact. Due to the ethnographic nature of the Walters collection, creator is often a nationality or culture. 
 For example, creator values could be Egyptian, James Callowhill, Roman, T'oros Roslin, Claude Monet, Chinese, Iranian. 
-
-###CollectionID (integer) = http://api.thewalters.org/v1/objects?collectionId=3
-Filter objects by the collection they belong to. 
-
-###YearBegin (integer) = http://api.thewalters.org/v1/objects?yearBegin=1700
-Filter objects by the date range they were created, use YearBegin in combination with YearEnd to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD.
-For example YearBegin values could be -300, 200, 1650, 1825.
-
-###YearEnd (integer) = http://api.thewalters.org/v1/objects?yearEnd=1800
-Filter objects by the date range they were created, use YearEnd in combination with YearBegin to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD.
+`CollectionID`|`integer` | Enter the ID number for a collection to filter objects by the collection they belong to. For more on collections, see [Get Collections](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections.md). 
+`YearBegin`|`integer` | Filter objects by the date range they were created, use YearBegin in combination with YearEnd to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearBegin values could be -300, 200, 1650, 1825.
+`YearEnd`|`integer` | Filter objects by the date range they were created, use YearEnd in combination with YearBegin to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD.
 For example YearEnd values could be -300, 200, 1650, 1825.
-
-###Classification (string) = http://api.thewalters.org/v1/objects?classification=Textiles
-Classifications are broad categories of types of objects. 
-Classification values can be any of these:
-Miniatures
-Stained & Painted Glass
-Lacquer & Inlay
-Ceramics
-Precious Stones & Gems
-Pearl, Horn, Coral & Shell
-Sculpture
-Textiles
-Painting & Drawing
-Prints
-Coins & Medals
-Arms & Armor
-Mosaics & Cosmati
-Niello
-Paper & Paper-Mache
-Wood
-Enamels
-Manuscripts & Rare Books
-Ivory & Bone
-Mummies & Cartonnage
-Timepieces, Clocks & Watches
-Glasswares
-Metal
-Gold, Silver & Jewelry
-Stone
-Resin, Wax & Composite
-Leather 
-    
-###Medium (string) = v1/objects?medium=paint
-Medium is the format of an object, art or artifact, or the materials it is made of or were part of it's creation. For example, medium values could be earthenware, ink and pigments on paper, 
-stell and leather, gilded copper, oil on canvas.
-
-###Order By (string) = 
-```
-http://api.thewalters.org/v1/objects?orderBy=Creator
-```
-Enter the name of another parameter that you wish to sort results by.
-/*Object Parameter? Ask JB, not working */
-Available order by values are: 
+`Classification`|`string` | Classifications are broad categories of types of objects. A list of classifications is provided below.
+`Medium`|`string` | Medium is the format of an object, art or artifact, or the materials it is made of or were part of it's creation. For example, medium values could be earthenware, ink and pigments on paper, stell and leather, gilded copper, oil on canvas.
+`orderBy`|`string` | Enter the name of another parameter that you wish to sort results by.
+`Page`|`integer` | Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. 
+`pageSize`|`integer` | By default page size is 25 results. Change this number to alter the number of results per page.
 
 
-###Page (integer)= 
-```
-http://api.thewalters.org/v1/objects?page=3
-```
-By default the value is 1, which will show you the first page of results. 
+### Classifications
+The classification parameter values can accept any of these values :
 
-###Page Size (integer) = 
-```
-http://api.thewalters.org/v1/objects?pageSize=100
-```
-By default page size is 25 results. 
+- Miniatures
+- Stained & Painted Glass
+- Lacquer & Inlay
+- Ceramics
+- Precious Stones & Gems
+- Pearl, Horn, Coral & Shell
+- Sculpture
+- Textiles
+- Painting & Drawing
+- Prints
+- Coins & Medals
+- Arms & Armor
+- Mosaics & Cosmati
+- Niello
+- Paper & Paper-Mache
+- Wood
+- Enamels
+- Manuscripts & Rare Books
+- Ivory & Bone
+- Mummies & Cartonnage
+- Timepieces, Clocks & Watches
+- Glasswares
+- Metal
+- Gold, Silver & Jewelry
+- Stone
+- Resin, Wax & Composite
+- Leather 
 
 
-
-
-
-## Results
+## Response
 
 Here is a sample from a typical response, showing a museum object.
 
