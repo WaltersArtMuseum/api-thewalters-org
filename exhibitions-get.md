@@ -33,7 +33,7 @@ Name | Type | Description
 `displayDate`|`type` | Description not yet available.
 `beginDate`|`type` | Description not yet available.
 `endDate`|`type` | Description not yet available.
-`textblock`|`type` | Description not yet available.
+`textblock`|`string` | Define this parameter in the request URI. Enter a string to search for, within an exhibition's 'text block'. The textblock presents exhibition information for a single exhibition in "citation" format, including the title, dates, venues and cities. For example: `Egypt's Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2015.` or `19th Century Masterpieces from the Walters Art Museum. Santa Barbara Museum of Art, Santa Barbara; Jack S. Blanton Museum of Art, Austin. 2010-2011.`
 `locationID`|`integer` | Define this parameter in the request URI. Enter the ID of a [museum location](https://github.com/WaltersArtMuseum/walters-api/blob/master/locations.md) associated with the exhibition.
 `nonWAMExhibition`|`integer` | Description not yet available.
 `isPublicInfo`|`integer` | Description not yet available.
