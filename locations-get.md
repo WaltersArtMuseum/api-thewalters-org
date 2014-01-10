@@ -20,7 +20,7 @@ The `GET v1/museum/locations` request returns a distinct list of locations withi
 
 Name | Type | Description
 -----|------|--------------
-`display`|`????` | No documentation available.
+`display`|`string` | Define this parameter in the request URI. Enter a descriptive name for a location's position within the Walters Art Museum. For example, a value in this field could be "Centre Street: Second Floor: Lobby".
 `name`|`string` | Define this parameter in the request URI. Enter the name of a location. For example, 	`http://api.thewalters.org/v1/locations?name=impressionism` will return information about the gallery of Impressionist art.
 `locationID`|`integer` | Description. Enter the ID number for a location to return information about that location.
 `orderBy`|`string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/locations?orderBy=locationID` will sort the resulting location according to each one's ID number.
