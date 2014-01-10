@@ -1,5 +1,5 @@
 Walters Art Museum Collections API (Beta)
-===========
+=========================================
 
 Documentation of the API for the collection of the Walters Art Museum. This document and the API described herein are subject to rapid change, as they are both still in development.
 
