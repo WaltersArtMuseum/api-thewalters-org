@@ -5,17 +5,7 @@ Walters Art Museum Collections API (Beta)
 
 An exhibition is an organized presentation and display of a selection of museum objects. Exhibitions usually occur within the Walters Art Museum, but can also be held at other museums, galleries, etc. For each exhibition, the associated museum objects listed will be from the Walters collection. Although exhibitions frequently include objects from other institutions, those are not listed here. In addition to this API, [exhibition catalog publications and other museum publications](http://www.worldcat.org/search?q=au%3AWalters+Art+Museum+%28Baltimore%2C+Md.%29&qt=hot_author) are also useful resources for studying Walters' exhibitions.
 
-This is one of 2 requests you can use to get museum exhibitions.
-
-- [GET v1/exhibitions](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-get.md) Get museum objects via a number of parameters.
-- [GET v1/exhibitions/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition.
-
-
-
-## Requests
-
-There are 2 requests you can use to get museum collections.
-
+This is one of 2 requests you can use to get museum exhibitions:
 - [GET v1/exhibitions](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-get.md) Get museum objects via a number of parameters.
 - [GET v1/exhibitions/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition.
 
@@ -43,3 +33,14 @@ Name | Type | Description
 `page`|`integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/exhibitions?page=3` for page 3. 
 `pageSize`|`integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/exhibitions?pageSize=1` would produce a page with only one result.
 
+## A Note About Exhibition Dates
+
+The Walters Art Museum has data to describe each of the exhibitions it has held, since it opened to the public in 1934. Many of the artworks in the collection were exhibited before that date and those records are included as well. Here is a list of some of our earliest exhibition records.
+
+- [Exhibition title unknown, held at the Royal Academy]. Royal Academy of Arts, London. 1818.
+- Salon, Paris, 1831. Musée du Louvre, Paris. 1831.
+- [Exhibition title unknown, held at Galerie des Beaux-Arts]. Galerie des Beaux-Arts, Paris, Paris. 1844.
+- Salon, Paris, 1846. Musée du Louvre, Paris. 1846.
+- General Exhibition of the Various Schools of Painters at Lichfield House. Lichfield House, London. 1851. Exposition Universelle. Paris. 1855.
+- The Art Treasures Exhibition. Manchester. 1857. 
+- Special Exhibition of the Works of Art of the Mediaeval, Renaissance, and More Recent Periods. South Kensington Museum, London. 1862.
