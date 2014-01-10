@@ -6,7 +6,7 @@ Documentation of the API for the collection of the Walters Art Museum. This docu
 
 ## Getting Started
 - Create an account (coming soon)
-- Get Api Token (coming soon)
+- Get API Token (coming soon)
 - Register get token text (coming soon)
 - Review the documentation here
 
