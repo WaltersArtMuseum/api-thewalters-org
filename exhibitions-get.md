@@ -19,19 +19,19 @@ The `GET v1/exhibitions` request returns a distinct list of exhibitions that mat
 
 Name | Type | Description
 -----|------|--------------
-`title`|`type` | Define this parameter in the request URI. This will return exhibitions by title. For example `GET v1/exhibitions?title=Archimedes` will return the set of exhibitions whose titles contain the word "Archimedes".
-`displayDate`|`type` | Description not yet available.
-`beginDate`|`type` | Description not yet available.
-`endDate`|`type` | Description not yet available.
-`textblock`|`string` | Define this parameter in the request URI. Enter a string to search for, within an exhibition's 'text block'. The textblock presents exhibition information for a single exhibition in "citation" format, including the title, dates, venues and cities. For example: `Egypt's Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2015.` or `19th Century Masterpieces from the Walters Art Museum. Santa Barbara Museum of Art, Santa Barbara; Jack S. Blanton Museum of Art, Austin. 2010-2011.`
-`locationID`|`integer` | Define this parameter in the request URI. Enter the ID of a [museum location](https://github.com/WaltersArtMuseum/walters-api/blob/master/locations.md) associated with the exhibition.
-`nonWAMExhibition`|`integer` | Description not yet available.
-`isPublicInfo`|`integer` | Description not yet available.
-`beginYear`|`integer` | Define this parameter in the request URI. Filter results by a range of years. Use beginYear in combination with endYear to return exhibitions that occurred between those years. For example beginYear values could be 1950, 1980, 1975.
-`endYear`|`integer` | Define this parameter in the request URI. Filter results by a range of years. Use endYear in combination with beginYear to return exhibitions that occurred between those years. For example beginYear values could be 1950, 1980, 1975.
-`orderBy`|`string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/exhibitions?orderBy=beginYear` will sort the resulting exhibitions in chronological order by the year they began.
-`page`|`integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/exhibitions?page=3` for page 3. 
-`pageSize`|`integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/exhibitions?pageSize=1` would produce a page with only one result.
+`title` | `type` | Define this parameter in the request URI. This will return exhibitions by title. For example `GET v1/exhibitions?title=Archimedes` will return the set of exhibitions whose titles contain the word "Archimedes".
+`displayDate` | `type` | Description not yet available.
+`beginDate` | `type` | Description not yet available.
+`endDate` | `type` | Description not yet available.
+`textblock` | `string` | Define this parameter in the request URI. Enter a string to search for, within an exhibition's 'text block'. The textblock presents exhibition information for a single exhibition in "citation" format, including the title, dates, venues and cities. For example: `Egypt's Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2015.` or `19th Century Masterpieces from the Walters Art Museum. Santa Barbara Museum of Art, Santa Barbara; Jack S. Blanton Museum of Art, Austin. 2010-2011.`
+`locationID` | `integer` | Define this parameter in the request URI. Enter the ID of a [museum location](https://github.com/WaltersArtMuseum/walters-api/blob/master/locations.md) associated with the exhibition.
+`nonWAMExhibition` | `integer` | Description not yet available.
+`isPublicInfo` | `integer` | Description not yet available.
+`beginYear` | `integer` | Define this parameter in the request URI. Filter results by a range of years. Use beginYear in combination with endYear to return exhibitions that occurred between those years. For example beginYear values could be 1950, 1980, 1975.
+`endYear` | `integer` | Define this parameter in the request URI. Filter results by a range of years. Use endYear in combination with beginYear to return exhibitions that occurred between those years. For example beginYear values could be 1950, 1980, 1975.
+`orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/exhibitions?orderBy=beginYear` will sort the resulting exhibitions in chronological order by the year they began.
+`page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/exhibitions?page=3` for page 3. 
+`pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/exhibitions?pageSize=1` would produce a page with only one result.
 
 ## A Note About Exhibition Dates
 

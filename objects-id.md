@@ -21,4 +21,4 @@ The `GET v1/objects` request will get a specific museum object via an `ID` param
 
 Name | Type | Description
 -----|------|--------------
-`id`|`integer` | Define this parameter in the request URI. For example, `http://api.thewalters.org/v1/objects/37626` will get the object record for "The Ideal City."
+`id` | `integer` | Define this parameter in the request URI. For example, `http://api.thewalters.org/v1/objects/37626` will get the object record for "The Ideal City."

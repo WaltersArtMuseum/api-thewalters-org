@@ -20,4 +20,4 @@ The `GET v1/objects/{id}/images` request will get the images of the object whose
 
 Name | Type | Description
 -----|------|--------------
-`id`|`integer` | Define this parameter in the request URI. For example, `http://api.thewalters.org/v1/objects/37626/images` will get images the object record for "The Ideal City."
+`id` | `integer` | Define this parameter in the request URI. For example, `http://api.thewalters.org/v1/objects/37626/images` will get images the object record for "The Ideal City."

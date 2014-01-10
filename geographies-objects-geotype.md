@@ -19,5 +19,5 @@ The `GET /v1/geographies/geotype/{term:string}/objects` request will accept the 
 
 Name | Type | Description
 -----|------|--------------
-`geotype`|`string` | Description not available
+`geotype` | `string` | Description not available
 
