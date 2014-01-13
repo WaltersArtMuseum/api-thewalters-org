@@ -1,10 +1,14 @@
 Walters Art Museum Collections API (Beta)
-=========================================
+================================================================================
 
 
 # Get Museum Locations 
 
-Locations are locations within the Walters Art Museum where the various museum [objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects.md) are on view. If an object is not on view, it will be associated with a 'not on view' location.
+Locations are specific places within the Walters Art Museum's galleries where the various museum [objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects.md) are on view. If an artwork is on view, it will be associated with the building, floor, room and wall where it can be seen. For example, one popular museum location is described by this API as `Centre Street: Fourth Floor: Impressionism`. 
+
+Location data can provide even more specific detail. In addition to the room, you can also see information about parts of rooms. Each location is described by a `UnitType` attribute that can have a value such as `EAST WALL` for example. You get locations for the Impressionism gallery with `http://api.thewalters.org/v1/museum/locations/?display=Impressionism` and the results will return one item for each of the four walls in that room. 
+
+If an object is not on view, it will be associated with a 'not on view' location. 
 
 This is one of 2 requests you can use to get museum exhibitions:
 - [GET v1/museum/locations](https://github.com/WaltersArtMuseum/walters-api/blob/master/locations-get.md) Get museum locations via a number of parameters.
@@ -20,9 +24,11 @@ The `GET v1/museum/locations` request returns a distinct list of locations withi
 
 Name | Type | Description
 -----|------|--------------
-`display` | `string` | Define this parameter in the request URI. Enter a descriptive name for a location's position within the Walters Art Museum. For example, a value in this field could be "Centre Street: Second Floor: Lobby".
-`name` | `string` | Define this parameter in the request URI. Enter the name of a location. For example, 	`http://api.thewalters.org/v1/locations?name=impressionism` will return information about the gallery of Impressionist art.
-`locationID` | `integer` | Description. Enter the ID number for a location to return information about that location.
+`display` | `string` | Define this parameter in the request URI. Enter all or part of the name of a location. For example, a value in this field could be "Centre Street: Second Floor: Lobby". Or, if for example you'd like to know about locations on the third floor you can do `http://api.thewalters.org/v1/museum/locations?display=third`
+`locationID` | `integer` | Define this parameter in the request URI. Enter the ID number for a location to return information about that location. For example `http://api.thewalters.org/v1/museum/locations?locationid=4038` will return details about one specific location: the East Wall of the Impressionism gallery, on the fourth floor of the Centre Street building.
+`publicAccess` | `boolean` | Define this parameter in the request URI. Enter `TRUE` to return locations that are available for public. Enter `FALSE` to return information about the "not on view" location(s).
+`site` | `string` | Define this parameter in the request URI. Enter the three letter code for a building to return the locations in that building. For example, enter `CEN` to return all locations in the Centre Street building.
+`room` | `integer` | Define this parameter in the request URI. Enter the ID number for a specific room. For example, `http://api.thewalters.org/v1/museum/locations?room=407` will return each location within room #407, which is the Impressionism gallery. 
 `orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/locations?orderBy=locationID` will sort the resulting location according to each one's ID number.
 `page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/exhibitions?page=3` for page 3. 
 `pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/exhibitions?pageSize=1` would produce a page with only one result.
