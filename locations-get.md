@@ -26,10 +26,59 @@ Name | Type | Description
 -----|------|--------------
 `display` | `string` | Define this parameter in the request URI. Enter all or part of the name of a location. For example, a value in this field could be "Centre Street: Second Floor: Lobby". Or, if for example you'd like to know about locations on the third floor you can do `http://api.thewalters.org/v1/museum/locations?display=third`
 `locationID` | `integer` | Define this parameter in the request URI. Enter the ID number for a location to return information about that location. For example `http://api.thewalters.org/v1/museum/locations?locationid=4038` will return details about one specific location: the East Wall of the Impressionism gallery, on the fourth floor of the Centre Street building.
-`publicAccess` | `boolean` | Define this parameter in the request URI. Enter `TRUE` to return locations that are available for public. Enter `FALSE` to return information about the "not on view" location(s).
+`publicAccess` | `boolean string` | Define this parameter in the request URI. Enter `TRUE` to return locations that are available for public. Enter `FALSE` to return information about the "not on view" location(s).
 `site` | `string` | Define this parameter in the request URI. Enter the three letter code for a building to return the locations in that building. For example, enter `CEN` to return all locations in the Centre Street building.
 `room` | `integer` | Define this parameter in the request URI. Enter the ID number for a specific room. For example, `http://api.thewalters.org/v1/museum/locations?room=407` will return each location within room #407, which is the Impressionism gallery. 
 `orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/locations?orderBy=locationID` will sort the resulting location according to each one's ID number.
 `page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/exhibitions?page=3` for page 3. 
 `pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/exhibitions?pageSize=1` would produce a page with only one result.
 
+##Response
+
+Here is a typical response, showing each museum location within room 407.
+
+```json
+{
+    "Items": [
+        {
+            "LocationID": 4038,
+            "DisplayCurrentLocation": "Centre Street: Fourth Floor: Impressionism",
+            "Site": "CEN",
+            "Room": "407",
+            "UnitType": "EAST WALL",
+            "PublicAccess": true
+        },
+        {
+            "LocationID": 4040,
+            "DisplayCurrentLocation": "Centre Street: Fourth Floor: Impressionism",
+            "Site": "CEN",
+            "Room": "407",
+            "UnitType": "NORTH WALL",
+            "PublicAccess": true
+        },
+        {
+            "LocationID": 4041,
+            "DisplayCurrentLocation": "Centre Street: Fourth Floor: Impressionism",
+            "Site": "CEN",
+            "Room": "407",
+            "UnitType": "SOUTH WALL",
+            "PublicAccess": true
+        },
+        {
+            "LocationID": 4042,
+            "DisplayCurrentLocation": "Centre Street: Fourth Floor: Impressionism",
+            "Site": "CEN",
+            "Room": "407",
+            "UnitType": "WEST WALL",
+            "PublicAccess": true
+        }
+    ],
+    "PageSize": 25,
+    "Page": 1,
+    "NextPage": false,
+    "PrevPage": false,
+    "ReturnStatus": true,
+    "ReturnCode": 200,
+    "ReturnMessage": []
+}
+```
