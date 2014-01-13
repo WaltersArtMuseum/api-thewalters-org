@@ -7,7 +7,7 @@ An object is a piece of art, an artifact or similar item within the Walters coll
 
 ### A Note About Images
 
-Images used by this API are hosted at http://static.walters.org The URLs for images are able to accept a number of parameters, listed below.  
+Images used by this API are hosted at http://static.thewalters.org The URLs for images are able to accept a number of parameters, listed below.  
 This functionality is provided by [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor), a library for on-the-fly processing of image files. 
 
 Name | Description | Example
