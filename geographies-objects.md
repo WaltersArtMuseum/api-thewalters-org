@@ -19,6 +19,17 @@ The `GET v1/museum/geographies/{id}/objects` request will get museum objects ass
 
 Name | Type | Description
 -----|------|--------------
-`id` | `integer` | Define this parameter in the request URI. Enter the ID of a collection to return all the artworks, artifacts or items in that collection. For example, `http://api.thewalters.org/v1/geographies/3/objects` will return the museum objects associated with geography number 3.
-`Page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/collections/2/objects?page=3` for page 3. 
-`pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/collections/2/objects?pageSize=100` would produce a page with 100 results.
+`geotype` | `string` | Description not available
+`geoTerm`	 | `string` |  `Define this parameter in the request URI.
+`geoHierarchy` | `string` | Define this parameter in the request URI.
+`orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. 
+`page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. 
+`pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. 
+
+
+## Response
+
+Here is an example of a typical response.
+
+
+

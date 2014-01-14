@@ -44,3 +44,33 @@ The Walters Art Museum has data to describe each of the exhibitions it has held,
 - General Exhibition of the Various Schools of Painters at Lichfield House. Lichfield House, London. 1851. Exposition Universelle. Paris. 1855.
 - The Art Treasures Exhibition. Manchester. 1857. 
 - Special Exhibition of the Works of Art of the Mediaeval, Renaissance, and More Recent Periods. South Kensington Museum, London. 1862.
+
+## Response
+
+Here is an example of a typical response.
+
+```
+{
+  "Items": [
+    {
+      "ExhibitionID": 2089,
+      "ExhTitle": "Heroes: Mortals and Myths in Ancient Greece",
+      "NonWAMExhibition": false,
+      "ExhibDisplayDate": "October 11, 2009-January 2, 2011",
+      "ExhibBeginDate": "2009-10-11",
+      "ExhibEndDate": "2011-01-02",
+      "ExhibBeginYear": 2009,
+      "ExhibEndYear": 2011,
+      "Textblock": "Heroes: Mortals and Myths in Ancient Greece. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville; San Diego Museum Of Art, San Diego; Alexander S. Onassis Public Benefit Foundation (USA), New York. 2009-2011.",
+      "LocationID": null
+    }
+  ],
+  "PageSize": 1,
+  "Page": 1,
+  "NextPage": true,
+  "PrevPage": false,
+  "ReturnStatus": true,
+  "ReturnCode": 200,
+  "ReturnMessage": []
+}
+```

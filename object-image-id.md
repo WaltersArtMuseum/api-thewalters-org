@@ -12,15 +12,15 @@ This functionality is provided by [ImageProcessor](https://github.com/JimBobSqua
 
 Name | Description | Example
 -----|------|--------------
-Brightness | To adjust the brightness of images, enter the desired value (-100 to 100). | `yourimage.jpg?brightness=60`
-Contrast | To adjust the contrast of images, enter the desired value (-100 to 100). | `yourimage.jpg?contrast=60`
-Crop | To crop an image, pass the top-left and bottom-right coordinates and the processor will work out the rest. | `yourimage.jpg?crop=5-5-200-200`
-Format | Imageprocessor will also allow you to change the format of image on-the-fly. This can be handy for reducing the size of requests. Supported file format just now are: jpg, bmp, png, gif. | `yourimage.jpg?format=gif`
-Quality | Imageprocessor delivers an excellent quality/filesize ratio; it also allows you to change the quality of jpegs on-the-fly. | `yourimage.jpg?quality=65`
-Resize | Resize your image while keeping the correct aspect ratio. | `yourimage.jpg?width=200`
-Rotate | Imageprocessor can rotate your images without clipping. You can also optionally fill the background color for image types without transparency. | `yourimage.jpg?rotate=angle-54|bgcolor-fff`
+Brightness | To adjust the brightness of images, enter the desired value (-100 to 100). | `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?brightness=60`
+Contrast | To adjust the contrast of images, enter the desired value (-100 to 100). | `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?contrast=60`
+Crop | To crop an image, pass the top-left and bottom-right coordinates and the processor will work out the rest. | `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?crop=5-5-200-200`
+Format | Imageprocessor will also allow you to change the format of image on-the-fly. This can be handy for reducing the size of requests. Supported file format just now are: jpg, bmp, png, gif. | `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?format=gif`
+Quality | Imageprocessor delivers an excellent quality/filesize ratio; it also allows you to change the quality of jpegs on-the-fly. | `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?quality=65`
+Resize | Resize your image while keeping the correct aspect ratio. | `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?width=200`
+Rotate | Imageprocessor can rotate your images without clipping. You can also optionally fill the background color for image types without transparency. | `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?rotate=angle-54|bgcolor-fff`
 
-You can combine any of the above by including an ampersand between variables. For example, to resize an image and change its filetype format, request:  `yourimage.jpg?quality=65&format=gif`
+You can combine any of the above by including an ampersand between variables. For example, to resize an image and change its filetype format, request:  `http://static.thewalters.org/images/PS1_61.347_Fnt_DD_T08.jpg?quality=65&format=gif`
 
 `Get Object Images by ID` is one of 3 requests you can use to get museum objects:
 - [GET v1/objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-get.md) Get museum objects via a number of parameters.
@@ -40,3 +40,70 @@ Name | Type | Description
 `id` | `integer` | Define this parameter in the request URI. For example, `http://api.thewalters.org/v1/objects/37626/images` will get images the object record for "The Ideal City."
 
 
+## Response
+
+Here is an example of a typical response.
+
+```
+{
+    "Items": [
+        {
+            "ObjectID": 37626,
+            "MediaXrefID": 16742,
+            "ImageURL": "http://static.thewalters.org/images/PS1_37.677_FntAftTrt_DD_T09.jpg",
+            "Filename": "PS1_37.677_FntAftTrt_DD_T09.jpg",
+            "MediaType": "Image",
+            "MediaView": "Front",
+            "Rank": 1,
+            "IsPrimary": true
+        },
+        {
+            "ObjectID": 37626,
+            "MediaXrefID": 42090,
+            "ImageURL": "http://static.thewalters.org/images/PS1_37.677_DetB2_DD_T12.jpg",
+            "Filename": "PS1_37.677_DetB2_DD_T12.jpg",
+            "MediaType": "Image",
+            "MediaView": "Detail",
+            "Rank": 59,
+            "IsPrimary": false
+        },
+        {
+            "ObjectID": 37626,
+            "MediaXrefID": 42091,
+            "ImageURL": "http://static.thewalters.org/images/PS1_37.677_DetB3__DD_T12.jpg",
+            "Filename": "PS1_37.677_DetB3__DD_T12.jpg",
+            "MediaType": "Image",
+            "MediaView": "Detail",
+            "Rank": 60,
+            "IsPrimary": false
+        },
+        {
+            "ObjectID": 37626,
+            "MediaXrefID": 42092,
+            "ImageURL": "http://static.thewalters.org/images/PS1_37.677_DetB4_DD_T12.jpg",
+            "Filename": "PS1_37.677_DetB4_DD_T12.jpg",
+            "MediaType": "Image",
+            "MediaView": "Detail",
+            "Rank": 61,
+            "IsPrimary": false
+        },
+        {
+            "ObjectID": 37626,
+            "MediaXrefID": 42093,
+            "ImageURL": "http://static.thewalters.org/images/PS1_37.677_DetB5_DD_T12.jpg",
+            "Filename": "PS1_37.677_DetB5_DD_T12.jpg",
+            "MediaType": "Image",
+            "MediaView": "Detail",
+            "Rank": 62,
+            "IsPrimary": false
+        }
+    ],
+    "PageSize": 0,
+    "Page": 0,
+    "NextPage": false,
+    "PrevPage": false,
+    "ReturnStatus": true,
+    "ReturnCode": 200,
+    "ReturnMessage": []
+}
+```

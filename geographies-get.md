@@ -27,3 +27,34 @@ Name | Type | Description
 `orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/geographies?orderBy=geoType` will sort results by geoType.
 `page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/geographies?page=3` for page 3. 
 `pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/geographies?pageSize=1` would produce a page with only one result.
+
+
+## Response
+
+Here is an example of a typical response.
+
+```
+{
+  "Items": [
+    {
+      "GeographyID": 605779,
+      "GeoType": "Place Depicted",
+      "GeographyTerm": "West Indies",
+      "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\archipelagos\\",
+      "Latitude": null,
+      "LatitudeDirection": null,
+      "Longitude": null,
+      "LongitudeDirection": null,
+      "LatitudeNumber": 0.0,
+      "LongitudeNumber": 0.0
+    }
+  ],
+  "PageSize": 0,
+  "Page": 1,
+  "NextPage": true,
+  "PrevPage": false,
+  "ReturnStatus": true,
+  "ReturnCode": 200,
+  "ReturnMessage": []
+}
+```

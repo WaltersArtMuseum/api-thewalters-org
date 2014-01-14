@@ -17,7 +17,11 @@ The `GET /v1/geographies/geotype/{term:string}/objects` request will accept the 
 
 ## Parameters
 
-Name | Type | Description
------|------|--------------
-`geotype` | `string` | Description not available
+documention in progress
+
+
+## Response
+
+
+```
 
