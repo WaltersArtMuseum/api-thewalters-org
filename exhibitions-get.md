@@ -6,8 +6,8 @@ Walters Art Museum Collections API (Beta)
 An exhibition is an organized presentation and display of a selection of museum objects. Exhibitions usually occur within the Walters Art Museum, but can also be held at other museums, galleries, etc. For each exhibition, the associated museum objects listed will be from the Walters collection. Although exhibitions frequently include objects from other institutions, those are not listed here. In addition to this API, [exhibition catalog publications and other museum publications](http://www.worldcat.org/search?q=au%3AWalters+Art+Museum+%28Baltimore%2C+Md.%29&qt=hot_author) are also useful resources for studying Walters' exhibitions.
 
 This is one of 2 requests you can use to get museum exhibitions:
-- [GET v1/exhibitions](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-get.md) Get museum objects via a number of parameters.
-- [GET v1/exhibitions/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition.
+- [GET v1/exhibitions](/exhibitions-get.md) Get museum objects via a number of parameters.
+- [GET v1/exhibitions/{id}/images](/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition.
 
 
 ## Request
@@ -25,7 +25,7 @@ Name | Type | Description
 `beginDate` | `type` | Description not yet available.
 `endDate` | `type` | Description not yet available.
 `textblock` | `string` | Define this parameter in the request URI. Enter a string to search for, within an exhibition's 'text block'. The textblock presents exhibition information for a single exhibition in "citation" format, including the title, dates, venues and cities. For example: `Egypt's Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2015.` or `19th Century Masterpieces from the Walters Art Museum. Santa Barbara Museum of Art, Santa Barbara; Jack S. Blanton Museum of Art, Austin. 2010-2011.`
-`locationID` | `integer` | Define this parameter in the request URI. Enter the ID of a [museum location](https://github.com/WaltersArtMuseum/walters-api/blob/master/locations.md) associated with the exhibition.
+`locationID` | `integer` | Define this parameter in the request URI. Enter the ID of a [museum location](/locations.md) associated with the exhibition.
 `nonWAMExhibition` | `integer` | Description not yet available.
 `isPublicInfo` | `integer` | Description not yet available.
 `beginYear` | `integer` | Define this parameter in the request URI. Filter results by a range of years. Use beginYear in combination with endYear to return exhibitions that occurred between those years. For example beginYear values could be 1950, 1980, 1975.

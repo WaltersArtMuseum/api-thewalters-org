@@ -3,22 +3,23 @@ Walters Art Museum Collections API (Beta)
 
 
 ## Get Objects by ID
-
 An object is a piece of art, an artifact or similar item within the Walters collections. Each object has several properties, a unique ID and a number of images of various sizes. For example, the painting on canvas titled "The Ideal City" by artist Fra Carnevale, dating from the Renaissance, ca. 1480-1484. The resource URL for this object is http://art.thewalters.org/detail/37626. Another example of an object is an earthenware "Camel" created in China, dating from the 7th-8th century. The resource URL for this object is http://art.thewalters.org/detail/7363.
 
 This is one of 3 requests you can use to get museum objects:
-- [GET v1/objects](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-get.md) Get museum objects via a number of parameters.
-- [GET v1/objects/{id}](https://github.com/WaltersArtMuseum/walters-api/blob/master/objects-id.md) Get a museum object by ID.
-- [GET v1/objects/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/object-image-id.md) Get images of a museum object by ID.
+- [GET v1/objects](/objects-get.md) Get museum objects via a number of parameters.
+- [GET v1/objects/{id}](/objects-id.md) Get a museum object by ID.
+- [GET v1/objects/{id}/images](/object-image-id.md) Get images of a museum object by ID.
+
+
+## A Note about Images
+There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
 
 
 ## Request
-
 The `GET v1/objects` request will get a specific museum object via an `ID` parameter
 
 
 ## Parameters
-
 Name | Type | Description
 -----|------|--------------
 `apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
@@ -26,7 +27,6 @@ Name | Type | Description
 
 
 # Response
-
 Here is an example of a typical response.
 
 ```json

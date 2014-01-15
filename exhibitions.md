@@ -9,6 +9,6 @@ An exhibition is an organized presentation and display of a selection of museum 
 ## Requests
 
 There are 2 requests you can use to get museum collections:
-- [GET v1/exhibitions](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-get.md) Get museum objects via a number of parameters.
-- [GET v1/exhibitions/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition.
+- [GET v1/exhibitions](/exhibitions-get.md) Get museum objects via a number of parameters.
+- [GET v1/exhibitions/{id}/images](/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition.
 

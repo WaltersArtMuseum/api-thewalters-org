@@ -10,5 +10,5 @@ For example, the Asian Art collection contains items such as paintings, sculptur
 ## Requests
 
 There are 2 requests you can use to get museum collections:
-- [GET v1/collections](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections-get.md) Get museum objects via a number of parameters.
-- [GET v1/objects/{id}/images](https://github.com/WaltersArtMuseum/walters-api/blob/master/collections-objects.md) Get museum objects within a museum collection.
+- [GET v1/collections](/collections-get.md) Get museum objects via a number of parameters.
+- [GET v1/objects/{id}/images](/collections-objects.md) Get museum objects within a museum collection.
