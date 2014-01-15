@@ -13,9 +13,7 @@ Documentation of the API for the collection of the Walters Art Museum. This API 
 
 
 ## Overview
-
 There are 5 objects that you can get via the Walters API. Each of these has documentation available via the links below.
-
 - [Collections](/collections.md)
 - [Objects](/objects.md)
 - [Geographies](/geographies.md)
@@ -27,13 +25,8 @@ There are 5 objects that you can get via the Walters API. Each of these has docu
 Visit [the issues page](https://github.com/WaltersArtMuseum/walters-api/issues) if you have any questions or notice any bugs with using our API. 
 
 
-# Notes
-Here are some general notes and documentation about the API.
-
-
 ## Documentation Conventions
 To make things easier to understand, the following notation is used:
-
 - `#{text}`: Indicates text that should be replaced by your own data
 - `...`: Indicates content from the response has been elided for brevity in documentation. Soon, we'll provide a list of data responses at the end of each page for a full description of the format of that response type.
 
@@ -55,4 +48,4 @@ If conflicting formats are specified in headers and/or format extensions, the la
 
 
 ## A Note about Images
-There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.

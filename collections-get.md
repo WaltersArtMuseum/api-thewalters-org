@@ -11,9 +11,11 @@ This is one of 2 requests you can use to get museum collections data:
 
 
 ## Request
+
 ```
 GET v1/collections
 ```
+
 This request returns a distinct list of all the collections that match your criteria according to the parameters below.  
 
 
@@ -24,7 +26,7 @@ Name | Type | Description
 `apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
 `name` | `string` | Define this parameter in the request URI. For example, use `http://api.thewalters.org/v1/collections?name=Asian Art` to return the collection named Asian Art. 
 `desc` | `string` | Define this parameter in the request URI. Description. For example, use `http://api.thewalters.org/v1/collections?desc=jade` to return collections with the word jade in the collection's description.
-`keyword` | `string` | Not yet available.
+`keyword` | `string` | Define this parameter in the request URI. Enter a string to search for within any of the data fields.
 `orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/collections?orderBy=CollectionName` will sort results by CollectionName.
 `page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/collections?page=3` for page 3. 
 `pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/collections?pageSize=1` would produce a page with only one result.
