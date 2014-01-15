@@ -9,6 +9,9 @@ This is one of 2 requests you can use to get museum collections data:
 - [GET v1/collections](/collections-get.md) Get museum objects via a number of parameters.
 - [GET v1/objects/{id}/images](/collections-objects.md) Get museum objects within a museum collection.
 
+## A Note about Images
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
+
 
 ## Request
 The `GET v1/collections/{id}/objects` request will get museum objects associated with a museum collection. The request accepts a number of parameters, listed below.

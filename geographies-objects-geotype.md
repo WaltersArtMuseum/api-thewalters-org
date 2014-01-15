@@ -10,14 +10,17 @@ This is one of 3 requests you can use to get geographical information about the 
 - [GET v1/museum/geographies/{id}/objects](/geographies-objects.md) Get museum objects associated with a given geography.
 - [GET /v1/geographies/geotype/{term:string}/objects](/geographies-objects-geotype.md)
 
-## Request
 
+## A Note about Images
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
+
+
+## Request
 The `GET /v1/geographies/geotype/{term:string}/objects` request will accept the name of a geotype and return a list of objects related to that geotype.
 
 
 ## Parameters
-
-documention in progress
+documentation in progress
 
 
 ## Response

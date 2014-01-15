@@ -3,7 +3,6 @@ Walters Art Museum Collections API (Beta)
 
 
 # Objects
-
 An object is a piece of art, an artifact or similar item within the Walters collections. 
 Each object has several properties, a unique ID and a number of images of various sizes. 
 
@@ -11,7 +10,6 @@ For example, the painting on canvas titled "The Ideal City" by artist Fra Carnev
 
 
 ## Requests
-
 There are 3 requests you can use to get museum objects.
 
 - [GET v1/objects](/objects-get.md) Get museum objects via a number of parameters.

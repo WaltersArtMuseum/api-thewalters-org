@@ -23,8 +23,8 @@ Name | Type | Description
 -----|------|--------------
 `apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
 `geoType` | `string` | Define this parameter in the request URI. The value set will be used in a contains search, case insensitive, to match results.  If the value is empty or not included then there is nothing to filter on.
-`geoTerm` | `string` | No documentation available.
-`geoHierarchy` | `type` | No documentation available. 
+`geoTerm` | `string` | Define this parameter in the request URI. Enter a string here to search within the specific location name called `geoTerm`. For example, the `geoTerm` value for Guatemala is `Guatemala`
+`geoHierarchy` | `type` | Define this parameter in the request URI. Enter a string to search for within `GeoHierarchy`.  `GeoHierarchy` is a hierarchical list that describes the location, in terms that range from the broad to the specific, according to [The Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/about.html). For example, the GeoHierarchy for Guatemala reads: `The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\`
 `orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/geographies?orderBy=geoType` will sort results by geoType.
 `page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/geographies?page=3` for page 3. 
 `pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. For example `http://api.thewalters.org/v1/geographies?pageSize=1` would produce a page with only one result.
@@ -32,7 +32,7 @@ Name | Type | Description
 
 ## Response
 
-Here is an example of a typical response.
+Here is an example of a typical response. In this example, one geography item is returned, The West Indies.
 
 ```
 {

@@ -10,13 +10,16 @@ This is one of 3 requests you can use to get geographical information about the 
 - [GET v1/museum/geographies/{id}/objects](/geographies-objects.md) Get museum objects associated with a given geography.
 - [GET /v1/geographies/geotype/{term:string}/objects](/geographies-objects-geotype.md)
 
-## Request
 
+## A Note about Images
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
+
+
+## Request
 The `GET v1/museum/geographies/{id}/objects` request will get museum objects associated with a specific geographic location. The request accepts a number of parameters, listed below.
 
 
 ## Parameters
-
 Name | Type | Description
 -----|------|--------------
 `apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
@@ -26,6 +29,10 @@ Name | Type | Description
 `orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. 
 `page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. 
 `pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. 
+
+
+## A Note about Images
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
 
 
 ## Response

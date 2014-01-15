@@ -9,13 +9,16 @@ This is one of 2 requests you can use to get museum collections data:
 - [GET v1/museum/locations](/locations-get.md) Get museum locations via a number of parameters.
 - [GET v1/museum/locations/{id}/objects](/locations-objects.md) Get museum objects within a museum location.
 
-## Request
 
+## A Note about Images
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
+
+
+## Request
 The `GET v1/museum/locations/{id}/objects` request will get museum objects that are located within a museum location, such as one of its galleries. The request accepts a number of parameters, listed below.
 
 
 ## Parameters
-
 Name | Type | Description
 -----|------|--------------
 `apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
@@ -25,7 +28,6 @@ Name | Type | Description
 
 
 ## Response
-
 Here is an example of a typical response.
 
 ```json

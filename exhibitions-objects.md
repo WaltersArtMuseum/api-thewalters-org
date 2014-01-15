@@ -9,6 +9,9 @@ This is one of 2 requests you can use to get museum exhibitions:
 - [GET v1/exhibitions](/exhibitions-get.md) Get museum objects via a number of parameters.
 - [GET v1/exhibitions/{id}/images](/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition.
 
+## A Note about Images
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
+
 
 ## Request
 
