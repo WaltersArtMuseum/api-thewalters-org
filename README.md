@@ -1,14 +1,15 @@
 Walters Art Museum Collections API (Beta)
 ================================================================================
 
-Documentation of the API for the collection of the Walters Art Museum. This document and the API described herein are subject to rapid change, as they are both still in development.
+Documentation of the API for the collection of the Walters Art Museum. This API makes data available about the collection of art held by the Walters Art Museum. The API presents data  about the artworks as well as images. This document and the API described herein are subject to rapid change, as they are both still in development.
 
 
 ## Getting Started
-- Create an account (coming soon)
-- Get API Token (coming soon)
-- Register get token text (coming soon)
-- Review the documentation here
+- [Create an account](http://api.thewalters.org/SGAccount/Register)
+- Get API Token (once logged in look for [the accounts page here](http://api.thewalters.org/sgaccount/index))
+- Go to the sandbox to [play sample requests against the api](http://api.thewalters.org/help/index).
+- Review the [documentation on GitHub](https://github.com/WaltersArtMuseum/walters-api)
+- Get your dev on with our API!
 
 
 ## Overview
@@ -29,7 +30,7 @@ Visit [the issues page](https://github.com/WaltersArtMuseum/walters-api/issues) 
 
 # Notes
 
-Here are some general notes and documentation about the API. These notes may move to other parts of the documentation, once they are complete.
+Here are some general notes and documentation about the API.
 
 ## Documentation Conventions
 
@@ -52,6 +53,10 @@ To make things easier to understand, the following notation is used:
 The Walters API supports both the JSON and XML data serialization formats. The format for both the request and the response can be specified either using the Content-Type header or adding an .xml or .json extension to the request URI.
 
 If conflicting formats are specified in headers and/or format extensions, the latter takes precedence. XML is currently the default format for both requests and responses.
+
+## A Note about Images
+
+There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
 
 
 
