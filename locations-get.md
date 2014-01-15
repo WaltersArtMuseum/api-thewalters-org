@@ -24,6 +24,7 @@ The `GET v1/museum/locations` request returns a distinct list of locations withi
 
 Name | Type | Description
 -----|------|--------------
+`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
 `display` | `string` | Define this parameter in the request URI. Enter all or part of the name of a location. For example, a value in this field could be "Centre Street: Second Floor: Lobby". Or, if for example you'd like to know about locations on the third floor you can do `http://api.thewalters.org/v1/museum/locations?display=third`
 `locationID` | `integer` | Define this parameter in the request URI. Enter the ID number for a location to return information about that location. For example `http://api.thewalters.org/v1/museum/locations?locationid=4038` will return details about one specific location: the East Wall of the Impressionism gallery, on the fourth floor of the Centre Street building.
 `publicAccess` | `boolean string` | Define this parameter in the request URI. Enter `TRUE` to return locations that are available for public. Enter `FALSE` to return information about the "not on view" location(s).

@@ -19,6 +19,7 @@ The `GET v1/exhibitions` request returns a distinct list of exhibitions that mat
 
 Name | Type | Description
 -----|------|--------------
+`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
 `title` | `type` | Define this parameter in the request URI. This will return exhibitions by title. For example `GET v1/exhibitions?title=Archimedes` will return the set of exhibitions whose titles contain the word "Archimedes".
 `displayDate` | `type` | Description not yet available.
 `beginDate` | `type` | Description not yet available.

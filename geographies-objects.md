@@ -19,6 +19,7 @@ The `GET v1/museum/geographies/{id}/objects` request will get museum objects ass
 
 Name | Type | Description
 -----|------|--------------
+`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
 `geotype` | `string` | Description not available
 `geoTerm`	 | `string` |  `Define this parameter in the request URI.
 `geoHierarchy` | `string` | Define this parameter in the request URI.

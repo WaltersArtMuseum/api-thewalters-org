@@ -21,6 +21,7 @@ This request returns a distinct list of all the collections that match your crit
 
 Name | Type | Description
 -----|------|--------------
+`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
 `name` | `string` | Define this parameter in the request URI. For example, use `http://api.thewalters.org/v1/collections?name=Asian Art` to return the collection named Asian Art. 
 `desc` | `string` | Define this parameter in the request URI. Description. For example, use `http://api.thewalters.org/v1/collections?desc=jade` to return collections with the word jade in the collection's description.
 `keyword` | `string` | Not yet available.

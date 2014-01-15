@@ -21,6 +21,7 @@ The `GET v1/museum/geographies` request returns a distinct list of geographic lo
 
 Name | Type | Description
 -----|------|--------------
+`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
 `geoType` | `string` | Define this parameter in the request URI. The value set will be used in a contains search, case insensitive, to match results.  If the value is empty or not included then there is nothing to filter on.
 `geoTerm` | `string` | No documentation available.
 `geoHierarchy` | `type` | No documentation available. 
