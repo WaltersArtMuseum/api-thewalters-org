@@ -31,6 +31,13 @@ Visit [the issues page](https://github.com/WaltersArtMuseum/walters-api/issues) 
 
 Here are some general notes and documentation about the API. These notes may move to other parts of the documentation, once they are complete.
 
+## Documentation Conventions
+
+To make things easier to understand, the following notation is used:
+
+- `#{text}`: Indicates text that should be replaced by your own data
+- `...`: Indicates content from the response has been elided for brevity in documentation. Soon, we'll provide a list of data responses at the end of each page for a full description of the format of that response type.
+
 ## General Specification and Assumptions
 - The API will be RESTful in its convention and will require URL parameters at times to further specify results based on the the API calls made.
 - All aspects of the API will be UTF-8 encoded to allow for diacritical marks and special characters.
