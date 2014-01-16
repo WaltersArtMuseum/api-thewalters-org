@@ -34,7 +34,7 @@ To make things easier to understand, the following notation is used:
 ## General Specification and Assumptions
 - The API will be RESTful in its convention and will require URL parameters at times to further specify results based on the the API calls made.
 - All aspects of the API will be UTF-8 encoded to allow for diacritical marks and special characters.
-- The data responses returned to the user will be available in XML and JSON as determined by the user, with the default being JSON, and the returned data will be limited to 25 items per response and that with an additional parameter you can access a second page of another 25 items.
+- The data responses returned to the user will be available in XML and JSON as determined by the user, with the default being XML, and the returned data will be limited to 25 items per response and that with an additional parameter you can access a second page of another 25 items.
 - Pagination will be used where lists of data are returned. In combination with the page index parameter, the user can specify the page size and index of the requests made to work through pages the the API will provide. The default page size will be set at a 25 results per page.
 - API keys must be present in order to interact with the API.
 - The API will have the ability to limit the amount of requests by API key to prevent abuse of the API.
