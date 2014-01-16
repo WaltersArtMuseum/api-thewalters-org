@@ -7,7 +7,7 @@ Documentation of the API for the collection of the Walters Art Museum. This API 
 ## Getting Started
 - [Create an account](http://api.thewalters.org/SGAccount/Register)
 - Get API Token (once logged in look for [the accounts page here](http://api.thewalters.org/sgaccount/index))
-- Go to the sandbox to [play sample requests against the api](http://api.thewalters.org/help/index).
+- Go to the sandbox to [play sample requests against the api](http://api.thewalters.org/help/index). See also: an [introduction to the sandbox](api-sandbox.md).
 - Review the [documentation on GitHub](https://github.com/WaltersArtMuseum/walters-api)
 - Get your dev on with our API!
 
