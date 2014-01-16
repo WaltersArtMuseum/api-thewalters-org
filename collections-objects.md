@@ -7,7 +7,7 @@ A collection is a group of [museum objects](/objects.md), i.e. pieces of art, ar
 
 This is one of 2 requests you can use to get museum collections data:
 - [GET v1/collections](/collections-get.md) Get museum objects via a number of parameters.
-- [GET v1/objects/{id}/images](/collections-objects.md) Get museum objects within a museum collection.
+- [GET v1/collections/{id}/objects](/collections-objects.md) Get museum artworks and artifacts that are within a museum collection by referencing a collection id.
 
 ## A Note about Images
 Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
