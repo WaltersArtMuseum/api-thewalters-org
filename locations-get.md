@@ -6,7 +6,7 @@ Walters Art Museum Collections API (Beta)
 
 Locations are specific places within the Walters Art Museum's galleries where the various museum [objects](/objects.md) are on view. If an artwork is on view, it will be associated with the building, floor, room and wall where it can be seen. For example, one popular museum location is described by this API as `Centre Street: Fourth Floor: Impressionism`. 
 
-Location data can provide even more specific detail. In addition to the room, you can also see information about parts of rooms. Each location is described by a `UnitType` attribute that can have a value such as `EAST WALL` for example. You get locations for the Impressionism gallery with `http://api.thewalters.org/v1/museum/locations/?display=Impressionism` and the results will return one item for each of the four walls in that room. 
+Location data can provide even more specific detail. In addition to the room, you can also see information about parts of rooms. Each location is described by a `UnitType` attribute that can have a value such as `EAST WALL` for example. You get locations for the Impressionism gallery with `http://api.thewalters.org/v1/museum/locations/?display=Impressionism` and the results will return one item for each of the four Unit Types (in this case, walls) in that room. 
 
 If an object is not on view, it will be associated with a 'not on view' location. 
 
