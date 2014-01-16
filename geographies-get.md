@@ -6,10 +6,9 @@ Walters Art Museum Collections API (Beta)
 
 Geographies are locations on Earth where the various museum [objects](/objects.md) have been created or discovered, or locations that an object depicts or mentions. Each geography will have a geo type, display name, latitude and longitude (if available), and geography id.
 
-This is one of 3 requests you can use to get geographical information about the Walters Collection:
+This is one of 2 requests you can use to get geographical information about the Walters Collection:
 - [GET v1/museum/geographies](/geographies-get.md) Get object geographies via a number of parameters.
 - [GET v1/museum/geographies/{id}/objects](/geographies-objects.md) Get museum objects associated with a given geography.
-- [GET /v1/geographies/geotype/{term:string}/objects](/geographies-objects-geotype.md)
 
 
 ## Request
