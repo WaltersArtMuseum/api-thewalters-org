@@ -42,7 +42,7 @@ To make things easier to understand, the following notation is used:
 
 
 ## Request/Response Types
-The Walters API supports both the JSON and XML data serialization formats. The format for both the request and the response can be specified either using the Content-Type header or adding an .xml or .json extension to the request URI.
+The Walters API supports both the JSON and XML data serialization formats. The format for both the request and the response can be specified either using the `Accept` header or adding an .xml or .json extension to the request URI.
 
 If conflicting formats are specified in headers and/or format extensions, the latter takes precedence. XML is currently the default format for both requests and responses.
 
