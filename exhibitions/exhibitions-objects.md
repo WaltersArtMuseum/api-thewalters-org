@@ -15,7 +15,7 @@ Wherever you see an image string reference in the API, that you can manipulate i
 
 ## Request
 
-The `GET v1/exhibitions/{id}/objects` request returns a distinct list of [objects](/objects.md) that are associated with an exhibition specified by the ID parameter.
+The `GET v1/exhibitions/{id}/objects` request returns a distinct list of [objects](/objects/README.md) that are associated with an exhibition specified by the ID parameter.
 
 
 ## Parameters

@@ -14,11 +14,11 @@ Documentation of the API for the collection of the Walters Art Museum. This API 
 
 ## Overview
 There are 5 objects that you can get via the Walters API. Each of these has documentation available via the links below.
-- [Collections](/collections.md)
-- [Objects](/objects.md)
-- [Geographies](/geographies.md)
-- [Exhibitions](/exhibitions.md)
-- [Museum Locations](/locations.md)
+- [Collections](/collections/README.md)
+- [Objects](/objects/README.md)
+- [Geographies](/geographies/README.md)
+- [Exhibitions](/exhibitions/README.md)
+- [Museum Locations](/locations/README.md)
 
 
 ## Feedback

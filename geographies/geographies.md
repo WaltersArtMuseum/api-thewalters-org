@@ -3,7 +3,7 @@ Walters Art Museum Collections API (Beta)
 
 # Geographies
 
-Geographies are locations on Earth where museum [objects](/objects.md) have been created or discovered, or locations that an object depicts or mentions. Each geography will have a geo type, display name, latitude and longitude (if available), and geography id.
+Geographies are locations on Earth where museum [objects](/objects/README.md) have been created or discovered, or locations that an object depicts or mentions. Each geography will have a geo type, display name, latitude and longitude (if available), and geography id.
 
 
 ## Requests
