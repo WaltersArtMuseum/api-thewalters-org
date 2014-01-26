@@ -9,6 +9,6 @@ An exhibition is an organized presentation and display of a selection of museum 
 ## Requests
 
 There are 2 requests you can use to get museum collections:
-- [GET v1/exhibitions](/exhibitions-get.md) Get museum objects via a number of parameters.
-- [GET v1/exhibitions/{id}/objects](/exhibitions-objects.md) Get museum objects that are/were featured within an exhibition by referencing an exhibition id.
+- [GET v1/exhibitions](exhibitions-get.md) Get museum objects via a number of parameters.
+- [GET v1/exhibitions/{id}/objects](exhibitions-objects.md) Get museum objects that are/were featured within an exhibition by referencing an exhibition id.
 

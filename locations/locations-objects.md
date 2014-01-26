@@ -6,12 +6,12 @@ Walters Art Museum Collections API (Beta)
 Locations are locations within the Walters Art Museum where the various museum [objects](/objects/README.md) are on view. If an object is not on view, it will be associated with a 'not on view' location.
 
 This is one of 2 requests you can use to get museum collections data:
-- [GET v1/museum/locations](/locations-get.md) Get museum locations via a number of parameters.
-- [GET v1/museum/locations/{id}/objects](/locations-objects.md) Get museum objects within a museum location.
+- [GET v1/museum/locations](locations-get.md) Get museum locations via a number of parameters.
+- [GET v1/museum/locations/{id}/objects](locations-objects.md) Get museum objects within a museum location.
 
 
 ## A Note about Images
-Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](images.md) available through the Walters Art Museum API.
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](/images.md) available through the Walters Art Museum API.
 
 
 ## Request

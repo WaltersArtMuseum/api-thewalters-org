@@ -11,5 +11,5 @@ For example, the Asian Art collection contains items such as paintings, sculptur
 ## Requests
 
 There are 2 requests you can use to get museum collections:
-- [GET v1/collections](/collections-get.md) Get a list of museum collections via a number of parameters.
-- [GET v1/collections/{id}/objects](/collections-objects.md) Get museum artworks and artifacts that are within a museum collection by referencing a collection id.
+- [GET v1/collections](collections-get.md) Get a list of museum collections via a number of parameters.
+- [GET v1/collections/{id}/objects](collections-objects.md) Get museum artworks and artifacts that are within a museum collection by referencing a collection id.
