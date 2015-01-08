@@ -9,6 +9,7 @@ Locations are locations within the Walters Art Museum where the various museum [
 
 ## Requests
 
-There are 2 requests you can use to get museum locations:
+There are 3 requests you can use to get museum locations:
 - [GET v1/museum/locations](locations-get.md) Get museum locations via a number of parameters.
 - [GET v1/museum/locations/{id}/objects](locations-objects.md) Get museum objects within a museum location.
+- GET v1/museum/locations/Room/{id}/objects Get museum objects within a specific room (gallery) location by referencing the room name as the ID parameter.
