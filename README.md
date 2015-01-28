@@ -1,11 +1,11 @@
-Walters Art Museum Collections API (Beta)
+Walters Art Museum Collections API
 ================================================================================
 
 Documentation for the Walters Art Museum collections API. This API allows you to access data and images about works of art in our collection directly over HTTP. This document and the API described herein are subject to rapid change, as they are both still in development.
 
 ## Getting Started
 - [Create an account](http://api.thewalters.org/SGAccount/Register).
-- Register for an account and get an API Token. You'll need this key to run calls agains the API. Once logged in with your account, look for [the accounts page here](http://api.thewalters.org/sgaccount/index)) to maintain or regenerate your API key.
+- Register for an account and get an API key (i.e. token). You'll need this key to run calls agains the API. Once logged in with your account, look for [the accounts page here](http://api.thewalters.org/sgaccount/index)) to maintain or regenerate your API key.
 - Go to the sandbox to [play sample requests against the api](http://api.thewalters.org/help/index). See also: an [introduction to the sandbox](api-sandbox.md).
 - Review the [documentation on GitHub](https://github.com/WaltersArtMuseum/walters-api).
 - Get your dev on with our API!
