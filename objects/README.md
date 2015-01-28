@@ -12,7 +12,6 @@ For example, an object could be the painting on canvas titled "The Ideal City" b
 ## Requests
 There are 3 requests you can use to get museum objects.
 
-- [GET v1/objects](objects-get.md) Get museum objects via a number of parameters. Multiple parameter values can be included using commas as delimeters. In this example, we’ve included multiple object names of cup and spoon: 
-- GET v1/objects?name=cup, spoon
+- [GET v1/objects](objects-get.md) Get museum objects via a number of parameters. Multiple parameter values can be included using commas as delimeters. In this example, we’ve included multiple object names of cup and spoon: GET v1/objects?name=cup, spoon
 - [GET v1/objects/{id}](objects-id.md) Get extended details about a museum object by referencing an object ID.
 - [GET v1/objects/{id}/images](object-image-id.md) Get images of a museum object by referencing an object ID.
