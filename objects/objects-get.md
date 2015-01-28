@@ -34,7 +34,7 @@ Name | Type | Description
 `YearEnd` | `integer` | Filter objects by the date range they were created, use YearEnd in combination with YearBegin to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearEnd values could be -300, 200, 1650, 1825.
 `Classification` | `string` | Classifications are broad categories of types of objects. [A list of classifications](#classifications) is provided below.
 `Medium` | `string` | Medium is the format of an object, art or artifact, or the materials it is made of or were part of it's creation. For example, medium values could be earthenware, ink and pigments on paper, stell and leather, gilded copper, oil on canvas.
-`Display Location` | `string` | Display location is the descriptive gallery name or museum location where the object is on display. Display locations reference three parts, the building (either Centre Street, Charles Street or Hackerman House), the floor and the gallery name. For example, display locations could be "Centre Street: Second Floor: Ancient Treasury" or "Centre Street: Third Floor: Islamic Arms and Armor".
+`Display Location` | `string` | Display location is the descriptive gallery name or museum location where the object is on display. Display locations reference three parts, the building (either Centre Street, Charles Street or Hackerman House), the floor and the gallery name. For example, display locations could be "Centre Street: Second Floor: Ancient Treasury" or "Centre Street: Third Floor: Islamic Arms and Armor". "Not on View" is the Display Location of items not on public display in the galleries.
 `orderBy` | `string` | Enter the name of another parameter that you wish to sort results by.
 `Page` | `integer` | Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. 
 `pageSize` | `integer` | By default page size is 25 results. Change this number to alter the number of results per page.
@@ -76,47 +76,37 @@ The classification parameter values can accept any of these values :
 Here is a sample from a typical response, showing a museum object.
 
 ```
-  {
-            "ObjectID": 1,
-            "ObjectNumber": "IL.2002.3.20",
-            "SortNumber": "IL 2002 3 20",
-            "ObjectName": "pins (fasteners)",
-            "CollectionID": 2,
-            "Collection": "Ancient Americas",
-            "DateBegin": 1200,
-            "DateEnd": 1400,
-            "Dated": "1200-1400",
-            "Title": "Pin with Carved Figures",
-            "Dimensions": "6 x 1 1/8 in. (15.3 x 2.8 cm) (h. x d.)",
-            "Medium": "wood",
-            "Style": null,
-            "Culture": "Chimú",
-            "Inscriptions": null,
-            "Classification": null,
-            "Period": "Late Intermediate",
-            "Description": "Though many wooden Chimú objects have survived in the desert climate of the Peruvian coast, few surpass the intricacy of this design. At top, the large bird nips at a rabbit, which climbs the back of a crouching figure, who holds another bird's beak directly to his nose. The precise arrangement of the group indicates a now-lost myth that would explain this puzzling interaction.",
-            "CreditLine": "Loaned by the Directors of The Austen-Stokes Ancient Americas Foundation",
-            "ResourceURL": "http://art.thewalters.org/detail/1",
-            "Provenance": "The Austen-Stokes Ancient Americas Foundation [date and mode of acquisition unknown].",
-            "Dynasty": null,
-            "Reign": null,
-            "IsParent": 1,
-            "CuratorRevISODate": "2009-04-14",
-            "CatalogueISODate": "2009-02-11",
-            "PublicAccess": 0,
-            "CuratorApproved": 1,
-            "OnView": 0,
-            "FlagEnteredDate": null,
-            "Creator": "Peruvian",
-            "PrimaryImage": {
-                "Tiny": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=50",
-                "Small": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=100",
-                "Medium": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=150",
-                "Large": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg?width=250",
-                "Raw": "http://static.thewalters.org/images/PS1_IL.2002.3.20_Fnt_DD_T09.jpg"
-            },
-            "ExhibitionID": null,
-            "LocationID": null,
-            "GeographyID": null
-        }
+ {"ObjectID":71,
+ "ObjectNumber":"48.869",
+ "SortNumber":"    48   869",
+ "ObjectName":"vases",
+ "CollectionID":7,
+ "Collection":"18th and 19th Century Art",
+ "DateBeginYear":1775,
+ "DateEndYear":1800,
+ "DateText":"late 18th century",
+ "Title":"Venus and putti and Jupiter with a thunderbolt on clouds",
+ "Dimensions":"H: 10 3/8 in. (26.3 cm)",
+ "Medium":"jasperware",
+ "Style":"Neoclassical",
+ "Culture":null,
+ "Inscriptions":"[Maker's mark] WEDGWOOD, V",
+ "Classification":"Ceramics",
+ "Period":"Neoclassical",
+ "Description":"This jasperware vase has a relief in a top register of Venus and putti on clouds and Jupiter with a thunder bolt. The serpentine handels are white.",
+ "CreditLine":"Acquired by Henry Walters, 1911 (?)",
+ "ResourceURL":"http://art.thewalters.org/detail/71",
+ "Keywords":"Venus; Putti; cloud",
+ "Provenance":"E. F. Bonaventure, New York, 1911 (?); Henry Walters, Baltimore, before 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+ "Dynasty":null,
+ "Reign":null,
+ "OnView":0,
+ "PublicAccessDate":"2012-12-13T22:00:01.067",
+ "Creator":"Josiah Wedgwood (English,1730-1795)",
+ "PrimaryImage":{"Tiny":"http://static.thewalters.org/images/PL7_48.869_Fnt_BW_C40.jpg?width=50","Small":"http://static.thewalters.org/images/PL7_48.869_Fnt_BW_C40.jpg?width=100","Medium":"http://static.thewalters.org/images/PL7_48.869_Fnt_BW_C40.jpg?width=150","Large":"http://static.thewalters.org/images/PL7_48.869_Fnt_BW_C40.jpg?width=250","Raw":"http://static.thewalters.org/images/PL7_48.869_Fnt_BW_C40.jpg"},
+ "GeoIDs":"1468740",
+ "ExhibIDs":"",
+ "Images":
+ "PL7_48.869_Fnt_BW_C40.jpg",
+ "DisplayLocation":"Not on View"}
 ```
