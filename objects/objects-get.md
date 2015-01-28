@@ -13,11 +13,11 @@ This is one of 3 requests you can use to get museum objects:
 
 
 ## A Note about Images
-Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](/images.md) available through the Walters Art Museum API.
+Wherever you see an image string reference in the API, you can manipulate it. There are some [important options and features to understand about the images](/images.md) available through the Walters Art Museum API.
 
 
 ## Request
-The `GET v1/objects` request will get museum objects that match your criteria according to the parameters below. 
+The `GET v1/objects` request will get museum objects that match your criteria according to the parameters below.
 
  
 ## Parameters
@@ -27,12 +27,14 @@ Name | Type | Description
 `Keyword` | `string` | Not yet available.
 `Name` | `string` | The kind of object or artwork being described. For example, name values could be sword, painting, figurine, armor, mummy.  Filters "starting with" the value you enter, for example statue will return statue, statues and statuettes.
 `Title` | `string` | The proper title or identifying phrase given to an object. For example, title values could be "Bowl with Floral Pattern", "Springtime", "Head of a King", and "Puppies Under a Maple Branch"
+`Object Number` | `string` | The accession number given to an object. This number is found on museum labels in galleries and is one unique identifier for an object. Accession numbers can be alpha-numeric and periods separate numeric components. For example, accession numbers could be "37.11", "22.1", "2009.20.118", and "W.854"
 `Creator` | `string` | The proper name of the creator of the object, artwork or artifact. Due to the ethnographic nature of the Walters collection, creator is often a nationality or culture. For example, creator values could be Egyptian, James Callowhill, Roman, T'oros Roslin, Claude Monet, Chinese, Iranian. 
 `CollectionID` | `integer` | Enter the ID number for a collection to filter objects by the collection they belong to. For more on collections, see [Get Collections](//collections/README.md). 
 `YearBegin` | `integer` | Filter objects by the date range they were created, use YearBegin in combination with YearEnd to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearBegin values could be -300, 200, 1650, 1825.
 `YearEnd` | `integer` | Filter objects by the date range they were created, use YearEnd in combination with YearBegin to enter the start year and end year of an object's date created range. Negative numbers represent BC, positive numbers AD. For example YearEnd values could be -300, 200, 1650, 1825.
 `Classification` | `string` | Classifications are broad categories of types of objects. [A list of classifications](#classifications) is provided below.
 `Medium` | `string` | Medium is the format of an object, art or artifact, or the materials it is made of or were part of it's creation. For example, medium values could be earthenware, ink and pigments on paper, stell and leather, gilded copper, oil on canvas.
+`Display Location` | `string` | Display location is the descriptive gallery name or museum location where the object is on display. Display locations reference three parts, the building (either Centre Street, Charles Street or Hackerman House), the floor and the gallery name. For example, display locations could be "Centre Street: Second Floor: Ancient Treasury" or "Centre Street: Third Floor: Islamic Arms and Armor".
 `orderBy` | `string` | Enter the name of another parameter that you wish to sort results by.
 `Page` | `integer` | Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. 
 `pageSize` | `integer` | By default page size is 25 results. Change this number to alter the number of results per page.
