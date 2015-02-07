@@ -1,5 +1,5 @@
-Walters Art Museum Collections API (https://sites.google.com/a/explore.thewalters.org/thechamberofwonders/heemskerck/)
-================================================================================
+Walters Art Museum Collections API 
+===============================================================================
 
 # API Sandbox
 
