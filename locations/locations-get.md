@@ -4,17 +4,8 @@ Walters Art Museum Collections API
 
 # Get Museum Locations 
 
-The `GET v1/museum/locations` request returns a distinct list of locations within the museum  that match your criteria according to the parameters below.
-
-
-Locations are specific places within the Walters Art Museum's galleries where the various museum [objects](/objects/README.md) are on view. If an artwork is on view, it will be associated with the building, floor, room and wall where it can be seen. For example, one popular museum location is described by this API as `Centre Street: Fourth Floor: Impressionism`. 
-
-Location data can provide even more specific detail. In addition to the room, you can also see information about parts of rooms. Each location is described by a `UnitType` attribute that can have a value such as `EAST WALL` for example. You get locations for the Impressionism gallery with `http://api.thewalters.org/v1/museum/locations/?display=Impressionism` and the results will return one item for each of the four Unit Types (in this case, walls) in that room. 
-
-If an object is not on view, it will be associated with a 'not on view' location. 
-
+The `GET v1/museum/locations` request returns a distinct list of [locations](README.md) within the museum  that match your criteria according to the parameters below.
  
-
 
 ## Parameters
 
@@ -80,7 +71,11 @@ Here is a typical response, showing each museum location within room 407.
 }
 ```
 
-There are 3 requests you can use to get data related to museum locations:
+
+## Requests
+
+There are 3 requests you can use to get information related to museum locations:
+
 - [GET v1/museum/locations](locations-get.md) Get museum locations via a number of parameters.
 - [GET v1/museum/locations/{id}/objects](locations-objects.md) Get museum objects within a museum location.
-- GET v1/museum/locations/Room/{id}/objects Get museum objects within a specific room (gallery) location by referencing the room name as the ID parameter.
+- GET [v1/museum/locations/Room/{id}/objects](locations-room-objects.md) Get museum objects within a specific room (gallery) location by referencing the room name as the ID parameter.
