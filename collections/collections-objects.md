@@ -1,20 +1,14 @@
 Walters Art Museum Collections API 
-=======================================================================================================================
+===============================================================================
 
 
 ## Get Objects by Collection
-A collection is a group of [museum objects](/objects/README.md), i.e. pieces of art, artifacts, or similar items within the Walters Art Museum. Collections at the Walters are grouped by primarily by culture and sometimes by date. For example, the Asian Art collection contains items such as paintings, sculptures and ceramics that were made in or around the Asian continent. Collections are one of the [5 objects you can get with the Walters API](https://github.com/WaltersArtMuseum/walters-api#overview). 
 
-This is one of 2 requests you can use to get museum collections data:
-- [GET v1/collections](collections-get.md) Get museum objects via a number of parameters.
-- [GET v1/collections/{id}/objects](collections-objects.md) Get museum artworks and artifacts that are within a museum collection by referencing a collection id.
+```
+GET v1/collections/{id}/objects
+```
 
-## A Note about Images
-Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](/images.md) available through the Walters Art Museum API.
-
-
-## Request
-The `GET v1/collections/{id}/objects` request will get museum objects associated with a museum collection. The request accepts a number of parameters, listed below.
+The `GET v1/collections/{id}/objects` request will get museum objects associated with a museum [collection](https://github.com/WaltersArtMuseum/walters-api/tree/master/collections).  Use the ``id`` parameter to specify which collection's artworks to get. The request accepts a number of other parameters, listed below.
 
 
 ## Parameters
@@ -80,3 +74,12 @@ Here is an example of a typical response.
   "ReturnCode": 200,
   "ReturnMessage": []
 }
+
+
+## A Note about Images
+Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](/images.md) available through the Walters Art Museum API.
+
+
+This is one of 2 requests you can use to get museum collections data:
+- [GET v1/collections](collections-get.md) Get museum objects via a number of parameters.
+- [GET v1/collections/{id}/objects](collections-objects.md) Get museum artworks and artifacts that are within a museum collection by referencing a collection id.

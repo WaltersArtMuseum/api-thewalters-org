@@ -1,22 +1,13 @@
 Walters Art Museum Collections API 
-================================================================================
+===============================================================================
 
 ## Get Collections
-
-A collection is a group of [museum objects](/objects/README.md), i.e. pieces of art, artifacts, or similar items within the Walters Art Museum. Collections at the Walters are grouped by primarily by culture and sometimes by date. Collections are given a descriptive title and a description to help users learn more about the importance of this group of artworks, artifacts and items at the Walters.For example, the Asian Art collection contains items such as paintings, sculptures and ceramics that were made in or around the Asian continent. Collections are one of the [5 objects you can get with the Walters API](https://github.com/WaltersArtMuseum/walters-api#overview). 
-
-This is one of 2 requests you can use to get museum collections data:
-- [GET v1/collections](/collections-get.md) Get museum collections via a number of parameters.
-- [GET v1/collections/{id}/objects](/collections-objects.md) Get museum objects within a museum collection.
-
-
-## Request
 
 ```
 GET v1/collections
 ```
 
-This request returns a distinct list of all the collections that match your criteria according to the parameters below.  
+This request returns a distinct list of all the [collections](https://github.com/WaltersArtMuseum/walters-api/tree/master/collections) that match your criteria according to the parameters below.  
 
 
 ## Parameters
@@ -55,3 +46,7 @@ Here is a sample response, showing one museum collection
     "ReturnMessage": []
 }
 ```
+
+This is one of 2 requests you can use to get museum collections data:
+- [GET v1/collections](/collections-get.md) Get museum collections via a number of parameters.
+- [GET v1/collections/{id}/objects](/collections-objects.md) Get museum objects within a museum collection.
