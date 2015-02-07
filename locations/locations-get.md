@@ -1,8 +1,11 @@
 Walters Art Museum Collections API 
-================================================================================
+===============================================================================
 
 
 # Get Museum Locations 
+
+The `GET v1/museum/locations` request returns a distinct list of locations within the museum  that match your criteria according to the parameters below.
+
 
 Locations are specific places within the Walters Art Museum's galleries where the various museum [objects](/objects/README.md) are on view. If an artwork is on view, it will be associated with the building, floor, room and wall where it can be seen. For example, one popular museum location is described by this API as `Centre Street: Fourth Floor: Impressionism`. 
 
@@ -10,14 +13,7 @@ Location data can provide even more specific detail. In addition to the room, yo
 
 If an object is not on view, it will be associated with a 'not on view' location. 
 
-This is one of 2 requests you can use to get museum exhibitions:
-- [GET v1/museum/locations](locations-get.md) Get museum locations via a number of parameters.
-- [GET v1/museum/locations/{id}/objects](locations-objects.md) Get museum objects within a museum location.
-
-
-## Request
-
-The `GET v1/museum/locations` request returns a distinct list of locations within the museum  that match your criteria according to the parameters below. 
+ 
 
 
 ## Parameters
@@ -83,3 +79,8 @@ Here is a typical response, showing each museum location within room 407.
     "ReturnMessage": []
 }
 ```
+
+There are 3 requests you can use to get data related to museum locations:
+- [GET v1/museum/locations](locations-get.md) Get museum locations via a number of parameters.
+- [GET v1/museum/locations/{id}/objects](locations-objects.md) Get museum objects within a museum location.
+- GET v1/museum/locations/Room/{id}/objects Get museum objects within a specific room (gallery) location by referencing the room name as the ID parameter.
