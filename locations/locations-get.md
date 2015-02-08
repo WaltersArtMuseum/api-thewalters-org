@@ -4,7 +4,11 @@ Walters Art Museum Collections API
 
 # Get Museum Locations 
 
-The `GET v1/museum/locations` request returns a distinct list of [locations](README.md) within the museum  that match your criteria according to the parameters below.
+```
+GET v1/museum/locations
+```
+
+The `GET v1/museum/locations` request returns a distinct list of [locations](README.md) within the museum that match your criteria according to the parameters below.
  
 
 ## Parameters

@@ -1,21 +1,10 @@
 Walters Art Museum Collections API 
-================================================================================
+===============================================================================
+
 
 ## Get Objects by Geography
 
-Geographies are locations on Earth where the various museum [objects](/objects/README.md) have been created. Each geography  will have a geo type, display name, latitude and longitude (if available), and geography id.
-
-This is one of 2 requests you can use to get geographical information about the Walters Collection:
-- [GET v1/museum/geographies](geographies-get.md) Get object geographies via a number of parameters.
-- [GET v1/museum/geographies/{id}/objects](geographies-objects.md) Get museum objects associated with a given geography.
-
-
-## A Note about Images
-Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](/images.md) available through the Walters Art Museum API.
-
-
-## Request
-The `GET v1/museum/geographies/{id}/objects` request will get museum objects associated with a specific geographic location. The request accepts a number of parameters, listed below.
+The `GET v1/museum/geographies/{id}/objects` request will get museum [objects](/objects) associated with a specific [geographic location](/geographies/). The request accepts a number of parameters, listed below.
 
 
 ## Parameters
@@ -30,13 +19,12 @@ Name | Type | Description
 `pageSize` | `integer` | Define this parameter in the request URI. By default page size is 25 results. Change this number to alter the number of results per page. 
 
 
-## A Note about Images
-Wherever you see an image string reference in the API, that you can manipulate it. There are some [important options and features to understand about the images](/images.md) available through the Walters Art Museum API.
+## Requests
 
+There are 2 requests you can use to get geographic information:
 
-## Response
-
-Here is an example of a typical response.
+- [GET v1/museum/geographies](geographies-get.md) Get object geographies via a number of parameters.
+- [GET v1/museum/geographies/{id}/objects](geographies-objects.md) Get museum objects associated with a given geography.
 
 
 

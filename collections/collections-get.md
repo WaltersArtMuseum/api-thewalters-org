@@ -1,6 +1,7 @@
 Walters Art Museum Collections API 
 ===============================================================================
 
+
 ## Get Collections
 
 ```

@@ -4,7 +4,7 @@ Walters Art Museum Collections API
 
 # Locations
 
-Locations are locations within the Walters Art Museum where the various museum [objects](/objects/README.md) are on view. If an object is not on view, it will be associated with a 'not on view' location.
+Locations are rooms or galleries within the Walters Art Museum where the various museum [objects](/objects/README.md) are on view. If an object is not currently on view, it will be associated with a 'not on view' location.
 
 
 ## Requests
