@@ -14,7 +14,7 @@ There are some [important things to understand about the images](/images.md) ava
 
 Name | Type | Description
 -----|------|--------------
-`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
+`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey={your_api_key}`. Be sure to replace `{your_api_key}` with your actual key. 
 `id` | `integer` | Define this parameter in the request URI. For example, `http://api.thewalters.org/v1/objects/37626/images` will get images the object record for "The Ideal City."
 
 

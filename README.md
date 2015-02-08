@@ -25,7 +25,7 @@ Visit [the issues page](https://github.com/WaltersArtMuseum/walters-api/issues) 
 
 ## Documentation Conventions
 To make things easier to understand, the following notation is used:
-- `#{text}`: Indicates text that should be replaced by your own data.
+- `{text}`: Indicates text that should be replaced by your own data. Be sure to replace the curly brackets as well.
 - `...`: Indicates content from the response has been elided for brevity in documentation. Soon, we'll provide a list of data responses at the end of each page for a full description of the format of that response type.
 
 

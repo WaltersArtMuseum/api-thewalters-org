@@ -10,7 +10,7 @@ The `GET v1/exhibitions/{id}/objects` request returns a distinct list of [object
 
 Name | Type | Description
 -----|------|--------------
-`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey=<your_api_key>`. Be sure to replace `<your_api_key>` with your actual key. 
+`apikey` | `string` | This parameter is required to be defined in every API request. Please [obtain an API key](http://api.thewalters.org/) and include it in your API requests as follows: `http://api.thewalters.org/v1/objects?apikey={your_api_key}`. Be sure to replace `{your_api_key}` with your actual key. 
 `id` | `integer` | Define this parameter in the request URI. Enter the ID of an exhibition to return all the artworks, artifacts or items associated with that exhibition. For example, `http://api.thewalters.org/v1/exhibitions/3/objects` will return the museum objects associated with exhibition number 3.
 `orderBy` | `string` | Define this parameter in the request URI. Enter the name of another parameter that you wish to sort results by. For example, `http://api.thewalters.org/v1/exhibitions/3/objects?orderBy=ObjectID` will sort results by CollectionName.
 `page` | `integer` | Define this parameter in the request URI. Results are returned in paged sets. By default, the page parameter is set to 1 so that the results will show the first page of results. Change this number to return other pages. For example, `http://api.thewalters.org/v1/exhibitions/2/objects?page=3` for page 3. 
