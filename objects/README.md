@@ -16,7 +16,7 @@ There are 3 requests you can use to get museum objects.
 - [GET v1/objects/{id}](objects-id.md) Get extended details about a museum object by referencing an object ID.
 - [GET v1/objects/{id}/images](object-image-id.md) Get images of a museum object by referencing an object ID.
 
-In addition, you can also [get objects by collection](/collections/collection-objects.md), [by exhibition](/exhibitions/exhibitions-objects.md), [by geography](/geographies/geographies-objects.md), and by [museum location](/locations/locations-objects.md).
+In addition, you can also [get objects by collection](../collections/collection-objects.md), [by exhibition](/exhibitions/exhibitions-objects.md), [by geography](/geographies/geographies-objects.md), and by [museum location](/locations/locations-objects.md).
 
 ## A Note about Images
 
