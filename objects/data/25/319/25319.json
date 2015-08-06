@@ -1,0 +1,168 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of Isabella di Chiaromonte (1455-1469)",
+            "CreatorID": 8667,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1803,
+    "DateEndYear": 1827,
+    "DateText": "ca. 1815",
+    "Description": null,
+    "Dimensions": "folio: 6 7/8 x 4 15/16 in. (17.4 x 12.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Time Sanctified: The Book of Hours in Medieval Art and Life",
+            "ExhibBeginDate": "1988-04-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 23, 1988-July 17, 1988",
+            "ExhibEndDate": "1988-07-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 87,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Time Sanctified: The Book of Hours in Medieval Art and Life. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Manuscript Painting in the Renaissance",
+            "ExhibBeginDate": "1989-10-03",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "October 3, 1989-January 7, 1990",
+            "ExhibEndDate": "1990-01-07",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 86,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Painting in the Renaissance. The Walters Art Gallery, Baltimore. 1989-1990."
+        },
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14257,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.328.165R_ObvDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.328.165R_ObvDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.328.165R_ObvDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.328.165R_ObvDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.328.165R_ObvDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2317,
+        "LocationString": null
+    },
+    "ObjectID": 25319,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.328",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Ipohor Leukiewicz, 1888, by purchase;  Henry Walters [previously listed as 1935], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 2001,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3108,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4701,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 13839,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 16822,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20206,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21542,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 23552,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24796,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 27927,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35855,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77289,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/25319",
+    "SortNumber": "W        328                                            ",
+    "Style": null,
+    "Title": "Book of Hours"
+}

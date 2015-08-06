@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": null,
+    "DateBeginYear": -162,
+    "DateEndYear": -88,
+    "DateText": "ca. 150-100 BC",
+    "Description": "The half-mask over the eyes and nose identifies the figure as an actor. He wears a man's conical cap but female garments, following the Greek custom of men playing the roles of women.",
+    "Dimensions": "3 13/16 x 1 15/16 x 15/16 in. (9.7 x 5 x 2.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6946,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_54.1067_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_54.1067_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_54.1067_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_54.1067_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_54.1067_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3677,
+        "LocationString": null
+    },
+    "ObjectID": 9521,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.1067",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Kann Sale, 1897, no. 98; Arthur Sambon, Paris, 1914 [mode of acquisition unknown] [no. 63]; Joseph Brummer, 1927 [mode of acquisition unknown]; Henry Walters, Baltimore, 1927, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9521",
+    "SortNumber": "    54  1067                                            ",
+    "Style": null,
+    "Title": "Actor"
+}

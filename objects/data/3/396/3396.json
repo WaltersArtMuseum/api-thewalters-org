@@ -1,0 +1,131 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -404,
+    "DateText": "ca. 664-404 BCE",
+    "Description": "Each morning, the sun was reborn into the world, often in the form of a young child like the one represented in this pendant. Here, the sun child wears an elaborate necklace and sun disk with a protective uraeus snake on his head. On the right side of his head, he wears a braided ponytail (part of which is now missing). This \"side-lock of youth\" was a common hairstyle for children in ancient Egypt.",
+    "Dimensions": "H: 3 5/8 x W: 7/8 x D: 1 7/16 in. (9.2 x 2.3 x 3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth)",
+            "ExhibBeginDate": "2014-09-12",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "Friday, September 12, 2014 - Sunday, November 01, 2015",
+            "ExhibEndDate": "2015-11-01",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3240,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth). Roemer- und Pelizaeus- Museum, Hildesheim; Kunsthalle Leoben, Leoben. 2014-2015."
+        },
+        {
+            "ExhTitle": "Egypt\u2019s Mysterious Book of the Faiyum",
+            "ExhibBeginDate": "2013-10-06",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 06, 2013-January 05, 2015",
+            "ExhibEndDate": "2014-01-05",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3193,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "Egypt\u2019s Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22489,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_54.1979_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_54.1979_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_54.1979_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_54.1979_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_54.1979_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22490,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_54.1979_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_54.1979_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_54.1979_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_54.1979_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_54.1979_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22491,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_54.1979_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_54.1979_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_54.1979_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_54.1979_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_54.1979_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22488,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_54.1979_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_54.1979_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_54.1979_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_54.1979_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_54.1979_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze cast with gold inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Out On Exhibition Loan",
+        "LocationID": 3499,
+        "LocationString": null
+    },
+    "ObjectID": 3396,
+    "ObjectName": "statuettes; figurines; amulets; pendants; amulet-pendants",
+    "ObjectNumber": "54.1979",
+    "OnView": 1,
+    "Period": "Late Period, 26th-27th dynasty",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown] [as from the Pyramids]; Henry Walters, Baltimore, 1925 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-02T10:54:24.44",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3396",
+    "SortNumber": "    54  1979                                            ",
+    "Style": null,
+    "Title": "Juvenile God with a Sun Disk"
+}

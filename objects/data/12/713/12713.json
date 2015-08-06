@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "L\u00e9on Bonnat (French, 1833-1922)",
+            "CreatorID": 8045,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1885",
+    "Culture": null,
+    "DateBeginYear": 1885,
+    "DateEndYear": 1885,
+    "DateText": "1885",
+    "Description": "Bonnat, one of the fashionable portraitists in France during the late 19th century, dedicated this self-portrait to his friend \"Mr. Walters.\" Bonnat and the American collector were united by their enthusiasm for Antoine-Louis Barye's animal sculptures, and together they raised funds to erect a monument to the sculptor in Paris on the \u00cele-Saint-Louis.",
+    "Dimensions": "H: 28 13/16 x W: 23 11/16 in. (73.2 x 60.2 cm); Framed H: 42 1/2 x W: 37 3/8 in. (107.95 x 94.93 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7936,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.74_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.74_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.74_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.74_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.74_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47202,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.74_XR_1972.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.74_XR_1972.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.74_XR_1972.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.74_XR_1972.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.74_XR_1972.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] Upper left: Ln Bonnat \u00e0 Son ami Mr. Walters;  [Date] Upper right: 1885",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3387,
+        "LocationString": null
+    },
+    "ObjectID": 12713,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.74",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1885, by gift [from the artist]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.423",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12713",
+    "SortNumber": "    37    74                                            ",
+    "Style": null,
+    "Title": "Portrait of the Artist"
+}

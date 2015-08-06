@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1952",
+    "Culture": null,
+    "DateBeginYear": 1525,
+    "DateEndYear": 1550,
+    "DateText": "1525-1550",
+    "Description": "Ottoman ceramic artists took much of their inspiration from nature and created designs incorporating stylized leaves with recognizable plants, flowers, and trees. Familiar species depicted on this plate include tulips, and cypress trees.",
+    "Dimensions": "H: 1 15/16 x Diam: 11 7/16 in. (5 x 29 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "World of Wonder",
+            "ExhibBeginDate": "1971-11-08",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "November 8, 1971-January 31, 1972",
+            "ExhibEndDate": "1972-01-31",
+            "ExhibEndYear": 1972,
+            "ExhibitionID": 1994,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "World of Wonder. The Walters Art Gallery, Baltimore. 1971-1972."
+        },
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Bursa\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501462,
+            "GeographyTerm": "Iznik",
+            "Latitude": "40 27",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.45,
+            "Longitude": "029 43",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.716
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40124,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2057_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2057_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2057_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2057_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2057_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 40123,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2057_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2057_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2057_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2057_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2057_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 705,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_48.2057_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_48.2057_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_48.2057_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_48.2057_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_48.2057_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "fritware with underglaze decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Art",
+        "LocationID": 3923,
+        "LocationString": null
+    },
+    "ObjectID": 39609,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.2057",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Edouard Aynard Sale, Paris, Dec. 1913, no. 113; Estate of D.K. Kelekian; Walters Art Museum, 1952, by purchase.\r\n",
+    "PublicAccessDate": "2008-09-25T17:15:21.19",
+    "Reign": "Suleyman the Magnificent (AD 1520-1566)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39609",
+    "SortNumber": "    48  2057                                            ",
+    "Style": null,
+    "Title": "Iznik Fritware Plate"
+}

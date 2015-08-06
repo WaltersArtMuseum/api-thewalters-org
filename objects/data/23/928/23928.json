@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "British",
+            "CreatorID": 16295,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1930",
+    "Culture": null,
+    "DateBeginYear": 1288,
+    "DateEndYear": 1312,
+    "DateText": "ca. 1300",
+    "Description": null,
+    "Dimensions": "Folio H: 10 1/2 x W: 7 3/8 in. (26.7 x 18.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Time Sanctified: The Book of Hours in Medieval Art and Life",
+            "ExhibBeginDate": "1988-04-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 23, 1988-July 17, 1988",
+            "ExhibEndDate": "1988-07-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 87,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Time Sanctified: The Book of Hours in Medieval Art and Life. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "Age of Chivalry: Art in Plantagenet England 1200-1400",
+            "ExhibBeginDate": "1987-11-06",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "November 6, 1987-March 6, 1988",
+            "ExhibEndDate": "1988-03-06",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 3033,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Age of Chivalry: Art in Plantagenet England 1200-1400. Royal Academy of Arts, London. 1987-1988."
+        },
+        {
+            "ExhTitle": "Manuscript Sleuthing: Discoveries of a Curator",
+            "ExhibBeginDate": "1995-02-15",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 15, 1995-May 21, 1995",
+            "ExhibEndDate": "1995-05-21",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 174,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Sleuthing: Discoveries of a Curator. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1471431,
+            "GeographyTerm": "Great Britain",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 43471,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.102.28V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.102.28V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.102.28V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.102.28V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.102.28V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Grotesques; Devotion",
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 23928,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.102.28V",
+    "OnView": 0,
+    "Period": "Gothic",
+    "Provenance": "Henry Walters, Baltimore, ca. 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 78049,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/23928",
+    "SortNumber": "W        102   28V                                      ",
+    "Style": null,
+    "Title": "Adam"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "English",
+    "DateBeginYear": 1118,
+    "DateEndYear": 1142,
+    "DateText": "ca. 1130",
+    "Description": "Three dragons--their tails terminating in winding foliage, one at the top of the letterform disgorging a curling vine terminating in succulent leaves--form this initial \"P.\"",
+    "Dimensions": "14 9/16 x 10 13/16 in. (37 x 27.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Romanesque to Gothic: Illumination in Transition",
+            "ExhibBeginDate": "1990-04-10",
+            "ExhibBeginYear": 1990,
+            "ExhibDisplayDate": "April 10, 1990-July 8, 1990",
+            "ExhibEndDate": "1990-07-08",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 105,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Romanesque to Gothic: Illumination in Transition. The Walters Art Gallery, Baltimore. 1990."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Northumberland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468365,
+            "GeographyTerm": "Rochester",
+            "Latitude": "55 16",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 55.266,
+            "Longitude": "002 16",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.266
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37583,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.18.175R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.18.175R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.18.175R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.18.175R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.18.175R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Walters Art Museum; Romanesque; Inhabited initial; Scripture",
+    "Medium": "ink and pigments on cream-colored parchment of medium thickness",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 30649,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.18.175R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Priory scriptorium of Rochester Cathedral, England, 12th century [possible reference in catalog in Textus Roffensis, Rochester Cathedral Library Ms. A.3.5, fol. 230r; more certain reference in 1202 library catalog in British Library Ms. Royal 5 B.XII, fol. 2r];  Leon Gruel, Paris, before 1931 [mode of acquisition unknown, no. 1138];  Henry Walters, Baltimore, before 1931, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30649",
+    "SortNumber": "W         18  175R                                      ",
+    "Style": "Romanesque",
+    "Title": "Initial \"P\" (Paulus vocatus)"
+}

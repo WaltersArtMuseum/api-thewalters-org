@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bellemare Group (?)",
+            "CreatorID": 16487,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1512,
+    "DateEndYear": 1536,
+    "DateText": "ca. 1524",
+    "Description": null,
+    "Dimensions": "H: 5 7/8 x W: 3 9/16 in. (15 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Prayers in Code: Books of Hours from Renaissance France",
+            "ExhibBeginDate": "2009-04-25",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "April 25, 2009-July 19, 2009",
+            "ExhibEndDate": "2009-07-19",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2117,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Prayers in Code: Books of Hours from Renaissance France. The Walters Art Museum, Baltimore. 2009."
+        },
+        {
+            "ExhTitle": "The Last Flowering: French Paintings in Illuminated Manuscripts, 1420-1530",
+            "ExhibBeginDate": "1982-11",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "November 1982-February 1983",
+            "ExhibEndDate": "1983-02",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2925,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Last Flowering: French Paintings in Illuminated Manuscripts, 1420-1530. The Pierpont Morgan Library, New York. 1982-1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 17045,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/POP_W.446.37V_OpnRev_DD_VA08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/POP_W.446.37V_OpnRev_DD_VA08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/POP_W.446.37V_OpnRev_DD_VA08.jpg",
+                "Small": "http://static.thewalters.org/images/POP_W.446.37V_OpnRev_DD_VA08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/POP_W.446.37V_OpnRev_DD_VA08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 59825,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/KPS_W.446.37v_DD_11122008.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/KPS_W.446.37v_DD_11122008.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/KPS_W.446.37v_DD_11122008.jpg",
+                "Small": "http://static.thewalters.org/images/KPS_W.446.37v_DD_11122008.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/KPS_W.446.37v_DD_11122008.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79422,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.446.37V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Jean Lallemant the Younger (d. 1548) [date and mode of acquisition unknown]; Gruel and Engelmann (?) [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79422",
+    "SortNumber": "W        446   37V                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Hours"
+}

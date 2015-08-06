@@ -1,0 +1,95 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": null,
+    "DateBeginYear": -1550,
+    "DateEndYear": -1295,
+    "DateText": "1550-1295 BC",
+    "Description": "In ancient Egypt, vessels were formed by heating powdered glass in a furnace around a clay core. Once the glass had melted around the core, glassmakers trailed threads of molten glass around the vessel and combed the trails with a pointed tool to create patterns.",
+    "Dimensions": "H: 2 13/16 in. (7.2 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking",
+            "ExhibBeginDate": "2007-12-01",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "December 1, 2007- November 9, 2008",
+            "ExhibEndDate": "2008-11-09",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2003,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking. The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62564,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_47.36_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_47.36_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_47.36_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_47.36_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_47.36_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1392,
+        "LocationString": null
+    },
+    "ObjectID": 15234,
+    "ObjectName": "vessels;bottles",
+    "ObjectNumber": "47.36",
+    "OnView": 0,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, Paris and New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15234",
+    "SortNumber": "    47    36                                            ",
+    "Style": null,
+    "Title": "Lentoid Bottle"
+}

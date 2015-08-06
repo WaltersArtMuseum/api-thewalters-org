@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1620,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This single-leaf painting of a young man in a blue robe and red undergarment, Walters manuscript leaf W.680, was produced in Safavid Iran in the 11th century AH/AD 17th. The youth sits in a landscape smelling a flower. Images of elegantly dressed men and women were exceedingly popular in Safavid Iran. They circulated as loose leaves and were collected into albums (muraqqa'). The work is painted in opaque watercolor and gold.",
+    "Dimensions": "H: 6 3/8 x W: 3 5/8 in. (16.2 x 9.2 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34236,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.680_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.680_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.680_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.680_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.680_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Safavid; Illumination; Illustration; Miniature; Painting; Iran",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6437,
+        "LocationString": null
+    },
+    "ObjectID": 4587,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.680",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83796,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83797,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4587",
+    "SortNumber": "W        680                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Young Man with a Flower"
+}

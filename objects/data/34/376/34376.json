@@ -1,0 +1,70 @@
+{
+    "Classification": "Coins & Medals",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1972",
+    "Culture": null,
+    "DateBeginYear": 244,
+    "DateEndYear": 249,
+    "DateText": "244-249",
+    "Description": "This coin shows Otacilia Severa on the front and a hippopotamus on the reverse.",
+    "Dimensions": "1 in. (2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5890,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_59.751_Back_BW_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_59.751_Back_BW_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_59.751_Back_BW_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_59.751_Back_BW_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_59.751_Back_BW_H73.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4517,
+        "LocationString": null
+    },
+    "ObjectID": 34376,
+    "ObjectName": "coins",
+    "ObjectNumber": "59.751",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "M\u00fcnsen and Medaillen, Basel [date and mode of acquisition unknown]; Walters Art Museum, 1972, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:41.3",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34376",
+    "SortNumber": "    59   751                                            ",
+    "Style": null,
+    "Title": "Coin with a Hippopotamus and Portrait of Otacilia Severa"
+}

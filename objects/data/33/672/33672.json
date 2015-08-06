@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Fran\u00e7ois R\u00e9gis Gignoux (French, active in the United States, 1816-1882)",
+            "CreatorID": 6408,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1859,
+    "DateEndYear": 1859,
+    "DateText": "1859",
+    "Description": "Gignoux studied at the Ecole des Beaux-Arts with Paul Delaroche. He was born in Lyon, France, but emigrated to the United States in around 1840 and opened a studio in Brooklyn. George Innes was his pupil for a short time in 1843. Highly popular in his day, Gignoux painted views of Niagara Falls, New England, and Virginia, and became especially well known for his snow scene, such as this work \"Winter Landscape.\" He returned to France in 1870 and lived there until his death.",
+    "Dimensions": "H: 4 13/16 x W: 8 11/16 in. (12.3 x 22 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "American Drawings from the Walters Art Gallery",
+            "ExhibBeginDate": "1987-02-24",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "February 24, 1987-April 5, 1987",
+            "ExhibEndDate": "1987-04-05",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 2703,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "American Drawings from the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1987."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50183,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1569_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1569_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1569_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1569_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1569_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36762,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1569_Fnt_BW_H71.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1569_Fnt_BW_H71.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1569_Fnt_BW_H71.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1569_Fnt_BW_H71.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1569_Fnt_BW_H71.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature and date] Lower left: Gignoux / 1859",
+    "Keywords": "landscapes; seasons; trees; winter",
+    "Medium": "oil on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2249,
+        "LocationString": null
+    },
+    "ObjectID": 33672,
+    "ObjectName": "paintings; drawings",
+    "ObjectNumber": "37.1569",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1897, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33672",
+    "SortNumber": "    37  1569                                            ",
+    "Style": null,
+    "Title": "Winter landscape"
+}

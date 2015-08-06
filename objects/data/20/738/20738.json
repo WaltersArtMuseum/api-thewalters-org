@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -201,
+    "DateText": "4th-3rd century BC",
+    "Description": "This oinochoe has a ribbed body and a female plastic head at the base of the handle.",
+    "Dimensions": "H: 4 3/4 x Diam: 3 3/16 in. (12.1 x 8.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62571,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.110_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.110_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.110_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.110_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.110_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1712,
+        "LocationString": null
+    },
+    "ObjectID": 20738,
+    "ObjectName": "oinochoai; vases",
+    "ObjectNumber": "48.110",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20738",
+    "SortNumber": "    48   110                                            ",
+    "Style": null,
+    "Title": "Oinochoe"
+}

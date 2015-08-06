@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Vincennes Porcelain Manufactory (French, active ca. 1740-1756)",
+            "CreatorID": 4819,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "Vase: 1755 (?); Decoration: 19th century (?)",
+    "Description": "Although the mark on this vase indicates that it was made in the eighteenth century at the Vincennes manufactory, its painted decoration was probably added later, in the nineteenth century.",
+    "Dimensions": "H: 8 7/8 in. (22.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Val-de-Marne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427181,
+            "GeographyTerm": "Vincennes",
+            "Latitude": "48 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.85,
+            "Longitude": "002 27",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.45
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9519,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.656_Fnt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.656_Fnt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.656_Fnt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.656_Fnt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.656_Fnt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9520,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.656_Prof_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.656_Prof_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.656_Prof_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.656_Prof_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.656_Prof_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9518,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.656_Back_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.656_Back_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.656_Back_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.656_Back_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.656_Back_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Factory Mark] Intertwined Lls; [Date] Letter in blue: C (1755)",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5178,
+        "LocationString": null
+    },
+    "ObjectID": 18334,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.656",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.067",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18334",
+    "SortNumber": "    48   656                                            ",
+    "Style": null,
+    "Title": "Vase (Vase Duplessis)"
+}

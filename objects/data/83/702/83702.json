@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1609,
+    "DateEndYear": 1609,
+    "DateText": "1017 AH/AD 1609",
+    "Description": "This dark brown leather binding (without a flap) from Walters manuscript W.623 is original to the manuscript. The binding is decorated dentelle style with central ovals, pendants, cornerpieces, and frames decorated and brushed with gold.",
+    "Dimensions": "Folio H: 13 9/16 x W: 8 11/16 in. (34.5 x 22 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33823,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.623.binding_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.623.binding_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.623.binding_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.623.binding_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.623.binding_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Illumination; Illustration; Manuscript; Iran; History; Literature -- Poetry",
+    "Medium": "dark brown leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83702,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.623.binding",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Ibn Abi Husayn 'Ali [...] 'Ali, [date and mode of acquisition unknown] [ownsership statement plus seal on fol. 1a];Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83702",
+    "SortNumber": "W        623binding                                     ",
+    "Style": null,
+    "Title": "Binding from Collection of Poetry"
+}

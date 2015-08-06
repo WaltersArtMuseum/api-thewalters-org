@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alfred Thompson Bricher (American, 1837-1908)",
+            "CreatorID": 7068,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1976",
+    "Culture": null,
+    "DateBeginYear": 1880,
+    "DateEndYear": 1889,
+    "DateText": "1880-1889",
+    "Description": "This view of a couple boating is characteristic of Bricher's paintings during the 1880s, when he was based at Lake George, New York. Although younger than Heade and Sonntag, Bricher shared their commitment to precise representation of the landscape in varying climatic conditions. \r\n\r\nBricher began to paint in Newburyport, Massachusetts, and along the Maine and Massachusetts coastline. In 1869, he moved to New York City, where he pursued a successful career as a fashionable landscape artist.",
+    "Dimensions": "H: 12 3/16 x W: 24 1/16 in. (31 x 61.1 cm); Framed H: 21 1/4 x W: 33 x D: 4 1/4 in. (54 x 83.8 x 10.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        },
+        {
+            "ExhTitle": "The Walters' American Collection",
+            "ExhibBeginDate": "2005-06-29",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 29, 2005-January 1, 2006",
+            "ExhibEndDate": "2006-01-01",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2728,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Walters' American Collection. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Warren\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 823445,
+            "GeographyTerm": "Lake George",
+            "Latitude": "43 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.416,
+            "Longitude": "073 42",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -73.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47959,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2525_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2525_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2525_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2525_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2525_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48628,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2525_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2525_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2525_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2525_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2525_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: A.T. Bricher",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3319,
+        "LocationString": null
+    },
+    "ObjectID": 18209,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.2525",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Robert C. Hall [date and mode of acquisition unknown]; Mrs. Daisy S. Woods [date and mode of acquisition unknown]; Walters Art Museum, 1976, by purchase.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18209",
+    "SortNumber": "    37  2525                                            ",
+    "Style": null,
+    "Title": "Lake View"
+}

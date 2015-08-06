@@ -1,0 +1,89 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Saint Abbo of Fleury (ca. 945 - 1004)",
+            "CreatorID": 15152,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "Following ancient writers, medieval scholars identified five climactic zones: the Arctic and Antarctic, or North and South frigid zones; the North and South temperate zones, extending from the Tropic of Cancer to the Arctic Circle and the Tropic of Capricorn to the Antarctic Circle; and the torrid zone between the two tropics. Only the temperate zones were thought to be habitable. In the upper diagram, the five climate zones are shown in an abstract configuration resembling a flower with five circular petals. In his De natura rerum, Isidore of Seville (d. 636 CE) relates the zones to the five fingers of the human hand. As the hand was a fundamental mnemonic tool in the ancient and medieval worlds, Isidore's likening of the petals to fingers makes this diagram an effective memory device. In the lower diagram, the zones are rendered as if projected onto the globe, as arcs and circles.",
+    "Dimensions": "H: 10 5/8 x W: 6 1/8 in. (27 x 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A World of Foreign Lands",
+            "ExhibBeginDate": "1992-07-05",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "July 5, 1992-October 4, 1992",
+            "ExhibEndDate": "1992-10-04",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 162,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A World of Foreign Lands. The Walters Art Gallery, Baltimore. 1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56089,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.6V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.6V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.6V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.6V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.6V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 4420,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.6V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4420",
+    "SortNumber": "W         73    6V                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagrams of the Celestial Climate Zones and Terrestrial Climate Zones"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Philip B. Perlman, 1960",
+    "Culture": null,
+    "DateBeginYear": 1710,
+    "DateEndYear": 1720,
+    "DateText": "1710-1720",
+    "Description": "The coat of arms represented here is of the province of Holland, the most powerful and prosperous of the United Provinces. It included most of the major cities: Amsterdam, The Hague, Delft, and Leiden. The Dutch taste for Chinese porcelain created a fashion for commissioning and displaying sets of plates with Dutch motifs, especially the arms of the seven provinces.",
+    "Dimensions": "13 1/2 in. (34.3 cm) (w.)",
+    "Dynasty": "Qing Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\regions (general)\\",
+            "GeoType": "Place Mentioned",
+            "GeographyID": 1473870,
+            "GeographyTerm": "Holland",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55771,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.2397_Fnt_NF_H61.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.2397_Fnt_NF_H61.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.2397_Fnt_NF_H61.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.2397_Fnt_NF_H61.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.2397_Fnt_NF_H61.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue and overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: 17th-Century Dutch Cabinet Rooms",
+        "LocationID": 4402,
+        "LocationString": null
+    },
+    "ObjectID": 28139,
+    "ObjectName": "plates",
+    "ObjectNumber": "49.2397",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Purchased by Philip B. Perlman, Baltimore, [date of acquisition unknown] from Walters sale; by bequest to Walters Art Museum, 1960.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": "Kangxi (1662-1722)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28139",
+    "SortNumber": "    49  2397                                            ",
+    "Style": null,
+    "Title": "Plate with the Arms of Holland"
+}

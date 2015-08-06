@@ -1,0 +1,75 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": -1050,
+    "DateEndYear": -1001,
+    "DateText": "late 11th century BC",
+    "Description": null,
+    "Dimensions": "9 13/16 in. (25 cm)",
+    "Dynasty": "Western Zhou [Chou] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12423,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2171_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2171_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2171_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2171_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2171_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6609,
+        "LocationString": null
+    },
+    "ObjectID": 18316,
+    "ObjectName": "wine beakers",
+    "ObjectNumber": "54.2171",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Yamanaka Sale, Collection of a Chinese nobleman from Tientsin, American Art Association, January 29,1914, no. 145; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-31T15:39:26.49",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 26648,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/18316",
+    "SortNumber": "    54  2171                                            ",
+    "Style": null,
+    "Title": "Wine Container"
+}

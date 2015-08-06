@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Jacopo del Sellaio (Italian, ca. 1441-1493)",
+            "CreatorID": 6552,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1441,
+    "DateEndYear": 1500,
+    "DateText": "1441-1500",
+    "Description": "This work is one of a group of panels attributed to Jacopo del Sellaio or his workshop depicting the Virgin and Child. Iconograhically, this Madonna and Child conforms, with some variations, to a type inspired by the vision experienced by St. Birgitta of Sweden (died 1373) in which the Virgin was obliged to place her new-born on the bare ground. It was believed that Christ accepted this as an expression of his great humility. Some artists found this too shocking and placed the Child on the hem of Mary's cloak, rather than on the bare ground.  \r\n\r\nThe panel has suffered considerable damage over time.\r\n\r\nFor more information on this piece, please see Federico Zeri's 1976 catalogue no. 62, p. 98.",
+    "Dimensions": "Painted surface H including curved strips: 28 3/8 x W: 16 3/8 x D: 5/8 in. (72 x 41.6 x 1.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28608,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.631_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.631_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.631_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.631_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.631_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48156,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.631_XR_1957.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.631_XR_1957.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.631_XR_1957.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.631_XR_1957.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.631_XR_1957.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On the scroll held by St. John the Baptist: ECE ANI DEI QITOLLI (i.e. ECCE AGNUS DEI QUI TOLLIT PECCATA MUNDI)",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3242,
+        "LocationString": null
+    },
+    "ObjectID": 13779,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.631",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 24; 1897 catalogue: no. 86, as Tuscan School, end of the 14th century]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-08-04T09:42:10.44",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13779",
+    "SortNumber": "    37   631                                            ",
+    "Style": null,
+    "Title": "Madonna Adoring The Child"
+}

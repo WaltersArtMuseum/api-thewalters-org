@@ -1,0 +1,128 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1225,
+    "DateText": "late 12th-early 13th century",
+    "Description": "This late twelfth- or early thirteenth-century Psalter was made for a female supplicant, and is of Premonstratensian use. Created and used in Rhineland, Germany, it remained there until the French Revolution, after which it was eventually acquired by the English book collector Sir Thomas Phillipps. The Psalter is liturgical, and therefore has eight divisions for the liturgical week, as well as the usual tripartite divisions. Each of these major psalms is marked by large lively inhabited or foliate initials. Early added prayers on the first and last blank pages, as well as occasional marginal prayers and notes in a variety of hands, attest to the manuscript's use through time.",
+    "Dimensions": "Folio H: 8 3/8 \u00d7 W: 5 7/16 in. (21.3 \u00d7 13.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Schatzkammer: Henry Walters' German Manuscripts",
+            "ExhibBeginDate": "2006-07-22",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "July 22, 2006-October 29, 2006",
+            "ExhibEndDate": "2006-10-29",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 96,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Schatzkammer: Henry Walters' German Manuscripts. The Walters Art Museum, Baltimore. 2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448525,
+            "GeographyTerm": "Rheinland",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52534,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.25_Fnt_DD_2013.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.25_Fnt_DD_2013.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.25_Fnt_DD_2013.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.25_Fnt_DD_2013.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.25_Fnt_DD_2013.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Illumination; Manuscript",
+    "Medium": "ink and pigments on yellowed parchment of uneven weight (ranging from thin to thick) bound between sixteenth-century German beech boards, originally covered with brown leather and re-covered in green velvet in the nineteenth century",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2300,
+        "LocationString": null
+    },
+    "ObjectID": 25626,
+    "ObjectName": "illuminated manuscripts; psalters",
+    "ObjectNumber": "W.25",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Created for Augustinian or Premonstratensian use (?), likely Rheinland, late 12th or early 13th century. Leander van Ess, Darmstadt, after 1800. Purchased by Sir Thomas Phillipps [1792-1872], 1824 [1]; Phillipps' Sale, London, either 1911, no. 868, or 1913, no. 1021. L\u00e9on Gruel, Paris [2]; purchased by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] fol. 1r - rampant lion stamp and inscription: \"Sir T.P./Middle Hill 441\"\r\n[2] no. 924 on front pastedown",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 5238,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5352,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6215,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 8364,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 12199,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 16571,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 17083,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 18505,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21169,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35789,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37609,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/25626",
+    "SortNumber": "W         25                                            ",
+    "Style": "Romanesque",
+    "Title": "Premonstratensian Psalter"
+}

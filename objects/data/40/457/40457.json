@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "James McDougal Hart (American, 1828-1901)",
+            "CreatorID": 1964,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1859,
+    "DateEndYear": 1859,
+    "DateText": "1859",
+    "Description": "Hart was a Scottish-born American landscape and cattle painter, and Hudson River School artist. His older brother, William Hart, was also a Hudson River School artist, and the two worked in a similar style (see WAM 37.1558).",
+    "Dimensions": "H: 7 7/8 x W: 5 7/8 in. (20 x 15 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "American Drawings from the Walters Art Gallery",
+            "ExhibBeginDate": "1987-02-24",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "February 24, 1987-April 5, 1987",
+            "ExhibEndDate": "1987-04-05",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 2703,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "American Drawings from the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1987."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53012,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1576_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1576_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1576_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1576_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1576_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53011,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1576_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1576_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1576_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1576_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1576_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 32903,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1576_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1576_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1576_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1576_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1576_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: J.M. Hart '59",
+    "Keywords": null,
+    "Medium": "oil on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2248,
+        "LocationString": null
+    },
+    "ObjectID": 40457,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1576",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. or Henry Walters, Baltimore; by bequest to Walters Art Musuesm, Baltimore, 1931.",
+    "PublicAccessDate": "2014-03-15T01:00:02.127",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40457",
+    "SortNumber": "    37  1576                                            ",
+    "Style": null,
+    "Title": "Waterfall In The Mountains"
+}

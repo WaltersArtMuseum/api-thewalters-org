@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by an anonymous donor, 2002",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1500,
+    "DateText": "late 15th century",
+    "Description": null,
+    "Dimensions": "H: 10 7/16 x W: 7 3/8 in. (26.5 x 18.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Angels of Light: Ethiopian Art from the Walters Art Museum",
+            "ExhibBeginDate": "2006-02-05",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 5, 2006-May 20, 2007",
+            "ExhibEndDate": "2007-05-20",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 1958,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Angels of Light: Ethiopian Art from the Walters Art Museum. Birmingham Museum of Art, Birmingham; Smith College Museum of Art, Northampton; Museum of Biblical Art, New York. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41135,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_36.14_Fnt_TR_T03II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_36.14_Fnt_TR_T03II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_36.14_Fnt_TR_T03II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_36.14_Fnt_TR_T03II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_36.14_Fnt_TR_T03II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1547,
+        "LocationString": null
+    },
+    "ObjectID": 6357,
+    "ObjectName": "icons",
+    "ObjectNumber": "36.14",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sam Fogg, London, England [date and mode of acquisition unknown]; Walters Art Museum, 2002, by purchase.",
+    "PublicAccessDate": "2012-09-05T22:00:00.623",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6357",
+    "SortNumber": "    36    14                                            ",
+    "Style": null,
+    "Title": "Icon of the Virgin and Child with Angels"
+}

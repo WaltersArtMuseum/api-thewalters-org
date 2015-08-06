@@ -1,0 +1,113 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Peter Carl Faberg\u00e9 (1846-1920)",
+            "CreatorID": 4493,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "House of Faberg\u00e9 (Russian, est. 1842)",
+            "CreatorID": 1921,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Gift of Dr. John Q. Feller, K.H.S. in memory of his sister, Anne Feller Kennedy, 2007",
+    "Culture": null,
+    "DateBeginYear": 1908,
+    "DateEndYear": 1914,
+    "DateText": "1908-1914",
+    "Description": null,
+    "Dimensions": "1 5/16 x 1 9/16 x 2 3/8 in. (3.4 x 4 x 6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Faberg\u00e9 Menagerie",
+            "ExhibBeginDate": "2003-02-13",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "February 13, 2003-May 2, 2004",
+            "ExhibEndDate": "2004-05-02",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2062,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Faberg\u00e9 Menagerie. The Walters Art Museum, Baltimore; Columbus Museum of Art, Columbus; Portland Art Museum, Portland. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Rossiya\\republics\\Rossiya\\autonomous cities\\Sankt-Peterburg\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1510773,
+            "GeographyTerm": "Sankt-Peterburg",
+            "Latitude": "59 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 59.883,
+            "Longitude": "030 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Rossiya\\republics\\Rossiya\\autonomous cities\\Sankt-Peterburg\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1510773,
+            "GeographyTerm": "Sankt-Peterburg",
+            "Latitude": "59 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 59.883,
+            "Longitude": "030 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18472,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1514_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1514_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1514_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1514_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1514_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 18473,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1514_Bot_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1514_Bot_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1514_Bot_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1514_Bot_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1514_Bot_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "smoky quartz, diamonds, gold, rubies",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 841,
+        "LocationString": null
+    },
+    "ObjectID": 76634,
+    "ObjectName": "figurines",
+    "ObjectNumber": "42.1514",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Oscar Kaplans [?]; Anna Marie Feller, Baltimore, late 1970s, by purchase; Dr. John Q. Feller, K.H.S., Clarks Summit, Pennsylvania, June 1996, by inheritance; Walters Art Museum, 2007, by gift.",
+    "PublicAccessDate": "2009-06-16T15:02:17.827",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/76634",
+    "SortNumber": "    42  1514                                            ",
+    "Style": null,
+    "Title": "Faberge Mouse"
+}

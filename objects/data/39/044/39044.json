@@ -1,0 +1,137 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German (?)",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "English (?)",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1908",
+    "Culture": "German",
+    "DateBeginYear": 1350,
+    "DateEndYear": 1375,
+    "DateText": "1350-1375",
+    "Description": "The Virgin, crowned by two angels, is here portrayed as the \"Queen of Heaven,\" royal mother of God and mediator between heaven and earth.  The Child stands on her lap, taking his first step and holding a bird.  The leaf once formed half of a devotional diptych, its use in prayer witnessed by the candle burn on the face of the angel at the right.",
+    "Dimensions": "H: 5 9/16 x W: 2 1/2 x D: 5/16 in. (14.1 x 6.4 x 0.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ivory: The Sumptuous Art",
+            "ExhibBeginDate": "1983-10-14",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "October 14, 1983-January 15, 1984",
+            "ExhibEndDate": "1984-01-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 215,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ivory: The Sumptuous Art. The Walters Art Gallery, Baltimore. 1983-1984."
+        },
+        {
+            "ExhTitle": "Images of Devotion: Personal Piety in Medieval Manuscripts and Ivories",
+            "ExhibBeginDate": "1997-07-02",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "July 2, 1997-October 12, 1997",
+            "ExhibEndDate": "1997-10-12",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 2410,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Images of Devotion: Personal Piety in Medieval Manuscripts and Ivories. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7561,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_71.247_Fnt_TR_II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_71.247_Fnt_TR_II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_71.247_Fnt_TR_II.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_71.247_Fnt_TR_II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_71.247_Fnt_TR_II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3863,
+        "LocationString": null
+    },
+    "ObjectID": 39044,
+    "ObjectName": "diptychs; ivories",
+    "ObjectNumber": "71.247",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Octave Homberg, Paris, by purchase; Sale, H\u00f4tel Drouot, Paris, May 16, 1908, no. 472; Jacques Seligmann, Paris, by purchase; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.783",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39044",
+    "SortNumber": "    71   247                                            ",
+    "Style": "Gothic",
+    "Title": "Virgin and Child"
+}

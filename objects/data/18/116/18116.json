@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1909",
+    "Culture": null,
+    "DateBeginYear": -1279,
+    "DateEndYear": -1200,
+    "DateText": "ca. 1250-1200 BC",
+    "Description": "The woman in this fragmentary painting from a tomb wall has a wig of long, full hair, held in place by a flowered headband and topped with an ointment cone, a perfumed substance placed on wigs that gave off a fragrant aroma as it melted. A lotus blossom adorns the front of the headband. She holds a rattle called a sistrum, which women often played during temple ceremonies. What remains of the inscription suggests that she may have served with the temple staff of the god Amen.",
+    "Dimensions": "H: 9 7/16 x W: 6 11/16 x D: 1 5/8 in. (24 x 17 x 4.2 cm)",
+    "Dynasty": "19th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Musical Instruments and Their Portrayal in Art",
+            "ExhibBeginDate": "1946-04-26",
+            "ExhibBeginYear": 1946,
+            "ExhibDisplayDate": "April 26, 1946-June 2, 1946",
+            "ExhibEndDate": "1946-06-02",
+            "ExhibEndYear": 1946,
+            "ExhibitionID": 859,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Musical Instruments and Their Portrayal in Art. Baltimore Museum of Art, Baltimore. 1946."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Qina\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544565,
+            "GeographyTerm": "Dayr al-Madinah",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3883,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_32.9_Fnt_TR_T03IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_32.9_Fnt_TR_T03IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_32.9_Fnt_TR_T03IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_32.9_Fnt_TR_T03IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_32.9_Fnt_TR_T03IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] In black paint on yellow: remains of 4 vertical lines of inscription; [Translation] ...(his) sister...the lady...of Amun",
+    "Keywords": "Egypt; priestess; sistrum; rattle; ritual; music; musician; religion",
+    "Medium": "neutral gray, red, black, white, blue and yellow paint on plaster over mud",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3747,
+        "LocationString": null
+    },
+    "ObjectID": 18116,
+    "ObjectName": "wall paintings",
+    "ObjectNumber": "32.9",
+    "OnView": 1,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1909, by purchase; Walters Art Museum, 1931, by bequest. \r\n",
+    "PublicAccessDate": "2008-09-25T17:13:39.487",
+    "Reign": "Ramesses II-Merenptah",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18116",
+    "SortNumber": "    32     9                                            ",
+    "Style": "Ramesside",
+    "Title": "Wall Painting: Woman Holding a Sistrum"
+}

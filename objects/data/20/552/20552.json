@@ -1,0 +1,158 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Raimondo de Capua (Italian, 1330-1399)",
+            "CreatorID": 7975,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Jacobus Macharius Venetus",
+            "CreatorID": 1978,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1458,
+    "DateEndYear": 1482,
+    "DateText": "ca. 1470",
+    "Description": null,
+    "Dimensions": "folio: 13 3/16 x 9 5/16 in. (33.5 x 23.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Renaissance Books and Manuscripts of the Humanist Age",
+            "ExhibBeginDate": "1994-11-03",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 3, 1994-February 12, 1995",
+            "ExhibEndDate": "1995-02-12",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 163,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Renaissance Books and Manuscripts of the Humanist Age. The Walters Art Gallery, Baltimore. 1994-1995."
+        },
+        {
+            "ExhTitle": "Manuscript Painting in the Renaissance",
+            "ExhibBeginDate": "1989-10-03",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "October 3, 1989-January 7, 1990",
+            "ExhibEndDate": "1990-01-07",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 86,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Painting in the Renaissance. The Walters Art Gallery, Baltimore. 1989-1990."
+        },
+        {
+            "ExhTitle": "The Saint John's Bible: A Modern Vision through Medieval Methods",
+            "ExhibBeginDate": "2009-02-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "February 15, 2009-May 24, 2009",
+            "ExhibEndDate": "2009-05-24",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2059,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Saint John's Bible: A Modern Vision through Medieval Methods. The Walters Art Museum, Baltimore. 2009."
+        },
+        {
+            "ExhTitle": "Mostra di Codici Gonzaghesch, Mantua",
+            "ExhibBeginDate": "1966-09-18",
+            "ExhibBeginYear": 1966,
+            "ExhibDisplayDate": "September 18, 1966-October 10, 1966",
+            "ExhibEndDate": "1966-10-10",
+            "ExhibEndYear": 1966,
+            "ExhibitionID": 2451,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Mostra di Codici Gonzaghesch, Mantua. Biblioteca Comunale Teresiana, Mantova. 1966."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16994,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.350.10R_ObvDet_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.350.10R_ObvDet_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.350.10R_ObvDet_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.350.10R_ObvDet_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.350.10R_ObvDet_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2316,
+        "LocationString": null
+    },
+    "ObjectID": 20552,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.350",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Library of Gonzaga Marquis, dukes of Mantua [arms on fol. 110r];  Museo Cavaleri, Milan [date and mode of acquisition unknown] [stamp on fol. 1r];  Demoulard [publisher] [date and mode of acquisition unknown];  Pietro Vergani [date and mode of acquisition unknown];  Sale;  Charles Butler, Hatfield [date of acquisition unknown], by purchase; Sale;  William Morris [date of acquisition unknown], by purchase;  Sale, London, 1898, no. 345;  Laurence W. Hodson, 1898, by purchase;  Sale, London, 1906, no. 109;  Quaritch, 1906, by purchase;  Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore, after 1912 [inv. no. 30433, list of ca. 1912, no. 53];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 10483,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 25727,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/20552",
+    "SortNumber": "W        350                                            ",
+    "Style": null,
+    "Title": "Legenda San Catherinae de Senis"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Miniatures",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1578,
+    "DateEndYear": 1617,
+    "DateText": "ca. 1590-1605",
+    "Description": "In an astonishing display of virtuosity and amusing artifice, the unknown miniaturist painted the French king twice, one image directly on top of the other (but in reverse and with a black jacket and black pearl ear ring) on the same side of one piece of glass. Then, a second piece of glass was fitted over the top image. The portrait was probably for a locket.\r\n\r\nHenry of Bourbon, king of Navarre (1553-1610), became King Henry IV of France (after converting from Protestantism to Catholicism) in 1589.",
+    "Dimensions": "1 5/8 x 1 5/16 in. (4.2 x 3.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Small Northern European Portraits from The Walters Art Gallery, Baltimore",
+            "ExhibBeginDate": "2000-09-17",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "September 17, 2000-December 19, 2000",
+            "ExhibEndDate": "2000-12-19",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 74,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Small Northern European Portraits from The Walters Art Gallery, Baltimore. National Gallery of Art, Washington. 2000."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4440,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_38.98_Fnt_BW_H58.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_38.98_Fnt_BW_H58.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_38.98_Fnt_BW_H58.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_38.98_Fnt_BW_H58.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_38.98_Fnt_BW_H58.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52898,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_38.98_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_38.98_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_38.98_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_38.98_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_38.98_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4522,
+        "LocationString": null
+    },
+    "ObjectID": 15331,
+    "ObjectName": "miniatures (paintings); portraits",
+    "ObjectNumber": "38.98",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.033",
+    "Reign": "Henry IV (AD 1572-1610)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15331",
+    "SortNumber": "    38    98                                            ",
+    "Style": null,
+    "Title": "Portrait of Henry IV, King of France"
+}

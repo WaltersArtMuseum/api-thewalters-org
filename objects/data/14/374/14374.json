@@ -1,0 +1,99 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": 1753,
+    "DateEndYear": 1760,
+    "DateText": "1753-1760",
+    "Description": "At the request of the factory director, J.R. Boileau, this form of wine bottle cooler was developed in 1753. The \"bleu lapis\" ground is gilded in a \"caillout\u00e9\" or pebbled pattern. The flower painting is attributed to Pierre-Joseph Rosset (1734-1799 (?)).",
+    "Dimensions": "H: 5 1/16 in. (12.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46496,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.749_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.749_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.749_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.749_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.749_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10948,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.749_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.749_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.749_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.749_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.749_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 46495,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.749_48.750_48.751_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.749_48.750_48.751_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.749_48.750_48.751_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.749_48.750_48.751_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.749_48.750_48.751_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Factory Mark] In blue: Intertwined Lls; [Date] Letter: H (1760)",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5321,
+        "LocationString": null
+    },
+    "ObjectID": 14374,
+    "ObjectName": "wine coolers",
+    "ObjectNumber": "48.749",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "A. Seligmann, Rey and Co., New York;  Henry Walters, Baltimore, 1914, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.097",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 26003,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/14374",
+    "SortNumber": "    48   749                                            ",
+    "Style": null,
+    "Title": "Bottle Cooler (seau a bouteille)"
+}

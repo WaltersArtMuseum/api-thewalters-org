@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Zhu Wenxin (Chinese)",
+            "CreatorID": 6891,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1813,
+    "DateEndYear": 1813,
+    "DateText": "1813",
+    "Description": null,
+    "Dimensions": "H: 74 1/4 x W: 41 3/4 in. (188.6 x 106.1 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23765,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.70_Det_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.70_Det_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.70_Det_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.70_Det_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.70_Det_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23766,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.70_Mrk_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.70_Mrk_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.70_Mrk_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.70_Mrk_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.70_Mrk_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] Upper right",
+    "Keywords": "The Eight Immortals",
+    "Medium": "ink and traces of color on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2413,
+        "LocationString": null
+    },
+    "ObjectID": 40772,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.70",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40772",
+    "SortNumber": "    35    70                                            ",
+    "Style": null,
+    "Title": "The Eight Immortals"
+}

@@ -1,0 +1,91 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.634 is an illuminated copy of the Collection of poems (divan) by Shams al-Din Muhammad Hafiz al-Shirazi (active 8th century AH/AD 14th). Written in Safavid Iran in the10th century AH/AD 16th in black Nasta'liq script, the codex opens with a double-page illuminated frontispiece that precedes a preface (dibachah) (fols. 1b-2a). An illuminated headpiece (fol. 7b) inscribed fa-Llah khayr hafizan or \"God is the best protector\" (Surat Yusuf, 12:64) introduces the initial verses of the Divan. There is an illuminated tailpiece inscribed with the work's final verses and a colophon with prayers for the prophet Muhammad and his family. The illumination of this manuscript exemplifies the Safavid style of the 10th century AH/AD 16th. The binding is not contemporary with the manuscript.",
+    "Dimensions": "Folio H: 9 1/4 x W: 5 11/16 in. (23.5 x 14.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29005,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.634.binding_Ext_DD_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.634.binding_Ext_DD_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.634.binding_Ext_DD_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.634.binding_Ext_DD_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.634.binding_Ext_DD_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Iran; Sufism; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with black leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2341,
+        "LocationString": null
+    },
+    "ObjectID": 23579,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.634",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81406,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81408,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81409,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81410,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81411,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/23579",
+    "SortNumber": "W        634                                            ",
+    "Style": null,
+    "Title": "Collection of Poems (Divan)"
+}

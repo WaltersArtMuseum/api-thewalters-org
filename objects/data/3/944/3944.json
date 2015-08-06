@@ -1,0 +1,125 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Chang Ting",
+            "CreatorID": 4916,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquried by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "L: 42 5/8 x W: 18 1/4 in. (108.3 x 46.4 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23743,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.28_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.28_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.28_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.28_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.28_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23742,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.28_Det_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.28_Det_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.28_Det_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.28_Det_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.28_Det_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 23779,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS2_35.28_Mrk_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS2_35.28_Mrk_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS2_35.28_Mrk_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS2_35.28_Mrk_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS2_35.28_Mrk_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Inscription] At bottom; [Seal] At bottom]",
+    "Keywords": null,
+    "Medium": "colors on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2412,
+        "LocationString": null
+    },
+    "ObjectID": 3944,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.28",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 194]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3944",
+    "SortNumber": "    35    28                                            ",
+    "Style": null,
+    "Title": "Pheasants, Camelias and Plum-blossoms"
+}

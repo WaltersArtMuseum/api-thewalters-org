@@ -1,0 +1,131 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Byzantine",
+    "DateBeginYear": 501,
+    "DateEndYear": 600,
+    "DateText": "6th century",
+    "Description": null,
+    "Dimensions": "L: 2 3/4 x W: 1 1/16 x D: 13/16 in. (7 x 2.7 x 2 cm)",
+    "Dynasty": "Justinianic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        },
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\seas\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544965,
+            "GeographyTerm": "Mediterranean Sea",
+            "Latitude": "31 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.5,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30559,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2331_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2331_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2331_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2331_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2331_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 30558,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2331_DetA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2331_DetA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2331_DetA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2331_DetA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2331_DetA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast and chiselled bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 467,
+        "LocationString": null
+    },
+    "ObjectID": 38536,
+    "ObjectName": "buckles (strap accessories)",
+    "ObjectNumber": "54.2331",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Joseph Brummer, Paris and New York, by purchase; Sale, New York, Parke-Bernet, April 20, 1949, pt. 1, no. 258; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2010-12-17T09:35:54.373",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38536",
+    "SortNumber": "    54  2331                                            ",
+    "Style": null,
+    "Title": "Belt Buckle with Samson Fighting the Lion"
+}

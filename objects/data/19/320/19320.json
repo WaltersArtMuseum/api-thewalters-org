@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1718,
+    "DateEndYear": 1742,
+    "DateText": "ca. 1730",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 441, p. 552.",
+    "Dimensions": "Painted surface H: 32 1/16 x W: 24 15/16 in. (81.4 x 63.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37114,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1166_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1166_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1166_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1166_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1166_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] Name on stretcher: Francesco Maria Rondani",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3293,
+        "LocationString": null
+    },
+    "ObjectID": 19320,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1166",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 276, as Rondoni]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19320",
+    "SortNumber": "    37  1166                                            ",
+    "Style": null,
+    "Title": "The Penitent Magdalen"
+}

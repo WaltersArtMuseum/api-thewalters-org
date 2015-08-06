@@ -1,0 +1,136 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Li Shan",
+            "CreatorID": 17954,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1368,
+    "DateEndYear": 1644,
+    "DateText": "1368-1644",
+    "Description": null,
+    "Dimensions": "L:  64 1/2 x W: 18 1/16 in. (163.9 x 45.9 cm)",
+    "Dynasty": "Ming [Ming] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22956,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.11_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.11_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.11_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.11_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.11_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22955,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.11_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.11_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.11_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.11_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.11_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22957,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.11_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.11_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.11_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.11_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.11_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22958,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.11_MrkB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.11_MrkB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.11_MrkB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.11_MrkB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.11_MrkB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22959,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.11_MrkC_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.11_MrkC_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.11_MrkC_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.11_MrkC_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.11_MrkC_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": "[Inscription] At top; [Seal] At top; [Seal] At bottom",
+    "Keywords": null,
+    "Medium": "ink on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2413,
+        "LocationString": null
+    },
+    "ObjectID": 1463,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.11",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 121]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1463",
+    "SortNumber": "    35    11                                            ",
+    "Style": null,
+    "Title": "Winter Landscape in the Style of Li Shan"
+}

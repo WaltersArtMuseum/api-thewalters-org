@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 816,
+    "DateEndYear": 900,
+    "DateText": "3rd century AH/AD 9th century",
+    "Description": "This folio from Walters manuscript W.552 contains text in Kufic script.",
+    "Dimensions": "H: 5 5/16 x W: 8 1/4 in. (13.5 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum",
+            "ExhibBeginDate": "2007-02-03",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 3, 2007-April 29, 2007",
+            "ExhibEndDate": "2007-04-29",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 186,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum. The Walters Art Museum, Baltimore. 2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544950,
+            "GeographyTerm": "Middle East",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30718,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.552.13b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.552.13b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.552.13b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.552.13b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.552.13b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Abbasid; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Manuscript;  Prayer;  Qur`an; Central Arab Lands (Near East); Kufic; Early Abbasid script",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 76635,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.552.13B",
+    "OnView": 0,
+    "Period": "Abbasid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/76635",
+    "SortNumber": "W        552   13B                                      ",
+    "Style": null,
+    "Title": "Folio with Kufic Script"
+}

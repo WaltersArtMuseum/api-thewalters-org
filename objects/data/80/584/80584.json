@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1013,
+    "DateEndYear": 1050,
+    "DateText": "ca. 1025-1050",
+    "Description": "This folio shows the martyrdom of Saint Zotikos, a priest in the city of Constantinople who dedicated himself to helping the sick. Although he enjoyed the favor of the emperor Constantine I (r. 306-337), Zotikos drew the enmity of Constantine's son and successor, Constantius II (r. 337-361) who had the pries killed by being dragged behind mules. According to legend, Zotikos saved hundreds of lepers who had been condemned to die in order to avoid contamination.",
+    "Dimensions": "H: 11 13/16 x W: 9 1/8 in. (30 x 23.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Eureka! The Archimedes Palimpsest",
+            "ExhibBeginDate": "1999-06-20",
+            "ExhibBeginYear": 1999,
+            "ExhibDisplayDate": "June 20, 1999-January 3, 2000",
+            "ExhibEndDate": "2000-01-03",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 446,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Eureka! The Archimedes Palimpsest. The Walters Art Gallery, Baltimore; The Field Museum, Chicago. 1999-2000."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37604,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.521.50V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.521.50V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.521.50V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.521.50V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.521.50V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 25857,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.521.50V_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.521.50V_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.521.50V_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.521.50V_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.521.50V_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 25993,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.521.50V_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.521.50V_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.521.50V_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.521.50V_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.521.50V_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Theology",
+    "Medium": "ink and pigments on very high quality parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80584,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.521.50V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Library of the Greek Patriarchate, Alexandria (no. 32/33) [known to have been there in 1895 and 1901, but reported lost by 1914]; Henry Walters, Baltimore, 1930, by purchase [probably from Leon Gruel, Paris]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80584",
+    "SortNumber": "W        521   50V                                      ",
+    "Style": null,
+    "Title": "The Martyrdom of Saint Zotikos"
+}

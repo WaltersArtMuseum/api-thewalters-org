@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": null,
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": "During the 18th and 19th centuries, visitors to Rome frequently stopped in nearby Tivoli. Apart from the picturesque scenery highlights included the \"Temple of the Sibyl\" and the waterfalls.",
+    "Dimensions": "20 x 28 1/4 in. (50.8 x 71.76 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1435162,
+            "GeographyTerm": "Tivoli",
+            "Latitude": "41 58",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.966,
+            "Longitude": "012 48",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.8
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57320,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.939_Fnt_BW_T83.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.939_Fnt_BW_T83.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.939_Fnt_BW_T83.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.939_Fnt_BW_T83.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.939_Fnt_BW_T83.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3400,
+        "LocationString": null
+    },
+    "ObjectID": 38349,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.939",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": null,
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38349",
+    "SortNumber": "    37   939                                            ",
+    "Style": null,
+    "Title": "Tivoli"
+}

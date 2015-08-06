@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1902",
+    "Culture": null,
+    "DateBeginYear": 1510,
+    "DateEndYear": 1520,
+    "DateText": "1510-1520",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 187, pp. 277-278.",
+    "Dimensions": "Painted surface H: 23 1/4 x W: 18 1/2 x D: 1 1/16 in. (59.1 x 47 x 2.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Parma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439688,
+            "GeographyTerm": "Parma",
+            "Latitude": "44 48",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.8,
+            "Longitude": "010 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29282,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.523_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.523_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.523_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.523_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.523_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47736,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.523_XR_1957.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.523_XR_1957.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.523_XR_1957.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.523_XR_1957.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.523_XR_1957.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3263,
+        "LocationString": null
+    },
+    "ObjectID": 15547,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.523",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William Beckford, Fonthill Abbey [date and mode of acquisition unknown]; William M. Laffan [date and mode of acquisition unknown] [no. 55]; Henry Walters, Baltimore, 1902 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15547",
+    "SortNumber": "    37   523                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

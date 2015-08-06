@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Ottoman-Islamic",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1520,
+    "DateText": "early 16th century",
+    "Description": "Islamic religious buildings traditionally were lit with glass lamps, generally called mosque lamps, that hung from chains.  In 16th-century Turkey, it was common to make mosque lamps from glazed ceramic and to pair them with round or oval ornaments.  Such ceramic pieces were of little use as lighting fixtures.  They may have functioned, however, as acoustic devices, hung in groups to soften the echo of voices in the prayer hall.  Mosque lamps were also symbols of divine light, and, therefore, of God's presence in the place of prayer, while the ornamental spheres symbolized the orb of heaven.\r\n\r\nThis piece once hung with a lamp, possibly in either the mosque or mausoleum of Sultan Selim I in Istanbul.  The inscription around the body of the sphere is a hadith, or saying attributed to the prophet Muhammad: \"The world is only one hour, so hasten to prayer before dying and hasten to repent before death.\"\r\n",
+    "Dimensions": "5 1/8 x 5 15/16 in. (13 x 15.1 cm) (h. x diam.)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Here and the Hereafter: Images of Paradise in Islamic Art",
+            "ExhibBeginDate": "1991-03-16",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "March 16, 1991-September 6, 1991",
+            "ExhibEndDate": "1991-09-06",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 2991,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Here and the Hereafter: Images of Paradise in Islamic Art. Asia Society, New York; Bowdoin College Museum of Art, Brunswick; Hood Museum of Art, Hanover; University Art Gallery, University of California Berkeley, Berkeley; Springfield Museums, Springfield. 1991."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Bursa\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501462,
+            "GeographyTerm": "Iznik",
+            "Latitude": "40 27",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.45,
+            "Longitude": "029 43",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.716
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6474,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.1022_Prof_TR_T88II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.1022_Prof_TR_T88II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.1022_Prof_TR_T88II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.1022_Prof_TR_T88II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.1022_Prof_TR_T88II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] The world is only one hour, so hasten to prayer before dying and hasten to repent before death.",
+    "Keywords": null,
+    "Medium": "gilt on fritware with underglaze blue decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Art",
+        "LocationID": 3925,
+        "LocationString": null
+    },
+    "ObjectID": 27801,
+    "ObjectName": "lamps;ornaments",
+    "ObjectNumber": "48.1022",
+    "OnView": 1,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.067",
+    "Reign": "Yavuz Sultan Selim I (AD 1512-1520)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27801",
+    "SortNumber": "    48  1022                                            ",
+    "Style": "Iznik",
+    "Title": "Iznik Fritware Mosque Sphere"
+}

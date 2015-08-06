@@ -1,0 +1,106 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Robert L. Fox, 1990",
+    "Culture": "Islamic",
+    "DateBeginYear": 1853,
+    "DateEndYear": 1853,
+    "DateText": "1269 AH/AD 1853",
+    "Description": "This original black leather binding from Walters manuscript W.743 has no flap. The binding is decorated wtih gold-painted borders and a floral design as a centerpiece.",
+    "Dimensions": "Folio H: 6 5/16 x W: 4 5/16 in. (16 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33347,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.743.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.743.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.743.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.743.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.743.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33348,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.743.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.743.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.743.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.743.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.743.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33345,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.743.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.743.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.743.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.743.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.743.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33346,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.743.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.743.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.743.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.743.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.743.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Ottoman; Turkish; Book; Calligraphy; Codex; Illumination; Manuscript; Contemporary Binding; Turkey; Scripture",
+    "Medium": "black leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83121,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.743.binding",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Robert L. Fox [date and mode of acquisition unknown]; Walters Art Museum, 1990, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83121",
+    "SortNumber": "W        743binding                                     ",
+    "Style": null,
+    "Title": "Binding from Qur'an"
+}

@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Othlon of Regensburg (German, active ca. 1030-ca. 1050)",
+            "CreatorID": 8630,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1050,
+    "DateEndYear": 1199,
+    "DateText": "11th or 12th century with later additions and alterations",
+    "Description": "Because of its organic nature and tactile qualities, ivory was sometimes associated with flesh. The luxurious binding of a gospel book, probably originally made in the eleventh or twelfth century but heavily restored in the nineteenth century, contains ivory plaques depicting the Four Evangelists (the figure of Matthew is a nineteenth-century replacement.). The ivory plaques are placed between the arms of a silver filigree cross, whose flourishing pattern suggests teeming life, a reference to the everlasting life offered to humanity through Christ's Crucifixion. That event is depicted in gold leaf at the center of the cross, protected by a large rock crystal. In this example, the materials help the viewer to interpret the conceptual structure of the work. Whereas the figures of the Evangelists, the human transmitters of the gospels, are tangible and tactile, the image of the crucified Christ has a floating, ghostly quality, mediated and refracted by the curved surface of the crystal. Rock crystal was understood as frozen water and because of its transparency was associated with purity, hence with Christ: its dual nature as liquid and solid is invoked here to suggest Christ's status as hovering between the world of the flesh and that of the spirit.",
+    "Dimensions": "H: 11 5/8 x W: 9 1/16 x D: 4 1/8 in. (29.6 x 23 x 10.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Oberpfalz\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450581,
+            "GeographyTerm": "Regensburg",
+            "Latitude": "49 01",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.16,
+            "Longitude": "012 06",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.1
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Oberpfalz\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450581,
+            "GeographyTerm": "Regensburg",
+            "Latitude": "49 01",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.16,
+            "Longitude": "012 06",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.1
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55294,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.8.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.8.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.8.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.8.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.8.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        },
+        {
+            "ID": 52796,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.8_Back_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.8_Back_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.8_Back_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.8_Back_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.8_Back_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "book; writing; calligraphy; illustration; religion; prayer",
+    "Medium": "parchment bound between oak boards covered with leather, silk damask, silver filigree, gilded panels, four ivory panels (one modern) depicting the Evangelists, and incised gold leaf depicting the Crucifixion under convex rock crystal",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 91757,
+    "ObjectName": "illuminated manuscripts; bindings",
+    "ObjectNumber": "W.8.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Jacques Rosenthal [art dealer], Munich, early 20th century [mode of acquisition unknown]; Henry Walters, Baltimore, between 1925-1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91757",
+    "SortNumber": "W          8binding                                     ",
+    "Style": "Ottonian",
+    "Title": "Binding for the Mondsee Gospels and Treasure Binding with the Evangelists and Crucifixion"
+}

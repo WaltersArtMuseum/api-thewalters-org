@@ -1,0 +1,75 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 1767,
+    "DateEndYear": 1767,
+    "DateText": "1767",
+    "Description": "This unique vase is decorated with the \"bleu nouveau\" ground color, overlaid with an unusual gilt pattern.",
+    "Dimensions": "H: 13 1/4 in. (33.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29091,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.608_VwA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.608_VwA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.608_VwA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.608_VwA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.608_VwA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Factory Mark] Intertwined Lls;  [Date] Letter: O (1767)",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5322,
+        "LocationString": null
+    },
+    "ObjectID": 33167,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.608",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "E. M. Hodgkins Collection, Paris, no. 36 [date and mode of acquisition unknown];  A. Seligmann, Rey and Co., New York;  Henry Walters, Baltimore, 1928, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.987",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 21601,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/33167",
+    "SortNumber": "    48   608                                            ",
+    "Style": null,
+    "Title": "Vase (Vase \u00e0 oreilles nouveau)"
+}

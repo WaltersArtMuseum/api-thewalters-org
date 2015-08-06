@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Guido Durantino (Italian, active 1520-1576)",
+            "CreatorID": 3439,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1916",
+    "Culture": null,
+    "DateBeginYear": 1535,
+    "DateEndYear": 1535,
+    "DateText": "1535",
+    "Description": "This plate belongs to a large set of tableware commissioned by Duke Anne de Montmorency (1493-1567) from the Durantino workshop in 1535. The subject is taken from \"The Metamorphoses\" by the 1st-century Roman poet Ovid. Cupid, god of erotic love, tricks the god Apollo into falling in love with Daphne, daughter of the river-god Peneus. Apollo chases the frightened nymph until, when he is about to catch her, she comes to the river of her father (depicted here) and prays to him to save her. He changes her into a laurel tree, and the devastated Apollo makes a vow forever to venerate the tree that was once Daphne. The nymph was a traditional symbol of virtue.",
+    "Dimensions": "1 5/16 x 9 3/4 in. (3.4 x 24.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Le dressoir du prince, services d'apparat \u00e0 la Renaissance",
+            "ExhibBeginDate": "1995-10-18",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "October 18, 1995-February 19, 1996",
+            "ExhibEndDate": "1996-02-19",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2532,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Le dressoir du prince, services d'apparat \u00e0 la Renaissance. Mus\u00e9e national de la Renaissance, Ecouen. 1995-1996."
+        },
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6488,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.1368_Fnt_TR_T95III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.1368_Fnt_TR_T95III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.1368_Fnt_TR_T95III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.1368_Fnt_TR_T95III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.1368_Fnt_TR_T95III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46427,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1368_Bot_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1368_Bot_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1368_Bot_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1368_Bot_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1368_Bot_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Inscription] In the center, between the footring, in blue: Apollo Seguita / Daphne qual se / conuerh in Luaro\u00f7 / In botega (Maker's Mark: lowercase d crossed with a curving line moving from lower left to upper right) m\u00b0 Guido / durantino in / urbino",
+    "Keywords": "Apollo; bow; Peneus; daphne; heraldry; cupid",
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4795,
+        "LocationString": null
+    },
+    "ObjectID": 20880,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.1368",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Baron Seilli\u00e8re [date and mode of acquisition unknown] (?); T.B. Clarke [date and mode of acquisition unknown] [no. 609]; Henry Walters, Baltimore, 1916 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20880",
+    "SortNumber": "    48  1368                                            ",
+    "Style": null,
+    "Title": "Plate with Apollo and Daphne"
+}

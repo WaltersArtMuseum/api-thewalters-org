@@ -1,0 +1,869 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Circle of Ferrer Bassa (Spanish, ca. 1290-1348)",
+            "CreatorID": 15245,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Circle of Arnau Bassa (Spanish, active ca. 1345-1348)",
+            "CreatorID": 16223,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": "Spanish",
+    "DateBeginYear": 1328,
+    "DateEndYear": 1360,
+    "DateText": "ca. 1340-1348",
+    "Description": "The central scene of this altarpiece depicts the enthroned Madonna and Child flanked by angels. The Christ Child holds a tiny European goldfinch, a symbol of his resurrection. The bird is tethered, a reminder that, in the 14th century, such animals were kept as pets by children. Angels present Mary with chalices of white flowers, alluding to her purity. On the left appear the Annunciation and the Crucifixion, while Christ's Presentation in the Temple and the Coronation of the Virgin are on the right.\r\n\r\nThe delicate punch-work decoration and the slender, graceful figures reveal the influence of Sienese painting. Catalan artists learned the style and techniques of Italian painting by examining imported Italian works in local churches; some even traveled to Italy to perfect their craft.",
+    "Dimensions": "H: 50 1/4 \u00d7 W: 72 7/16 \u00d7 D: 1 9/16 in. (127.6 \u00d7 184 \u00d7 4 cm); Left panel H: 50 1/8 \u00d7 W: 17 15/16 \u00d7 D: 1 9/16 in. (127.3 \u00d7 45.6 \u00d7 4 cm); Center panel H: 50 1/16 \u00d7 W: 36 1/8 \u00d7 D: 1 3/8 in. (127.2 \u00d7 91.7 \u00d7 3.5 cm); Right panel H: 50 1/4 \u00d7 W: 18 \u00d7 D: 1 7/16 in. (127.6 \u00d7 45.7 \u00d7 3.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1444912,
+            "GeographyTerm": "Catalu\u00f1a",
+            "Latitude": "41 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.666,
+            "Longitude": "001 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1444912,
+            "GeographyTerm": "Catalu\u00f1a",
+            "Latitude": "41 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.666,
+            "Longitude": "001 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4062,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.468_Fnt_TR_T96III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.468_Fnt_TR_T96III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.468_Fnt_TR_T96III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.468_Fnt_TR_T96III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.468_Fnt_TR_T96III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 34976,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 34977,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 34978,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetC_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetC_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetC_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetC_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetC_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        },
+        {
+            "ID": 34979,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetD_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetD_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetD_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetD_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetD_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 10
+        },
+        {
+            "ID": 34980,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetE_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetE_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetE_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetE_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetE_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 11
+        },
+        {
+            "ID": 34981,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetF_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetF_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetF_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetF_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetF_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 12
+        },
+        {
+            "ID": 34982,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetG_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetG_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetG_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetG_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetG_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 13
+        },
+        {
+            "ID": 34983,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetH_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetH_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetH_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetH_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetH_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 14
+        },
+        {
+            "ID": 34984,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetI_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetI_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetI_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetI_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetI_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 15
+        },
+        {
+            "ID": 34985,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetJ_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetJ_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetJ_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetJ_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetJ_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 16
+        },
+        {
+            "ID": 34986,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetK_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetK_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetK_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetK_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetK_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 17
+        },
+        {
+            "ID": 34987,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetL_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetL_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetL_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetL_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetL_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 18
+        },
+        {
+            "ID": 34988,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetM_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetM_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetM_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetM_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetM_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 19
+        },
+        {
+            "ID": 34989,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetN_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetN_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetN_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetN_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetN_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 20
+        },
+        {
+            "ID": 34990,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetO_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetO_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetO_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetO_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetO_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 21
+        },
+        {
+            "ID": 34991,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetP_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetP_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetP_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetP_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetP_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 22
+        },
+        {
+            "ID": 34992,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetQ_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetQ_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetQ_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetQ_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetQ_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 23
+        },
+        {
+            "ID": 34993,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetR_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetR_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetR_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetR_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetR_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 24
+        },
+        {
+            "ID": 34994,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetS_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetS_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetS_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetS_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATCtrDetS_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 25
+        },
+        {
+            "ID": 34995,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATFnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATFnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATFnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATFnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATFnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 26
+        },
+        {
+            "ID": 34996,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLft_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLft_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLft_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLft_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLft_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 27
+        },
+        {
+            "ID": 34997,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftBot_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftBot_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftBot_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftBot_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftBot_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 28
+        },
+        {
+            "ID": 34999,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 30
+        },
+        {
+            "ID": 35000,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 31
+        },
+        {
+            "ID": 35001,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetC_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetC_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetC_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetC_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetC_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 32
+        },
+        {
+            "ID": 35002,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetD_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetD_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetD_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetD_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetD_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 33
+        },
+        {
+            "ID": 35003,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetE_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetE_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetE_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetE_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetE_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 34
+        },
+        {
+            "ID": 35004,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetF_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetF_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetF_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetF_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetF_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 35
+        },
+        {
+            "ID": 35005,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetG_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetG_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetG_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetG_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetG_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 36
+        },
+        {
+            "ID": 35006,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetH_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetH_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetH_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetH_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetH_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 37
+        },
+        {
+            "ID": 35007,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetI_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetI_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetI_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetI_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetI_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 38
+        },
+        {
+            "ID": 35008,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetJ_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetJ_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetJ_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetJ_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetJ_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 39
+        },
+        {
+            "ID": 35009,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetK_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetK_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetK_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetK_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetK_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 40
+        },
+        {
+            "ID": 35010,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetL_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetL_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetL_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetL_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetL_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 41
+        },
+        {
+            "ID": 35011,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetM_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetM_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetM_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetM_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetM_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 42
+        },
+        {
+            "ID": 35012,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetN_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetN_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetN_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetN_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetN_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 43
+        },
+        {
+            "ID": 35013,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetO_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetO_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetO_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetO_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetO_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 44
+        },
+        {
+            "ID": 35014,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetP_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetP_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetP_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetP_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetP_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 45
+        },
+        {
+            "ID": 35015,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftDetQ_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftDetQ_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftDetQ_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftDetQ_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftDetQ_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 46
+        },
+        {
+            "ID": 35016,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATLftTop_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATLftTop_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATLftTop_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATLftTop_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATLftTop_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 47
+        },
+        {
+            "ID": 35017,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 48
+        },
+        {
+            "ID": 35018,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtBot_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtBot_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtBot_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtBot_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtBot_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 49
+        },
+        {
+            "ID": 35020,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 51
+        },
+        {
+            "ID": 35021,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 52
+        },
+        {
+            "ID": 35022,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetC_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetC_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetC_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetC_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetC_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 53
+        },
+        {
+            "ID": 35023,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetD_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetD_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetD_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetD_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetD_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 54
+        },
+        {
+            "ID": 35024,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetE_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetE_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetE_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetE_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetE_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 55
+        },
+        {
+            "ID": 35025,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetF_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetF_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetF_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetF_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetF_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 56
+        },
+        {
+            "ID": 35026,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetG_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetG_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetG_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetG_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetG_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 57
+        },
+        {
+            "ID": 35027,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetH_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetH_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetH_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetH_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetH_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 58
+        },
+        {
+            "ID": 35028,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetI_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetI_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetI_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetI_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetI_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 59
+        },
+        {
+            "ID": 35029,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetJ_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetJ_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetJ_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetJ_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetJ_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 60
+        },
+        {
+            "ID": 35030,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetK_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetK_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetK_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetK_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetK_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 61
+        },
+        {
+            "ID": 35031,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetL_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetL_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetL_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetL_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetL_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 62
+        },
+        {
+            "ID": 35032,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetM_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetM_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetM_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetM_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetM_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 63
+        },
+        {
+            "ID": 35033,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetN_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetN_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetN_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetN_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetN_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 64
+        },
+        {
+            "ID": 35034,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetO_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetO_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetO_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetO_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetO_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 65
+        },
+        {
+            "ID": 35035,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetP_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetP_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetP_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetP_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetP_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 66
+        },
+        {
+            "ID": 35036,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetQ_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetQ_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetQ_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetQ_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetQ_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 67
+        },
+        {
+            "ID": 35037,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetR_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetR_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetR_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetR_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetR_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 68
+        },
+        {
+            "ID": 35038,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetS_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetS_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetS_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetS_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetS_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 69
+        },
+        {
+            "ID": 35039,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetT_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetT_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetT_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetT_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetT_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 70
+        },
+        {
+            "ID": 35040,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtDetU_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtDetU_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtDetU_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtDetU_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtDetU_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 71
+        },
+        {
+            "ID": 35041,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.468_ATRtTop_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.468_ATRtTop_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.468_ATRtTop_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.468_ATRtTop_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.468_ATRtTop_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 72
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and gold leaf on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 13th-15th Century Italian Art",
+        "LocationID": 4573,
+        "LocationString": null
+    },
+    "ObjectID": 1582,
+    "ObjectName": "triptychs; paintings",
+    "ObjectNumber": "37.468",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore, 1931 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.567",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1582",
+    "SortNumber": "    37   468                                            ",
+    "Style": "Gothic",
+    "Title": "Triptych with Madonna and Child with the Crucifixion and the Annunciation"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "European",
+            "CreatorID": 6985,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Richard H. Randall, Jr., 1970",
+    "Culture": null,
+    "DateBeginYear": -5012,
+    "DateEndYear": -4988,
+    "DateText": "ca. 5000 BC",
+    "Description": "The pointed end of this piece is broken off.",
+    "Dimensions": "3 3/16 in. (8.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\rivers\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1431251,
+            "GeographyTerm": "Dordogne",
+            "Latitude": "45 03",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.5,
+            "Longitude": "000 35",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4452,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_41.254_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_41.254_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_41.254_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_41.254_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_41.254_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "polished amphibolite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Chamber of Wonders",
+        "LocationID": 4426,
+        "LocationString": null
+    },
+    "ObjectID": 5597,
+    "ObjectName": "axes (tools)",
+    "ObjectNumber": "41.254",
+    "OnView": 1,
+    "Period": "Neolithic",
+    "Provenance": "Richard H. Randall, Jr. [date and mode of acquisition unknown]; Walters Art Museum, 1970, by gift.",
+    "PublicAccessDate": "2008-09-25T17:13:39.517",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5597",
+    "SortNumber": "    41   254                                            ",
+    "Style": null,
+    "Title": "Neolithic Axe Head"
+}

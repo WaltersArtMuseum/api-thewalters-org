@@ -1,0 +1,100 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Netherlandish",
+            "CreatorID": 15361,
+            "Gender": null,
+            "Role": "Sculptor"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1919",
+    "Culture": null,
+    "DateBeginYear": 1463,
+    "DateEndYear": 1487,
+    "DateText": "ca. 1475",
+    "Description": "In this group from a carved altarpiece (Walters 61.148), Mary swoons in a visual echo of the dead body of Christ - her suffering paralleling his suffering.  The figures loosely derived from the great painter Rogier van der Weyden's famous altarpiece of the Deposition, of around 1442 for the Church of Our Lady Outside the Walls in Louvain (in present day Belgium). This piece was carved at the same time as its companion piece focused on the dead body of Christ (Walters 61.148). \r\n  \r\nVan der Weyden set out to imitate the three-dimensional modeling and shallow box-like space of contemporary sculpted wooden altarpieces.  The sculptural quality of his painted masterpiece made it in turn an especially effective model for sculptors.",
+    "Dimensions": "12 13/16 x 15 9/16 x 4 1/2 in. (32.5 x 39.5 x 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salute to Belgium",
+            "ExhibBeginDate": "1980-06-22",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "June 22, 1980-September 7, 1980",
+            "ExhibEndDate": "1980-09-07",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2674,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salute to Belgium. The Walters Art Gallery, Baltimore. 1980."
+        },
+        {
+            "ExhTitle": "Rogier van der Weyden",
+            "ExhibBeginDate": "1979-10-06",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 6, 1979-November 18, 1979",
+            "ExhibEndDate": "1979-11-18",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 2870,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Rogier van der Weyden. Mus\u00e9e Communal de Bruxelles, Brussels. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Bruxelles\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1422033,
+            "GeographyTerm": "Bruxelles",
+            "Latitude": "50 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.833,
+            "Longitude": "004 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5896,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_61.147_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_61.147_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_61.147_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_61.147_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_61.147_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on wood (oak)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: 15th-Century Art of Northern Europe",
+        "LocationID": 3907,
+        "LocationString": null
+    },
+    "ObjectID": 4675,
+    "ObjectName": "relief",
+    "ObjectNumber": "61.147",
+    "OnView": 1,
+    "Period": "Late Medieval",
+    "Provenance": "Arnold Seligmann, Rey and Co., New York; Henry Walters, Baltimore,  December 1919, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:00.427",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 20282,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4675",
+    "SortNumber": "    61   147                                            ",
+    "Style": "Gothic",
+    "Title": "Figures from a Deposition"
+}

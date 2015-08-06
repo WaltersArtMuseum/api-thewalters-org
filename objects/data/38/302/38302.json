@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "F\u00e9lix Fran\u00e7ois Georges Philibert Ziem (French, 1821-1911)",
+            "CreatorID": 1943,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1864",
+    "Culture": null,
+    "DateBeginYear": 1852,
+    "DateEndYear": 1864,
+    "DateText": "ca. 1864",
+    "Description": "Dominating the right foreground are a gondola and a moored sailing vessel. Left, in the middle ground, are other craft. The buildings of the Riva degli Schiavoni are visible in the background.\r\n\r\nF\u00e9lix Ziem was active in the Paris Salon in 1849.  He was influenced by the Barbizon school and acquired their naturalistic approach.",
+    "Dimensions": "H: 16 15/16 x W: 21 7/8 in. (43 x 55.5 cm); Framed H: 28 3/8 \u00d7 W: 33 1/16 \u00d7 D: 3 15/16 in. (72 \u00d7 84 \u00d7 10 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 59057,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.157_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.157_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.157_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.157_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.157_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 59056,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.157_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.157_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.157_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.157_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.157_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 59055,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.157_BackCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.157_BackCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.157_BackCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.157_BackCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.157_BackCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 24668,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.157_Fnt_BW_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.157_Fnt_BW_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.157_Fnt_BW_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.157_Fnt_BW_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.157_Fnt_BW_T84.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] In dark brown at lower left: Ziem; [Stencil] On back of canvas: Arpentier-- Deliot, Me de Couleurs, Boulevard Montmartre, Paris",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 4011,
+        "LocationString": null
+    },
+    "ObjectID": 38302,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.157",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1864, by purchase [from the artist]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-04-13T16:18:25.693",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38302",
+    "SortNumber": "    37   157                                            ",
+    "Style": null,
+    "Title": "Venice, Morning"
+}

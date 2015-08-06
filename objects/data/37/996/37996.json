@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": null,
+    "DateBeginYear": -1812,
+    "DateEndYear": -1750,
+    "DateText": "ca. 1800-1750 BCE",
+    "Description": "Resembling the protective deity Bes, this benevolent demon holds a snake in each hand, symbolizing his ability to ward off the bites and stings of venomous creatures. The figure has the proportions of a dwarf, the head, mane and tail of a lion, and human eyes. Similar figures to this one were depicted on magical wands of the Middle Kingdom. The details of the figure, such as the eyes, mane, nipples, and the snakes are marked with dark blue lines and dots.",
+    "Dimensions": "6 3/4 x 3 x 1 15/16 in. (17.2 x 7.6 x 4.9 cm)",
+    "Dynasty": "13th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Qina\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544563,
+            "GeographyTerm": "Thebes",
+            "Latitude": "25 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 25.683,
+            "Longitude": "032 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8496,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.420_3Qtr_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.420_3Qtr_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.420_3Qtr_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.420_3Qtr_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.420_3Qtr_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8498,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.420_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.420_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.420_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.420_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.420_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8497,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.420_Back_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.420_Back_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.420_Back_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.420_Back_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.420_Back_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience with blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3769,
+        "LocationString": null
+    },
+    "ObjectID": 37996,
+    "ObjectName": "statuettes; figurines",
+    "ObjectNumber": "48.420",
+    "OnView": 1,
+    "Period": "Middle Kingdom, 13th dynasty",
+    "Provenance": "William MacGregor, Tamworth, Staffordshire; Sale, Sotheby, Wilkinson & Hodge, London, June 26-29 and July 4-6, 1922; Henry Walters, Baltimore, 1922, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.017",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37996",
+    "SortNumber": "    48   420                                            ",
+    "Style": null,
+    "Title": "Protective Figure of Aha-Bes"
+}

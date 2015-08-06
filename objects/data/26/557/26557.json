@@ -1,0 +1,134 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Isidore of Seville (Spain, 570-636)",
+            "CreatorID": 5316,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1125,
+    "DateEndYear": 1175,
+    "DateText": "mid 12th century",
+    "Description": "This modest German monastic textbook from the middle of the twelfth century survives in excellent condition in its original binding. Isidore of Seville, who died in 636, was the last of the great Latin fathers, whose works became core to the medieval monastic curriculum. The Synonyma, also known as the Liber lamentationum, starts as a dialogue between Man and Reason, in which Reason tells Man how he can reach eternal joy. The second part is a discussion of vices and virtues. The manuscript contains seventy folios and four decorated or inhabited initials.",
+    "Dimensions": "H: 6 7/8 x W: 5 1/16 in. (17.5 x 12.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Covered in Meaning: Book Bindings from The Walters",
+            "ExhibBeginDate": "1997-10-18",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "October 18, 1997-January 11, 1998",
+            "ExhibEndDate": "1998-01-11",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 213,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Covered in Meaning: Book Bindings from The Walters. The Walters Art Gallery, Baltimore. 1997-1998."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40147,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.13.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.13.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.13.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.13.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.13.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Walters Art Museum; Original binding; Binding; Caroline minuscule; Literature -- Prose; Philosophy",
+    "Medium": "heavy darkened parchment between alum-tawed skin over beech boards with a later brass clasp; sewn on two slit, rolled tawed straps",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2327,
+        "LocationString": null
+    },
+    "ObjectID": 26557,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.13",
+    "OnView": 0,
+    "Period": "Romanesque",
+    "Provenance": "German monastic institution [ex libris, fol. 2r, \"Iste libellus pertinet ad monasterium sanctum in [......]\"]; Sir Thomas Phillipps, ca. 1860-1865 [mode of acquisition unknown] [ no. 22130, (fol. 1r) ]; Gruel and Engelmann collection, no. 130, [date and mode of acquisition unknown] [bookplate on inside upper board]; Henry Walters, Baltimore, June 9, 1903, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 88703,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88704,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88705,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88706,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88707,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26557",
+    "SortNumber": "W         13                                            ",
+    "Style": null,
+    "Title": "Synonyms of Isidore of Seville"
+}

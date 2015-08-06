@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1540,
+    "DateEndYear": 1550,
+    "DateText": "1540-1550",
+    "Description": "This plate with a depressed center depicts Hannibal sacking Venusia. It is painted in blue, copper-green, yellow, ochre, manganese, grey, tan, black and opaque white. In the foreground, Hannibal on a rearing white horse moves towards the right where two soldiers are crouched over booty. In the background, a walled town with a procession of women and heavily laden soldiers are advancing from a central portal. Soldiers with banners are still storming the left wall, and others are seen within the city at the right. The back is white stained with green and ornamented with two yellow-ochre circles. In the center, in blue, is \"74/Annibale Vincuuia \u00e0 sacco/mise/Mancando de la fe che le promise.\"",
+    "Dimensions": "1 7/16 x 9 9/16 in. (3.6 x 24.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23021,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1360_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1360_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1360_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1360_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1360_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46423,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1360_Bot_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1360_Bot_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1360_Bot_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1360_Bot_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1360_Bot_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] On the back, in the footring, in blue: \u02c6 74 \u02c6 / Annibale Vincuuia \u00e0 sacco / mise / Mancando de la fe che le promise",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5624,
+        "LocationString": null
+    },
+    "ObjectID": 32699,
+    "ObjectName": "plates (dishes)",
+    "ObjectNumber": "48.1360",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-29T13:41:05.817",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32699",
+    "SortNumber": "    48  1360                                            ",
+    "Style": "Istoriato",
+    "Title": "Plate with Hannibal Sacking Venusia"
+}

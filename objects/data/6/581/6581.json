@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ishiguro Masayoshi I (Japanese, 1775-1862)",
+            "CreatorID": 4500,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1862,
+    "DateText": "1775-1862",
+    "Description": "Two sparrows are on the front of the fuchi. On either side are autumn flowers, including bush clover, pampas grass, mist flowers, and chrysanthemums. Another sparrow is on the reverse. This is part of a set with Walters 51.1027.",
+    "Dimensions": "1 5/16 in. (3.4 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15340,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1026_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1026_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1026_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1026_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1026_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15339,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1026_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1026_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1026_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1026_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1026_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15341,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1026_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1026_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1026_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1026_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1026_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u77f3\u9ed2\u653f\u7f8e; [Translation] Ishiguro Masayoshi",
+    "Keywords": "animal; bird; sparrow; plant; flower; autumn",
+    "Medium": "shakudo, gold, copper, silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 6581,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1026",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-14T09:53:54.477",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 33541,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/6581",
+    "SortNumber": "    51  1026                                            ",
+    "Style": null,
+    "Title": "Fuchi with Sparrows and Autumn Flowers"
+}

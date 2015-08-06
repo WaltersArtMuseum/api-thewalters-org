@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles Camino (French, 1824-1888)",
+            "CreatorID": 4750,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Commissioned by William T. Walters, 1884",
+    "Culture": null,
+    "DateBeginYear": 1884,
+    "DateEndYear": 1884,
+    "DateText": "1884",
+    "Description": null,
+    "Dimensions": "H: 14 1/2 x W: 11 in. (36.8 x 28 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Untamed: The Art of Antoine-Louis Barye",
+            "ExhibBeginDate": "2007-02-11",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 11, 2007-April 13, 2008",
+            "ExhibEndDate": "2008-04-13",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 1956,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Untamed: The Art of Antoine-Louis Barye. The Walters Art Museum, Baltimore; Philbrook Museum of Art, Tulsa; The Henry Morrison Flagler Museum, Palm Beach. 2007-2008."
+        },
+        {
+            "ExhTitle": "The Works of Antoine-Louis Barye",
+            "ExhibBeginDate": "1889-11-15",
+            "ExhibBeginYear": 1889,
+            "ExhibDisplayDate": "November 1889-1890",
+            "ExhibEndDate": "1890-01",
+            "ExhibEndYear": 1890,
+            "ExhibitionID": 631,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Works of Antoine-Louis Barye. American Art Gallery (New York), New York. 1889-1890."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4146,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.999_Fnt_TR_T05IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.999_Fnt_TR_T05IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.999_Fnt_TR_T05IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.999_Fnt_TR_T05IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.999_Fnt_TR_T05IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"C. Camino/d'apres une lith/de J. Gigoux\" in red watercolor, lower right",
+    "Keywords": "man; artist; portrait",
+    "Medium": "watercolor over charcoal underdrawing on slightly textured, moderately thick, cream wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3378,
+        "LocationString": null
+    },
+    "ObjectID": 26911,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.999",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1884, by commission [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.753",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26911",
+    "SortNumber": "    37   999                                            ",
+    "Style": null,
+    "Title": "Portrait of A. L. Barye"
+}

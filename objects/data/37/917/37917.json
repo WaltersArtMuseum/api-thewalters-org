@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": "Roman",
+    "DateBeginYear": -50,
+    "DateEndYear": 200,
+    "DateText": "50 BC-AD 2nd century",
+    "Description": "The woman in this mummy portrait wears a gilt wreath in her hair and is on a gilt background. There is cloth stuck on the top near the edges.",
+    "Dimensions": "L: 16 9/16 in. (42 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62226,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_32.7_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_32.7_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_32.7_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_32.7_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_32.7_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "encaustic (?) on panel, cloth",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 37917,
+    "ObjectName": "mummy portraits; death masks",
+    "ObjectNumber": "32.7",
+    "OnView": 0,
+    "Period": "Roman Imperial",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown] [as from Fayum]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37917",
+    "SortNumber": "    32     7                                            ",
+    "Style": null,
+    "Title": "Mummy Portrait of a Woman"
+}

@@ -1,0 +1,173 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1926",
+    "Culture": "Anglo-Norman",
+    "DateBeginYear": 1100,
+    "DateEndYear": 1125,
+    "DateText": "early 12th century",
+    "Description": "This semi-circular ivory plaque is carved with the biblical narrative of Genesis 4:2-4, describing the offerings to God made by the sons of Adam and Eve. Above, the Hand of God emerges from a cloud to bless Abel, who stands at the left holding a lamb, while at the right, Cain and his offering of a sheaf of wheat are not blessed. Scenes of the Sacrifice of Cain and Abel were often used on portable altars to symbolize the offering of the Eucharist (the bread and the wine representing Christ's body and blood) during the Mass. The style of the figures and drapery is similar to manuscript illuminations from Jumi\u00e8ges in northern France and St. Alban's in England.",
+    "Dimensions": "2 1/2 x 4 1/8 x 9/16 in. (6.3 x 10.5 x 1.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Arts of the Middle Ages",
+            "ExhibBeginDate": "1940-02-17",
+            "ExhibBeginYear": 1940,
+            "ExhibDisplayDate": "February 17, 1940-March 24, 1940",
+            "ExhibEndDate": "1940-03-24",
+            "ExhibEndYear": 1940,
+            "ExhibitionID": 192,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Arts of the Middle Ages. Museum of Fine Arts, Boston, Boston. 1940."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36516,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_71.289_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_71.289_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_71.289_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_71.289_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_71.289_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 5997,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_71.289_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_71.289_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_71.289_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_71.289_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_71.289_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36514,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_71.289_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_71.289_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_71.289_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_71.289_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_71.289_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 36515,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_71.289_Bot_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_71.289_Bot_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_71.289_Bot_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_71.289_Bot_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_71.289_Bot_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 36517,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_71.289_Top_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_71.289_Top_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_71.289_Top_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_71.289_Top_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_71.289_Top_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Migration and Early Medieval Art",
+        "LocationID": 3851,
+        "LocationString": null
+    },
+    "ObjectID": 15286,
+    "ObjectName": "plaques;altars",
+    "ObjectNumber": "71.289",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Count Auguste de Bastard [date and mode of acquisition unknown]; Henri Daguerre, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1926, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.817",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15286",
+    "SortNumber": "    71   289                                            ",
+    "Style": "Romanesque",
+    "Title": "The Sacrifice of Cain and Abel"
+}

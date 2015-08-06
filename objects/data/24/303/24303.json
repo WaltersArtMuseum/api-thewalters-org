@@ -1,0 +1,95 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This piece has a design carved in low relief.",
+    "Dimensions": "2 3/8 in. (6.1 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Chinese Snuff Bottles",
+            "ExhibBeginDate": "2000-10-25",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 25, 2000-February 5, 2001",
+            "ExhibEndDate": "2001-02-05",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 76,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Chinese Snuff Bottles. The Walters Art Gallery, Baltimore. 2000-2001."
+        },
+        {
+            "ExhTitle": "Snuff Bottles",
+            "ExhibBeginDate": "1979-08-01",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "August 1, 1979-December 16, 1979",
+            "ExhibEndDate": "1979-12-16",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 2867,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Snuff Bottles. Flint Institute of Arts, Flint. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49794,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/RG_41.177_VwA_DD_05212013.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/RG_41.177_VwA_DD_05212013.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/RG_41.177_VwA_DD_05212013.jpg",
+                "Small": "http://static.thewalters.org/images/RG_41.177_VwA_DD_05212013.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/RG_41.177_VwA_DD_05212013.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "turquoise",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2032,
+        "LocationString": null
+    },
+    "ObjectID": 24303,
+    "ObjectName": "snuff bottles; fragments",
+    "ObjectNumber": "41.177",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24303",
+    "SortNumber": "    41   177                                            ",
+    "Style": null,
+    "Title": "Fragments of a Vessel with Archaic Designs, Reconstituted as a Snuff Bottle"
+}

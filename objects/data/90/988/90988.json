@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Cenni di Francesco di Ser Cenni (Italian, active 1369-1415)",
+            "CreatorID": 4868,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1901",
+    "Culture": null,
+    "DateBeginYear": 1368,
+    "DateEndYear": 1392,
+    "DateText": "ca. 1380",
+    "Description": null,
+    "Dimensions": "H: 23 13/16 x W: 16 7/16 in. (60.5 x 41.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48194,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.153.12V_Fp_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.153.12V_Fp_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.153.12V_Fp_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.153.12V_Fp_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.153.12V_Fp_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90988,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.153.12V",
+    "OnView": 0,
+    "Period": "Medieval-early Renaissance",
+    "Provenance": "Chapel of Saint Nicholas of Bari of San Pier Maggiore, Florence; Marshall C. Lefferts [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1901, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90988",
+    "SortNumber": "W        153   12V                                      ",
+    "Style": "Gothic",
+    "Title": "Leaf from Antiphonary"
+}

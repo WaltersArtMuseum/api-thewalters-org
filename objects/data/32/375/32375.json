@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Masaki Sozaburo (Japanese, active 1st half 19th century)",
+            "CreatorID": 5096,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1850,
+    "DateText": "1st half 19th century",
+    "Description": "With sculpted figures of Jurojin with a crane and a tortoise.",
+    "Dimensions": "H: 1 7/8 x W: 1 13/16 in. (4.7 x 4.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8604,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.357_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.357_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.357_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.357_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.357_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8605,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.357_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.357_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.357_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.357_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.357_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Seal] Masaki",
+    "Keywords": null,
+    "Medium": "stoneware with Shino-style feldspathic glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2052,
+        "LocationString": null
+    },
+    "ObjectID": 32375,
+    "ObjectName": "incense containers; kogo",
+    "ObjectNumber": "49.357",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32375",
+    "SortNumber": "    49   357                                            ",
+    "Style": "Seto, Masaki ware",
+    "Title": "Incense Container"
+}

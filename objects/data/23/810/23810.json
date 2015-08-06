@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Randolph Mordecai, 1949",
+    "Culture": null,
+    "DateBeginYear": 1661,
+    "DateEndYear": 1722,
+    "DateText": "1661-1722",
+    "Description": "This painting is executed in a Ming [Ming] Dynasty style.",
+    "Dimensions": null,
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46295,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.108_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.108_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.108_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.108_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.108_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3408,
+        "LocationString": null
+    },
+    "ObjectID": 23810,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.108",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Randolph Mordecai [date and mode of acquisition unknown]; Walters Art Museum, 1949, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": "Kangxi [K'ang-hsi] (1661-1722)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23810",
+    "SortNumber": "    35   108                                            ",
+    "Style": null,
+    "Title": "Mandarin Ducks and Tree Peonies"
+}

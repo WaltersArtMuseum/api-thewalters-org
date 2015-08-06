@@ -1,0 +1,125 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of the Older Prayerbook of Maximilian I (South Netherlandish, active ca. 1480-1515)",
+            "CreatorID": 7281,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Jean de Wavrin (French, died ca. 1474)",
+            "CreatorID": 7280,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1475,
+    "DateText": "1475",
+    "Description": null,
+    "Dimensions": "16 15/16 x 13 3/8 in. (43 x 34 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Decadent Decades: The Medieval Clothes Horse",
+            "ExhibBeginDate": "1989-01-10",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "January 10, 1989-April 9, 1989",
+            "ExhibEndDate": "1989-04-09",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2314,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Decadent Decades: The Medieval Clothes Horse. The Walters Art Gallery, Baltimore. 1989."
+        },
+        {
+            "ExhTitle": "Text and Image: Medieval Book Illustration",
+            "ExhibBeginDate": "1986-02-11",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "February 11, 1986-March 23, 1986",
+            "ExhibEndDate": "1986-03-23",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2872,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Text and Image: Medieval Book Illustration. The Walters Art Gallery, Baltimore. 1986."
+        },
+        {
+            "ExhTitle": "Outdoor Space in Medieval Book Illumination",
+            "ExhibBeginDate": "1990-07-10",
+            "ExhibBeginYear": 1990,
+            "ExhibDisplayDate": "July 10, 1990-October 7, 1990",
+            "ExhibEndDate": "1990-10-07",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 47,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Outdoor Space in Medieval Book Illumination. The Walters Art Gallery, Baltimore. 1990."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Oost-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421794,
+            "GeographyTerm": "Gent",
+            "Latitude": "51 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.33,
+            "Longitude": "003 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.7
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Oost-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421794,
+            "GeographyTerm": "Gent",
+            "Latitude": "51 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.33,
+            "Longitude": "003 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11483,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.201.147R_OpnObv_TR_T92II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.201.147R_OpnObv_TR_T92II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.201.147R_OpnObv_TR_T92II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.201.147R_OpnObv_TR_T92II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.201.147R_OpnObv_TR_T92II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "book; writing; calligraphy; illustration; religion; prayer",
+    "Medium": "tempera on vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 3104,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.201.147R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Olschki Collection [no. 35396]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3104",
+    "SortNumber": "W        201  147R                                      ",
+    "Style": null,
+    "Title": "Negotiations for a Peace Treaty"
+}

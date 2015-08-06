@@ -1,0 +1,147 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Firdawsi (Persian, died 411-416 AH/AD 1020-1025)",
+            "CreatorID": 7768,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1618,
+    "DateEndYear": 1900,
+    "DateText": "Manuscript: 1028 AH/AD 1618-1619; Illustrations: 13th century AH/AD 19th century",
+    "Description": "Walters manuscript W.601 is an illuminated and illustrated Safavid copy of the Shahnamah (Book of kings) by Firdawsi (died 411 or 416 AH/AD 1020-1025), dated 1028 AH/AD 1618-1619. The text, which is incomplete, begins with the preface (dibachah), composed on the order of Baysunghur. It is written in black Nasta'liq script with chapter/section headings in red. The manuscript contains 14 illustrations that appear to be later additions and may have been executed in India or Iran. The black leather binding is modern.",
+    "Dimensions": "Folio H: 10 1/4 x W: 6 1/2 in. (26 x 16.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33399,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.601.binding_TopExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.601.binding_TopExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.601.binding_TopExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.601.binding_TopExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.601.binding_TopExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; India; Iran; History; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with black leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2335,
+        "LocationString": null
+    },
+    "ObjectID": 4687,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.601",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83490,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83491,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83492,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83493,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83494,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83495,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83496,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83497,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83498,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83499,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83500,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83501,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83502,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83503,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83504,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83505,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83506,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83507,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83508,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4687",
+    "SortNumber": "W        601                                            ",
+    "Style": null,
+    "Title": "Book of Kings (Shahnama)"
+}

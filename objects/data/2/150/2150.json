@@ -1,0 +1,109 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "`Uthman ibn Mansur",
+            "CreatorID": 16707,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Kemalpasazade (died 940 AH/AD1533)",
+            "CreatorID": 15706,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1558,
+    "DateEndYear": 1558,
+    "DateText": "966 AH/AD 1558",
+    "Description": "Walters manuscript W.584 is a gloss (hashiyah) by Kemalpasazade (died 940 AH/AD 1533) on the commentary on the Qur'an composed by 'Abd Allah al-Baydawi (died ca. 685 AH/AD 1286) and entitled Anwar al-tanzil. Transcribed in 966 AH/AD 1558, this elegant copy was made from the author's holograph by 'Uthman ibn Mansur.\r\n\r\nThis Ottoman manuscript, Walters W.584, is a gloss (hashiyah) by Kemalpasazade (died 940 AH/AD 1533) on the commentary on the Qur'an composed by 'Abd Allah al-Baydawi (died ca. 685 AH/AD 1286) entitled Anwar al-tanzil. Transcribed in 966 AH/AD 1558, the present copy was made from the author's holograph by 'Uthman ibn Mansur. The text is written in Turkish Nasta'liq script in black ink with the words qala and aqulu in red, and it opens with an illuminated incipit with titlepiece inscribed with the doxological formula (basmalah). The dark brown leather binding has a central lobed oval with pendants and cornerpieces with arabesque designs on a gold ground.",
+    "Dimensions": "Folio H: 8 1/4 x W: 5 1/8 in. (21 x 13 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23258,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.584.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.584.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.584.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.584.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.584.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Ottoman; Turkish; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Manuscript; Turkey; History; Scripture",
+    "Medium": "ink and pigments on laid European paper covered with dark-brown leather with gold and red leather doublures",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2334,
+        "LocationString": null
+    },
+    "ObjectID": 2150,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.584",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "'Ali [date and mode of acquisition unknown] [Ex libiris (min kutub) on fol. 1a]; Vizier al-Shahid 'Ali Pasha, 1130 AH/AD 1717 [mode of acquisition unknown] [waqf seal on fol. 1a with the original shelf mark, 191, beneath. Same impression on fols. 1b, 2a, 156b];  Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79978,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79979,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79980,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79981,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82743,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/2150",
+    "SortNumber": "W        584                                            ",
+    "Style": null,
+    "Title": "Gloss on Commentary on the Qur'an"
+}

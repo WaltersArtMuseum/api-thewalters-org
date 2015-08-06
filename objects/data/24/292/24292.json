@@ -1,0 +1,131 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Adolphe Rajon (French, 1842/3-1888)",
+            "CreatorID": 4531,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Warren Delano IV, 1977",
+    "Culture": null,
+    "DateBeginYear": 1886,
+    "DateEndYear": 1886,
+    "DateText": "1886",
+    "Description": null,
+    "Dimensions": "H: 12 3/16 x W: 8 5/8 in. (31 x 21.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        },
+        {
+            "ExhTitle": "Splendor in Books",
+            "ExhibBeginDate": "1977-12-20",
+            "ExhibBeginYear": 1977,
+            "ExhibDisplayDate": "December 20, 1977-March 19, 1978",
+            "ExhibEndDate": "1978-03-15",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 683,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Splendor in Books. Grolier Club, New York; The Walters Art Gallery, Baltimore. 1977-1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 59633,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2545_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2545_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2545_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2545_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2545_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 59632,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2545_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2545_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2545_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2545_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2545_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 435,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2545_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2545_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2545_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2545_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2545_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] Rajon 1886; [Inscription] On reverse: Rajons drawing from Life HW",
+    "Keywords": "man; portrait; historical; portrait",
+    "Medium": "black crayon on gray, moderately-thick, moderately textured, cartridge-style laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2255,
+        "LocationString": null
+    },
+    "ObjectID": 24292,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2545",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Warren Delano IV [cousin of the sitter], New York [date and mode of acquisition unknown]; Walters Art Museum, 1977, by gift.",
+    "PublicAccessDate": "2008-12-01T14:17:32.663",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24292",
+    "SortNumber": "    37  2545                                            ",
+    "Style": null,
+    "Title": "Portrait of Henry Walters"
+}

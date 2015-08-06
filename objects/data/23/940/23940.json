@@ -1,0 +1,82 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1900,
+    "DateText": "18th-19th century",
+    "Description": "This kozuka is designed in the shape of a quiver with arrows. A paulownia crest decorates the top and bottom of the quiver.",
+    "Dimensions": "3 3/4 in. (9.6 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16253,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.744_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.744_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.744_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.744_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.744_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 16252,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.744_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.744_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.744_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.744_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.744_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "weapon; arrow; mon; paulownia",
+    "Medium": "shakudo, gold, silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4118,
+        "LocationString": null
+    },
+    "ObjectID": 23940,
+    "ObjectName": "kozuka; sword components; handles",
+    "ObjectNumber": "51.744",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-23T16:59:10.773",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23940",
+    "SortNumber": "    51   744                                            ",
+    "Style": null,
+    "Title": "Kozuka in the Shape of a Quiver"
+}

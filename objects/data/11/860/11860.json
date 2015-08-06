@@ -1,0 +1,111 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1009,
+    "DateEndYear": 1200,
+    "DateText": "5th century AH/AD 11th century-6th century AH/AD 12th century",
+    "Description": "Walters manuscript W.555 is an illuminated fragment of the Qur'an containing chapter 25 (Surat al-furqan), verses 21-32 and 39-78; chapter 26 (Surat al-shu'ara'); and chapter 27 (Surat al-naml), up to verse 40. It probably dates to the late 5th century AH/AD 11th or early 6th century AH/AD 12th. The text is written in the New Abbasid (Broken Cursive) style in black ink and is vocalized with red dots and blue circles, the latter for sukun. Single verses are separated by illuminated rosettes, and groups of 5 verses are indicated by the letter ha' in the form of a teardrop in the margins. Marginal medallions are also used for larger verse groups. The black leather binding is modern.",
+    "Dimensions": "Folio H: 6 1/2 x W: 4 1/8 in. (16.5 x 10.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 23228,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.555.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.555.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.555.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.555.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.555.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Abbasid; Arabic; Islamic; Book; Calligraphy; Codex; Headpiece; Illumination; Manuscript; Ornament; 'Kufic'; New Abbasid Style; Scripture",
+    "Medium": "ink and pigments on brown laid paper covered with black leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2333,
+        "LocationString": null
+    },
+    "ObjectID": 11860,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.555",
+    "OnView": 0,
+    "Period": "Abbasid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 5755,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20250,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79945,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79946,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79947,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79948,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80021,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/11860",
+    "SortNumber": "W        555                                            ",
+    "Style": null,
+    "Title": "Qur'an"
+}

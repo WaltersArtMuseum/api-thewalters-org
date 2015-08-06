@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1906",
+    "Culture": null,
+    "DateBeginYear": 1478,
+    "DateEndYear": 1502,
+    "DateText": "ca. 1490",
+    "Description": null,
+    "Dimensions": "H: 7 7/8 x W: 5 1/8 in. (20 x 13 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Rh\u00f4ne-Alpes\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1430823,
+            "GeographyTerm": "Savoie",
+            "Latitude": "45 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.5,
+            "Longitude": "006 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49114,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.313.35V-36R_Fp_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.313.35V-36R_Fp_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.313.35V-36R_Fp_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.313.35V-36R_Fp_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.313.35V-36R_Fp_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 49116,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.313.35V-36R_FpCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.313.35V-36R_FpCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.313.35V-36R_FpCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.313.35V-36R_FpCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.313.35V-36R_FpCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 49117,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.313.36R_Fp_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.313.36R_Fp_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.313.36R_Fp_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.313.36R_Fp_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.313.36R_Fp_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90568,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.313.36R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L\u00e9on Gruel [date and mode of acquisition unknown] [no. 12]; Henry Walters, Baltimore, 1906 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90568",
+    "SortNumber": "W        313   36R                                      ",
+    "Style": null,
+    "Title": "Leaf from Proverbes en rimes"
+}

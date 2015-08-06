@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Federico Barocci (Italian, 1526-1612; 1526/28-1612)",
+            "CreatorID": 7149,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1535,
+    "DateEndYear": 1600,
+    "DateText": "1535-1600",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 239, pp. 361-362.",
+    "Dimensions": "Painted surface H: 17 1/16 x W: 11 3/16 in. (43.4 x 28.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37098,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1100_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1100_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1100_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1100_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1100_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47984,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1100_XR_1967.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1100_XR_1967.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1100_XR_1967.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1100_XR_1967.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1100_XR_1967.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on paper mounted on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3271,
+        "LocationString": null
+    },
+    "ObjectID": 31143,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1100",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 215, as Self-portrait by Federico Barocci]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31143",
+    "SortNumber": "    37  1100                                            ",
+    "Style": null,
+    "Title": "Portrait of an Old Man"
+}

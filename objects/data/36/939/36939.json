@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Frits Thaulow (Norwegian, 1847-1906)",
+            "CreatorID": 7233,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1902",
+    "Culture": null,
+    "DateBeginYear": 1882,
+    "DateEndYear": 1906,
+    "DateText": "ca. 1894",
+    "Description": "Muted colors and subtle tonal harmonies characterize this view of the fast-flowing Adige River as it passes beneath the five arches of the Ponte della Pietra (two arches are Roman, the central two date from 1520, and the last was a reconstruction of about 1528). Discernible upstream at the left are several palazzi and the Duomo of S. Maria Matricolare, initially a Romanesque construction with later additions, including a campanile designed by Sanmichele, and at the right the region of S. Stefano and the bastion of S. Giorgio silhouetted against the horizon. \r\n\r\nThis work is presumed to have been executed during Thaulow's trip across northern Italy to Venice in 1894.",
+    "Dimensions": "H: 31 7/8 x W: 39 3/8 in. (81 x 100 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\rivers\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1441126,
+            "GeographyTerm": "Adige",
+            "Latitude": "45 09",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.15,
+            "Longitude": "012 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41163,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.97_Fnt_TR_T95II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.97_Fnt_TR_T95II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.97_Fnt_TR_T95II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.97_Fnt_TR_T95II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.97_Fnt_TR_T95II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 574,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.97_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.97_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.97_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.97_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.97_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: Frits Thaulow",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3297,
+        "LocationString": null
+    },
+    "ObjectID": 36939,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.97",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1902, by purchase [from either Georges Petit, April 2, 1902 or from Montaignac, May 14, 1902, together with a Marilhat]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36939",
+    "SortNumber": "    37    97                                            ",
+    "Style": null,
+    "Title": "The Adige River at Verona"
+}

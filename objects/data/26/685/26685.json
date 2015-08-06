@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mexican",
+            "CreatorID": 15517,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Claudia Lord Stokes, 2003",
+    "Culture": "Tlatilco",
+    "DateBeginYear": -1200,
+    "DateEndYear": -900,
+    "DateText": "1200-900 BC",
+    "Description": "Tlatilco was a small village located on the outskirts of modern Mexico City. During the 1930s and 1940s, numerous collectors-the artist and author Miguel Covarrubias and his friend the famous muralist Diego Rivera among them-spoke of traveling there on weekends \"with a pocketful of cash and returning with an archaeological puzzle or an artistic masterpiece.\"",
+    "Dimensions": "3 7/16 x 1 15/16 x 3 15/16 in. (8.8 x 5 x 10 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Art of the Ancient Americas",
+            "ExhibBeginDate": "2002-09-22",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "September 22, 2002-October 25, 2010",
+            "ExhibEndDate": "2010-10-25",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2755,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Art of the Ancient Americas. The Walters Art Museum, Baltimore. 2002-2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608942,
+            "GeographyTerm": "M\u00e9xico",
+            "Latitude": "23 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -102.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16089,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2773_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2773_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2773_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2773_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2773_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5531,
+        "LocationString": null
+    },
+    "ObjectID": 26685,
+    "ObjectName": "masks",
+    "ObjectNumber": "48.2773",
+    "OnView": 0,
+    "Period": "Early Formative",
+    "Provenance": "Eustoria Padilla, Bogota, Columbia; Marisol Stokes, Nyack, NY; Claudia Lord Stokes, New York; Walters Art Museum, 2003, by gift.\r\n",
+    "PublicAccessDate": "2008-09-25T17:11:53.97",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26685",
+    "SortNumber": "    48  2773                                            ",
+    "Style": "Tlatilco",
+    "Title": "Maskette"
+}

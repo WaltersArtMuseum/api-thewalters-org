@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Sedulius Scotus (fl. 848-860)",
+            "CreatorID": 8392,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1125,
+    "DateEndYear": 1175,
+    "DateText": "mid 12th century",
+    "Description": null,
+    "Dimensions": "H: 6 3/4 x W: 4 1/4 in. (17.1 x 10.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\M\u00fcnster\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1452296,
+            "GeographyTerm": "Westfalen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\M\u00fcnster\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1452296,
+            "GeographyTerm": "Westfalen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40299,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.12.47V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.12.47V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.12.47V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.12.47V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.12.47V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Manuscript; Walters Art Museum; Romanesque; Inhabited initial; Caroline minuscule; Philosophy; Theology",
+    "Medium": "ink and pigments on cream-colored, velvety parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 88761,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.12.47V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "[Fol. 117 (originally rear pastedown) has 13th century office of Matins for Saint Catherine (with neumes)];  Gustav Ritter von Emmich;  Gustav Ritter von Emmich Sale, Vienna, March 15, 1906, no. I, pl. VIII;  Gruel and Engelmann Collection [no. 609];  Leon Gruel, Paris; Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/88761",
+    "SortNumber": "W         12   47V                                      ",
+    "Style": "Romanesque",
+    "Title": "Unfinished decorated initial C"
+}

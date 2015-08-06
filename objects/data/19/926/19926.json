@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sumerian",
+            "CreatorID": 4252,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1929",
+    "Culture": null,
+    "DateBeginYear": -2136,
+    "DateEndYear": -2121,
+    "DateText": "2136-2121 BC",
+    "Description": "The inscription on this clay cone features the name of Gudea, king of Lagash.",
+    "Dimensions": "H: 6 5/8 in. (16.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489259,
+            "GeographyTerm": "Al-\u2018Iraq",
+            "Latitude": "33 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.0,
+            "Longitude": "044 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32556,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1460_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1460_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1460_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1460_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1460_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5621,
+        "LocationString": null
+    },
+    "ObjectID": 19926,
+    "ObjectName": "nails; cones",
+    "ObjectNumber": "48.1460",
+    "OnView": 0,
+    "Period": "Lagash II",
+    "Provenance": "Edgar J. Banks [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": "Gudea (ca. 2144-2124 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19926",
+    "SortNumber": "    48  1460                                            ",
+    "Style": null,
+    "Title": "Gudea Cone"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of Walters 323",
+            "CreatorID": 8346,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1428,
+    "DateEndYear": 1452,
+    "DateText": "ca. 1440",
+    "Description": null,
+    "Dimensions": "4 1/8 x 3 3/8 in. (10.4 x 8.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lombardia\\provinces\\Milano\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438033,
+            "GeographyTerm": "Milano",
+            "Latitude": "45 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.466,
+            "Longitude": "009 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2612,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.323.19R_OpnObv_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.323.19R_OpnObv_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.323.19R_OpnObv_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.323.19R_OpnObv_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.323.19R_OpnObv_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 24196,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.323.19R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Barbavara Family [coat of arms];  Leon Gruel [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24196",
+    "SortNumber": "W        323   19R                                      ",
+    "Style": "International Gothic",
+    "Title": "Leaf from Barbavara Book of Hours"
+}

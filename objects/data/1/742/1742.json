@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bartolomeo Montagna (Italian, ca. 1450-1523)",
+            "CreatorID": 5969,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1916",
+    "Culture": null,
+    "DateBeginYear": 1485,
+    "DateEndYear": 1523,
+    "DateText": "1485-1523",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 193, pp. 284-285.",
+    "Dimensions": "Painted surface H excluding added strips: 24 13/16 x W: 20 5/16 x D: 13/16 in. (63 x 51.6 x 2.1 cm); W of added strips on all four sides of panel: 3/16 in. (0.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Vicenza\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434307,
+            "GeographyTerm": "Vicenza",
+            "Latitude": "45 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.55,
+            "Longitude": "011 32",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.533
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28594,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1036_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1036_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1036_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1036_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1036_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47351,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1036_XR_1970.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1036_XR_1970.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1036_XR_1970.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1036_XR_1970.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1036_XR_1970.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3385,
+        "LocationString": null
+    },
+    "ObjectID": 1742,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1036",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Private collection, Rome, until 1874 [mode of acquisition unknown]; M. Paul Delaroff, St. Petersburg, prior to 1909 [mode of acquisition unknown]; Sale, Galerie Georges Petit, Paris, April 23-24, 1914, lot 235 [as Antonio Vivarini]; Sekian, Paris, 1914-1916 [mode of acquisition unknown]; Paolo Paolini, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1916, by purchase [through Bernard Berenson]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1742",
+    "SortNumber": "    37  1036                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

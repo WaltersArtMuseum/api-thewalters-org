@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1875,
+    "DateEndYear": 1900,
+    "DateText": "3rd quarter 19th century",
+    "Description": null,
+    "Dimensions": "H: 56 1/4 x W: 20 in. (142.9 x 50.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Netsuke: Miniature Sculpture of Japan",
+            "ExhibBeginDate": "1978-09-24",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "September 24, 1978-November 12, 1978",
+            "ExhibEndDate": "1978-11-12",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 275,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Netsuke: Miniature Sculpture of Japan. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48746,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.78_Fnt_BW_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.78_Fnt_BW_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.78_Fnt_BW_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.78_Fnt_BW_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.78_Fnt_BW_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Label]",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on silk, paper and brocade",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2419,
+        "LocationString": null
+    },
+    "ObjectID": 39902,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.78",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39902",
+    "SortNumber": "    35    78                                            ",
+    "Style": null,
+    "Title": "Nine Sparrows in Autumn Foliage"
+}

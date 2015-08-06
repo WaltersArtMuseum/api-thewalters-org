@@ -1,0 +1,148 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Meikiodo",
+            "CreatorID": 15002,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "Konishi Hirosada (Japanese, 1810-1864)",
+            "CreatorID": 6406,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Robert S. Shaull, 1990",
+    "Culture": null,
+    "DateBeginYear": 1850,
+    "DateEndYear": 1850,
+    "DateText": "1850",
+    "Description": "One memorable day in 1850, the virtuoso actor Onoe Tamizo II exhibited his talents as a quick-change artist, appearing in turn (from right) as a ceremonial dancer, a drunken servant, a young girl with an insect cage, a Chinese dancer, and a fisherman wrestling a carp.",
+    "Dimensions": "each panel: 10 x 7 in. (25.4 x 17.78 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492719,
+            "GeographyTerm": "Osaka",
+            "Latitude": "34 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.5,
+            "Longitude": "135 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492719,
+            "GeographyTerm": "Osaka",
+            "Latitude": "34 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.5,
+            "Longitude": "135 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51830,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.733_Fnt_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.733_Fnt_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.733_Fnt_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.733_Fnt_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.733_Fnt_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 51831,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.733_VwA_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.733_VwA_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.733_VwA_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.733_VwA_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.733_VwA_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 51832,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.733_VwB_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.733_VwB_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.733_VwB_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.733_VwB_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.733_VwB_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 51833,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.733_VwC_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.733_VwC_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.733_VwC_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.733_VwC_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.733_VwC_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 51834,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.733_VwD_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.733_VwD_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.733_VwD_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.733_VwD_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.733_VwD_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 51835,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.733_VwE_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.733_VwE_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.733_VwE_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.733_VwE_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.733_VwE_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Signature] Hirosada",
+    "Keywords": "Kabuki; Onoe Tamizo II; actor",
+    "Medium": "mulberry paper, color, ink",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 33961,
+    "ObjectName": "woodblock prints; polyptychs",
+    "ObjectNumber": "95.733",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Robert S. Shaull [date and mode of acquisition unknown]; Walters Art Museum, 1990, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33961",
+    "SortNumber": "    95   733                                            ",
+    "Style": "Osaka School",
+    "Title": "Suikoden gohen"
+}

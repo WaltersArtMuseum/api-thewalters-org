@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of Walters 323",
+            "CreatorID": 8346,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1428,
+    "DateEndYear": 1452,
+    "DateText": "ca. 1440",
+    "Description": null,
+    "Dimensions": "4 1/8 x 3 3/8 in. (10.4 x 8.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "The Illuminated Initial",
+            "ExhibBeginDate": "1991-10-08",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "October 8, 1991-January 5, 1992",
+            "ExhibEndDate": "1992-01-05",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Illuminated Initial. The Walters Art Gallery, Baltimore. 1991-1992."
+        },
+        {
+            "ExhTitle": "The Book within the Book: Images of Books and Readers in Manuscripts",
+            "ExhibBeginDate": "1995-05-24",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "May 24, 1995-August 13, 1995",
+            "ExhibEndDate": "1995-08-13",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 101,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book within the Book: Images of Books and Readers in Manuscripts. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lombardia\\provinces\\Milano\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438033,
+            "GeographyTerm": "Milano",
+            "Latitude": "45 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.466,
+            "Longitude": "009 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7598,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.323.113V_OpnRev_TR_C82.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.323.113V_OpnRev_TR_C82.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.323.113V_OpnRev_TR_C82.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.323.113V_OpnRev_TR_C82.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.323.113V_OpnRev_TR_C82.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 29397,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.323.113V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Barbavara Family [coat of arms];  Leon Gruel [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29397",
+    "SortNumber": "W        323  113V                                      ",
+    "Style": "International Gothic",
+    "Title": "Leaf from Barbavara Book of Hours"
+}

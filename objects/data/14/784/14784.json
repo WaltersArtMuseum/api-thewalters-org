@@ -1,0 +1,142 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiop Painter (Greek, active ca. 480-450 BC) (?)",
+            "CreatorID": 3188,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -472,
+    "DateEndYear": -450,
+    "DateText": "ca. 460-450 BC",
+    "Description": "This amphora depicts a youth (possibly Theseus) pursuing a woman on the front. He wears a chlamys and a petasos with a striped scabbard at his side. Running right, he holds two spears in his left hand, the upper parts of which rest on his shoulder; he reaches out with his right towards the woman he pursues. She runs right, looking round, both hands bent at her waist holding a ribbon. She wears a chiton and a short cloak which is draped over her left shoulder, around her back and waist, and over her left arm. Her hair is tied up in back and held in place by a taenia.\r\n\r\nOn the back is a mantled youth. Wreathed, he stands right, gesturing with his extended right hand and holding a staff in his left at waist level.",
+    "Dimensions": "H: 11 3/4 x Max. Diam: 6 1/8 in. (29.9 x 15.5 cm); Diam at rim: 5 9/16 in. (14.2 cm); Diam at foot: 3 7/16 in. (8.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4904,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.56_SideA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.56_SideA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.56_SideA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.56_SideA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.56_SideA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4906,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.56_SideB_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.56_SideB_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.56_SideB_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.56_SideB_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.56_SideB_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4902,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.56_LftSideDet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.56_LftSideDet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.56_LftSideDet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.56_LftSideDet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.56_LftSideDet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4905,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.56_SideADet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.56_SideADet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.56_SideADet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.56_SideADet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.56_SideADet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 4903,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.56_RtSideDet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.56_RtSideDet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.56_RtSideDet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.56_RtSideDet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.56_RtSideDet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 4907,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.56_SideBDet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.56_SideBDet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.56_SideBDet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.56_SideBDet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.56_SideBDet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 4901,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.56_Bot_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.56_Bot_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.56_Bot_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.56_Bot_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.56_Bot_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": "[Inscription] On front between figures: NKO\u03a3; [Inscription] To the right of the woman's head: K",
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5770,
+        "LocationString": null
+    },
+    "ObjectID": 14784,
+    "ObjectName": "neck amphorae",
+    "ObjectNumber": "48.56",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [1897 cat. no. 188]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14784",
+    "SortNumber": "    48    56                                            ",
+    "Style": "Attic",
+    "Title": "Amphora Depicting a Youth with Petasos and Woman and An Athlete"
+}

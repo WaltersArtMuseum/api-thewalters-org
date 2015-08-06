@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 581,
+    "DateEndYear": 618,
+    "DateText": "581-618",
+    "Description": null,
+    "Dimensions": "6 9/16 x 8 1/2 in. (16.7 x 21.6 cm)",
+    "Dynasty": "Sui [Sui] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55769,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.2330_3Qtr_NF.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.2330_3Qtr_NF.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.2330_3Qtr_NF.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.2330_3Qtr_NF.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.2330_3Qtr_NF.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1616,
+        "LocationString": null
+    },
+    "ObjectID": 34863,
+    "ObjectName": "figurines",
+    "ObjectNumber": "49.2330",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34863",
+    "SortNumber": "    49  2330                                            ",
+    "Style": null,
+    "Title": "Ox"
+}

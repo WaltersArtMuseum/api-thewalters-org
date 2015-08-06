@@ -1,0 +1,111 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Konishi Hirosada (Japanese, 1810-1864)",
+            "CreatorID": 6406,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Robert S. Shaull, 1990",
+    "Culture": null,
+    "DateBeginYear": 1839,
+    "DateEndYear": 1863,
+    "DateText": "ca. 1851",
+    "Description": "The fierce brother Matsuomaru (center) has been ordered by his master Shihei to help carry out the murder of the son of the regent Sugawara, Shihei's enemy and Matsuomaru's former lord. But Matsuomaru has already formed misgivings about his allegiance to Shihei. Sugawara's son is now a pupil in calligraphy at the academy of Genzo (left). An imperial messenger Shundo Genba (right) has demanded the head of the son. Takebe Genzo (left) returns with the box the messenger brought. It is Matsuomaru who must open the box and identify the head. Alas, it is his own son's head that is in the box. But by identifying it as that of Sugawara's son, he redeems the family's honor.",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Osaka\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492832,
+            "GeographyTerm": "Osaka",
+            "Latitude": "34 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.666,
+            "Longitude": "135 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51813,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.728_Fnt_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.728_Fnt_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.728_Fnt_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.728_Fnt_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.728_Fnt_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 51814,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.728_VwA_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.728_VwA_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.728_VwA_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.728_VwA_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.728_VwA_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 51815,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.728_VwB_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.728_VwB_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.728_VwB_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.728_VwB_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.728_VwB_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 51816,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.728_VwC_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.728_VwC_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.728_VwC_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.728_VwC_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.728_VwC_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Signature] Hirosada",
+    "Keywords": "Kabuki; murder",
+    "Medium": "mulberry paper, color, ink",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5307,
+        "LocationString": null
+    },
+    "ObjectID": 32116,
+    "ObjectName": "woodblock prints",
+    "ObjectNumber": "95.728",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Robert S. Shaull [date and mode of acquisition unknown]; Walters Art Museum, 1990, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 37178,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/32116",
+    "SortNumber": "    95   728                                            ",
+    "Style": "Osaka School",
+    "Title": "Sugawara buyuden"
+}

@@ -1,0 +1,115 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sa'di (died 691 AH/AD 1292)",
+            "CreatorID": 15724,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "9th century AH/AD 15th century",
+    "Description": "Walters manuscript W.620 is an illuminated and illustrated Safavid copy of the Bustan (The garden or The orchard), composed by Sa'di (died 691 AH/AD 1292). It was written in black Nasta'liq script in the 9th century AH/AD 16th in Iran. The codex opens with a frontispiece with the title Kitab-i bustan inscribed in an illuminated medallion (fol. 1a), followed by a double-page illustration of a banquet scene in a landscape (fols. 1b-2a). Additionally, there are 5 paintings illustrating the text (fols. 25a, 55b, 58a, 93b, and 119b). The brown leather, blind-stamped binding decorated with a central oval and pendants is not contemporary with the manuscript.",
+    "Dimensions": "Folio H: 10 1/16 x  W: 6 11/16 in. (25.5 x 17.0 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33818,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.620_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.620_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.620_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.620_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.620_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Illumination; Illustration; Manuscript; Painting; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2340,
+        "LocationString": null
+    },
+    "ObjectID": 28534,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.620",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81890,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81891,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81892,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81895,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81896,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81897,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81898,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81899,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81900,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81901,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81902,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/28534",
+    "SortNumber": "W        620                                            ",
+    "Style": null,
+    "Title": "The Orchard (Bustan)"
+}

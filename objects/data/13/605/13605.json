@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ludwig Richter (German, 1803-1884)",
+            "CreatorID": 3495,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1803,
+    "DateEndYear": 1884,
+    "DateText": "1803-1884",
+    "Description": "Richter won international acclaim for his lighthearted, fanciful views of family life. Because of their na\u00efve qualities, his illustrations were particularly admired by late 19th-century artists, including the English painter, Sir Edward Burne-Jones.",
+    "Dimensions": "H: 5 3/8 x W: 4 3/4 in. (13.7 x 12.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Child's-Eye View",
+            "ExhibBeginDate": "2006-03-25",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "March 25, 2006-June 19, 2006",
+            "ExhibEndDate": "2006-06-19",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2152,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Child's-Eye View. The Walters Art Museum, Baltimore. 2006."
+        },
+        {
+            "ExhTitle": "A Medley of German Drawings",
+            "ExhibBeginDate": "1996-04-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "April 17, 1996-September 1, 1996",
+            "ExhibEndDate": "1996-09-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2179,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medley of German Drawings. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48050,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1316_Fnt_BW_C82.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1316_Fnt_BW_C82.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1316_Fnt_BW_C82.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1316_Fnt_BW_C82.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1316_Fnt_BW_C82.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Initials] Lower right: L.R.",
+    "Keywords": null,
+    "Medium": "pen and ink with watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5302,
+        "LocationString": null
+    },
+    "ObjectID": 13605,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1316",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13605",
+    "SortNumber": "    37  1316                                            ",
+    "Style": null,
+    "Title": "Family at Wayside Shrine"
+}

@@ -1,0 +1,94 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Etruscan",
+    "DateBeginYear": -400,
+    "DateEndYear": -201,
+    "DateText": "4th-3rd century BC",
+    "Description": "A patera is a shallow bowl used for rituals. Around the rim of the bowl is inscribed: ANIOVM (Shuthina, in reverse, meaning \"sepulchral\"), an inscription indicating the object was meant to be placed in a tomb. The handle is in the form of a muscular nude woman wearing a necklace and shoes who supports the edge of the bowl with her upraised arms. The ring below her feet is for suspension.\r\n\r\n",
+    "Dimensions": "14 9/16 x 7 3/4 x 1 1/16 in. (37 x 19.7 x 2.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52364,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.162_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.162_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.162_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.162_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.162_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52363,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.162_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.162_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.162_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.162_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.162_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 7294,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.162_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.162_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.162_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.162_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.162_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Translation] ANIOVM (Shuthina, in reverse, meaning \"sepulchral\")",
+    "Keywords": null,
+    "Medium": "bronze with traces of gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Etruscan Art",
+        "LocationID": 3710,
+        "LocationString": null
+    },
+    "ObjectID": 12864,
+    "ObjectName": "paterae; bowls",
+    "ObjectNumber": "54.162",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Browne and Forman Collections; W. H. Forman Collection Sale, London, 1899, no. 134; Henry Walters, Baltimore, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.36",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12864",
+    "SortNumber": "    54   162                                            ",
+    "Style": null,
+    "Title": "Patera with Figural Handle"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -201,
+    "DateText": "4th-3rd century BC",
+    "Description": "In ancient times, mirrors were made of bronze containing a relatively large amount of tin. This produced a bronze which could be polished to a highly reflective surface. Over time this surface has corroded, meaning the metals have converted to a mineral form, resulting in a mottled dark green patina. This type of patina forms over long periods of time during burial.",
+    "Dimensions": "H: 11 15/16 x W: 6 3/16 in. (30.4 x 15.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62691,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.92_Obv_BW_T92.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.92_Obv_BW_T92.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.92_Obv_BW_T92.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.92_Obv_BW_T92.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.92_Obv_BW_T92.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "engraved bronze (lost-wax cast)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 447,
+        "LocationString": null
+    },
+    "ObjectID": 7537,
+    "ObjectName": "mirrors",
+    "ObjectNumber": "54.92",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7537",
+    "SortNumber": "    54    92                                            ",
+    "Style": null,
+    "Title": "Mirror"
+}

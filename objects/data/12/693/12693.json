@@ -1,0 +1,119 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1525,
+    "DateText": "1500-1525",
+    "Description": "The wonder of the carving lies in the artist's ability to work on such an incredibly tiny scale.  The inscription around the edge identifies the scenes.",
+    "Dimensions": "Diam: 1 15/16 in. (5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Age of the Marvelous",
+            "ExhibBeginDate": "1991-09-14",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "September 14, 1991-January 3, 1993",
+            "ExhibEndDate": "1993-01-03",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 3071,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Age of the Marvelous. Hood Museum of Art, Hanover; North Carolina Museum of Art, Raleigh; The Museum of Fine Arts, Houston, Houston; High Museum of Art, Atlanta. 1991-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421289,
+            "GeographyTerm": "Belgi\u00eb",
+            "Latitude": "50 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.833,
+            "Longitude": "004 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45589,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.132_Opn_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.132_Opn_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.132_Opn_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.132_Opn_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.132_Opn_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45587,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.132_Closd_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.132_Closd_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.132_Closd_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.132_Closd_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.132_Closd_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 45588,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.132_Ext_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.132_Ext_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.132_Ext_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.132_Ext_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.132_Ext_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 7563,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_61.132_Fnt_SL_C80.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_61.132_Fnt_SL_C80.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_61.132_Fnt_SL_C80.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_61.132_Fnt_SL_C80.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_61.132_Fnt_SL_C80.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "boxwood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4512,
+        "LocationString": null
+    },
+    "ObjectID": 12693,
+    "ObjectName": "beads",
+    "ObjectNumber": "61.132",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:00.41",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12693",
+    "SortNumber": "    61   132                                            ",
+    "Style": null,
+    "Title": "Rosary Pendant Bead with the Crucifixion and Resurrection"
+}

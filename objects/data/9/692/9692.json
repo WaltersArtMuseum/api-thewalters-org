@@ -1,0 +1,99 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.633 is an anonymous illuminated and illustrated 10th-century AH/AD 16th copy of the Collection of poems (divan) by Hafiz (flourished 8th century AH/AD 14th). Written in Nasta'liq script, this codex opens with a double-page illuminated frontispiece and has three additional double-page illustrations.",
+    "Dimensions": "Folio H: 5 1/2 x W: 3 9/16 in. (14 x 9 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33403,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.633.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.633.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.633.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.633.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.633.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Sufism; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with dark brown leather with gold and marbled paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2334,
+        "LocationString": null
+    },
+    "ObjectID": 9692,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.633",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Muhammad ibn Mustaf\u00e1 [date and mode of acquisition unknown] [ownership statement on fol. 1a]; Muhammad Riza Javahid Zamuni (?) [date and mode of acquisition unknown] [seal impression on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83442,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83443,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83444,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83445,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83446,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83447,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83448,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9692",
+    "SortNumber": "W        633                                            ",
+    "Style": null,
+    "Title": "Collection of Poems (Divan)"
+}

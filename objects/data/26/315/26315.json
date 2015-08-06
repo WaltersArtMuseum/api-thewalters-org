@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Potter"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1967",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1100,
+    "DateEndYear": 1199,
+    "DateText": "12th century",
+    "Description": "This dish, together with Walters 48.2290 and 48.2291, was discovered in the shipwreck of a large Byzantine trading vessel near Alonissos in the Aegean Sea.",
+    "Dimensions": "H: 3 9/16 x W: 9 3/4 in. (9 x 24.7 cm)",
+    "Dynasty": "Comnenean Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\N\u00edsoi Aiya\u00edou\\departments\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1431866,
+            "GeographyTerm": "Spor\u00e1dhes",
+            "Latitude": "36 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.833,
+            "Longitude": "027 05",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 27.83
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39372,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2292_Fnt_BW_H68.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2292_Fnt_BW_H68.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2292_Fnt_BW_H68.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2292_Fnt_BW_H68.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2292_Fnt_BW_H68.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 26315,
+    "ObjectName": "bowls",
+    "ObjectNumber": "48.2292",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "[Found underwater in the Northern Sporades by Bruno L\u00f6ffel of Vienna, Austria, 1967]; Walters Art Museum, by purchase, 1967.",
+    "PublicAccessDate": "2012-06-04T22:00:00.403",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26315",
+    "SortNumber": "    48  2292                                            ",
+    "Style": null,
+    "Title": "Dish"
+}

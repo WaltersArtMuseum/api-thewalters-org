@@ -1,0 +1,154 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Gene Guerny, 1997",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1799,
+    "DateText": "18th century",
+    "Description": "Binding is non-original. Dark goatskin over heavy pasteboard(?)",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39916,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39917,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 39911,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 39910,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 39912,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_ForeEdge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_ForeEdge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_ForeEdge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_ForeEdge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_ForeEdge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 39913,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 39914,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 39915,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.844.binding_Ext_DD_Tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Dark goatskin over heavy pasteboard (?)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 88532,
+    "ObjectName": "manuscripts; bindings",
+    "ObjectNumber": "W.844.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Made in north central Ethiopia, 18th century, for G\u00e4br\u00e4 Giyorgis [fols. 14v, 20v, 24r, and passim]; Joseph Dietrich, Alexandria, VA [date and mode of acquisition unknown]; Mr. Gene Guerny, [date of acquisition unknown] otained from Joseph Dietrich; Walters Art Museum, 1997, by gift.",
+    "PublicAccessDate": "2012-06-19T22:00:01.1",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/88532",
+    "SortNumber": "W        844binding                                     ",
+    "Style": null,
+    "Title": "Binding from Two Ethiopian Prayer Books copied together"
+}

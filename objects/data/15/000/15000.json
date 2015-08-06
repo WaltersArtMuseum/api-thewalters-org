@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Francesco Andrea di Anguilla (Italian, active 1410-1434)",
+            "CreatorID": 4003,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1420,
+    "DateText": "1400-1420",
+    "Description": "The motif of the Christ Child playing with his foot while he nurses is quite charming. For more information on this painting, please see Federico Zeri's 1976 catalogue, no. 33, pp. 54-55 where he suggests that the attribution is tentative. An attribution to Niccolo da Voltri has also been suggested, but rejected by Zeri.",
+    "Dimensions": "H with modern frame in which the painting is encased: 45 7/8 x W: 30 1/2 x Approx. D: 7/16 in. (116.5 x 77.4 x 1.1 cm); Painted surface H including pastiglia ornament of the original frame: 40 x W: 23 11/16 in. (101.6 x 60.2 cm); Estimated H of original panel: 42 1/8 x W: 24 3/16 in. (107 x 61.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Lucca\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440595,
+            "GeographyTerm": "Lucca",
+            "Latitude": "43 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.833,
+            "Longitude": "010 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24598,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.443_Fnt_BW_C40.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.443_Fnt_BW_C40.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.443_Fnt_BW_C40.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.443_Fnt_BW_C40.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.443_Fnt_BW_C40.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31696,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.443_DetA_NG_infrared.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.443_DetA_NG_infrared.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.443_DetA_NG_infrared.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.443_DetA_NG_infrared.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.443_DetA_NG_infrared.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] At the bottom between the two donors: HO[C] OP[V]S. FECIT FI[ERI]...RB.T...R...; [Translation] This work was commissioned...; [Transcription] In the Virgin's halo: AVE GRATIA PLENA.",
+    "Keywords": null,
+    "Medium": "tempera and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3240,
+        "LocationString": null
+    },
+    "ObjectID": 15000,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.443",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore, 1911 [mode of acquisition unknown] [through Berenson]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-15T09:49:58.31",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15000",
+    "SortNumber": "    37   443                                            ",
+    "Style": null,
+    "Title": "Madonna Nursing the Christ Child, with Angels and Two Donors"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Choshu School (Japanese)",
+            "CreatorID": 15234,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "The open work design on this tsuba is of pampas grass. At the bottom, beneath the central opening, is a cricket. At the upper right is a moth.",
+    "Dimensions": "2 13/16 in. (7.1 cm) (diam.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24062,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.403_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.403_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.403_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.403_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.403_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 24061,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.403_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.403_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.403_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.403_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.403_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "animal; insect; grasshopper; plant; grass; susuki",
+    "Medium": "iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4113,
+        "LocationString": null
+    },
+    "ObjectID": 33043,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.403",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.403",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33043",
+    "SortNumber": "    51   403                                            ",
+    "Style": "Choshu School",
+    "Title": "Tsuba with Insects in Autumn Grass"
+}

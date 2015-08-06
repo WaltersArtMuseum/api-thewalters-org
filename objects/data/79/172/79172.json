@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Prosper M\u00e9rim\u00e9e (French, 1803-1870)",
+            "CreatorID": 16439,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the Joseph F. McCrindle Collection, 2009",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": "The portly fellow holding a picador's lance may be an attendant at a Spanish bullfight.",
+    "Dimensions": "H: 4 x W: 2 5/16 in. (10.16 x 5.87 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Expanding Horizons: Recent Additions to the Drawings Collection",
+            "ExhibBeginDate": "2010-04-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "April 17, 2010-July 3, 2010",
+            "ExhibEndDate": "2010-07-03",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2828,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Expanding Horizons: Recent Additions to the Drawings Collection. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18447,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2794_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2794_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2794_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2794_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2794_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "Inscribed on mat: Deux Espagnols",
+    "Keywords": null,
+    "Medium": "watercolor on cream-colored paper tipped onto a white sheet",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2212,
+        "LocationString": null
+    },
+    "ObjectID": 79172,
+    "ObjectName": "drawings; caricatures",
+    "ObjectNumber": "37.2794",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Joseph F. McCrindle (1923-2008), New York, #A0677; Joseph F. McCrindle Foundation, New York, 2008, by bequest; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-06-15T11:18:38.33",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79169,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 79170,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 79171,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 79171,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/79172",
+    "SortNumber": "    37  2794                                            ",
+    "Style": null,
+    "Title": "One of \"Deux Espagnols\""
+}

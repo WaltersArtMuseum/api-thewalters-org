@@ -1,0 +1,568 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Abu Mansur Muhammad ibn 'Abd al-Razzaq",
+            "CreatorID": 19270,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Selected illustrations attributed to Shaykh 'Abbasi (Persian, active 1650-1684)",
+            "CreatorID": 4237,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Muhammad Mirak ibn Mir Muhammad al-Husayni al-Ustadi",
+            "CreatorID": 7994,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Selected illustrations attributed to Attributed to Riza 'Abbasi (Persian, ca. 1565-1635)",
+            "CreatorID": 6741,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Firdawsi (Persian, died 411-416 AH/AD 1020-1025)",
+            "CreatorID": 7768,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1618,
+    "DateEndYear": 1619,
+    "DateText": "1028 AH/AD 1618-1619",
+    "Description": "Walters manuscript W.602, a copy of Firdawsi's Shahnamah (Book of kings) was written by Muhammad Mirak ibn Mir Muhammad al-Husayni al-Ustadi, most probably in Herat (present-day Afghanistan). It was completed in 1028 AH/AD 1618-1619. There are two Arabic colophons, one at the end of the preface (fol. 7a) and the other at the end of part 1 (fol. 334a). The preface is by Abu Mansur Muhammad ibn 'Abd al-Razzaq, who composed it in 346 AH/AD 957-958. Although incomplete at the end, the manuscript contains 83 illustrations. Some are by a later hand and attributed to Safavid artists Riza 'Abbasi and Shaykh 'Abbasi in the 11th century AH/AD 17th (fols. 55b, 62b, 391b, 476b, and 479b). The lacquer binding is not contemporary with the manuscript and dates to the 13th century AH/AD 19th.",
+    "Dimensions": "Folio H: 14 3/8 x W: 9 1/4 in. (36.5 x 23.5 cm)",
+    "Dynasty": "Qajar Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mything Persons: Historic Figures in Legends of East and West",
+            "ExhibBeginDate": "1998-05-02",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "May 2, 1998-August 9, 1998",
+            "ExhibEndDate": "1998-08-09",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 29,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mything Persons: Historic Figures in Legends of East and West. The Walters Art Gallery, Baltimore. 1998."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "The Royal Style",
+            "ExhibBeginDate": "1988-11-29",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 29, 1988-February 12, 1989",
+            "ExhibEndDate": "1989-02-08",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2714,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Royal Style. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33763,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.602.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.602.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.602.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.602.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.602.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33764,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.602.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.602.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.602.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.602.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.602.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33762,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.602.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.602.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.602.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.602.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.602.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33761,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.602.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.602.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.602.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.602.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.602.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Qajar; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Afghanistan; History; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper bound between boards covered with lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2357,
+        "LocationString": null
+    },
+    "ObjectID": 7066,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.602",
+    "OnView": 0,
+    "Period": "Qajar",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 78,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 987,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 1230,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 1489,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 2901,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 2970,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3192,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3640,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3704,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3860,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4287,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4323,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4503,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4925,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5589,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6781,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7253,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7597,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7842,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7848,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 8110,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 8634,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 8924,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 9152,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 9659,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10051,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10461,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10986,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11125,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11398,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11997,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 12920,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 16790,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 16989,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 17000,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 18680,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 18842,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 18874,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19347,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19766,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19976,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20112,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21039,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21784,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22615,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22691,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24130,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24843,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 25171,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 25457,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 26406,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 27401,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 30412,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 32302,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 32408,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 32979,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 33104,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 33354,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 33863,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34056,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34627,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34874,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35368,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35637,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35766,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35783,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36109,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36678,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37003,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37202,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37313,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37361,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37514,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37946,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38602,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38717,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38922,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39598,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39718,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39791,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 40746,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83510,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83511,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83512,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83513,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83514,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83515,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83516,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/7066",
+    "SortNumber": "W        602                                            ",
+    "Style": null,
+    "Title": "Book of Kings (Shahnama)"
+}

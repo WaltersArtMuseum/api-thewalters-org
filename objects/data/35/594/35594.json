@@ -1,0 +1,95 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tiffany and Company (American, 1837-present)",
+            "CreatorID": 3561,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1900",
+    "Culture": null,
+    "DateBeginYear": 1900,
+    "DateEndYear": 1900,
+    "DateText": "1900",
+    "Description": "Japanese artisans working in Tiffany & Co.'s New York studios carved this frog for display at the Exposition Universelle in Paris in 1900.",
+    "Dimensions": "8 3/4 in. (22.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Artistic Luxury",
+            "ExhibBeginDate": "2008-10-21",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "October 21, 2008-May 31, 2009",
+            "ExhibEndDate": "2009-05-31",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1966,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Artistic Luxury. The Cleveland Museum of Art, Cleveland; Fine Arts Museums of San Francisco, San Francisco. 2008-2009."
+        },
+        {
+            "ExhTitle": "Objects of Vertu: Precious Works of the Eighteenth Century",
+            "ExhibBeginDate": "1984-09-25",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "September 25, 1984-November 15, 1984",
+            "ExhibEndDate": "1984-11-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2689,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Objects of Vertu: Precious Works of the Eighteenth Century. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\New York\\boroughs\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815418,
+            "GeographyTerm": "Manhattan Island",
+            "Latitude": "40 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.783,
+            "Longitude": "073 58",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -73.966
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6359,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_42.288_3Qtr_TR_T96IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_42.288_3Qtr_TR_T96IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_42.288_3Qtr_TR_T96IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_42.288_3Qtr_TR_T96IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_42.288_3Qtr_TR_T96IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "nephrite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 808,
+        "LocationString": null
+    },
+    "ObjectID": 35594,
+    "ObjectName": "figurines",
+    "ObjectNumber": "42.288",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1900 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35594",
+    "SortNumber": "    42   288                                            ",
+    "Style": null,
+    "Title": "Frog"
+}

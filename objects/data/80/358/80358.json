@@ -1,0 +1,82 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Maya",
+            "CreatorID": 4619,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John G. Bourne Foundation, 2013",
+    "Culture": "Maya",
+    "DateBeginYear": 250,
+    "DateEndYear": 850,
+    "DateText": "AD 250-850 (?)",
+    "Description": null,
+    "Dimensions": "H: 9 x W: 11 13/16 x D: 1 15/16 in. (22.9 x 30 x 4.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608249,
+            "GeographyTerm": "Guatemala",
+            "Latitude": "15 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.5,
+            "Longitude": "090 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -90.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28257,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28258,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.203_SideB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stone",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5539,
+        "LocationString": null
+    },
+    "ObjectID": 80358,
+    "ObjectName": "axes; hacha",
+    "ObjectNumber": "2009.20.203",
+    "OnView": 0,
+    "Period": "Classic (?)",
+    "Provenance": "Acquired by John G. Bourne, Sante Fe, 2003; given to John G. Bourne Foundation, 2003 [1]; given to Walters Art Museum, 2013.\r\n\r\n[1] according to Bourne Foundation accounts",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80358",
+    "SortNumber": "  2009    20  203                                       ",
+    "Style": null,
+    "Title": "Hacha"
+}

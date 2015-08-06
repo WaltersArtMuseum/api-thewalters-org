@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1916",
+    "Culture": null,
+    "DateBeginYear": 1075,
+    "DateEndYear": 1225,
+    "DateText": "ca. 12th century",
+    "Description": null,
+    "Dimensions": "11 15/16 in. (30.3 cm)",
+    "Dynasty": "Song [Sung] Dynasty (?)",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\Nuevo Le\u00f3n\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 610676,
+            "GeographyTerm": "China",
+            "Latitude": "25 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 25.7,
+            "Longitude": "099 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -99.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5147,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1732_Fnt_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1732_Fnt_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1732_Fnt_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1732_Fnt_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1732_Fnt_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stoneware with paint and glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5922,
+        "LocationString": null
+    },
+    "ObjectID": 27524,
+    "ObjectName": "pillows",
+    "ObjectNumber": "49.1732",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dr. John C. Ferguson Collection Sale, American Art Association, New York, April 7, 1916, no. 143; Henry Walters, Baltimore, 1916, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.84",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27524",
+    "SortNumber": "    49  1732                                            ",
+    "Style": null,
+    "Title": "Pillow in the Shape of a Lion"
+}

@@ -1,0 +1,119 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Byzantine",
+    "DateBeginYear": 501,
+    "DateEndYear": 700,
+    "DateText": "6th-7th century",
+    "Description": "This thin silver piece shows a female saint with an inscription that translates as: \"Lord, help.\"  It was a votive, or offering, left by pilgrims at a shrine in order to ask for divine assistance, or to give thanks for a miraculous cure. The practice of leaving votives at shrines continues to this day.",
+    "Dimensions": "H: 1 3/16 x W: 1 in. (3.01 x 2.54 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Sacred Souvenirs: Byzantine Pilgrimage Art",
+            "ExhibBeginDate": "1982-05-04",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 4, 1982-September 6, 1982",
+            "ExhibEndDate": "1982-09-06",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 717,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Sacred Souvenirs: Byzantine Pilgrimage Art. Dumbarton Oaks, Washington. 1982."
+        },
+        {
+            "ExhTitle": "Treasures of Heaven",
+            "ExhibBeginDate": "2010-10-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "October 17, 2010-October 9, 2011",
+            "ExhibEndDate": "2011-10-09",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures of Heaven. The Cleveland Museum of Art, Cleveland; The Walters Art Museum, Baltimore; The British Museum, London. 2010-2011."
+        },
+        {
+            "ExhTitle": "Silver Treasure from Early Byzantium",
+            "ExhibBeginDate": "1986-04-18",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "April 18, 1986-August 17, 1986",
+            "ExhibEndDate": "1986-08-17",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2699,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Silver Treasure from Early Byzantium. The Walters Art Gallery, Baltimore. 1986."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Idlib\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1500112,
+            "GeographyTerm": "Ma\u2018arrat an Nu\u2018man",
+            "Latitude": "35 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.666,
+            "Longitude": "036 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.666
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499705,
+            "GeographyTerm": "Suriyah",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "038 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 38.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12487,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_57.1826_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_57.1826_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_57.1826_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_57.1826_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_57.1826_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] K [Y]PIE BOHOI;\r\n[Translation] Lord, help",
+    "Keywords": null,
+    "Medium": "silver alloy",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3802,
+        "LocationString": null
+    },
+    "ObjectID": 29857,
+    "ObjectName": "plaques; votives",
+    "ObjectNumber": "57.1826",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "[Found near Ma'aret en-Noman, Syria, prior to 1945]; Joseph Brummer, New York [date of acquisition unknown], by purchase; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-12-31T16:05:22.837",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29857",
+    "SortNumber": "    57  1826                                            ",
+    "Style": null,
+    "Title": "Votive Plaque with a Female Saint"
+}

@@ -1,0 +1,75 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 600,
+    "DateEndYear": 799,
+    "DateText": "7th-8th century",
+    "Description": "Tomb sculptures of female figures are quite common.  Some are engaged in domestic activities, others appear as entertainers, athletes, or even Chinese polo players.",
+    "Dimensions": "H: 11 5/8 in. (29.5 cm)",
+    "Dynasty": "Tang [T'ang] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5221,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2328-2329_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2328-2329_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2328-2329_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2328-2329_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2328-2329_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "painted earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1938,
+        "LocationString": null
+    },
+    "ObjectID": 14221,
+    "ObjectName": "figurines",
+    "ObjectNumber": "49.2328",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 28463,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/14221",
+    "SortNumber": "    49  2328                                            ",
+    "Style": null,
+    "Title": "Pair of Sculptures: Women on Horseback"
+}

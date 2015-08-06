@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "13th century AH/AD 1825-1875",
+    "Description": "This painting, Walters manuscript leaf W.705, depicts the Mughal ruler Jahangir (reigned 1014-1037 AH/AD 1605-1627), standing in three-quarter profile, a pose that was common in official Mughal portraiture. It is attributable to the 13th century AH/AD 19th. During that time, portraits of earlier Mughal rulers were copied and disseminated. This work is executed in opaque watercolor and gold.",
+    "Dimensions": "H: 8 1/16 x W: 6 1/2 in. (20.5 x 16.5 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34247,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.705_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.705_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.705_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.705_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.705_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Illustration; Miniature; Painting; India",
+    "Medium": "ink and pigments on brown paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6428,
+        "LocationString": null
+    },
+    "ObjectID": 14147,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.705",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83804,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83805,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/14147",
+    "SortNumber": "W        705                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Portrait of the Emperor Jahangir"
+}

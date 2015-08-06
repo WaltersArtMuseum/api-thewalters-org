@@ -1,0 +1,118 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Cypriote",
+            "CreatorID": 6485,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1973",
+    "Culture": null,
+    "DateBeginYear": -699,
+    "DateEndYear": -600,
+    "DateText": "7th century BC",
+    "Description": "This example of the popular pinched-spout jug is decorated with red paint on a pale background and is called Bichrome Ware. There were two distinct styles of this ceramic ware in Cyprus at this time: the \"rectilinear,\" which features triangles, diamonds, and rectangles, was common in the eastern and southern regions of the island; the \"circle\" style, shown here, with groups of concentric circles, was found mostly in the western and northern areas.",
+    "Dimensions": "7 5/8 in. (19.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1486285,
+            "GeographyTerm": "K\u00edpros",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "033 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 33.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31806,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2347_RtSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2347_RtSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2347_RtSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2347_RtSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2347_RtSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31802,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2347_3QtrRt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2347_3QtrRt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2347_3QtrRt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2347_3QtrRt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2347_3QtrRt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 31804,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2347_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2347_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2347_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2347_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2347_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 31805,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2347_LftSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2347_LftSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2347_LftSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2347_LftSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2347_LftSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 31803,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2347_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2347_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2347_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2347_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2347_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3638,
+        "LocationString": null
+    },
+    "ObjectID": 15367,
+    "ObjectName": "jugs",
+    "ObjectNumber": "48.2347",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "William H. Smith, Alexandria, VA; Walters Art Museum, 1973, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.237",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15367",
+    "SortNumber": "    48  2347                                            ",
+    "Style": null,
+    "Title": "Bichrome Ware Jug with Geometric Design and Concentric Circles"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1498,
+    "DateEndYear": 1522,
+    "DateText": "ca. 1510",
+    "Description": null,
+    "Dimensions": "3 3/4 x 2 9/16 in. (9.5 x 6.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Manuscript Illumination in Flanders",
+            "ExhibBeginDate": "1992-03-31",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "March 31, 1992-June 28, 1992",
+            "ExhibEndDate": "1992-06-28",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 3083,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Illumination in Flanders. The Walters Art Gallery, Baltimore. 1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\West-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421893,
+            "GeographyTerm": "Brugge",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\West-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421893,
+            "GeographyTerm": "Brugge",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11497,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.427.115V_OpnRev_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.427.115V_OpnRev_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.427.115V_OpnRev_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.427.115V_OpnRev_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.427.115V_OpnRev_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11498,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.427.115V-116R_OpnGp_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.427.115V-116R_OpnGp_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.427.115V-116R_OpnGp_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.427.115V-116R_OpnGp_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.427.115V-116R_OpnGp_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and ink on vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 9523,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.427.115V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L\u00e9on Gruel and Engelmann [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9523",
+    "SortNumber": "W        427  115V                                      ",
+    "Style": "Ghent-Bruges",
+    "Title": "Flight into Egypt"
+}

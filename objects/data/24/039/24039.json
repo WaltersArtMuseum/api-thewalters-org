@@ -1,0 +1,112 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "School of Qin Ding",
+            "CreatorID": 3882,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1799,
+    "DateText": "17th-18th century",
+    "Description": "A skillful but unidentifiable artist has evoked the style of a master of the Song [Sung] Dynasty. The title was provided later, when the scroll was remounted.",
+    "Dimensions": "H: 12 x L: 129 5/16 in. (30.5 x 328.5 cm)",
+    "Dynasty": "Ming [Ming]-Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\Hunan\\lakes\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1481939,
+            "GeographyTerm": "Dongting Hu",
+            "Latitude": "29 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.333,
+            "Longitude": "112 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 112.9
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\Hunan\\lakes\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1481939,
+            "GeographyTerm": "Dongting Hu",
+            "Latitude": "29 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.333,
+            "Longitude": "112 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 112.9
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55727,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.46_Fnt_NF_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.46_Fnt_NF_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.46_Fnt_NF_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.46_Fnt_NF_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.46_Fnt_NF_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Spurious signature of Zhao Boju [Chao Po-ch\u00fc] (12th century); [Inscription] At end on painting; [Seal] At end on paiting; [Inscription] At end separately mounted; [Seal] At end separately mounted.",
+    "Keywords": null,
+    "Medium": "ink and color on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2410,
+        "LocationString": null
+    },
+    "ObjectID": 24039,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.46",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24039",
+    "SortNumber": "    35    46                                            ",
+    "Style": null,
+    "Title": "Spring Morning at Dongting Lake"
+}

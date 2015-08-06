@@ -1,0 +1,83 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Robert Lehman through French and Company, 1943",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 24 13/16 \u00d7 L: 63 5/8 \u00d7 D: 22 1/8 in. (63.1 \u00d7 161.61 \u00d7 56.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5931,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_65.35_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_65.35_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_65.35_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_65.35_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_65.35_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood (walnut)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4610,
+        "LocationString": null
+    },
+    "ObjectID": 25138,
+    "ObjectName": "cassoni",
+    "ObjectNumber": "65.35",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Mr. Robert Lehman, New York; Walters Art Museum, 1943, by gift [ through French and Company].",
+    "PublicAccessDate": "2008-09-25T17:15:00.473",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25138",
+    "SortNumber": "    65    35                                            ",
+    "Style": null,
+    "Title": "\"Cassone\""
+}

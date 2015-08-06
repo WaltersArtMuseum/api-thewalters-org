@@ -1,0 +1,166 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Persian (?)",
+            "CreatorID": 3496,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Indian (?)",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1800,
+    "DateText": "17th-18th century",
+    "Description": null,
+    "Dimensions": "Folio H: 4 3/8 x W: 2 11/16 in. (11.1 x 6.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Shrunken Treasures: Miniaturization in Books and Art",
+            "ExhibBeginDate": "2009-08-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "August 15, 2009-November 8, 2009",
+            "ExhibEndDate": "2009-11-08",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2128,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Shrunken Treasures: Miniaturization in Books and Art. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28681,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.571.binding_Fnt_DD_T10_UpperCover.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.571.binding_Fnt_DD_T10_UpperCover.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.571.binding_Fnt_DD_T10_UpperCover.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.571.binding_Fnt_DD_T10_UpperCover.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.571.binding_Fnt_DD_T10_UpperCover.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28682,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.571.binding_Int_DD_T10_upperboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.571.binding_Int_DD_T10_upperboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.571.binding_Int_DD_T10_upperboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.571.binding_Int_DD_T10_upperboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.571.binding_Int_DD_T10_upperboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2334,
+        "LocationString": null
+    },
+    "ObjectID": 32460,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.571",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81658,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81659,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81660,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81661,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81662,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81663,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81664,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/32460",
+    "SortNumber": "W        571                                            ",
+    "Style": null,
+    "Title": "Qur'an"
+}

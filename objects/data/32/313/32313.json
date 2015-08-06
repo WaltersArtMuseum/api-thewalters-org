@@ -1,0 +1,79 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Sculptor"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -100,
+    "DateEndYear": 200,
+    "DateText": "1st century BC-AD 2nd century",
+    "Description": "Discovered with other objects of both Greek and Roman styles, this statuette's careful attention to detail shows the stimulating cross-influences found in objects made in Alexandrian workshops. The priest is fully wrapped in his garment in the Egyptian manner. As he holds his wrapped hands forward, he creates a pocket in the drapery that may have held another object, possibly a bowl for ritual purposes.",
+    "Dimensions": "4 3/4 x 1 7/16 x 1 9/16 in. (12 x 3.7 x 3.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Qina\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544580,
+            "GeographyTerm": "Armant",
+            "Latitude": "25 36",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 25.6,
+            "Longitude": "032 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7343,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.702+54.703+54.709_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.702+54.703+54.709_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.702+54.703+54.709_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.702+54.703+54.709_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.702+54.703+54.709_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3784,
+        "LocationString": null
+    },
+    "ObjectID": 32313,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.709",
+    "OnView": 1,
+    "Period": "Ptolemaic-Roman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 295,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        },
+        {
+            "ObjectID": 9532,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/32313",
+    "SortNumber": "    54   709                                            ",
+    "Style": null,
+    "Title": "Priest of Isis"
+}

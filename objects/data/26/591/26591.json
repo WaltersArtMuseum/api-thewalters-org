@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Coptic",
+    "DateBeginYear": 500,
+    "DateEndYear": 799,
+    "DateText": "6th-8th century",
+    "Description": null,
+    "Dimensions": "H: 13 5/8 in. (34.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39107,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1376_Fnt_BW_4945.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1376_Fnt_BW_4945.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1376_Fnt_BW_4945.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1376_Fnt_BW_4945.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1376_Fnt_BW_4945.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic with paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5356,
+        "LocationString": null
+    },
+    "ObjectID": 26591,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.1376",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Arthur Sambon, Paris, by purchase; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26591",
+    "SortNumber": "    48  1376                                            ",
+    "Style": null,
+    "Title": "Vase with Scenes of Animals and Vegetation"
+}

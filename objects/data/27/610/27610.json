@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 100,
+    "DateText": "AD 1st century",
+    "Description": "This fresco is brown, white, blue and yellow, and within a border depicts a man and woman standing. Skene is kneeling and writing with the left hand under a mask. This figure is copied from the \"Poet as King\" fresco from Herculaneum in Naples. Under the paint, there are traces of other colors.",
+    "Dimensions": "L: 9 3/4 in. (24.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62228,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_33.1_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_33.1_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_33.1_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_33.1_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_33.1_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "brown, white, blue and yellow colors on plaster",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1651,
+        "LocationString": null
+    },
+    "ObjectID": 27610,
+    "ObjectName": "frescoes; fragments",
+    "ObjectNumber": "33.1",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Joseph Brummer [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1922 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27610",
+    "SortNumber": "    33     1                                            ",
+    "Style": null,
+    "Title": "Fragment of a Fresco with the Poet as King"
+}

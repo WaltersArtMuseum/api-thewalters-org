@@ -1,0 +1,87 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni Paolo Panini (Italian, ca. 1692-1765)",
+            "CreatorID": 6826,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1706,
+    "DateEndYear": 1731,
+    "DateText": "ca. 1718-1719",
+    "Description": "Alexander the Great (356-323 BC) is said to have ordered the tomb of Achilles (Greek hero in the Trojan War) to be opened so that he could pay homage to his legendary predecessor. Achilles's tomb was in what is today Turkey; to suggest an ancient setting outside the Roman world, Panini introduced an Egyptian pyramid in the background. The painting and its companion, \"Alexander the Great Cutting the Gordian Knot\" (Walters 37.516), represent Panini's fantasy of the grandeur of the ancient world.\r\n\r\nFor more information on this painting, please see Federico Zeri's 1976 catalogue no. 408, pp. 518-519.",
+    "Dimensions": "Painted surface H: 28 7/8 x W: 25 9/16 in. (73.3 x 65 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4074,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.510_Fnt_TR_C80II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.510_Fnt_TR_C80II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.510_Fnt_TR_C80II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.510_Fnt_TR_C80II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.510_Fnt_TR_C80II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47734,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.510_XR_1962.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.510_XR_1962.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.510_XR_1962.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.510_XR_1962.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.510_XR_1962.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 18th-Century Art",
+        "LocationID": 4782,
+        "LocationString": null
+    },
+    "ObjectID": 33091,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.510",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 155; 1897 catalogue: no. 298]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.49",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 39200,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/33091",
+    "SortNumber": "    37   510                                            ",
+    "Style": null,
+    "Title": "Alexander the Great at the Tomb of Achilles"
+}

@@ -1,0 +1,101 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yoshioka Shigesada (Japanese, 1827-1893)",
+            "CreatorID": 6730,
+            "Gender": "male",
+            "Role": "Metalworker"
+        },
+        {
+            "ConcatDisplayName": "Kurowa Katsubumi (Japanese, 1845-after 1926)",
+            "CreatorID": 3659,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "ca. 18th century",
+    "Description": null,
+    "Dimensions": "mounted katana: 35 13/16 in. (91 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490882,
+            "GeographyTerm": "Mito",
+            "Latitude": "36 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.366,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490882,
+            "GeographyTerm": "Mito",
+            "Latitude": "36 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.366,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5324,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.1236_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.1236_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.1236_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.1236_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.1236_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Forged Signature] Inoue Shinkai/Kanbun hachi; [Signature] Yoshioka Shigesada; [Signature] Kurowa Katsubumi; [Transcription] Inoue Shinkai/Kanbun hachi; [Translation] Inoue Shinkai/Kanbun 8 (1668)",
+    "Keywords": null,
+    "Medium": "dark brown lacquer, silver, gilded copper, copper alloy",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2025,
+        "LocationString": null
+    },
+    "ObjectID": 17182,
+    "ObjectName": "sword;katana blade;tsuba;fuchi;kashira;saya;tsuka",
+    "ObjectNumber": "51.1236",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.467",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 35264,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79672,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 20957,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/17182",
+    "SortNumber": "    51  1236                                            ",
+    "Style": null,
+    "Title": "Long Sword with Fittings of Rabbits on Waves"
+}

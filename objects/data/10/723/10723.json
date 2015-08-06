@@ -1,0 +1,83 @@
+{
+    "Classification": "Coins & Medals",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1966",
+    "Culture": null,
+    "DateBeginYear": -134,
+    "DateEndYear": -33,
+    "DateText": "134-33 BC",
+    "Description": "This piece depicts King Nicodemus II (149-95 BC).",
+    "Dimensions": "1 5/16 in. (3.33 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503187,
+            "GeographyTerm": "Bithynia",
+            "Latitude": "40 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.166,
+            "Longitude": "030 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5889,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_59.723_Back_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_59.723_Back_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_59.723_Back_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_59.723_Back_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_59.723_Back_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4517,
+        "LocationString": null
+    },
+    "ObjectID": 10723,
+    "ObjectName": "tetradrachms",
+    "ObjectNumber": "59.723",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Hesperia Art, Philadelphia [date and mode of acquisition unknown]; Walters Art Museum, 1966, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:41.3",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10723",
+    "SortNumber": "    59   723                                            ",
+    "Style": null,
+    "Title": "Tetradrachme with King Nicodemus II"
+}

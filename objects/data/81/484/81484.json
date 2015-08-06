@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Muhammad Zaman al-Tabrizi",
+            "CreatorID": 18666,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1589,
+    "DateEndYear": 1590,
+    "DateText": "998 AH/AD 1589-1590",
+    "Description": "This text page from Walters manuscript W.651 is written in Nasta\"liq script on orange tinted paper by the calligrapher Muhammad Zaman al-Tabrizi in 998 AH/AD 1589-1590 in Safavid Iran. The bluish-green borders are illuminated in an early Safavid style. \r\n",
+    "Dimensions": "H: 6 7/8 x W: 4 5/16 in. (17.5 x 11.0 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28844,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.651.5a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.651.5a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.651.5a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.651.5a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.651.5a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Qajar; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on orange-tinted paper with bluish-green borders",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81484,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.651.5A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Mahmud Askani, 1893-1894, by purchase [ownership statement on fol. 6b written by Husayn Qavam Daftar (?) and dated 1311 AH/AD 1893-1894 stating that this precious book was bought for his son Mahmud Askani from a woman for 10 ashrafis (gold dinars)]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81484",
+    "SortNumber": "W        651    5A                                      ",
+    "Style": null,
+    "Title": "Illuminated Text Page"
+}

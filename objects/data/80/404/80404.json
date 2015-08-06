@@ -1,0 +1,94 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mexican (Mixteca-Puebla style)",
+            "CreatorID": 15517,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Promised gift of John Bourne",
+    "Culture": "Mixteca-Puebla style",
+    "DateBeginYear": 900,
+    "DateEndYear": 1521,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "L: 2 5/16 x W: 3/4 x D: 1 1/8 in. (5.87 x 1.91 x 2.86 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 610915,
+            "GeographyTerm": "Oaxaca",
+            "Latitude": "17 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 17.0,
+            "Longitude": "096 30",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -96.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 611088,
+            "GeographyTerm": "Puebla",
+            "Latitude": "18 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 18.833,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27022,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.249_LftSide_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.249_LftSide_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.249_LftSide_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.249_LftSide_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.249_LftSide_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27023,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.249_RtSide_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.249_RtSide_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.249_RtSide_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.249_RtSide_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.249_RtSide_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "obsidian, traces of red pigment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5588,
+        "LocationString": null
+    },
+    "ObjectID": 80404,
+    "ObjectName": "labrets",
+    "ObjectNumber": "TL.2009.20.249",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Throckmorton Fine Art, New York [date and mode of acquisition unknown]; John G. Bourne, September 18, 1994, by purchase.",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80404",
+    "SortNumber": "TL      2009   20  249                                  ",
+    "Style": null,
+    "Title": "Labret"
+}

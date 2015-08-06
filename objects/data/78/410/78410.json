@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nayarit",
+            "CreatorID": 16369,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2008",
+    "Culture": "Nayarit",
+    "DateBeginYear": -300,
+    "DateEndYear": 300,
+    "DateText": "300 BC-AD 300",
+    "Description": null,
+    "Dimensions": "H: 9 5/8 x W: 5 3/4 x D: 7 in. (24.4 x 14.6 x 17.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608942,
+            "GeographyTerm": "M\u00e9xico",
+            "Latitude": "23 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -102.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14553,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2787_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2787_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2787_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2787_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2787_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 14552,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2787_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2787_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2787_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2787_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2787_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with cream and dark brown",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5506,
+        "LocationString": null
+    },
+    "ObjectID": 78410,
+    "ObjectName": "figures",
+    "ObjectNumber": "48.2787",
+    "OnView": 0,
+    "Period": "Late Pre-Classic",
+    "Provenance": "Private European collection [date and mode of acquisition unknown]; Sale, Sotheby's, New York, May 19, 1992, lot 124; Merrin Gallery, New York [date and mode of acquisition unknown]; Private collection, June 1992 [mode of acquisition unknown]; Walters Art Museum, 2008, by gift.",
+    "PublicAccessDate": "2009-04-22T11:40:24.71",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78410",
+    "SortNumber": "    48  2787                                            ",
+    "Style": "Ixtlan del Rio",
+    "Title": "Polychrome Seated Old Female Figure with Bowl"
+}

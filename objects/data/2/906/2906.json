@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Robert Campin",
+            "CreatorID": 10728,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": "Burgundian",
+    "DateBeginYear": 1418,
+    "DateEndYear": 1450,
+    "DateText": "ca. 1430-1450",
+    "Description": "The unprecedented realism and sense of solidity conveyed by Robert Campin's figures made the painter (ca. 1375-1444) one of the greatest 15th-century Netherlandish artists. His powerful, full-length depiction of the nursing Madonna and Child (now in Frankfurt, Germany) seems to have been the prototype for small, circular versions, such as this, used for private devotion.\r\n\r\nThe period's emphasis on the human qualities of Christ and on Mary's role as his mother found expression in the new realistic style. The circular format is based on the shape of 15th-century mirrors- here reflecting the ideal of Christian love expressed in the humility and care of a nursing mother.\r\n\r\nThe frame and painted panel are both carved from the same piece of wood.\r\n",
+    "Dimensions": "1 5/16 x 10 11/16 in. (3.3 x 27.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salute to Belgium",
+            "ExhibBeginDate": "1980-06-22",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "June 22, 1980-September 7, 1980",
+            "ExhibEndDate": "1980-09-07",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2674,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salute to Belgium. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Wallonie\\provinces\\Hainaut, Province de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421603,
+            "GeographyTerm": "Tournai",
+            "Latitude": "50 36",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.6,
+            "Longitude": "003 24",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.4
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40534,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.297_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.297_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.297_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.297_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.297_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4404,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.297_Fnt_BW_.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.297_Fnt_BW_.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.297_Fnt_BW_.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.297_Fnt_BW_.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.297_Fnt_BW_.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 40533,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.297_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.297_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.297_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.297_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.297_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: 15th-Century Art of Northern Europe",
+        "LocationID": 3911,
+        "LocationString": null
+    },
+    "ObjectID": 2906,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.297",
+    "OnView": 1,
+    "Period": "Late Medieval",
+    "Provenance": "Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.317",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2906",
+    "SortNumber": "    37   297                                            ",
+    "Style": "Gothic",
+    "Title": "Madonna and Child"
+}

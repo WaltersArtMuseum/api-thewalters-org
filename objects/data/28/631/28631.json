@@ -1,0 +1,82 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1867,
+    "DateText": "18th-19th century",
+    "Description": "This tsuba is decorated with chrysanthemum in gold and copper alloy. The petals and leaves of the flower wrap around the edge so that parts of the same flower are visible on both sides. Chrysanthemums are a symbol of autumn.",
+    "Dimensions": "H: 2 7/8 x W: 2 3/4 x D: 3/16 in. (7.3 x 7 x 0.41 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12785,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.276_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.276_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.276_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.276_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.276_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12784,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.276_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.276_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.276_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.276_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.276_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "plant; flower; chrysanthemum",
+    "Medium": "iron, shakudo, copper, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4107,
+        "LocationString": null
+    },
+    "ObjectID": 28631,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.276",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquistion unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28631",
+    "SortNumber": "    51   276                                            ",
+    "Style": null,
+    "Title": "Tsuba with Chrysanthemums"
+}

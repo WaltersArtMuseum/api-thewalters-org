@@ -1,0 +1,107 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -100,
+    "DateEndYear": 100,
+    "DateText": "1st century BC-AD 1st century",
+    "Description": "This bowl has a flat bottom, a projecting rim, and a striped mosaic design in yellow, green, and red.",
+    "Dimensions": "1 x 2 5/8 in. (2.5 x 6.6 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Yisra'el\\districts (national)\\Yerushalayim, Mehoz\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489737,
+            "GeographyTerm": "Yerushalayim",
+            "Latitude": "31 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.766,
+            "Longitude": "035 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33368,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.84_VwA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.84_VwA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.84_VwA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.84_VwA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.84_VwA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33369,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.84_VwB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.84_VwB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.84_VwB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.84_VwB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.84_VwB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33367,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.84_Bot_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.84_Bot_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.84_Bot_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.84_Bot_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.84_Bot_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast glass, gold leaf",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1720,
+        "LocationString": null
+    },
+    "ObjectID": 30815,
+    "ObjectName": "bowls",
+    "ObjectNumber": "47.84",
+    "OnView": 0,
+    "Period": "Augustan",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30815",
+    "SortNumber": "    47    84                                            ",
+    "Style": null,
+    "Title": "Bowl"
+}

@@ -1,0 +1,112 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Austrian (?)",
+            "CreatorID": 6521,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "German (?)",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1693,
+    "DateEndYear": 1717,
+    "DateText": "ca. 1705",
+    "Description": "Emperor Joseph I wears the Order of the Golden Fleece, which he received in 1687.",
+    "Dimensions": "H: 34 5/8 x W: 28 7/16 in. (88 x 72.3 cm)",
+    "Dynasty": "House of Habsburg",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1419772,
+            "GeographyTerm": "\u00d6sterreich",
+            "Latitude": "47 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.333,
+            "Longitude": "013 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1419772,
+            "GeographyTerm": "\u00d6sterreich",
+            "Latitude": "47 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.333,
+            "Longitude": "013 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51153,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1928_Fnt_BW_H69.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1928_Fnt_BW_H69.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1928_Fnt_BW_H69.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1928_Fnt_BW_H69.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1928_Fnt_BW_H69.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6601,
+        "LocationString": null
+    },
+    "ObjectID": 11408,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1928",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11408",
+    "SortNumber": "    37  1928                                            ",
+    "Style": null,
+    "Title": "Portrait of the Holy Roman Emperor Joseph I (1678-1711)"
+}

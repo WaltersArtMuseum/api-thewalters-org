@@ -1,0 +1,106 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yun-lin Chu-shih (Chinese)",
+            "CreatorID": 3586,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 32 1/4 x W: 18 1/8 in. (81.9 x 46 cm)",
+    "Dynasty": "Ming [Ming]-Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23008,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.17_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.17_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.17_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.17_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.17_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23006,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.17_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.17_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.17_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.17_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.17_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 23007,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.17_DetB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.17_DetB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.17_DetB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.17_DetB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.17_DetB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 23009,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.17_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.17_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.17_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.17_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.17_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Inscription] At top; [Seal] At top",
+    "Keywords": null,
+    "Medium": "ink on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2408,
+        "LocationString": null
+    },
+    "ObjectID": 9431,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.17",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 140]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9431",
+    "SortNumber": "    35    17                                            ",
+    "Style": null,
+    "Title": "Lakeside Pavilion"
+}

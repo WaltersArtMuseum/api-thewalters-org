@@ -1,0 +1,106 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Got\u00f4 Ichij\u00f4 (Japanese, 1791-1876)",
+            "CreatorID": 4468,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1824,
+    "DateEndYear": 1862,
+    "DateText": "1824-1862",
+    "Description": "This tsuba depicts a lotus pond with lotus flowers blossoming. The plants are depicted in gold and silver relief. On the back of the tsuba, a water bug skims the water between the lotus. The lotus is associated with Buddha and a state of purity. The construction of this tsuba is unusual. The front is made of a copper and gold alloy called shakudo, while the back is silver. They have been fused together, creating a wavy pattern along the tsuba's edge.",
+    "Dimensions": "at center: 2 11/16 x 2 7/16 x 1/8 in. (6.9 x 6.13 x 0.34 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12297,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.176_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.176_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.176_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.176_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.176_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12296,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.176_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.176_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.176_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.176_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.176_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12298,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.176_MrkA_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.176_MrkA_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.176_MrkA_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.176_MrkA_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.176_MrkA_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u5f8c\u85e4\u6cd5\u6a4b\u3000\u4e00\u4e57; [Translation] Goto Hokkyo/Ichijo (kao)",
+    "Keywords": "plant; lotus; animal; insect",
+    "Medium": "silver, shakudo, gold, copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4104,
+        "LocationString": null
+    },
+    "ObjectID": 4515,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.176",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-31T15:12:12.63",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4515",
+    "SortNumber": "    51   176                                            ",
+    "Style": "Goto School",
+    "Title": "Tsuba with a Lotus Pond"
+}

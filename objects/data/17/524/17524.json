@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1818,
+    "DateEndYear": 1851,
+    "DateText": "ca. 1830-1839",
+    "Description": "This is an example of Hirado ware.",
+    "Dimensions": "5 3/16 in. (13.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Hirado Porcelain",
+            "ExhibBeginDate": "1980-11-06",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "November 6, 1980-January 30, 1981",
+            "ExhibEndDate": "1981-01-30",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2675,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Hirado Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        },
+        {
+            "ExhTitle": "Nineteenth Century Maryland Life",
+            "ExhibBeginDate": "1986-09-16",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "September 16, 1986-October 26, 1986",
+            "ExhibEndDate": "1986-10-26",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2984,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Nineteenth Century Maryland Life. Kanagawa Prefectural Museum, Kanagawa. 1986."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21328,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.957_3QtrVwA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.957_3QtrVwA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.957_3QtrVwA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.957_3QtrVwA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.957_3QtrVwA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21329,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.957_3QtrVwB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.957_3QtrVwB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.957_3QtrVwB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.957_3QtrVwB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.957_3QtrVwB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1715,
+        "LocationString": null
+    },
+    "ObjectID": 17524,
+    "ObjectName": "ewer",
+    "ObjectNumber": "49.957",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.45",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17524",
+    "SortNumber": "    49   957                                            ",
+    "Style": "Hirado ware",
+    "Title": "Sake Ewer from a Portable Picnic Set"
+}

@@ -1,0 +1,128 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Adolphe Rajon (French, 1842/3-1888)",
+            "CreatorID": 4531,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Warren Delano IV, 1977",
+    "Culture": null,
+    "DateBeginYear": 1874,
+    "DateEndYear": 1898,
+    "DateText": "ca. 1886",
+    "Description": null,
+    "Dimensions": "H: 12 x W: 9 5/16 in. (30.5 x 23.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Splendor in Books",
+            "ExhibBeginDate": "1977-12-20",
+            "ExhibBeginYear": 1977,
+            "ExhibDisplayDate": "December 20, 1977-March 19, 1978",
+            "ExhibEndDate": "1978-03-15",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 683,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Splendor in Books. Grolier Club, New York; The Walters Art Gallery, Baltimore. 1977-1978."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 59630,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2544_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2544_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2544_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2544_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2544_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        },
+        {
+            "ID": 59631,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2544_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2544_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2544_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2544_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2544_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 434,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2544_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2544_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2544_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2544_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2544_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Inscription] Lower right: Rajon's drawing from life W. W.",
+    "Keywords": "man; historical; portrait; portrait",
+    "Medium": "black crayon with white heightening on gray, moderately thick, moderately textured, cartridge-style laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2255,
+        "LocationString": null
+    },
+    "ObjectID": 9802,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2544",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Warren Delano IV [great-nephew of the sitter], New York [date and mode of acquisition unknown]; Walters Art Museum, 1977, by gift.",
+    "PublicAccessDate": "2008-12-01T14:17:39.52",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 16312,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 37428,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9802",
+    "SortNumber": "    37  2544                                            ",
+    "Style": null,
+    "Title": "Portrait of William T. Walters"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1258,
+    "DateEndYear": 1282,
+    "DateText": "ca. 1270-1280",
+    "Description": "This manuscript was created in Flanders ca. 1270-80. Originally a standard liturgical Psalter, it was converted in the fourteenth century for the use of an English owner, possibly a cleric, through the addition of a second litany focused on English saints and an Office of the Dead. The illuminations, composed of vignettes depicting labors of the months in the calendar and historiated initials within the psalms themselves, belong to the first phase of production and are characteristic of Psalter iconography from the Bruges-Ghent region during this period.",
+    "Dimensions": "H: 8 13/16 \u00d7 W: 6 9/16 in. (22.4 \u00d7 16.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\West-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421893,
+            "GeographyTerm": "Brugge",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Oost-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421794,
+            "GeographyTerm": "Gent",
+            "Latitude": "51 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.33,
+            "Longitude": "003 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 60541,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W35_000057_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W35_000057_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W35_000057_300.jpg",
+                "Small": "http://static.thewalters.org/images/W35_000057_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W35_000057_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 93422,
+    "ObjectName": "leaves; folios",
+    "ObjectNumber": "W.35.27R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Possibly owned by a cleric, England, 14th century [1]. Russian ownership, ca. 19th century [2]. Acquired by L\u00e9on Gruel, Paris, late 19th-early 20th century [3]; purchased by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] obituary on fol. 4v and additional texts added at this time\r\n[2] imperial Russian ownership stamp with the word \"Expecto\" fol. 1r\r\n[3] Gruel's bookplate and no. 1448 on front pastedown",
+    "PublicAccessDate": "2014-07-18T01:00:00.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/93422",
+    "SortNumber": "W         35   27R                                      ",
+    "Style": null,
+    "Title": "Leaf from Psalter: Psalm 26, Initial D with Seated Apostle"
+}

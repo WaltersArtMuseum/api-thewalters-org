@@ -1,0 +1,119 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": -50,
+    "DateEndYear": 50,
+    "DateText": "late 1st century BC-AD early 1st century",
+    "Description": "Makers of mosaic glass cut thin slices from long, thin rods known as canes. The slices were placed side by side on a marble slab and heated in a furnace until they fused together. The soft flat disk of fused glass was then placed over a bowl-shaped form and heated until it slumped into the desired shape.",
+    "Dimensions": "H: 3/4 \u00d7 W: 6 5/16 in. (1.9 \u00d7 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking",
+            "ExhibBeginDate": "2007-12-01",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "December 1, 2007- November 9, 2008",
+            "ExhibEndDate": "2008-11-09",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2003,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking. The Walters Art Museum, Baltimore. 2007-2008."
+        },
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        },
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Yisra'el\\districts (national)\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489727,
+            "GeographyTerm": "Yerushalayim, Mehoz",
+            "Latitude": "31 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.75,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52337,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.75_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.75_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.75_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.75_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.75_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52336,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.75_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.75_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.75_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.75_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.75_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1720,
+        "LocationString": null
+    },
+    "ObjectID": 13501,
+    "ObjectName": "plates",
+    "ObjectNumber": "47.75",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "Acquired by Henry Walters, Baltimore, 1912; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13501",
+    "SortNumber": "    47    75                                            ",
+    "Style": null,
+    "Title": "Mosaic Plate"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "School of Tuscany (?)",
+            "CreatorID": 16397,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1699,
+    "DateText": "17th century",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 311, pp. 437-439.",
+    "Dimensions": "H including modern molding: 19 1/2 x W: 15 15/16 in. (49.5 x 40.5 cm); Inner painting H excluding modern molding: 12 1/2 x W: 8 7/8 x D: 5/8 in. (31.7 x 22.6 x 1.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Rembrandt Peale's Portrait of John Meer: A New Addition to the American Art Collection",
+            "ExhibBeginDate": "2009-03-04",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "March 4, 2009-August 23, 2009",
+            "ExhibEndDate": "2009-08-23",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2111,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Rembrandt Peale's Portrait of John Meer: A New Addition to the American Art Collection. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440146,
+            "GeographyTerm": "Toscana",
+            "Latitude": "43 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.416,
+            "Longitude": "011 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11124,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1124_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1124_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1124_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1124_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1124_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47183,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1124_XR_1971.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1124_XR_1971.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1124_XR_1971.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1124_XR_1971.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1124_XR_1971.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On scroll held by cherub holding ladder: HINC...LVC...; [Translation] From here the light; [Inscription] illegible inscription on scroll held by cherub holding mirror; [Transcription] On book held by the Archangel Michael: IN | QUO | TOTV | CON | TINE | TVR; [Translation[ In which everything is contained; [Transcription] On book held by St. Ignatius of Loyola: AD | MAIO | REM | DEI | GLO | RIA; [Translation] To the greater glory of God.",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3253,
+        "LocationString": null
+    },
+    "ObjectID": 27643,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1124",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 193, as Guido Reni]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-02-17T10:58:10.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27643",
+    "SortNumber": "    37  1124                                            ",
+    "Style": null,
+    "Title": "The Crucifixion"
+}

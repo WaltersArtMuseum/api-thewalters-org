@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 1748,
+    "DateEndYear": 1782,
+    "DateText": "ca. 1760-1770",
+    "Description": null,
+    "Dimensions": "H: 11 5/8 in. (29.53 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Special exhibition of S\u00e8vres Porcelain",
+            "ExhibBeginDate": "1909",
+            "ExhibBeginYear": 1909,
+            "ExhibDisplayDate": "1909",
+            "ExhibEndDate": "1909",
+            "ExhibEndYear": 1909,
+            "ExhibitionID": 365,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Special exhibition of S\u00e8vres Porcelain. Galleries of E. M. Hodgkins, Paris. 1909."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46392,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.633_Fnt_BW_C40.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.633_Fnt_BW_C40.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.633_Fnt_BW_C40.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.633_Fnt_BW_C40.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.633_Fnt_BW_C40.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9457,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.633_Fnt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.633_Fnt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.633_Fnt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.633_Fnt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.633_Fnt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9459,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.633_Prof_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.633_Prof_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.633_Prof_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.633_Prof_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.633_Prof_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 9456,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.633_Back_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.633_Back_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.633_Back_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.633_Back_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.633_Back_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "Marks, if any, are concealed by base.",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain, enamel, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5176,
+        "LocationString": null
+    },
+    "ObjectID": 33019,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.633",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Madame Dhainaut Collection, Paris; Georges Petit Sale, Paris, May 19, 1924, no. 47;\r\nDuchesse d'Abercorn, Paris [date and mode of acquisition unknown]; E. M. Hodgkins Collection, Paris, no. 57; A. Seligmann, Rey and Co., New York; Henry Walters, Baltimore, 1928, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-09-25T17:14:37.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33019",
+    "SortNumber": "    48   633                                            ",
+    "Style": null,
+    "Title": "Potpourri Vase (Vase pot pourri ovale uni)"
+}

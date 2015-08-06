@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mycenaean",
+            "CreatorID": 4078,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": "Mycenaean",
+    "DateBeginYear": -1212,
+    "DateEndYear": -1188,
+    "DateText": "ca. 1200 BC",
+    "Description": "The shape of this goblet and its painted decoration, featuring an upright cuttlefish spreading its tentacles to either side in a stiffly symmetrical fashion, are typically Mycenaean.",
+    "Dimensions": "6 15/16 x 6 3/8 in. (17.7 x 16.2 cm) (h. x diam.);\r\nat handles: 8 7/16 in. (21.5 cm) (w.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Pelop\u00f3nnisos\\departments\\Argol\u00eddhos, Nom\u00f3s\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1432255,
+            "GeographyTerm": "Mik\u00ednai",
+            "Latitude": "37 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.75,
+            "Longitude": "022 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29411,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.211_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.211_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.211_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.211_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.211_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 29409,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.211_3QtrLft_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.211_3QtrLft_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.211_3QtrLft_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.211_3QtrLft_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.211_3QtrLft_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 29410,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.211_Back_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.211_Back_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.211_Back_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.211_Back_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.211_Back_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3634,
+        "LocationString": null
+    },
+    "ObjectID": 20770,
+    "ObjectName": "goblets",
+    "ObjectNumber": "48.211",
+    "OnView": 1,
+    "Period": "late Helladic IIIA-B",
+    "Provenance": "Joseph Brummer, 1924; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.923",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20770",
+    "SortNumber": "    48   211                                            ",
+    "Style": null,
+    "Title": "Goblet with Cuttlefish"
+}

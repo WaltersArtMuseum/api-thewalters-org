@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ilyas Basim Khuri Bazzi Rahib (Egyptian, active ca. 1684)",
+            "CreatorID": 15719,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1684,
+    "DateEndYear": 1684,
+    "DateText": "7192 AM/AD 1684",
+    "Description": "This folio from Walters manuscript W.592 contains an illuminated headpiece to the Gospel of St. Mark.",
+    "Dimensions": "H: 6 5/16 x W: 4 5/16 in. (16 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31240,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.592.86a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.592.86a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.592.86a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.592.86a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.592.86a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Christian; Codex; Colophon; Egypt; Illumination; Illustration; Islamic; Manuscript; Scripture",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79084,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.592.86A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Leon Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown] [Henry Walters Ex Libris book plate on the inside of the upper board]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79084",
+    "SortNumber": "W        592   86A                                      ",
+    "Style": null,
+    "Title": "Illuminated Headpiece to the Gospel of St. Mark"
+}

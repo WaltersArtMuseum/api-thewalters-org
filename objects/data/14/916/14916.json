@@ -1,0 +1,75 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. Sara D. Redmond, 1983",
+    "Culture": null,
+    "DateBeginYear": 1767,
+    "DateEndYear": 1767,
+    "DateText": "1767",
+    "Description": null,
+    "Dimensions": "14 x 8 3/4 in. (35.5 x 22.3 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55773,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.2524_Fnt_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.2524_Fnt_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.2524_Fnt_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.2524_Fnt_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.2524_Fnt_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5760,
+        "LocationString": null
+    },
+    "ObjectID": 14916,
+    "ObjectName": "tureens",
+    "ObjectNumber": "49.2524",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mrs. Sara D. Redmond, Oyster Bay, NY [date and mode of acquisition unknown]; Walters Art Museum, 1983, by gift.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 20157,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/14916",
+    "SortNumber": "    49  2524                                            ",
+    "Style": "Famille Rose",
+    "Title": "Tureen with English Coat of Arms"
+}

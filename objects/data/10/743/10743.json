@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": "An artist working early in the 19th century, before the expansion of the modern city, shows St. Peter's with the Vatican and Pincian hills visible on the left.",
+    "Dimensions": "H: 4 x W: 5 5/16 in. (10.2 x 13.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\Roma\\hills\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1435080,
+            "GeographyTerm": "Monte Pincio",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48393,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1606_Fnt_BW_H63.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1606_Fnt_BW_H63.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1606_Fnt_BW_H63.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1606_Fnt_BW_H63.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1606_Fnt_BW_H63.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2275,
+        "LocationString": null
+    },
+    "ObjectID": 10743,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1606",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10743",
+    "SortNumber": "    37  1606                                            ",
+    "Style": null,
+    "Title": "View of St. Peters, Rome"
+}

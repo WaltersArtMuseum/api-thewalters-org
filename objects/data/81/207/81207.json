@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This binding from Walters manuscript W.667 is contemporary with the textblock. It is composed of dark brown goatskin (with a flap) and has a large central lobed medallion with floral scroll work outlined in gold. The binding has some repairs.",
+    "Dimensions": "Folio H: 9 5/8 x W: 5 5/16 in. (24.5 x 13.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28882,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28881,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_upperboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_upperboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_upperboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_upperboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_upperboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 28880,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_frontflyleafiaflapclosed.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_frontflyleafiaflapclosed.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_frontflyleafiaflapclosed.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_frontflyleafiaflapclosed.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.667.binding_Int_DD_frontflyleafiaflapclosed.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Islamic; Turkish; Book; Calligraphy; Codex; Manuscript; Medallion; Scripture",
+    "Medium": "dark-brown goatskin with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81207,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.667.binding",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Sayyid Burhan al-Din [date and mode of acquisition unknown] [seal dated 1039 AH, on fol. 1a]; al-Wazir al-Shahid 'Ali Pasha [date and mode of acquisition unknown] [waqf-stamp dated 1130 AH on fols. 1a, 1b, 2a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81207",
+    "SortNumber": "W        667binding                                     ",
+    "Style": null,
+    "Title": "Binding from Commentary on Select Verses of the Qur'an"
+}

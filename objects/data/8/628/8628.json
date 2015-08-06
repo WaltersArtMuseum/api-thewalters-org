@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chelsea Porcelain Factory (English, active ca. 1745-1784)",
+            "CreatorID": 15410,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1746,
+    "DateEndYear": 1782,
+    "DateText": "ca. 1758-1769",
+    "Description": "This vase represents gold-anchor Chelsea at its most elaborate. the rococo style is well defined here with the many scrolls, curves, and twists. The rustic figural scene painted in the reserve is probably after a contemporary French painting.",
+    "Dimensions": "16 3/4 in. (42.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\metropolitan areas\\Greater London\\neighborhoods\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1470029,
+            "GeographyTerm": "Chelsea",
+            "Latitude": "51 29",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.483,
+            "Longitude": "000 09",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.15
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11213,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.826_SideA_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.826_SideA_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.826_SideA_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.826_SideA_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.826_SideA_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11212,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.826_SideB_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.826_SideB_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.826_SideB_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.826_SideB_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.826_SideB_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "anchor in gold",
+    "Keywords": null,
+    "Medium": "gilt on soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5316,
+        "LocationString": null
+    },
+    "ObjectID": 8628,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.826",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "A. W. Franks, London; George R. Harding, London [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.143",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8628",
+    "SortNumber": "    48   826                                            ",
+    "Style": null,
+    "Title": "Covered Vase"
+}

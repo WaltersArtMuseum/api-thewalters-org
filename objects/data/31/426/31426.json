@@ -1,0 +1,130 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean-Baptiste-\u00c9tienne Genest (French, ca. 1725-1789)",
+            "CreatorID": 16118,
+            "Gender": "male",
+            "Role": "Decorator"
+        },
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 1768,
+    "DateEndYear": 1768,
+    "DateText": "ca. 1768",
+    "Description": "The front reserve of this green-ground vase depicts a sacrifice to Flora in grisaille. It is thought that this vase and its pair (48.614) were presented to the King of Denmark by Louis XV in 1768.",
+    "Dimensions": "H: 13 9/16 in. (34.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Special exhibition of S\u00e8vres Porcelain",
+            "ExhibBeginDate": "1909",
+            "ExhibBeginYear": 1909,
+            "ExhibDisplayDate": "1909",
+            "ExhibEndDate": "1909",
+            "ExhibEndYear": 1909,
+            "ExhibitionID": 365,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Special exhibition of S\u00e8vres Porcelain. Galleries of E. M. Hodgkins, Paris. 1909."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9432,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.613_Fnt_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.613_Fnt_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.613_Fnt_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.613_Fnt_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.613_Fnt_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9433,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.613_Prof_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.613_Prof_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.613_Prof_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.613_Prof_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.613_Prof_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9431,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.613_Back_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.613_Back_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.613_Back_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.613_Back_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.613_Back_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2125,
+        "LocationString": null
+    },
+    "ObjectID": 31426,
+    "ObjectName": "vases; covers",
+    "ObjectNumber": "48.613",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "E. M. Hodgkins Collection, Paris, no. 40 [date and mode of acquisition unknown]; A. Seligmann, Rey and Co., New York; Henry Walters, Baltimore, 1928, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.987",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 21825,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/31426",
+    "SortNumber": "    48   613                                            ",
+    "Style": null,
+    "Title": "One of a Pair of Vases (Vase Danemark \u00e0 cartels)"
+}

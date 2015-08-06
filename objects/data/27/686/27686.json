@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1875,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "7 3/16 x 9 3/16 in. (18.2 x 23.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Wild Kingdom of Antoine-Louis Barye, 1795-1875",
+            "ExhibBeginDate": "1994-11-04",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 4, 1994-December 9, 1994",
+            "ExhibEndDate": "1994-12-09",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 872,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Wild Kingdom of Antoine-Louis Barye, 1795-1875. Wildenstein & Company, New York. 1994."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10172,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2222A-37.2222B_Fnt_NF_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2222A-37.2222B_Fnt_NF_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2222A-37.2222B_Fnt_NF_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2222A-37.2222B_Fnt_NF_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2222A-37.2222B_Fnt_NF_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "measured drawing of legs of giraffe also on verso",
+    "Keywords": "animal; animal",
+    "Medium": "graphite on blue-white, moderately thick, slightly textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2246,
+        "LocationString": null
+    },
+    "ObjectID": 27686,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2222",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Collection Vildieu-Barye; Fabius Fr\u00e8res, Paris; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:36.44",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27686",
+    "SortNumber": "    37  2222                                            ",
+    "Style": null,
+    "Title": "Measured Drawing of Giraffe"
+}

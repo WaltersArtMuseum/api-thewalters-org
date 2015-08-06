@@ -1,0 +1,83 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": 1558,
+    "DateEndYear": 1612,
+    "DateText": "ca. 1570-1600",
+    "Description": "Cabinets such as this one were used to store bulky items and were not decorated on the inside, in contrast to the elaborate interior of the later cabinets.",
+    "Dimensions": "bottom: 43 1/2 x 47 in. (110.49 x 119.38 cm);\r\ntop: 46 x 48 1/4 x 15 in. (116.84 x 122.56 x 38.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5928,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_65.27_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_65.27_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_65.27_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_65.27_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_65.27_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood (walnut)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 4813,
+    "ObjectName": "cabinets (case furniture)",
+    "ObjectNumber": "65.27",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Jacques Seligmann, Paris, by purchase; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-15T14:21:10.143",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4813",
+    "SortNumber": "    65    27                                            ",
+    "Style": null,
+    "Title": "Cabinet"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1899",
+    "Culture": null,
+    "DateBeginYear": 1865,
+    "DateEndYear": 1899,
+    "DateText": "late 19th century",
+    "Description": "This is an example of Satsuma ware.",
+    "Dimensions": "9 in. (22.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5057,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1031_Fnt_BW_C39.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1031_Fnt_BW_C39.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1031_Fnt_BW_C39.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1031_Fnt_BW_C39.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1031_Fnt_BW_C39.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": null,
+    "Medium": "white earthenware with buff, crackled body and overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1946,
+        "LocationString": null
+    },
+    "ObjectID": 37832,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1031",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1899 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37832",
+    "SortNumber": "    49  1031                                            ",
+    "Style": "Satsuma ware",
+    "Title": "Vase with Knotted Handles"
+}

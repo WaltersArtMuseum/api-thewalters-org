@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni Battista Pittoni, the younger (Italian, 1687-1767)",
+            "CreatorID": 4621,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1907 (?)",
+    "Culture": null,
+    "DateBeginYear": 1723,
+    "DateEndYear": 1747,
+    "DateText": "ca. 1735",
+    "Description": "The tragic moment depicted is from the end of the Trojan War. According to legend, the ghost of the Greek hero Achilles demanded that the Trojan princess Polyxena be sacrificed at his tomb. Achilles's son, with the feathered helmet, is leading the sacrifice. According to the Roman poet Ovid, Polyxena \"kept her look of dauntless courage until the end.\" In visualizing this passage, the painter has depicted the young woman with a sorrowful yet dignified expression that conveys her bravery in the face of death.\r\n\r\nThe ballet-like elegance of the figures is characteristic of 18th-century Venetian history painting, as is the delight in exotic elements, such as the costumes and ritual objects of the pagan priests.\r\n\r\nFor more information on this painting, please see Federico Zeri's 1976 catalogue no. 450, pp. 561-562.",
+    "Dimensions": "Painted surface H: 27 9/16 x W: 20 3/8 in. (70 x 51.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Greek Tradition in Painting and the Minor Arts",
+            "ExhibBeginDate": "1939-05-15",
+            "ExhibBeginYear": 1939,
+            "ExhibDisplayDate": "May 15, 1939-June 25, 1939",
+            "ExhibEndDate": "1939-06-25",
+            "ExhibEndYear": 1939,
+            "ExhibitionID": 2266,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Greek Tradition in Painting and the Minor Arts. Baltimore Museum of Art, Baltimore. 1939."
+        },
+        {
+            "ExhTitle": "Tiepolo Unveiled: The Restoration of a Masterpiece",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2335,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Tiepolo Unveiled: The Restoration of a Masterpiece. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4241,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.512_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.512_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.512_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.512_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.512_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47735,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.512_XR_1973.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.512_XR_1973.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.512_XR_1973.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.512_XR_1973.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.512_XR_1973.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Transcription] On stretcher: E G/118/;0 939/ Paris 118; [Transcription] On stretcher in red: E. G. 213.2; [Seal] Red wax seal on reverse of canvas with coat of arms and inscription in Polish (?)",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 18th-Century Art",
+        "LocationID": 4782,
+        "LocationString": null
+    },
+    "ObjectID": 40682,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.512",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Glaenzer and Co., New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1907 (?) [mode of acquisition unknown];  Walters Art Mueseum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.49",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40682",
+    "SortNumber": "    37   512                                            ",
+    "Style": null,
+    "Title": "The Sacrifice of Polyxena at the Tomb of Achilles"
+}

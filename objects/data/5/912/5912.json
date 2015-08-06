@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Shen Zengzhi (Chinese, 1850-1922)",
+            "CreatorID": 4940,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1992",
+    "Culture": null,
+    "DateBeginYear": 1922,
+    "DateEndYear": 1922,
+    "DateText": "1922",
+    "Description": null,
+    "Dimensions": "H: 51 3/4 x W: 26 in. (131.5 x 66 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49715,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.182_Fnt_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.182_Fnt_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.182_Fnt_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.182_Fnt_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.182_Fnt_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 49713,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.182_DetA_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.182_DetA_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.182_DetA_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.182_DetA_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.182_DetA_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 49714,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.182_DetB_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.182_DetB_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.182_DetB_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.182_DetB_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.182_DetB_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] Meishou; [Date] 7th month of the renxu year (1922); [Seal] two seals of the artist: Zeng Zhi yin, Hai Ri Lou",
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2409,
+        "LocationString": null
+    },
+    "ObjectID": 5912,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.182",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sale, Christie's, New York, December 2, 1992, lot 81; Walters Art Museum, 1992, by purchase.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5912",
+    "SortNumber": "    35   182                                            ",
+    "Style": null,
+    "Title": "Cursive Script Calligraphy"
+}

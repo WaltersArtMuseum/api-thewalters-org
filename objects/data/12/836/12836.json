@@ -1,0 +1,83 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Shuosai (Japanese, early-mid 19th century)",
+            "CreatorID": 2491,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1850,
+    "DateText": "early-mid 19th century",
+    "Description": null,
+    "Dimensions": "1 15/16 in. (5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Netsuke: Miniature Sculpture of Japan",
+            "ExhibBeginDate": "1978-09-24",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "September 24, 1978-November 12, 1978",
+            "ExhibEndDate": "1978-11-12",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 275,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Netsuke: Miniature Sculpture of Japan. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5907,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_61.251_Fnt_BW_H74.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_61.251_Fnt_BW_H74.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_61.251_Fnt_BW_H74.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_61.251_Fnt_BW_H74.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_61.251_Fnt_BW_H74.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Shuosai",
+    "Keywords": "No; mask; ghost",
+    "Medium": "wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2085,
+        "LocationString": null
+    },
+    "ObjectID": 12836,
+    "ObjectName": "netsukes",
+    "ObjectNumber": "61.251",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.997",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12836",
+    "SortNumber": "    61   251                                            ",
+    "Style": null,
+    "Title": "Yase-Onna (\"Grieving Woman\") Mask for a Ghost Role in a No Play"
+}

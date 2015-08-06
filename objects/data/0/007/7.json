@@ -1,0 +1,124 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan (?)",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Italic (?)",
+            "CreatorID": 3705,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -425,
+    "DateEndYear": -401,
+    "DateText": "late 5th century BC",
+    "Description": null,
+    "Dimensions": "H: 13 7/8 in. (35.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9199,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.975_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.975_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.975_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.975_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.975_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9200,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.975_Lft_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.975_Lft_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.975_Lft_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.975_Lft_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.975_Lft_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9198,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.975_Back_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.975_Back_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.975_Back_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.975_Back_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.975_Back_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 9201,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.975_Rt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.975_Rt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.975_Rt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.975_Rt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.975_Rt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 441,
+        "LocationString": null
+    },
+    "ObjectID": 7,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.975",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-22T12:03:17.243",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7",
+    "SortNumber": "    54   975                                            ",
+    "Style": null,
+    "Title": "Zeus"
+}

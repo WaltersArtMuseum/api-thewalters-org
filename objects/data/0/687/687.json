@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": "Russian",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "The inscriptions on these two icons identify the saints portrayed there as Cyril and John, both bishops of Alexandria. The misspelled epithet of Saint Cyril and the crude painting style suggests provincial origin. The pair of thin, narrow panels was probably part of a portable iconostasis (similar to Walters 37.625), where the figures belonged to an extended Deesis. The center of Deesis compositions is always occupied by Christ the Ruler of All, seated on a throne and flanked, in this case on adjoining panels, by the Virgin, John the Baptist, and then other saints, with the holiest figures placed closest to Christ.",
+    "Dimensions": "H: 14 1/16 x W: 4 1/4 in. (35.7 x 10.8 cm)",
+    "Dynasty": "Rurikid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38646,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1200_Fnt_NF_H60.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1200_Fnt_NF_H60.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1200_Fnt_NF_H60.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1200_Fnt_NF_H60.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1200_Fnt_NF_H60.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47188,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1200_XR_DateUnk.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1200_XR_DateUnk.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1200_XR_DateUnk.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1200_XR_DateUnk.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1200_XR_DateUnk.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 899,
+        "LocationString": null
+    },
+    "ObjectID": 687,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.1200",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Henry Walters, Baltimore, 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/687",
+    "SortNumber": "    37  1200                                            ",
+    "Style": null,
+    "Title": "St. John the Almsgiver and St. Cyril of Alexandria"
+}

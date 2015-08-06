@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1172,
+    "DateEndYear": 1228,
+    "DateText": "1172-1228",
+    "Description": null,
+    "Dimensions": "11 13/16 x 8 11/16 in. (30 x 22 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Saint John's Bible: A Modern Vision through Medieval Methods",
+            "ExhibBeginDate": "2009-02-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "February 15, 2009-May 24, 2009",
+            "ExhibEndDate": "2009-05-24",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2059,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Saint John's Bible: A Modern Vision through Medieval Methods. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437439,
+            "GeographyTerm": "Assisi",
+            "Latitude": "43 04",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.66,
+            "Longitude": "012 37",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.616
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18186,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.75.162V_Fp_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.75.162V_Fp_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.75.162V_Fp_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.75.162V_Fp_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.75.162V_Fp_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 36439,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.75.162V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Church of San Nicolo, Assisi (?), late 12th-early 13th century; Joseph Baer, Frankfurt, 1912 [mode of acquisition unknown]; Leon Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36439",
+    "SortNumber": "W         75  162V                                      ",
+    "Style": "Gothic",
+    "Title": "Leaf from St. Francis Missal"
+}

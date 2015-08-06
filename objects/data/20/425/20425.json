@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles Robert Leslie (English, 1794-1859)",
+            "CreatorID": 2423,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1794,
+    "DateEndYear": 1859,
+    "DateText": "1794-1859",
+    "Description": "A young woman stares longingly at a portrait miniature of a loved one who is absent.\r\n\r\nAlthough born in London to American parents, Leslie was raised in Philadelphia.  At the age of 17, he returned to London, where he studied with the American artists Benjamin West and Washington Allston.  Except for several months in 1833 when he served as a professor at the United States Military Academy, he pursued a successful career in London as a painter of theatrical and modern historical subjects.\r\n",
+    "Dimensions": "19 11/16 x 14 1/8 in. (50 x 35.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\metropolitan areas\\Greater London\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1469860,
+            "GeographyTerm": "London",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "000 10",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.166
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4201,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.214_Fnt_SL_X78.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.214_Fnt_SL_X78.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.214_Fnt_SL_X78.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.214_Fnt_SL_X78.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.214_Fnt_SL_X78.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3304,
+        "LocationString": null
+    },
+    "ObjectID": 20425,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.214",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown] (?); Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.597",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20425",
+    "SortNumber": "    37   214                                            ",
+    "Style": null,
+    "Title": "The Miniature"
+}

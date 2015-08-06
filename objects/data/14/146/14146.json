@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alfred Jacob Miller (American, 1810-1874)",
+            "CreatorID": 4486,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Commissioned by William T. Walters, 1858-1860",
+    "Culture": null,
+    "DateBeginYear": 1858,
+    "DateEndYear": 1860,
+    "DateText": "1858-1860",
+    "Description": "Miller was the only painter to portray during their heyday the men who \"may be said to lead the van in the march of civilization,- from the Canadas in the North to California in the South;- from the Mississippi East to the Pacific West; every river and mountain stream, in all probability, have [sic] been at one time or another visited and inspected by them.\"  Perhaps they numbered no more than a thousand, but their impact was incalculable.\r\n\r\nHere Miller has pictured two of that company, one of them probably Black Harris.",
+    "Dimensions": "12 x 9 7/16 in. (30.4 x 24 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Sentimental Journey: The Art of Alfred Jacob Miller",
+            "ExhibBeginDate": "2008-09-20",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "September 20, 2008- October 4, 2009",
+            "ExhibEndDate": "2009-10-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2001,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Sentimental Journey: The Art of Alfred Jacob Miller. Amon Carter Museum, Fort Worth; Joslyn Art Museum, Omaha. 2008-2009."
+        },
+        {
+            "ExhTitle": "Alfred Jacob Miller: An Artist on the Oregon Trail",
+            "ExhibBeginDate": "1981-10-15",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "October 15, 1981-September 30, 1982",
+            "ExhibEndDate": "1982-09-30",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2164,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Alfred Jacob Miller: An Artist on the Oregon Trail. The Walters Art Gallery, Baltimore; Amon Carter Museum, Fort Worth; Buffalo Bill Historical Center, Cody. 1981-1982."
+        },
+        {
+            "ExhTitle": "American West: Out of Myth into Reality",
+            "ExhibBeginDate": "2000-06-24",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "June 24, 2000-January 15, 2001",
+            "ExhibEndDate": "2001-01-15",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 2611,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "American West: Out of Myth into Reality. Mississippi Museum of Art, Jackson; Terra Museum of American Art, Chicago; Toledo Museum of Art, Toledo. 2000-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3977,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.1940.29_Fnt_TR_C81IA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.1940.29_Fnt_TR_C81IA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.1940.29_Fnt_TR_C81IA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.1940.29_Fnt_TR_C81IA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.1940.29_Fnt_TR_C81IA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "watercolor and gouache on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2225,
+        "LocationString": null
+    },
+    "ObjectID": 14146,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1940.29",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1858-1860, by commission; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.253",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14146",
+    "SortNumber": "    37  1940   29                                       ",
+    "Style": null,
+    "Title": "Trappers"
+}

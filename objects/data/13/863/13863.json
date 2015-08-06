@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "The Skating Painter (Greek, active ca. 600 BC-575 BC)",
+            "CreatorID": 15216,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -612,
+    "DateEndYear": -588,
+    "DateText": "ca. 600-570 BC",
+    "Description": "Bottles of this type were frequently decorated with images of women engaged in ritual activities. Encircling the vessel are women holding wreaths in a festival dance. In the lower section, a woman bears a \"kanoun,\" or ritual basket, on her head.",
+    "Dimensions": "5 7/16 x 3 9/16 x 3 9/16 in. (13.8 x 9 x 9 cm) (h. x d. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Pelop\u00f3nnisos\\departments\\K\u00f3rinthos\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1432288,
+            "GeographyTerm": "K\u00f3rinthos",
+            "Latitude": "37 56",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.933,
+            "Longitude": "022 55",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.916
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8429,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.192_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.192_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.192_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.192_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.192_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8428,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.192_Det_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.192_Det_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.192_Det_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.192_Det_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.192_Det_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3644,
+        "LocationString": null
+    },
+    "ObjectID": 13863,
+    "ObjectName": "bottles",
+    "ObjectNumber": "48.192",
+    "OnView": 1,
+    "Period": "Middle Corinthian",
+    "Provenance": "Joseph Brummer; Henry Walters, Baltimore, 1925; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.907",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13863",
+    "SortNumber": "    48   192                                            ",
+    "Style": "Corinthian",
+    "Title": "Bottle Depicting Women in a Ritual Dance"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Barth\u00e9lemy Prieur (French, 1536-1611) (?)",
+            "CreatorID": 2432,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1620,
+    "DateText": "1600-1620",
+    "Description": null,
+    "Dimensions": "H: 7 7/8 in. (20 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473870,
+            "GeographyTerm": "Holland",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49074,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.632_Fnt_BW_2010.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.632_Fnt_BW_2010.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.632_Fnt_BW_2010.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.632_Fnt_BW_2010.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.632_Fnt_BW_2010.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast yellow bronze with brown varnish patina",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 476,
+        "LocationString": null
+    },
+    "ObjectID": 32253,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.632",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Jacques Seligmann, Paris, [date of acquisition unknown] by purchase; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32253",
+    "SortNumber": "    54   632                                            ",
+    "Style": null,
+    "Title": "Dutch Pesant Girl"
+}

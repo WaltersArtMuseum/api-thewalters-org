@@ -1,0 +1,155 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Sculptor"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 200,
+    "DateText": "1st-2nd century",
+    "Description": "Sucellus was a major Gaulish deity associated with the underworld, whose attributes include his wolf-skin garment, a mallet or hammer (now missing from his upraised hand), and a small jar called an \"olla.\"  This statuette is the earliest and finest of any known Sucellus image.  The portrayal is reminiscent of Classical Greek style, and he resembles the Greek hero Heracles.  Behind him, like a symbol of worship, appears an oversized mallet with five smaller mallets radiating from it.  The statuette was excavated from the \"lararium\" (household shrine) of a Roman house in France.",
+    "Dimensions": "with base: 12 5/8 x 6 1/8 x 4 13/16 in. (32 x 15.5 x 12.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Vive la France! French Treasures from the Middle Ages to Monet",
+            "ExhibBeginDate": "1999-10-26",
+            "ExhibBeginYear": 1999,
+            "ExhibDisplayDate": "October 26, 1999-January 16, 2000",
+            "ExhibEndDate": "2000-01-16",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 316,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Vive la France! French Treasures from the Middle Ages to Monet. The Walters Art Gallery, Baltimore. 1999-2000."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Rh\u00f4ne-Alpes\\departments\\Is\u00e8re\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1430659,
+            "GeographyTerm": "Vienne",
+            "Latitude": "45 32",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.533,
+            "Longitude": "004 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32942,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.998_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.998_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.998_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.998_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.998_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32941,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.998_DetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.998_DetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.998_DetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.998_DetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.998_DetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 32938,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.998_3QtrLft_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.998_3QtrLft_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.998_3QtrLft_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.998_3QtrLft_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.998_3QtrLft_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 32943,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.998_LftSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.998_LftSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.998_LftSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.998_LftSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.998_LftSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 32940,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.998_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.998_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.998_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.998_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.998_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 32944,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.998_RtSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.998_RtSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.998_RtSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.998_RtSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.998_RtSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 32939,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.998_3QtrRt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.998_3QtrRt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.998_3QtrRt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.998_3QtrRt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.998_3QtrRt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1720,
+        "LocationString": null
+    },
+    "ObjectID": 20962,
+    "ObjectName": "sculptures;figurines",
+    "ObjectNumber": "54.998",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "[Excavated in Roman lararium in Vienne, France, 1866]; Wills Collection Sale, 1894; John Edward Taylor, 1894, by purchase; Taylor Collection sale, 1912; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-09-25T17:13:40.55",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20962",
+    "SortNumber": "    54   998                                            ",
+    "Style": null,
+    "Title": "Sucellus"
+}

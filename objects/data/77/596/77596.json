@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "folio: 4 5/16 x 2 15/16 in. (11 x 7.5 cm);\r\ninitial: 2 3/8 x 2 3/8 in. (6 x 6 cm) approx.",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10119,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.200.15V_OpnRev_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.200.15V_OpnRev_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.200.15V_OpnRev_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.200.15V_OpnRev_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.200.15V_OpnRev_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77596,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.200.15V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77596",
+    "SortNumber": "W        200   15V                                      ",
+    "Style": null,
+    "Title": "Leaf from Alphabet Book"
+}

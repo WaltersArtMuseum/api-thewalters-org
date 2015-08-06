@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": null,
+    "DateBeginYear": 1430,
+    "DateEndYear": 1450,
+    "DateText": "1430-1450",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 137, pp. 204-205.",
+    "Dimensions": "Painted surface H: 21 7/16 x W: 16 1/8 in. (54.5 x 41 cm); Panel H: 24 x W: 16 5/16 x D: 1 in. (61 x 41.5 x 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Padova\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433986,
+            "GeographyTerm": "Padova",
+            "Latitude": "45 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.416,
+            "Longitude": "011 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4076,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.519_Fnt_TR_T90II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.519_Fnt_TR_T90II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.519_Fnt_TR_T90II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.519_Fnt_TR_T90II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.519_Fnt_TR_T90II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold and paint on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3254,
+        "LocationString": null
+    },
+    "ObjectID": 344,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.519",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Constantini, Florence [date and mode of acquisition unknown]; Bernard Berenson [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1913 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-22T00:30:00.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/344",
+    "SortNumber": "    37   519                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

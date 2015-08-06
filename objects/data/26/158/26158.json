@@ -1,0 +1,91 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Niccol\u00f2 da Foligno (Italian, ca. 1420-1502)",
+            "CreatorID": 6276,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1430,
+    "DateEndYear": 1500,
+    "DateText": "1430-1500",
+    "Description": "For more information on these panels, please see Federico Zeri's 1976 catalogue no. 102, pp. 160-161.",
+    "Dimensions": "Approx. painted surface H: 5 5/8 x W: 4 1/2 in. (14.3 x 11.4 cm); Approx. panel H: 9 13/16 x W: 7 13/16 x D: 11/16 in. (24.9 x 19.9 x 1.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437338,
+            "GeographyTerm": "Umbria",
+            "Latitude": "43 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.0,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25532,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.620B_BefTrtFnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.620B_BefTrtFnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.620B_BefTrtFnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.620B_BefTrtFnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.620B_BefTrtFnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37012,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.620B_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.620B_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.620B_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.620B_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.620B_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Jacob",
+    "Medium": "tempera and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 26158,
+    "ObjectName": "paintings; polyptychs",
+    "ObjectNumber": "37.620B",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 167; 1897 catalogue: no. 23]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 32644,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 39972,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26158",
+    "SortNumber": "    37   620B                                           ",
+    "Style": null,
+    "Title": "The Prophet Jacob"
+}

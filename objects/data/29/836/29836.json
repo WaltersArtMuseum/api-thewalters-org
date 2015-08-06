@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n. d.",
+    "Description": "Amun wears a cap with enamel inlay on the plume and a false beard.",
+    "Dimensions": "H: 13 in. (33 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al-Jizah\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544370,
+            "GeographyTerm": "Mit Rahina",
+            "Latitude": "29 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.85,
+            "Longitude": "031 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57941,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.396_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.396_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.396_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.396_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.396_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, enamel inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 405,
+        "LocationString": null
+    },
+    "ObjectID": 29836,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.396",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris; purchased by Henry Walters, Baltimore, 1911; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-11-26T01:00:00.213",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29836",
+    "SortNumber": "    54   396                                            ",
+    "Style": null,
+    "Title": "Seated Amun"
+}

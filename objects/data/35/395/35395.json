@@ -1,0 +1,88 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Potter"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1967",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1090,
+    "DateEndYear": 1190,
+    "DateText": "1090-1190",
+    "Description": "This dish, together with Walters 48.2290 and 48.2292, was discovered in the shipwreck of a large Byzantine trading vessel near Alonissos in the Aegean Sea. The ship's cargo consisted of some 1,500 pieces of tableware, most decorated with drawings incised into a thin layer of fine white clay. This technique, now called \"sgraffito,\" was brought to Byzantium from the Islamic East. It was from the Near East, too, that the Byzantine nobility learned to hunt with specially trained cheetahs like the one seen here. Such sports were reserved for the wealthy, who normally ate from silver plates, but they would have been familiar also to the less affluent users of clay tableware. Because of their association with the rich and powerful, hunting animals were believed to bring good fortune.",
+    "Dimensions": "H: 1 3/4 x W: 8 7/8 in. (4.5 x 22.5 cm)",
+    "Dynasty": "Comnenean Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2008-02-27",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "February 27, 2008-January 4, 2009",
+            "ExhibEndDate": "2009-01-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1957,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Museum of Biblical Art, New York; Colby College Museum of Art, Waterville; Joslyn Art Museum, Omaha. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\N\u00edsoi Aiya\u00edou\\departments\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1431866,
+            "GeographyTerm": "Spor\u00e1dhes",
+            "Latitude": "36 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.833,
+            "Longitude": "027 05",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 27.83
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39371,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2291_Fnt_BW_H68.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2291_Fnt_BW_H68.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2291_Fnt_BW_H68.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2291_Fnt_BW_H68.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2291_Fnt_BW_H68.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic earthenware, lead glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 889,
+        "LocationString": null
+    },
+    "ObjectID": 35395,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.2291",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "[Found underwater in the Northern Sporades by Bruno L\u00f6ffel of Vienna, Austria, 1967]; Walters Art Museum, by purchase, 1967.",
+    "PublicAccessDate": "2012-06-04T22:00:00.403",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 26315,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35395",
+    "SortNumber": "    48  2291                                            ",
+    "Style": null,
+    "Title": "Dish with a Cheetah"
+}

@@ -1,0 +1,145 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "'Abd Allah ibn Shaykh Murshid al-Katib",
+            "CreatorID": 15725,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Sa'di (died 691 AH/AD 1292)",
+            "CreatorID": 15724,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.618 is an illuminated and illustrated Safavid copy of the collected works (Kulliyat) of Sa'di (died 691 AH/AD 1292). It was written by 'Abd Allah ibn Shaykh Murshid al-Katib in the 10th century AH/AD 16th. The manuscript opens with an illuminated medallion (fol. 2a), followed by a double-page illustrated frontispeice (fols. 2b-3a) and a double-page illuminated frontispiece (fols. 3b-4a). The text is illustrated with 7 additional paintings (fols. 18a, 31b, 49b, 70b, 88a, 101a, and 106b). The brown leather binding is incorrectly bound with the flap appearing on the right side instead of the left.",
+    "Dimensions": "Folio H: 10 7/16 x W: 6 1/2 in. (26.5 x 16.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33810,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.618_TopExtOpn_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.618_TopExtOpn_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.618_TopExtOpn_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.618_TopExtOpn_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.618_TopExtOpn_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "FIslamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Binding; Iran; Literature -- Poetry; Literature -- Prose",
+    "Medium": "ink and pigments on laid paper with gold-sprinkled margins covered with brown leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2340,
+        "LocationString": null
+    },
+    "ObjectID": 8162,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.618",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Private collection, Tehran [date and mode of acquisition unknown] [list of books, by an anonymous owner, which were in his house in Tehran on fol. 1b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83707,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83708,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83709,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83710,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83711,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83712,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83713,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83714,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83715,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83716,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83717,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83718,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83719,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83720,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8162",
+    "SortNumber": "W        618                                            ",
+    "Style": null,
+    "Title": "Collected Works (Kulliyat)"
+}

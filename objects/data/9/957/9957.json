@@ -1,0 +1,120 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of M. Henri Seyrig, 1956",
+    "Culture": "Byzantine",
+    "DateBeginYear": 588,
+    "DateEndYear": 612,
+    "DateText": "ca. 600",
+    "Description": null,
+    "Dimensions": "1 9/16 x 1 3/4 in. (4 x 4.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Silver Treasure from Early Byzantium",
+            "ExhibBeginDate": "1986-04-18",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "April 18, 1986-August 17, 1986",
+            "ExhibEndDate": "1986-08-17",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2699,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Silver Treasure from Early Byzantium. The Walters Art Gallery, Baltimore. 1986."
+        },
+        {
+            "ExhTitle": "Sacred Souvenirs: Byzantine Pilgrimage Art",
+            "ExhibBeginDate": "1982-05-04",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 4, 1982-September 6, 1982",
+            "ExhibEndDate": "1982-09-06",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 717,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Sacred Souvenirs: Byzantine Pilgrimage Art. Dumbarton Oaks, Washington. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Idlib\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1500112,
+            "GeographyTerm": "Ma\u2018arrat an Nu\u2018man",
+            "Latitude": "35 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.666,
+            "Longitude": "036 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5758,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_57.1865.560_Fnt_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_57.1865.560_Fnt_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_57.1865.560_Fnt_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_57.1865.560_Fnt_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_57.1865.560_Fnt_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 55818,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_57.1865.560_Fnt_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_57.1865.560_Fnt_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_57.1865.560_Fnt_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_57.1865.560_Fnt_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_57.1865.560_Fnt_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Translation] Lord, help + Amen +",
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 446,
+        "LocationString": null
+    },
+    "ObjectID": 9957,
+    "ObjectName": "plaques (flat objects)",
+    "ObjectNumber": "57.1865.560",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "[Found near Ma'aret en-Noman, Syria, prior to 1945]; Henri Seyrig, Beirut [date of acquisition unknown], by purchase; Walters Art Museum, 1956, by gift.",
+    "PublicAccessDate": "2008-09-25T17:15:35.613",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 5062,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 31535,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 36145,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9957",
+    "SortNumber": "    57  1865  560                                       ",
+    "Style": null,
+    "Title": "Plaque with Pair of Eyes Symbolizing the All-seeing Power of God"
+}

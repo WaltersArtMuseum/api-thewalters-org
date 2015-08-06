@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 22 11/16 x W: 40 in. (57.7 x 101.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29657,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.573_Fnt_BW_H63.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.573_Fnt_BW_H63.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.573_Fnt_BW_H63.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.573_Fnt_BW_H63.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.573_Fnt_BW_H63.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3377,
+        "LocationString": null
+    },
+    "ObjectID": 13026,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.573",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-11-11T16:03:26.667",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13026",
+    "SortNumber": "    37   573                                            ",
+    "Style": null,
+    "Title": "Achilles Among the Daughters of Lycomedes"
+}

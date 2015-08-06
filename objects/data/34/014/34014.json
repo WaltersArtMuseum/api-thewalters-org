@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after school of Ch'in Ying (Chinese)",
+            "CreatorID": 17952,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 65 1/2 x W: 36 3/8 in. (166.3 x 92.4 cm)",
+    "Dynasty": "Ming [Ming] Dynasty-Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48743,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.42_Fnt_BW_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.42_Fnt_BW_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.42_Fnt_BW_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.42_Fnt_BW_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.42_Fnt_BW_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] Lower right; [Seal] Lower right; [Number] On sticker: 359",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2412,
+        "LocationString": null
+    },
+    "ObjectID": 34014,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.42",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34014",
+    "SortNumber": "    35    42                                            ",
+    "Style": null,
+    "Title": "Visit of the Queen Mother of the West"
+}

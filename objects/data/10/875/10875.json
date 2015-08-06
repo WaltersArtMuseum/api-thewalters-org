@@ -1,0 +1,88 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Meissen Porcelain Manufactory (German, active 1710-present)",
+            "CreatorID": 3100,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "Johann Joachim K\u00e4ndler (German, 1706-1775)",
+            "CreatorID": 2136,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": 1733,
+    "DateEndYear": 1740,
+    "DateText": "1733-1740",
+    "Description": "\"The Allegory of Taste\" is originally from a series of statuettes representing the personification of the five senses.\r\n\r\nThese statuettes exhibit the masterly sculptural quality of Meissen porcelain between 1733 and 1775 when J. J. K\u00e4ndler served as a chief modeler.",
+    "Dimensions": "11 9/16 in. (29.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11321,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.933_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.933_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.933_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.933_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.933_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "crossed swords in blue",
+    "Keywords": null,
+    "Medium": "gilt on hard-paste porcelain with glaze and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 4302,
+        "LocationString": null
+    },
+    "ObjectID": 10875,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "48.933",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "King Collection; Jacques Seligmann, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:25:07.297",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10875",
+    "SortNumber": "    48   933                                            ",
+    "Style": null,
+    "Title": "Allegory of Taste"
+}

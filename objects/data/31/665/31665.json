@@ -1,0 +1,70 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Georges Tonnellier (French, 1858-1937)",
+            "CreatorID": 3099,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1900,
+    "DateEndYear": 1925,
+    "DateText": "early 20th century",
+    "Description": "This statuette is a memorial to the White Star liner Titanic that sank on April 14, 1912, with a loss of over 1,500 lives.",
+    "Dimensions": "H: 9 3/4 in. (24.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4454,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_41.275_Fnt_BW_T00.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_41.275_Fnt_BW_T00.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_41.275_Fnt_BW_T00.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_41.275_Fnt_BW_T00.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_41.275_Fnt_BW_T00.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "chalcedony",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4292,
+        "LocationString": null
+    },
+    "ObjectID": 31665,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "41.275",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.673",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31665",
+    "SortNumber": "    41   275                                            ",
+    "Style": null,
+    "Title": "Invocation of the \"Titanic\""
+}

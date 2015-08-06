@@ -1,0 +1,101 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan (?)",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman (?)",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -201,
+    "DateText": "4th-3rd century BC",
+    "Description": null,
+    "Dimensions": "H: 2 15/16 in. (7.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Thou Shalt Have No Other Gods Before Me",
+            "ExhibBeginDate": "1964-05",
+            "ExhibBeginYear": 1964,
+            "ExhibDisplayDate": "May 1964-September 1964",
+            "ExhibEndDate": "1964-09",
+            "ExhibEndYear": 1964,
+            "ExhibitionID": 2200,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Thou Shalt Have No Other Gods Before Me. The Jewish Museum, New York. 1964."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58568,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.968_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.968_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.968_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.968_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.968_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 411,
+        "LocationString": null
+    },
+    "ObjectID": 40848,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.968",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40848",
+    "SortNumber": "    54   968                                            ",
+    "Style": null,
+    "Title": "Maenad"
+}

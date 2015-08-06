@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Jan Frans van Bloemen (Flemish, 1662-1749)",
+            "CreatorID": 2000,
+            "Gender": "male",
+            "Role": "Workshop"
+        },
+        {
+            "ConcatDisplayName": "Copy after Jan Frans van Bloemen (Flemish, 1662-1749)",
+            "CreatorID": 2000,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1735,
+    "DateEndYear": 1800,
+    "DateText": "1735-1800",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 397, pp. 509-510.",
+    "Dimensions": "Painted surface H: 39 1/16 x W: 53 7/8 in. (99.2 x 136.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29741,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.897_Fnt_BW_H64.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.897_Fnt_BW_H64.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.897_Fnt_BW_H64.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.897_Fnt_BW_H64.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.897_Fnt_BW_H64.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3297,
+        "LocationString": null
+    },
+    "ObjectID": 10589,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.897",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Marquess Filippo Marignoli, Rome and Spoleto, until 1898 [mode of acquisition unknown]; Marquess Francesco Marignoli, 1898 [mode of acquisition unknown]; Don Marcello Massarenti Collection, Rome, 1899 [mode of acquisition unknown] [1900 catalogue supplement: no. 60]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10589",
+    "SortNumber": "    37   897                                            ",
+    "Style": null,
+    "Title": "Classical Landscape with the Vatican Belvedere"
+}

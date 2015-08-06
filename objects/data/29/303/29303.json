@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": "Orthodox Eastern",
+    "DateBeginYear": 1700,
+    "DateEndYear": 1799,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 6 3/8 x W: 3 15/16 in. (16.2 x 10 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Macedonia\\departments\\Thessalon\u00edki\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1432070,
+            "GeographyTerm": "Thessalon\u00edki",
+            "Latitude": "40 38",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.633,
+            "Longitude": "022 56",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.933
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38649,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.325_Fnt_BW_C80.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.325_Fnt_BW_C80.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.325_Fnt_BW_C80.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.325_Fnt_BW_C80.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.325_Fnt_BW_C80.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Saint Nicholas ?",
+    "Medium": "fresco and secco on plaster",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 889,
+        "LocationString": null
+    },
+    "ObjectID": 29303,
+    "ObjectName": "paintings; murals",
+    "ObjectNumber": "37.325",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "[Said to be from Thessalonika [Saloniki]]; Joseph Brummer, Paris and New York [date of acquisition unknown], by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29303",
+    "SortNumber": "    37   325                                            ",
+    "Style": "Post-Byzantine",
+    "Title": "Head of a Bishop Saint"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William Oliver Stone (American, 1830-1875)",
+            "CreatorID": 2224,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1875-1884",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This portrait depicts the founder of the Corcoran Gallery of Art in Washington, D.C., William Wilson Corcoran.\r\n\r\nWilliam T. Walters acted as chairman of the Committee on Works of Art for the Corcoran Gallery from 1873 to 1877 (the gallery opened in 1874). He was assisted by his friends George Lucas and Samuel Avery. Walters purchased both American and European works for the gallery.",
+    "Dimensions": "H: 28 3/16 x W: 22 1/8 in. (71.6 x 56.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50634,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.69_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.69_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.69_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.69_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.69_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 50633,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.69_BackCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.69_BackCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.69_BackCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.69_BackCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.69_BackCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Stamp] Canvas maker stamp stencilled on back: THEODORE KELLEY, ARTISTS' COLORMAN, N.Y.",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3392,
+        "LocationString": null
+    },
+    "ObjectID": 8516,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.69",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William Oliver Stone Sale; William T. Walters, Baltimore, 1875-1884, by purchase [at the artist's sale]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-06-07T16:45:37.437",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8516",
+    "SortNumber": "    37    69                                            ",
+    "Style": null,
+    "Title": "Portrait of William Wilson Corcoran (1798-1888)"
+}

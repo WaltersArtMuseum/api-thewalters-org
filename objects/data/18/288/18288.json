@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1799,
+    "DateText": "18th century",
+    "Description": "The body of the pitcher is covered with a relief pattern of small white flowers with yellow centers and reserved panels of figures in a landscape in color.",
+    "Dimensions": "H: 13 1/4 in. (33.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8509,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.922_SideA_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.922_SideA_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.922_SideA_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.922_SideA_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.922_SideA_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8510,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.922_SideB_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.922_SideB_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.922_SideB_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.922_SideB_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.922_SideB_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with gilt bronze, ormolu mounts",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5187,
+        "LocationString": null
+    },
+    "ObjectID": 18288,
+    "ObjectName": "pitchers",
+    "ObjectNumber": "48.922",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, by 1931, [mode of acquistion unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-07-23T22:00:00.407",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18288",
+    "SortNumber": "    48   922                                            ",
+    "Style": null,
+    "Title": "Pitcher with Figures in a Landscape"
+}

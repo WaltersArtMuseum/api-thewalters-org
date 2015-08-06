@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French (?)",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1699,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "17 11/16 x 14 1/16 in. (44.9 x 35.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Portraits Re-Examined: Dawoud Bey Project",
+            "ExhibBeginDate": "2008-12-06",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "December 6, 2008-February 16, 2009",
+            "ExhibEndDate": "2009-02-16",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2102,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Portraits Re-Examined: Dawoud Bey Project. The Walters Art Museum, Baltimore. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11054,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1813_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1813_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1813_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1813_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1813_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3334,
+        "LocationString": null
+    },
+    "ObjectID": 11300,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1813",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T14:20:10.54",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11300",
+    "SortNumber": "    37  1813                                            ",
+    "Style": null,
+    "Title": "Portrait Bust of a Young Boy"
+}

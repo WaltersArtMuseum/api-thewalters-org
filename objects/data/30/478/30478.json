@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": "Roman",
+    "DateBeginYear": 118,
+    "DateEndYear": 312,
+    "DateText": "ca. 130-300",
+    "Description": "This portrait is on thick wood. The woman wears a necklace and earrings raised in plaster and gilded. There is cloth stuck to the sides and back.",
+    "Dimensions": "H: 18 in. (45.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Coins and Costume in Late Antiquity",
+            "ExhibBeginDate": "1993-09-17",
+            "ExhibBeginYear": 1993,
+            "ExhibDisplayDate": "September 17, 1993-January 30, 1994",
+            "ExhibEndDate": "1994-01-30",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 3055,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Coins and Costume in Late Antiquity. Dumbarton Oaks, Washington. 1993-1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al Minya\\deserted settlements\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544378,
+            "GeographyTerm": "Sheikh-'Ibada",
+            "Latitude": "27 48",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.8,
+            "Longitude": "030 52",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.866
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11475,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_32.4_Fnt_TR_T91II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_32.4_Fnt_TR_T91II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_32.4_Fnt_TR_T91II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_32.4_Fnt_TR_T91II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_32.4_Fnt_TR_T91II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "encaustic on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 30478,
+    "ObjectName": "mummy portraits; death masks",
+    "ObjectNumber": "32.4",
+    "OnView": 0,
+    "Period": "Roman Imperial",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown] [as from Fayum]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30478",
+    "SortNumber": "    32     4                                            ",
+    "Style": null,
+    "Title": "Mummy Portrait of a Woman from Fayum, Egypt"
+}

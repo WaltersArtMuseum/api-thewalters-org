@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Placido Costanzi (Italian, 1702-1759)",
+            "CreatorID": 3124,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1736,
+    "DateEndYear": 1737,
+    "DateText": "1736-1737",
+    "Description": "In conquests from Greece and Egypt to Afghanistan, the Macedonian ruler Alexander the Great (356-323 BC) founded cities-often named for himself-in key military and trading locations; Alexandria, in Egypt, is the only one still thriving today. Alexander was often involved in the planning; here, he gives instructions to the Greek architect Dinocrates. Behind them, massive walls are under construction.\r\n\r\nThe painting is a \"modello,\" or study, painted in preparation for one of the large canvases commissioned from the artist for the throne room of King Philip V of Spain in the Palace of San Idelfonso (La Granja). Halls where European rulers granted audiences to their subjects and to visiting emissaries were traditionally decorated with tapestries or paintings reinforcing the ruler's position by reference to the power and renown of rulers of the past, principally Alexander the Great or the Roman emperors. In keeping with his ancient theme, Costanzi adopted a frieze-like composition that recalls Greek and Roman relief sculpture.\r\n\r\nFor more information on this painting, please see Federico Zeri's 1976 catalogue no. 407, pp. 517-518.",
+    "Dimensions": "18 1/4 x 25 9/16 in. (46.3 x 65 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Tiepolo Unveiled: The Restoration of a Masterpiece",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2335,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Tiepolo Unveiled: The Restoration of a Masterpiece. The Walters Art Gallery, Baltimore. 1996."
+        },
+        {
+            "ExhTitle": "The Search for Alexander",
+            "ExhibBeginDate": "1980-11-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "November 16, 1980-July 10, 1983",
+            "ExhibEndDate": "1983-07-10",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2896,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Search for Alexander. National Gallery of Art, Washington; The Art Institute of Chicago, Chicago; Museum of Fine Arts, Boston, Boston; Fine Arts Museums of San Francisco, San Francisco; New Orleans Museum of Art, New Orleans; Royal Ontario Museum, Toronto. 1980-1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Urban\\governorates\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1543851,
+            "GeographyTerm": "Al-Iskandariyah",
+            "Latitude": "31 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.166,
+            "Longitude": "029 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4113,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.790_Fnt_TR_C80II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.790_Fnt_TR_C80II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.790_Fnt_TR_C80II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.790_Fnt_TR_C80II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.790_Fnt_TR_C80II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] In ink on the reverse of the stretcher: Amsterdam 1641 | dipingana Romagi Italiani; [Transcription] Painted in large black letters: De Troyen | Pt Par De Troyen;; [Number] Painted in black on the reverse of the canvas: 569C",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 18th-Century Art",
+        "LocationID": 4782,
+        "LocationString": null
+    },
+    "ObjectID": 30203,
+    "ObjectName": "oil paintings; modelli",
+    "ObjectNumber": "37.790",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.66",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30203",
+    "SortNumber": "    37   790                                            ",
+    "Style": null,
+    "Title": "Alexander the Great Founding Alexandria"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Joos de Momper the younger (Flemish, 1564-1635)",
+            "CreatorID": 6645,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 19 3/4 x W: 25 1/4 in. (50.2 x 64.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salute to Belgium",
+            "ExhibBeginDate": "1980-06-22",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "June 22, 1980-September 7, 1980",
+            "ExhibEndDate": "1980-09-07",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2674,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salute to Belgium. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46797,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.365_Fnt_BW_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.365_Fnt_BW_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.365_Fnt_BW_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.365_Fnt_BW_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.365_Fnt_BW_H73.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3352,
+        "LocationString": null
+    },
+    "ObjectID": 17708,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.365",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17708",
+    "SortNumber": "    37   365                                            ",
+    "Style": null,
+    "Title": "Winter Scene with Skaters"
+}

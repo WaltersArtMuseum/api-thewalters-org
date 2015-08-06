@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1987",
+    "Culture": "Byzantine",
+    "DateBeginYear": 400,
+    "DateEndYear": 599,
+    "DateText": "5th-6th century",
+    "Description": null,
+    "Dimensions": "H: 2 in. (5.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Byzantine Women and Their World",
+            "ExhibBeginDate": "2002-10-25",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "October 25, 2002-April 27, 2003",
+            "ExhibEndDate": "2003-04-27",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 2609,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Byzantine Women and Their World. Fogg Art Museum, Harvard University, Cambridge. 2002-2003."
+        },
+        {
+            "ExhTitle": "Beyond the Pharaohs: Egypt and the Copts in the Second to Seventh Centuries A.D.",
+            "ExhibBeginDate": "1989-02-10",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "February 10, 1989-July 16, 1989",
+            "ExhibEndDate": "1989-07-16",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2718,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Beyond the Pharaohs: Egypt and the Copts in the Second to Seventh Centuries A.D.. Museum of Art, Rhode Island School of Design, Providence; The Walters Art Gallery, Baltimore. 1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62711,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2628_SideB_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2628_SideB_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2628_SideB_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2628_SideB_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2628_SideB_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        },
+        {
+            "ID": 39149,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2628_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2628_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2628_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2628_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2628_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "embossed bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 446,
+        "LocationString": null
+    },
+    "ObjectID": 27029,
+    "ObjectName": "pendants (jewelry)",
+    "ObjectNumber": "54.2628",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Stojan Kacarov (Stoian Katsarov), Munich, Germany, by purchase; Walters Art Museum, 1987, by purchase.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27029",
+    "SortNumber": "    54  2628                                            ",
+    "Style": null,
+    "Title": "Amulet with the Evil Eye and the Holy Rider"
+}

@@ -1,0 +1,113 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Su Hanchen (Chinese, active 1130-1169)",
+            "CreatorID": 17953,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 91 1/2 x W: 44 1/2 in. (232.41 x 113.03 cm); Image H: 58 3/4 x W: 33 7/16 in. (149.2 x 85 cm); W of scroll without knobs: 40 1/4 in. (102.2 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Beauty Revealed: Images of Women in Qing Dynasty Chinese Painting",
+            "ExhibBeginDate": "2013-09-25",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "September 25, 2013-December 22, 2013",
+            "ExhibEndDate": "2013-12-22",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3131,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Beauty Revealed: Images of Women in Qing Dynasty Chinese Painting. Berkeley Art Museum and Pacific Film Archive, Berkeley. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22978,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.9_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.9_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.9_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.9_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.9_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22979,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.9_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.9_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.9_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.9_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.9_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] Lower left; [Seal] Lower left",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on cloth",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2411,
+        "LocationString": null
+    },
+    "ObjectID": 20073,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.9",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 106]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20073",
+    "SortNumber": "    35     9                                            ",
+    "Style": null,
+    "Title": "Lady with Mirror"
+}

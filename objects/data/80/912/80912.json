@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1539,
+    "DateEndYear": 1539,
+    "DateText": "946 AH/AD 1539",
+    "Description": "The binding from Walters manuscript W.631 is composed of dark brown leather (with a flap). The binding is decorated with a gold-brushed central panel and frames panel-stamped in relief; a central panel with lobed medallion and pendants, and an allover floral and vine decoration.",
+    "Dimensions": "Folio H: 8 11/16 x W: 5 1/8 in. (22 x 13 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25869,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.631.binding_ClsdTop_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.631.binding_ClsdTop_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.631.binding_ClsdTop_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.631.binding_ClsdTop_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.631.binding_ClsdTop_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Illustration; Manuscript; Miniature; Painting; Contemporary Binding; Iran; Fortune-telling; Literature -- Poetry",
+    "Medium": "dark brown leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80912,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.631.binding",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80912",
+    "SortNumber": "W        631binding                                     ",
+    "Style": null,
+    "Title": "Binding from Collection of Poems (divan)"
+}

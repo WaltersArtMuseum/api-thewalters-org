@@ -1,0 +1,76 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yamadaya Shobei",
+            "CreatorID": 15082,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "Kunitsuna (Japanese, 1805-1868)",
+            "CreatorID": 5186,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Robert S. Shaull, 1990",
+    "Culture": null,
+    "DateBeginYear": 1856,
+    "DateEndYear": 1856,
+    "DateText": "1856",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16924,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.378_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.378_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.378_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.378_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.378_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Kunitsuna ga",
+    "Keywords": "Chushingura; samurai; ronin; revenge",
+    "Medium": "pigments on mulberry paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 20121,
+    "ObjectName": "color woodcuts",
+    "ObjectNumber": "95.378",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Robert S. Shaull [date and mode of acquisition unknown]; Walters Art Museum, 1990, by bequest.",
+    "PublicAccessDate": "2014-12-06T01:00:00.213",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20121",
+    "SortNumber": "    95   378                                            ",
+    "Style": "Utagawa School",
+    "Title": "Chushingura gishi den"
+}

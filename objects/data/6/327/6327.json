@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Partial museum purchase with funds provided by the S. & A.P. Fund, 1956 and partial gift of Mr. Robert E. Hecht, Jr., 1957",
+    "Culture": "Byzantine",
+    "DateBeginYear": 900,
+    "DateEndYear": 999,
+    "DateText": "10th century",
+    "Description": "This tile was one in a series with portraits of the twelve apostles and a Deesis (Christ flanked by the Virgin and Saint John the Baptist) in the middle. Images of the Baptist (48.2086.26), Paul (inv. 48.2086.20), Peter (48.2086.27), Andrew (48.2086.24), Bartholomew (48.2086.29), Matthew (48.2086.25), Luke (48.2086.21), and John the Evangelist (48.2086.28) also survive from it, as well as fragments of three further, unidentifiable busts (48.2086.8; 48.2086.22-23).",
+    "Dimensions": "6 9/16 x 6 1/2 in. (16.7 x 16.5 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41903,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2086.3_Fnt_TR_T00II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2086.3_Fnt_TR_T00II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2086.3_Fnt_TR_T00II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2086.3_Fnt_TR_T00II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2086.3_Fnt_TR_T00II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 711,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_48.2086.3_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_48.2086.3_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_48.2086.3_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_48.2086.3_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_48.2086.3_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3836,
+        "LocationString": null
+    },
+    "ObjectID": 6327,
+    "ObjectName": "ceramic tiles;icons",
+    "ObjectNumber": "48.2086.3",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Nikos Avgheris, Istanbul, ca. 1950, by purchase; Robert E. Hecht, Ruxton, Maryland, 1956, by purchase; Walters Art Museum, 1956, by purchase.\r\n",
+    "PublicAccessDate": "2008-09-25T17:15:34.91",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6327",
+    "SortNumber": "    48  2086    3                                       ",
+    "Style": null,
+    "Title": "Saint Thomas"
+}

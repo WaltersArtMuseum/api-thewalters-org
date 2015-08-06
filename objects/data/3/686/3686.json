@@ -1,0 +1,105 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Metal fittings by Akihiro (Japanese)",
+            "CreatorID": 5003,
+            "Gender": "male",
+            "Role": "Metalworker"
+        },
+        {
+            "ConcatDisplayName": "Norimitsu (Japanese)",
+            "CreatorID": 3466,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "1825-1875",
+    "Description": null,
+    "Dimensions": "mounted ko-wakizashi blade: 13 1/2 in. (34.3 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chugoku\\prefectures\\Okayama-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493119,
+            "GeographyTerm": "Bizen",
+            "Latitude": "34 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.75,
+            "Longitude": "134 10",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 134.166
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chugoku\\prefectures\\Okayama-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493119,
+            "GeographyTerm": "Bizen",
+            "Latitude": "34 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.75,
+            "Longitude": "134 10",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 134.166
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5316,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.1201_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.1201_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.1201_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.1201_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.1201_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Forged Signature] Bishu Osafune Norimitsu, dated 1412; [Signature] Akihiro saku; [Translation] [ ][ ] han/Koka saku; [Translation] Made by Akihiro; [Translation] Made by Koka? of [ ][ ] province; [Translation] Norimitsu of Osafune, Bizen province, 1412",
+    "Keywords": null,
+    "Medium": "lacquer, steel, silver, gold, ray skin, copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2177,
+        "LocationString": null
+    },
+    "ObjectID": 3686,
+    "ObjectName": "dagger;hamidashi;ko-wakizashi blade;fuchi;kashira;menuki;kozuka;kogai;saya;tsuka",
+    "ObjectNumber": "51.1201",
+    "OnView": 0,
+    "Period": "Edo; Meiji",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.45",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 10784,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 13578,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79512,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79513,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/3686",
+    "SortNumber": "    51  1201                                            ",
+    "Style": null,
+    "Title": "Short Sword with Buddhist Deities and Dragon"
+}

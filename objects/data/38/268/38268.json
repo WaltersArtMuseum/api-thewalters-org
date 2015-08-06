@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1662,
+    "DateEndYear": 1722,
+    "DateText": "1662-1722",
+    "Description": "With European silver mounts.",
+    "Dimensions": "H: 5 7/8 in. (14.9 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58493,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.982_Det_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.982_Det_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.982_Det_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.982_Det_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.982_Det_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: 17th-Century Dutch Cabinet Rooms",
+        "LocationID": 4399,
+        "LocationString": null
+    },
+    "ObjectID": 38268,
+    "ObjectName": "ewers",
+    "ObjectNumber": "49.982",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": "Kangxi [K'ang hsi]",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38268",
+    "SortNumber": "    49   982                                            ",
+    "Style": null,
+    "Title": "Condiment Ewer"
+}

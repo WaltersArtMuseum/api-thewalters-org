@@ -1,0 +1,89 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "T'oros Roslin (Armenian, active 1256-1268)",
+            "CreatorID": 6635,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "T'oros Roslin (Armenian, active 1256-1268)",
+            "CreatorID": 6635,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Bequest of Mrs. Henry Walters [formerly part of the Walters Collection], 1935",
+    "Culture": "Christian; Byzantine; Armenian",
+    "DateBeginYear": 1262,
+    "DateEndYear": 1262,
+    "DateText": "1262",
+    "Description": null,
+    "Dimensions": "11 13/16 x 8 7/16 in. (30 x 21.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\G\u00fcneydogu Anadolu\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503066,
+            "GeographyTerm": "Gaziantep Ili",
+            "Latitude": "37 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.0,
+            "Longitude": "037 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37710,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.539.378V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.539.378V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.539.378V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.539.378V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.539.378V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Colophon; Manuscript; Miniature; Book; Codex; Illumination; Binding; Painting; Treasure binding; Walters Art Museum; Scripture",
+    "Medium": "ink and pigments on parchment of medium weight, well finished but worn from use",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 29776,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.539.378V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Priest T'oros, nephew of the catholicos Constantine I, Hromkla, Armenia, between 1262 and 1266; Hermitage of Ark'-akaghin, Cilicia, Armenia, 1266 [mode of acquisition unknown]; Ter Tiratur, Sebastia, Armenia 1604 [mode of acquisition unknown]; Church of the Holy Virgin, Sebastia, Armenia, between 1626 and 1881 [mode of acquisition unknown]; Church of the Holy Cross, Sebastia, Armenia, beween 1881 and 1915 [mode of acquisition unknown]; Dikran Kelekian, Paris [date and mode of acquisition unknown]; Henry Walters, New York, 1929, by purchase; Sadie Jones [Mrs. Henry Walters], New York, 1931, by bequest; Walters Art Museum, 1935, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29776",
+    "SortNumber": "W        539  378V                                      ",
+    "Style": "Armenian",
+    "Title": "Dove of the Holy Ghost"
+}

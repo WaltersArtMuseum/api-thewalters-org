@@ -1,0 +1,92 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2002",
+    "Culture": "Islamic",
+    "DateBeginYear": 1600,
+    "DateEndYear": 1625,
+    "DateText": "1008-1034 AH/AD 1600-1625",
+    "Description": "The Mughal emperor Jahangir (r. 1605\u201327), like his father Akbar, was fascinated with the content and sophistication of European prints and drawings. The artists of the imperial workshops were encouraged to study and copy European works. Jahangir is said to have liked, in particular, images of the Virgin Mary, and this tinted drawing may have been made for him. Here, the Virgin looks affectionately at her child as he holds her hand and carries flowers.",
+    "Dimensions": "H: 12 x W: 7 15/16 in. (30.5 x 20.2 cm); Image H: 6 9/16 x W: 4 1/16 in. (16.7 x 10.3 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Pearls of the Parrot of India: The Emperor Akbar's Illustrated \"Khamsa,\" 1597-1598",
+            "ExhibBeginDate": "2005-10-14",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 14, 2005-March 12, 2006",
+            "ExhibEndDate": "2006-03-13",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2664,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Pearls of the Parrot of India: The Emperor Akbar's Illustrated \"Khamsa,\" 1597-1598. The Walters Art Museum, Baltimore; The Metropolitan Museum of Art, New York. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34148,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Christian; Indian; Islamic; Mughal; Illustration; Drawing; India",
+    "Medium": "ink and paint on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 36241,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.903",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83782,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83783,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/36241",
+    "SortNumber": "W        903                                            ",
+    "Style": null,
+    "Title": "Single Leaf of the Virgin and Child"
+}

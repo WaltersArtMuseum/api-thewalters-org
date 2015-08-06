@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Guillaume de Digulleville",
+            "CreatorID": 8210,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1430,
+    "DateEndYear": 1470,
+    "DateText": "1430-1470",
+    "Description": null,
+    "Dimensions": "H: 6 5/16 x W: 4 1/2 in. (16 x 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37999,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.141.7R_Fp_BW_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.141.7R_Fp_BW_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.141.7R_Fp_BW_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.141.7R_Fp_BW_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.141.7R_Fp_BW_C81.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 13917,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.141.7R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sotheby's, London, May 25, 1906, lot 373; J. and J. Leighton, London bookseller; Gruel and Engelmann, no. 1120; Henry Walters, Baltimore, ca. 1906-1931, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13917",
+    "SortNumber": "W        141    7R                                      ",
+    "Style": "Gothic",
+    "Title": "Bishop/Moses Holding Asperge and Handing Chalice to Priest"
+}

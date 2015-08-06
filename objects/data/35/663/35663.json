@@ -1,0 +1,179 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 1996",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1775,
+    "DateEndYear": 1800,
+    "DateText": "late 18th century",
+    "Description": "This small icon was worn around the neck to ward off evil; it could be hung with either side facing out. This is a small replica of the famous icon known as the \"Kwerata Reesu\" (Christ with the Crown of Thorns), believed to protect the whole kingdom of Ethiopia. Allegiance to the emperor was sworn on the \"Kwerata Reesu,\" and it accompanied him on military expeditions.",
+    "Dimensions": "H with one panel open: 3 7/16 x W: 4 x D: 5/8 in. (8.7 x 10.1 x 1.55 cm); H with two panels open: 3 7/16 x W: 5 9/16 x D: 5/8 in. (8.7 x 14.1 x 1.55 cm); Closed H: 3 7/16 x W: 2 7/16 x D: 5/8 in. (8.7 x 6.2 x 1.55 cm); Center panel H: 3 1/2 x W: 2 1/2 in. (8.89 x 6.35 cm); Folding panels H: 2 5/16 x W: 1 7/8 in. (5.87 x 4.76 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Angels of Light: Ethiopian Art from the Walters Art Museum",
+            "ExhibBeginDate": "2006-02-05",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 5, 2006-May 20, 2007",
+            "ExhibEndDate": "2007-05-20",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 1958,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Angels of Light: Ethiopian Art from the Walters Art Museum. Birmingham Museum of Art, Birmingham; Smith College Museum of Art, Northampton; Museum of Biblical Art, New York. 2006-2007."
+        },
+        {
+            "ExhTitle": "Ethiopian Art at The Walters",
+            "ExhibBeginDate": "1996-08-14",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "August 14, 1996-December  1 ,1996",
+            "ExhibEndDate": "1996-12-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 955,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ethiopian Art at The Walters. The Walters Art Gallery, Baltimore. 1996."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Ityop'iya\\regions\\Gonder\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1542083,
+            "GeographyTerm": "Gonder",
+            "Latitude": "12 39",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 12.65,
+            "Longitude": "037 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3901,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_36.5_SideA_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_36.5_SideA_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_36.5_SideA_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_36.5_SideA_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_36.5_SideA_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 3902,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_36.5_SideB_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_36.5_SideB_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_36.5_SideB_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_36.5_SideB_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_36.5_SideB_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36783,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.5_ClsdA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.5_ClsdA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.5_ClsdA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.5_ClsdA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.5_ClsdA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 36785,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.5_ClsdB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.5_ClsdB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.5_ClsdB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.5_ClsdB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.5_ClsdB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 36787,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.5_OpnA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.5_OpnA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.5_OpnA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.5_OpnA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.5_OpnA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 36788,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.5_OpnB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.5_OpnB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.5_OpnB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.5_OpnB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.5_OpnB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Jesus Christ; Christ Child; cross; donor; saint; Mary; Virgin; Saint George; icon; crown of thorns",
+    "Medium": "tempera on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3827,
+        "LocationString": null
+    },
+    "ObjectID": 35663,
+    "ObjectName": "pendants; panel paintings",
+    "ObjectNumber": "36.5",
+    "OnView": 1,
+    "Period": "Gondarine",
+    "Provenance": "Knopfelmacher Collection, New York [date and mode of acquisition unknown] [Knopfelmacher 1]; William Wright Gallery, New York [date and mode of acquisition unknown]; Walters Art Museum, 1996, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:16:11.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35663",
+    "SortNumber": "    36     5                                            ",
+    "Style": null,
+    "Title": "Double-Sided Pendant with the Virgin and Child with Saint George and the Kwer'at\u00e4 Reesu with T\u00e4kl\u00e4 Haymanot and donor"
+}

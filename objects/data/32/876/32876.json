@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1961",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1532,
+    "DateText": "ca. 1500-1520",
+    "Description": "An \"albarello\" is a cylindrical jar that takes its shape from imported Islamic pottery. It belongs to a larger group of wares with predominantly erotic motifs that have initial \"B\" or \"B\u00b0\" on the back. The initial most likely refers to the workshop where the jars were made, but it could refer a single patron who commissioned the group. Sexual imagery is frequently found on Renaissance objects made for private use.",
+    "Dimensions": "8 1/8 in. (20.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Art and Love in Renaissance Italy",
+            "ExhibBeginDate": "2008-11-10",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "November 10, 2008-June 14, 2009",
+            "ExhibEndDate": "2009-06-14",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1980,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Art and Love in Renaissance Italy. The Metropolitan Museum of Art, New York; Kimbell Art Museum, Fort Worth. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Ravenna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439774,
+            "GeographyTerm": "Faenza",
+            "Latitude": "44 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.283,
+            "Longitude": "011 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6851,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2234_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2234_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2234_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2234_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2234_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52922,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2234_Fnt_BW_H63.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2234_Fnt_BW_H63.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2234_Fnt_BW_H63.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2234_Fnt_BW_H63.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2234_Fnt_BW_H63.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Transcription] On the side, in black: B\u00b0 ; [Inscription] On the bottom: 2/5",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4795,
+        "LocationString": null
+    },
+    "ObjectID": 32876,
+    "ObjectName": "jars",
+    "ObjectNumber": "48.2234",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Sir Edgar and Lady Speyer, London;  Walters Art Museum, 1961, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:59.783",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32876",
+    "SortNumber": "    48  2234                                            ",
+    "Style": null,
+    "Title": "\"Albarello\" with a Shepherdess Lifting Her Skirt"
+}

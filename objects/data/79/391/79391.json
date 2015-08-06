@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Colombian (San Agustin)",
+            "CreatorID": 15523,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "San Agustin",
+    "DateBeginYear": -200,
+    "DateEndYear": 100,
+    "DateText": "200 BC-AD 100 (?)",
+    "Description": null,
+    "Dimensions": "H: 30 x W: 18 in. (76.2 x 45.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1414585,
+            "GeographyTerm": "Colombia",
+            "Latitude": "04 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 4.0,
+            "Longitude": "072 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -72.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19223,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2844_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2844_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2844_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2844_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2844_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic brown/blackware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5487,
+        "LocationString": null
+    },
+    "ObjectID": 79391,
+    "ObjectName": "urns; lids",
+    "ObjectNumber": "48.2844",
+    "OnView": 0,
+    "Period": "Horqueta",
+    "Provenance": "Sale, Sotheby's, New York, November 20, 1989, lot 51; Private collection, November 20, 1989, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-08-04T14:54:12.003",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79391",
+    "SortNumber": "    48  2844                                            ",
+    "Style": null,
+    "Title": "Lidded Burial Urn"
+}

@@ -1,0 +1,123 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hamano Naoyuki (Japanese, 1754-1829)",
+            "CreatorID": 2794,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1773,
+    "DateEndYear": 1829,
+    "DateText": "1773-1829",
+    "Description": "At the right, a basket with four peaches is depicted on a Chinese style writing table. Clouds swirl around the right of the table. Peaches are a symbol of longevity because peaches from a mythical garden were said to give immortality to those who ate them. This is part of a set with Walters 51.1035.",
+    "Dimensions": "1 7/16 in. (3.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\Nagano-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491617,
+            "GeographyTerm": "Shinano",
+            "Latitude": "36 48",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.8,
+            "Longitude": "138 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491700,
+            "GeographyTerm": "Niigata-ken",
+            "Latitude": "37 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.5,
+            "Longitude": "139 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15352,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1034_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1034_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1034_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1034_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1034_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15351,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1034_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1034_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1034_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1034_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1034_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15353,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1034_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1034_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1034_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1034_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1034_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] Y\u00f4ry\u00fbken Naoyuki; [Number] In pencil: 826",
+    "Keywords": "fruit; peach",
+    "Medium": "shibuichi, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 33211,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1034",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-14T09:53:31.897",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 21395,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/33211",
+    "SortNumber": "    51  1034                                            ",
+    "Style": "Hamano School",
+    "Title": "Fuchi with Basket of Peaches on a Table"
+}

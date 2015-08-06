@@ -1,0 +1,112 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "C. M. B. (American)",
+            "CreatorID": 33560,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Commissioned by William T. Walters, by 1859",
+    "Culture": null,
+    "DateBeginYear": 1859,
+    "DateEndYear": 1859,
+    "DateText": "1859",
+    "Description": "This drawing was specially commissioned from an as yet unidentified artist as the tailpiece to one of William T. Walters' albums of drawings. It shows a thistle growing up through the eye of a skull. The word \"emigravit\" appears below on a scroll. This is Latin for \"departed,\" a word sometimes chosen for gravestone inscriptions. The thistle down blowing away in the wind is also a kind of momento mori.",
+    "Dimensions": "H: 8 1/16 \u00d7 W: 6 in. (20.4 \u00d7 15.3 cm); Paper support H: 9 1/4 \u00d7 W: 7 1/4 in. (23.5 \u00d7 18.4 cm); Mat H 19 1/4 \u00d7 W: 14 1/4 in. (48.9 \u00d7 36.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "American Artists Abroad: Works from the Permanent Collection ",
+            "ExhibBeginDate": "2014-04-19",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "April 19, 2014 - June 23, 2014",
+            "ExhibEndDate": "2014-06-22",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3271,
+            "LocationID": 4051,
+            "NonWAMExhibition": false,
+            "Textblock": "American Artists Abroad: Works from the Permanent Collection . The Walters Art Museum, Baltimore. 2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53902,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1948_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1948_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1948_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1948_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1948_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53901,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1948_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1948_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1948_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1948_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1948_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48469,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1948_Fnt_BW_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1948_Fnt_BW_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1948_Fnt_BW_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1948_Fnt_BW_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1948_Fnt_BW_H76.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Initialed and dated on palette] 18 CMB 59; [Inscribed] EMIGRAVIT",
+    "Keywords": null,
+    "Medium": "Watercolor on yellow paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6372,
+        "LocationString": null
+    },
+    "ObjectID": 8324,
+    "ObjectName": "watercolors; tailpieces",
+    "ObjectNumber": "37.1948",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Commissioned by William T. Walters, Baltimore, by 1859; inherited by Henry Walters, Baltimore, 1894; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 33038,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8324",
+    "SortNumber": "    37  1948                                            ",
+    "Style": null,
+    "Title": "Illuminated Tailpiece with Thistle and a Skull for William T. Walters' Drawing Album \"Original Sketches\""
+}

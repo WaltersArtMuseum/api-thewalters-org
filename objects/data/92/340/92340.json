@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1448,
+    "DateEndYear": 1472,
+    "DateText": "ca. 1460",
+    "Description": null,
+    "Dimensions": "Folio H: 7 1/4 \u00d7 W: 5 5/16 in. (18.4 \u00d7 13.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Champagne-Ardenne\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1426264,
+            "GeographyTerm": "Champagne",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56855,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.269.60R_Fp_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.269.60R_Fp_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.269.60R_Fp_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.269.60R_Fp_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.269.60R_Fp_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56854,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.269.60R_FpCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.269.60R_FpCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.269.60R_FpCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.269.60R_FpCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.269.60R_FpCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint, and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 92340,
+    "ObjectName": "manuscripts; folios (leaves)",
+    "ObjectNumber": "W.269.60R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Engelmann, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, after 1894, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-02-19T01:00:01.457",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/92340",
+    "SortNumber": "W        269   60R                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Hours"
+}

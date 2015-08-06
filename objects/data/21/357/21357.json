@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1941",
+    "Culture": null,
+    "DateBeginYear": -3000,
+    "DateEndYear": -2000,
+    "DateText": "3000-2000 BC",
+    "Description": "This tablet has a cuneiform inscription on two faces, was blackened in baking, and is broken in two parts. It was repaired in 1957 and may be a forgery.",
+    "Dimensions": "H: 2 5/16 x W: 1 7/8 in. (5.8 x 4.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522050,
+            "GeographyTerm": "Mesopotamia",
+            "Latitude": "34 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.0,
+            "Longitude": "044 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32567,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1803_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1803_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1803_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1803_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1803_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1691,
+        "LocationString": null
+    },
+    "ObjectID": 21357,
+    "ObjectName": "tablets",
+    "ObjectNumber": "48.1803",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sadie Jones (Mrs. Henry Walters), New York [date and mode of acquisition unknown]; Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21357",
+    "SortNumber": "    48  1803                                            ",
+    "Style": null,
+    "Title": "Mesopotamian Tablet"
+}

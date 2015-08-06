@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This sketch is squared off.",
+    "Dimensions": "H: 2 3/4 x W: 4 1/4 in. (7 x 10.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9049,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2192_Fnt_NF_H59.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2192_Fnt_NF_H59.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2192_Fnt_NF_H59.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2192_Fnt_NF_H59.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2192_Fnt_NF_H59.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "charcoal on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2238,
+        "LocationString": null
+    },
+    "ObjectID": 30343,
+    "ObjectName": "sketches; drawings",
+    "ObjectNumber": "37.2192",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Vildieu-Barye Collection; Fabius Fr\u00e8res, Paris [date and mode of acquisition unknown]; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 13602,
+            "RelationType": "See Also, Contextualized (Installation)"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30343",
+    "SortNumber": "    37  2192                                            ",
+    "Style": null,
+    "Title": "Sketch of a Horse Race"
+}

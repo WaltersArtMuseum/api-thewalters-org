@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Joseph Wood (American, 1778-ca. 1832)",
+            "CreatorID": 4187,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1816,
+    "DateEndYear": 1832,
+    "DateText": "After 1816",
+    "Description": null,
+    "Dimensions": "H: 8 15/16 x W: 6 7/8 in. (22.7 x 17.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23567,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.871_Fnt_BW_C40.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.871_Fnt_BW_C40.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.871_Fnt_BW_C40.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.871_Fnt_BW_C40.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.871_Fnt_BW_C40.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 41557,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.871_Fnt_TR_T98II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.871_Fnt_TR_T98II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.871_Fnt_TR_T98II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.871_Fnt_TR_T98II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.871_Fnt_TR_T98II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 47121,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.871_XR_1950.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.871_XR_1950.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.871_XR_1950.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.871_XR_1950.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.871_XR_1950.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3302,
+        "LocationString": null
+    },
+    "ObjectID": 33592,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.871",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33592",
+    "SortNumber": "    37   871                                            ",
+    "Style": null,
+    "Title": "Francis Scott Key (1779-1843)"
+}

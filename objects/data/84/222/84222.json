@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Bihzad (died 942 AH/AD 1536-1537)",
+            "CreatorID": 19364,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Farid al-Din 'Attar (died 618 AH/AD 1221)",
+            "CreatorID": 19403,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1480,
+    "DateEndYear": 1501,
+    "DateText": "late 9th century AH/AD 15th century",
+    "Description": "This single leaf, Watlers W.678, is the back of an image of a son's lamentation at his father's funeral.",
+    "Dimensions": "H: 11 1/4 x W: 7 1/2 in. (28.5 x 19 cm)",
+    "Dynasty": "Timurid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Ozbekistan\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1520224,
+            "GeographyTerm": "Bukhoro Wiloyati",
+            "Latitude": "40 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.0,
+            "Longitude": "060 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 60.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Ozbekistan\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1520224,
+            "GeographyTerm": "Bukhoro Wiloyati",
+            "Latitude": "40 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.0,
+            "Longitude": "060 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 60.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38669,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.678.b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.678.b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.678.b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.678.b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.678.b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Timurid; Illustration; Miniature; Painting; Iran",
+    "Medium": "ink and pigments on paper with a gold-sprinkled border",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 84222,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.678.B",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84222",
+    "SortNumber": "W        678B                                           ",
+    "Style": null,
+    "Title": "Son\u2019s Lamentation at his Father\u2019s Funeral (Back)"
+}

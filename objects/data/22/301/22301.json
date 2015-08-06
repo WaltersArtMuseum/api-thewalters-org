@@ -1,0 +1,89 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Isidore of Seville (Spain, 570-636)",
+            "CreatorID": 5316,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "A schematic T-O map of the inhabited world occupies the center of the diagram. The wind names are written in the colored segments of the penultimate ring. Characterizations of each wind, comprising excerpts or adaptations of portions of the Spanish scholar Isidore of Seville's (d. 636 CE) scientific work, De natura rerum (On the nature of things, XXXVII, i-iv), fill the corresponding trapezoidal sectors.\r\n\r\nThe T-O map is a conceptual diagram intended to show the relative positions of the three continents. The T, the Mediterranean Sea, separates Asia, Europe, and Africa, while the O is the surrounding ocean. Although the origins of the T-O map lie in the literature of classical antiquity, some of the earliest surviving pictorial examples occur in early medieval manuscripts of the works of Isidore of Seville. The Middle Ages inherited from the Greco-Roman world both the twelve-wind scheme and the convention of its representation in diagrammatic form. The earliest extant manuscripts containing circular tables of the Latin and Greek wind names equipped with both the Isidorian text and the T-O map at center date to the ninth century; see for example an early ninth-century manuscript of the second book of Cassiodorus's Institutiones, Bern, Burgerbibliothek, MS 212/I, fol. 109r.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56085,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.2R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.2R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.2R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.2R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.2R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 22301,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.2R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22301",
+    "SortNumber": "W         73    2R                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagram of the Winds"
+}

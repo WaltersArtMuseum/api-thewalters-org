@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Guillaume de Lorris (French, active 13th century)",
+            "CreatorID": 8119,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1430,
+    "DateEndYear": 1470,
+    "DateText": "1430-1470",
+    "Description": null,
+    "Dimensions": "Overall: 6 5/16 x 4 1/2 in. (16 x 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 24881,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/POP_W.143.19v_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/POP_W.143.19v_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/POP_W.143.19v_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/POP_W.143.19v_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/POP_W.143.19v_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 10604,
+    "ObjectName": "illuminated manuscript",
+    "ObjectNumber": "W.143.19V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": null,
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10604",
+    "SortNumber": "W        143   19V                                      ",
+    "Style": "Gothic",
+    "Title": "Fair Welcome addresses Lover"
+}

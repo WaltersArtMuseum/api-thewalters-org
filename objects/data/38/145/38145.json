@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1723,
+    "DateEndYear": 1735,
+    "DateText": "1723-1735",
+    "Description": null,
+    "Dimensions": "4 13/16 in. (12.2 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Chinese Snuff Bottles",
+            "ExhibBeginDate": "2000-10-25",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 25, 2000-February 5, 2001",
+            "ExhibEndDate": "2001-02-05",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 76,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Chinese Snuff Bottles. The Walters Art Gallery, Baltimore. 2000-2001."
+        },
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55761,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.1990_Side_BW_H54.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.1990_Side_BW_H54.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.1990_Side_BW_H54.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.1990_Side_BW_H54.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.1990_Side_BW_H54.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Reign Mark] Six-character mark of Yongzheng [Yung-cheng] (1723-1735) in seal script in underglaze blue",
+    "Keywords": null,
+    "Medium": "porcelain with famille rose enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1895,
+        "LocationString": null
+    },
+    "ObjectID": 38145,
+    "ObjectName": "teapots",
+    "ObjectNumber": "49.1990",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": "Yongzheng [Yung-cheng] (1722-1735)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38145",
+    "SortNumber": "    49  1990                                            ",
+    "Style": "famille rose",
+    "Title": "Teapot with Scene of Geese in Landscape"
+}

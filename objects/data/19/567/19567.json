@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1550,
+    "DateEndYear": 1600,
+    "DateText": "2nd half 16th century",
+    "Description": "For more information on this portrait, please see Federico Zeri's 1976 catalogue no. 301, pp. 430-431.",
+    "Dimensions": "Painted surface H including added painted fabric at top: 50 3/16 x W: 40 9/16 in. (127.5 x 103 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36994,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.521_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.521_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.521_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.521_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.521_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48153,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.521_XR_1965.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.521_XR_1965.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.521_XR_1965.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.521_XR_1965.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.521_XR_1965.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On letter: Aso Celezia; [Translation] To his Excellency; [Transcription] Near upper left corner: MAESTRO DI CAMPO | ...OSTINO ALESANDRO | ...ESTANTE SIFOLO; [Translation] Fieldmaster | ... [Ag (?)]ostino Alesandro | ...",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3286,
+        "LocationString": null
+    },
+    "ObjectID": 19567,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.521",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 302]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19567",
+    "SortNumber": "    37   521                                            ",
+    "Style": null,
+    "Title": "Portrait of a Man"
+}

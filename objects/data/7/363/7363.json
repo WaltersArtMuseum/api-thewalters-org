@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 600,
+    "DateEndYear": 799,
+    "DateText": "7th-8th century",
+    "Description": "A beast of burden and crucial component of the trade routes across the northwest deserts of China, the camel came to symbolize commerce, exchange, and travel from China to the other Asian kingdoms along the silk route.",
+    "Dimensions": "H: 22 7/16 x L: 17 7/8 x D: 8 in. (57 x 45.4 x 20.3 cm)",
+    "Dynasty": "Tang [T'ang] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6627,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.2383_Prof_TR_T90IA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.2383_Prof_TR_T90IA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.2383_Prof_TR_T90IA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.2383_Prof_TR_T90IA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.2383_Prof_TR_T90IA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "ancient; travel; silk road; animal; camel; ceramic",
+    "Medium": "earthenware with sancai glazes",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1934,
+        "LocationString": null
+    },
+    "ObjectID": 7363,
+    "ObjectName": "sculptures",
+    "ObjectNumber": "49.2383",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "C. K. Chang, Philadelphia [date and mode of acquisition unknown]; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:09:35.153",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7363",
+    "SortNumber": "    49  2383                                            ",
+    "Style": null,
+    "Title": "Camel"
+}

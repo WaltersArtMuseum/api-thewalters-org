@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Richiku (Japanese)",
+            "CreatorID": 7034,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1896",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "This is an example of Hirado ware from the Mikawachi Kilns.",
+    "Dimensions": "9 3/8 in. (23.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Hirado Porcelain",
+            "ExhibBeginDate": "1980-11-06",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "November 6, 1980-January 30, 1981",
+            "ExhibEndDate": "1981-01-30",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2675,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Hirado Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21303,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1621_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1621_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1621_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1621_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1621_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21302,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1621_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1621_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1621_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1621_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1621_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 21304,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1621_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1621_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1621_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1621_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1621_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Transcription] hirado san mikawachi richiku sei;  [Translation] Product of Hirado, Mikawachi [kiln] made by Richiku",
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1714,
+        "LocationString": null
+    },
+    "ObjectID": 5690,
+    "ObjectName": "incense burner;koro",
+    "ObjectNumber": "49.1621",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1896 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.763",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5690",
+    "SortNumber": "    49  1621                                            ",
+    "Style": "Hirado ware",
+    "Title": "Incense Burner (\"Koro\") Supported by Entwined Dragons"
+}

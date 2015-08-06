@@ -1,0 +1,104 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dutch",
+            "CreatorID": 6227,
+            "Gender": null,
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Gift of Baroness Helen Giskra, 1948",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1725,
+    "DateText": "early 18th century",
+    "Description": "The handles are covered in beadwork. The fork is two-tined.",
+    "Dimensions": "9 x 13/16 in. (22.8 x 2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Artful Dining: The Exhibition",
+            "ExhibBeginDate": "1994-07-30",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "July 30, 1994-October 31, 1994",
+            "ExhibEndDate": "1994-10-31",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2747,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artful Dining: The Exhibition. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5750,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_57.1806_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_57.1806_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_57.1806_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_57.1806_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_57.1806_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "iron, glass beads",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 32528,
+    "ObjectName": "table knives; forks; flatware",
+    "ObjectNumber": "57.1806",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Baroness Helen Giskra [date and mode of acquisition unknown];  Walters Art Museum, 1948, by gift.",
+    "PublicAccessDate": "2008-09-25T17:14:37.597",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 90807,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 90808,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/32528",
+    "SortNumber": "    57  1806                                            ",
+    "Style": null,
+    "Title": "Knife and Fork"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Carlo Ceresa (Italian, 1609-1679)",
+            "CreatorID": 2259,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1630,
+    "DateEndYear": 1635,
+    "DateText": "1630-1635",
+    "Description": "For more information on this portrait, please see Federico Zeri's 1976 catalogue no. 377, p. 495.",
+    "Dimensions": "Painted surface H: 25 11/16 x W: 19 7/8 in. (65.2 x 50.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Going for Baroque",
+            "ExhibBeginDate": "1995-09-24",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "September 24, 1995-February  4, 1996",
+            "ExhibEndDate": "1996-02-04",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 948,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Going for Baroque. The Walters Art Gallery, Baltimore. 1995-1996."
+        },
+        {
+            "ExhTitle": "Baroque Portraiture in Italy",
+            "ExhibBeginDate": "1984-12-02",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "December 2, 1984-June 20, 1985",
+            "ExhibEndDate": "1985-06-20",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2959,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Baroque Portraiture in Italy. The John and Mable Ringling Museum of Art, Sarasota. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437821,
+            "GeographyTerm": "Lombardia",
+            "Latitude": "45 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.666,
+            "Longitude": "009 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41521,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.608_Fnt_TR_T84II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.608_Fnt_TR_T84II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.608_Fnt_TR_T84II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.608_Fnt_TR_T84II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.608_Fnt_TR_T84II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 29666,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.608_Fnt_BW_H58.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.608_Fnt_BW_H58.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.608_Fnt_BW_H58.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.608_Fnt_BW_H58.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.608_Fnt_BW_H58.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3289,
+        "LocationString": null
+    },
+    "ObjectID": 31085,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.608",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31085",
+    "SortNumber": "    37   608                                            ",
+    "Style": null,
+    "Title": "Portrait of a Girl"
+}

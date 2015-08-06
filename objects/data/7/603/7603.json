@@ -1,0 +1,101 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tiffany and Company (American, 1837-present)",
+            "CreatorID": 3561,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "George Paulding Farnham (American, 1859-1927)",
+            "CreatorID": 2734,
+            "Gender": "male",
+            "Role": "Designer"
+        }
+    ],
+    "CreditLine": "Gift of Tiffany & Co., 1988",
+    "Culture": null,
+    "DateBeginYear": 1888,
+    "DateEndYear": 1912,
+    "DateText": "ca. 1900",
+    "Description": "Farnham served as the chief designer and director of the jewelry division of Tiffany & Co. from 1893 until 1907 when he was replaced by Louis Comfort Tiffany. He frequently drew his designs from flowers and plants. This sketch is a working drawing for one of Tiffany's most famous creations, the Iris Corsage Ornament that won the firm a gold medal at the Paris Exposition Universelle in 1900 (WAM 57.939). Farnham collaborated with Tiffany's gemologist George Frederick Kunz (1856-1912) in using American stones, in this instance mostly Montana sapphires, for his exhibition pieces.",
+    "Dimensions": "H: 11 1/8 \u00d7 W: 8 1/2 in. (28.3 \u00d7 21.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bedazzled: 5,000 Years of Jewelry from the Walters Art Museum",
+            "ExhibBeginDate": "2006-09-16",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "September 16, 2006-January 4, 2009",
+            "ExhibEndDate": "2009-01-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1954,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bedazzled: 5,000 Years of Jewelry from the Walters Art Museum. Frist Center for the Visual Arts, Nashville; The John and Mable Ringling Museum of Art, Sarasota; The Walters Art Museum, Baltimore. 2006-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10018,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.2632_Fnt_TR_T96IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.2632_Fnt_TR_T96IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.2632_Fnt_TR_T96IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.2632_Fnt_TR_T96IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.2632_Fnt_TR_T96IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] top center: 40 G.X.",
+    "Keywords": "iris",
+    "Medium": "watercolor on tracing paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4912,
+        "LocationString": null
+    },
+    "ObjectID": 7603,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.2632",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Tiffany & Co., New York; given to Walters Art Museum, 1988.",
+    "PublicAccessDate": "2008-09-25T17:14:36.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7603",
+    "SortNumber": "    37  2632                                            ",
+    "Style": null,
+    "Title": "Sketch for the Tiffany Iris Corsage Ornament"
+}

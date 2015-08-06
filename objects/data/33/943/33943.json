@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni Antonio Sogliani (Italian, 1492-1544)",
+            "CreatorID": 4447,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1922",
+    "Culture": null,
+    "DateBeginYear": 1503,
+    "DateEndYear": 1527,
+    "DateText": "ca. 1515",
+    "Description": "For more information on this tondo, please see Federico Zeri's 1976 catalogue no. 205, pp. 318-3198.",
+    "Dimensions": "Painted surface H: 37 15/16 x W: 37 1/2 x Approx. D: 1 1/4 in. (96.3 x 95.3 x 3.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36995,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.524_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.524_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.524_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.524_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.524_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48154,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.524_XR_1978.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.524_XR_1978.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.524_XR_1978.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.524_XR_1978.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.524_XR_1978.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3397,
+        "LocationString": null
+    },
+    "ObjectID": 33943,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.524",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore, prior to 1922 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33943",
+    "SortNumber": "    37   524                                            ",
+    "Style": null,
+    "Title": "Madonna and Child with Saint John the Baptist"
+}

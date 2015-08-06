@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of the Straus Madonna (Italian, active late 14th-early 15th century)",
+            "CreatorID": 5091,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1375,
+    "DateEndYear": 1425,
+    "DateText": "ca. 1400",
+    "Description": "For more information on this painting, please see Zeri catalogue number 17, pp. 28-29.",
+    "Dimensions": "H with base and finial: 51 5/16 x W: 28 7/8 x D: 1 3/8 in. (130.3 x 73.3 x 3.5 cm); Painted surface H: 37 3/16 x W: 20 1/4 in. (94.5 x 51.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37176,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.729_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.729_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.729_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.729_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.729_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and gold leaf on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3384,
+        "LocationString": null
+    },
+    "ObjectID": 34105,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.729",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 13, as A. Cenino, about 1437]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34105",
+    "SortNumber": "    37   729                                            ",
+    "Style": null,
+    "Title": "The Madonna of Humility with Saints and Angels"
+}

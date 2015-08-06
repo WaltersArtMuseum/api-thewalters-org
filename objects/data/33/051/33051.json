@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -580,
+    "DateEndYear": -580,
+    "DateText": "580 BC",
+    "Description": "The long inscription on the mummiform body of the figure contains the ushabti spell from the Book of the Dead, the name Psamtik, and his title, \"chief royal scribe,\" as well as the name of his mother, Merit-Neith.",
+    "Dimensions": "H: 7 1/2 in. (19.1 cm)",
+    "Dynasty": "26th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Faience: The Colors of the Heavens",
+            "ExhibBeginDate": "2003-05-17",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "May 17, 2003-June 30, 2004",
+            "ExhibEndDate": "2004-06-30",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 10,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Faience: The Colors of the Heavens. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2003-2004."
+        },
+        {
+            "ExhTitle": "Secret Signs: Egyptian Writing",
+            "ExhibBeginDate": "2003-08-16",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "August 16, 2003-March 21, 2004",
+            "ExhibEndDate": "2004-03-21",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2345,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Secret Signs: Egyptian Writing. The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57854,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.392_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.392_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.392_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.392_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.392_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1465,
+        "LocationString": null
+    },
+    "ObjectID": 33051,
+    "ObjectName": "ushebtis; figurines; statuettes",
+    "ObjectNumber": "48.392",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33051",
+    "SortNumber": "    48   392                                            ",
+    "Style": null,
+    "Title": "Ushabti Figure of Psamtik"
+}

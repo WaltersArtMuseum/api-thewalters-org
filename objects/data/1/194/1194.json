@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "James Tissot (French, 1836-1902)",
+            "CreatorID": 4571,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1838,
+    "DateEndYear": 1862,
+    "DateText": "ca. 1850",
+    "Description": null,
+    "Dimensions": "5 1/8 x 4 1/4 in. (13 x 10.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "French Master Drawings",
+            "ExhibBeginDate": "1997-08-02",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "August 2, 1997-January 18, 1998",
+            "ExhibEndDate": "1998-01-18",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 637,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "French Master Drawings. The Walters Art Gallery, Baltimore. 1997-1998."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 383,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2009_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2009_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2009_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2009_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2009_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] bottom left: J.J. Tissot",
+    "Keywords": "man; portrait; historical; biblical/religious; portrait",
+    "Medium": "watercolor with graphite underdrawing on cream, moderately thick, smooth wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2255,
+        "LocationString": null
+    },
+    "ObjectID": 1194,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.2009",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T14:19:33.833",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1194",
+    "SortNumber": "    37  2009                                            ",
+    "Style": null,
+    "Title": "A Patriarch"
+}

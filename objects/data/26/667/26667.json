@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This Mughal drawing, Walters manuscript leaf W.697 is of a young man, identified by the inscription as Shahriyar, who was the youngest son of the 4th Mughal Emperor Jahangir (died 1037 AH/AD 1627). It dates to the 11th century AH/AD 17th. Shahriyar is shown in profile position, which is common in Mughal painting, especially in depictions of court ceremonies. The portrait is a preparatory drawing for a manuscript painting. It may have been at a later stage that the window frame and hand were drawn to suggest a jharoka scene. The buff-tinted and gold-sprinkled border is attributable to the12th century AH/AD 18th. The portrait is inscribed shabih-i Shariyar in red Nasta'liq script.",
+    "Dimensions": "H: 7 1/16 x W: 4 15/16 in. (18 x 12.5 cm); Image H: 2 1/16 x W: 1 5/8 in. (5.3 x 4.2 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34132,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.697_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.697_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.697_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.697_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.697_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illustration; Drawing; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6427,
+        "LocationString": null
+    },
+    "ObjectID": 26667,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.697",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-21T15:17:18.69",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83778,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83779,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26667",
+    "SortNumber": "W        697                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Portrait of Shahriyar"
+}

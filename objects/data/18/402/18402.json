@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean-L\u00e9on G\u00e9r\u00f4me (French, 1824-1904)",
+            "CreatorID": 4384,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 2001",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "13 3/4 x 8 11/16 in. (35 x 22.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10972,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.2765_Fnt_TR_T02.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.2765_Fnt_TR_T02.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.2765_Fnt_TR_T02.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.2765_Fnt_TR_T02.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.2765_Fnt_TR_T02.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"JG\" in graphite at lower edge; \"1500\" in graphite on upper left of verso; \"18\" in graphite to the right of center on lower edge, recto; color notations in graphite at center upper edge, recto; \"Succ. Aim\u00e9 Morot\" surrounded by the artist's name and \"1824-1904\" stamped in blue, lower edge, verso",
+    "Keywords": "animal; historical; historical",
+    "Medium": "graphite on smooth, moderately thick, cream wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1420,
+        "LocationString": null
+    },
+    "ObjectID": 18402,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2765",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Aim\u00e9 Morot, Paris; Mr. DeCourcy E. McIntosh, Pittsburgh; Walters Art Museum, 2001, by purchase.",
+    "PublicAccessDate": "2008-12-01T14:13:37.8",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18402",
+    "SortNumber": "    37  2765                                            ",
+    "Style": null,
+    "Title": "Study for \"Diogenes\""
+}

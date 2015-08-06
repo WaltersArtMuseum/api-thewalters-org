@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian () (?)",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1573,
+    "DateEndYear": 1597,
+    "DateText": "ca. 1585",
+    "Description": null,
+    "Dimensions": "9 1/16 x 7 1/16 in. (23 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1438820,
+            "GeographyTerm": "Pesaro",
+            "Latitude": "43 54",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.9,
+            "Longitude": "012 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11711,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red Morocco with silver gilt strapwork and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78134,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.481.binding",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Francesco Maria II, Duke of Urbino [made for]; Ferdinando Ongania, Venice [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78134",
+    "SortNumber": "W        481binding                                     ",
+    "Style": null,
+    "Title": "Binding from Dogale of Francesco della Rovere Mamiami"
+}

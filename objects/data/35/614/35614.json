@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles Loring Elliott (American, 1812-1868)",
+            "CreatorID": 4578,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1860",
+    "Culture": null,
+    "DateBeginYear": 1848,
+    "DateEndYear": 1872,
+    "DateText": "ca. 1860",
+    "Description": "Because William T. Walters had once provided him with financial assistance, Elliott presented this self-portrait to him with the accompanying note:\r\n\r\n\"You will gratify me by accepting the accompanying portrait of myself, as a slight testimonial of my esteem for you, and I also wish to express my admiration for your manly, consistent, and liberal support of American art.\"\r\n\r\nElliott also apparently painted a portrait of Walters, but the whereabouts of this work is currently unknown.",
+    "Dimensions": "H: 26 15/16 x W: 22 1/16 in. (68.5 x 56 cm); Framed H: 34 1/2 x W: 29 1/2 x D: 3 3/4 in. (87.6 x 74.9 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        },
+        {
+            "ExhTitle": "The Walters' American Collection",
+            "ExhibBeginDate": "2005-06-29",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 29, 2005-January 1, 2006",
+            "ExhibEndDate": "2006-01-01",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2728,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Walters' American Collection. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47362,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.68_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.68_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.68_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.68_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.68_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 24613,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.68_Fnt_BW_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.68_Fnt_BW_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.68_Fnt_BW_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.68_Fnt_BW_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.68_Fnt_BW_H73.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 4011,
+        "LocationString": null
+    },
+    "ObjectID": 35614,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.68",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1860, by gift [from the artist]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-10-01T15:52:55.71",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35614",
+    "SortNumber": "    37    68                                            ",
+    "Style": null,
+    "Title": "Self-Portrait"
+}

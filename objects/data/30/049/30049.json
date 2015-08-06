@@ -1,0 +1,93 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Fujiwara (?)",
+            "CreatorID": 6714,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Goshin (?)",
+            "CreatorID": 1956,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1850,
+    "DateEndYear": 1900,
+    "DateText": "1850-1900",
+    "Description": "This piece has elaborate inscriptions, and is a pair with Walters 35.88.",
+    "Dimensions": "L: 43 1/16 x W: 19 1/2 in. (109.3 x 49.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55740,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.83_Fnt_NF_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.83_Fnt_NF_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.83_Fnt_NF_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.83_Fnt_NF_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.83_Fnt_NF_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] At lower left; [Seal] At lower left",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on paper and brocade",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2408,
+        "LocationString": null
+    },
+    "ObjectID": 30049,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.83",
+    "OnView": 0,
+    "Period": "Edo-Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 20214,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30049",
+    "SortNumber": "    35    83                                            ",
+    "Style": null,
+    "Title": "Taoist Sage with Attendant, Deer, and Two Cranes"
+}

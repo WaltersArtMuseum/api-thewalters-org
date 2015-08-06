@@ -1,0 +1,172 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Peter, of Poitiers (ca. 1130-1205)",
+            "CreatorID": 31604,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1981",
+    "Culture": null,
+    "DateBeginYear": 1200,
+    "DateEndYear": 1230,
+    "DateText": "early 13th century",
+    "Description": "Binding is non-original. Nineteenth-century; cream-colored parchment binding by Robert Riviere; spine inscribed in gold with \"STEMMA JESU CHRISTI\"",
+    "Dimensions": "H: 13 9/16 \u00d7 W: 9 5/8 in. (34.4 \u00d7 24.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48177,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48178,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48172,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 48171,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 48173,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_ForeEdge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_ForeEdge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_ForeEdge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_ForeEdge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_ForeEdge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 48174,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 48175,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 48176,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_Tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_Tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_Tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_Tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_Ext_Tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Gothic; Illumination; Manuscript; Medallion; Walters Art Museum; Chart; Drawing; Illustration; Theology",
+    "Medium": "Nineteenth-century; cream-colored parchment binding by Robert Rivi\u00e8re; spine inscribed in gold with \"STEMMA JESU CHRISTI\"",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90964,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.796.binding",
+    "OnView": 0,
+    "Period": "Gothic",
+    "Provenance": "Made in England, early thirteenth century; William Salloch, Ossining, New York [date and mode of acquisition unknown]; Sale, 1981; Walters Art Museum, 1981, by purchase [Catalog 375, no. 43].",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90964",
+    "SortNumber": "W        796binding                                     ",
+    "Style": null,
+    "Title": "Binding from Peter of Poitiers' Historical genealogy of Christ"
+}

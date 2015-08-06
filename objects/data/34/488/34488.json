@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1720,
+    "DateEndYear": 1740,
+    "DateText": "1720-1740",
+    "Description": "This is an example of \"famille rose\" porcelain.",
+    "Dimensions": "11 7/8 in. (30.2 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6891,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2245_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2245_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2245_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2245_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2245_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1656,
+        "LocationString": null
+    },
+    "ObjectID": 34488,
+    "ObjectName": "lanterns",
+    "ObjectNumber": "49.2245",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown];  Henry Walters, Baltimore, 1894, by inheritance;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.06",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34488",
+    "SortNumber": "    49  2245                                            ",
+    "Style": null,
+    "Title": "Hanging Lantern with Taoist Immortals in Panels"
+}

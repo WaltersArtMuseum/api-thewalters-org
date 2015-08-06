@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Xanto Avelli (Italian, ca. 1487-ca. 1542)",
+            "CreatorID": 4363,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": 1530,
+    "DateEndYear": 1530,
+    "DateText": "1530",
+    "Description": "This vessel, one of the earliest signed and dated works by Xanto Avelli, is shaped like the flasks carried by traveling pilgrims, hence its name. The image of the god Mercury carrying his beloved, the mortal Psyche, to Mt. Olympus is adapted from an engraving by Marcantonio Raimondi (ca. 1475-1530), the most famous Renaissance engraver, after a wall-painting by Raphael in the Villa Farnesina in Rome.",
+    "Dimensions": "14 3/8 x 8 13/16 in. (36.5 x 22.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6812,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1373_Fnt_SL_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1373_Fnt_SL_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1373_Fnt_SL_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1373_Fnt_SL_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1373_Fnt_SL_T84.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46428,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1373_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1373_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1373_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1373_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1373_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] Ornamented at each side with an inscribed cartouche, on one side: \u2219F\u2219A\u2219R\u2219 ; on the opposite side: M\u2219D\u2219XXX",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4786,
+        "LocationString": null
+    },
+    "ObjectID": 37839,
+    "ObjectName": "pilgrim flasks",
+    "ObjectNumber": "48.1373",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Spain [date and mode of deposition unknown]; Samuel Addington, prior to 1862, by purchase; Boulton, [no. 92]; George Robinson Harding, London [date of acquisition unknown], by purchase; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37839",
+    "SortNumber": "    48  1373                                            ",
+    "Style": null,
+    "Title": "\"Pilgrim Flask\" with Mercury and Psyche"
+}

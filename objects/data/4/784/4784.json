@@ -1,0 +1,101 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Erzurumi (?) Mu'izz",
+            "CreatorID": 5755,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1714,
+    "DateEndYear": 1715,
+    "DateText": "1714-1715",
+    "Description": null,
+    "Dimensions": "5 3/8 x 31 7/8 x 1 1/2 in. (13.6 x 81 x 3.8 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Again: Arms and Armor",
+            "ExhibBeginDate": "1940-10",
+            "ExhibBeginYear": 1940,
+            "ExhibDisplayDate": "October 1940",
+            "ExhibEndDate": "1940-10",
+            "ExhibEndYear": 1940,
+            "ExhibitionID": 292,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Again: Arms and Armor. Baltimore Museum of Art, Baltimore. 1940."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5354,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.26_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.26_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.26_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.26_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.26_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "(spine) Come, O saqi, [bring] a clean and pure jewel [for] Jamshid.",
+    "Keywords": null,
+    "Medium": "steel, inlaid with gold (blade); horn (hilt)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Arms and Armor",
+        "LocationID": 3958,
+        "LocationString": null
+    },
+    "ObjectID": 4784,
+    "ObjectName": "sword",
+    "ObjectNumber": "51.26",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.207",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4784",
+    "SortNumber": "    51    26                                            ",
+    "Style": null,
+    "Title": "Kilij"
+}

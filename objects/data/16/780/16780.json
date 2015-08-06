@@ -1,0 +1,120 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.632 is an illuminated and illustrated Safavid copy of the Collection of poems (divan) by Hafiz (flourished 8th century AH/AD 14th). The manuscript dates to the 10th century AH/AD 16th. It begins with a double-page illustrated frontispiece depicting a hunt, which is followed by an illuminated incipit page. The text is written in black Nasta'liq script with gold and blue headings. There are five additional illustrations (fols. 50b, 76b, 99a, 124b, and 147b). The binding, which is not original to the codex, is covered with a gold-brocaded Safavid textile that dates to the 11th century AH/AD 17th or 12th century AH/AD 18th.",
+    "Dimensions": "Folio H: 7 7/8 x W: 4 5/16 in. (20 x 11 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33402,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.632.binding_TopExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.632.binding_TopExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.632.binding_TopExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.632.binding_TopExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.632.binding_TopExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Illumination; Illustration; Manuscript; Iran; Sufism; Literature -- Poetry",
+    "Medium": "ink and pigments on laid Persian paper bound between boards covered with red leather with gold-brocaded silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 4047,
+        "LocationString": null
+    },
+    "ObjectID": 16780,
+    "ObjectName": "illuminated manuscript",
+    "ObjectNumber": "W.632",
+    "OnView": 1,
+    "Period": "Safavid",
+    "Provenance": "Muhammad Habib [date and mode of acquisition unknown] [seal impression on fol. 2b and  invocation: ya kabikaj on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83410,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83411,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83412,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83413,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83414,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83415,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83416,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83417,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83418,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/16780",
+    "SortNumber": "W        632                                            ",
+    "Style": null,
+    "Title": "Collection of Poems (Divan)"
+}

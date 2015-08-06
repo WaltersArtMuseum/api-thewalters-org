@@ -1,0 +1,87 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1662,
+    "DateEndYear": 1722,
+    "DateText": "1662-1722",
+    "Description": "By the late 1600s, groupings of five or seven Chinese porcelain vessels with alternating shapes were often displayed over doors. A complete set was called a \"garniture.\" This piece with a cobalt blue underglaze are from the Kangxi period (1662-1722) and was made for export to foreign markets.",
+    "Dimensions": "H: 12 1/16 in. (30.7 cm)",
+    "Dynasty": "Qing Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55249,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.210_SideA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.210_SideA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.210_SideA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.210_SideA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.210_SideA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 55250,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.210_SideB_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.210_SideB_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.210_SideB_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.210_SideB_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.210_SideB_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: 17th-Century Dutch Cabinet Rooms",
+        "LocationID": 4392,
+        "LocationString": null
+    },
+    "ObjectID": 37515,
+    "ObjectName": "bottles; garnitures",
+    "ObjectNumber": "49.210",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "William T. or Henry Walters Collection, Baltimore; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2013-11-20T01:00:01.943",
+    "Reign": "Kangxi (1662-1722)",
+    "RelatedObjects": [
+        {
+            "ObjectID": 8648,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/37515",
+    "SortNumber": "    49   210                                            ",
+    "Style": null,
+    "Title": "Bottle with Peonies and Pendants"
+}

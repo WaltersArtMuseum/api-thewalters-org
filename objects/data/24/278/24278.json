@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1238,
+    "DateEndYear": 1262,
+    "DateText": "ca. 1250",
+    "Description": "This page from Walters manuscript W.106 depicts a scene from the life of Christ. After the Resurrection of Christ, Simon Peter went fishing on Lake Tiberias with several other disciples, including John. They caught nothing that night, but just as day was breaking, Christ stood on the beach. They did not recognize him at first. He told them to cast their net on the right side of the boat. Suddenly, they could not haul in the net for all the fish they had caught. John then said to Simon Peter, \"It is the Lord.\" Simon Peter put on his clothes and sprang into the sea. The other disciples went to shore in the boat, because it was not far from land.",
+    "Dimensions": "H: 5 3/16 x W: 3 3/4 in. (13.2 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Oxfordshire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468718,
+            "GeographyTerm": "Oxford",
+            "Latitude": "51 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.766,
+            "Longitude": "001 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31345,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.106.20r_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.106.20r_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.106.20r_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.106.20r_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.106.20r_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Art; Book; Christian; Illumination; Manuscript; Painting",
+    "Medium": "ink and pigment on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 24278,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.106.20R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "L\u00e9on Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, June 6, 1903, by purchase [see The Diaries of George Lucas]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24278",
+    "SortNumber": "W        106   20R                                      ",
+    "Style": null,
+    "Title": "Christ Appears at Lake Tiberias (John 21:1-9)"
+}

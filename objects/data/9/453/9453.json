@@ -1,0 +1,167 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -700,
+    "DateEndYear": -301,
+    "DateText": "7th-4th century BC",
+    "Description": "The representation of the mummiform Amun-Min-Kamutef with an erect phallus alludes to his role as a fertility god. His right arm is raised in a gesture of rejoicing. The name Kamutef (\"bull of his mother\") conveys that the god is both father and son and, therefore, self-created. Instead of the god's usual tall, feathered crown, this statuette (a rare example) depicts the god wearing the crown of Upper (south) Egypt, emphasizing his southern origins.",
+    "Dimensions": "H with tang: 8 7/16 x W: 2 15/16 x D: 1 15/16 in. (21.5 x 7.4 x 4.9 cm); H without Tang: 7 11/16 x W: 2 15/16 x D: 1 15/16 in. (19.6 x 7.4 x 4.9 cm); H on base: 9 x W: 3 1/16 x D: 2 in. (22.8 x 7.8 x 5.1 cm); Base H: 1 5/16 x W: 1 15/16 x D: 2 in. (3.3 x 5 x 5.1 cm)",
+    "Dynasty": "26th-30th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth)",
+            "ExhibBeginDate": "2014-09-12",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "Friday, September 12, 2014 - Sunday, November 01, 2015",
+            "ExhibEndDate": "2015-11-01",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3240,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth). Roemer- und Pelizaeus- Museum, Hildesheim; Kunsthalle Leoben, Leoben. 2014-2015."
+        },
+        {
+            "ExhTitle": "Mummified",
+            "ExhibBeginDate": "2008-11-15",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "November 15, 2008-November 8, 2013",
+            "ExhibEndDate": "2013-11-08",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2173,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mummified. The Walters Art Museum, Baltimore. 2008-2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 43743,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2062_3QtrLft_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2062_3QtrLft_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2062_3QtrLft_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2062_3QtrLft_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2062_3QtrLft_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 43747,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2062_Lft_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2062_Lft_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2062_Lft_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2062_Lft_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2062_Lft_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 43745,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2062_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2062_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2062_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2062_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2062_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 43748,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2062_Rt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2062_Rt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2062_Rt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2062_Rt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2062_Rt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 43744,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2062_3QtrRt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2062_3QtrRt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2062_3QtrRt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2062_3QtrRt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2062_3QtrRt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 43746,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2062_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2062_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2062_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2062_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2062_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 11831,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2062_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2062_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2062_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2062_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2062_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Out On Exhibition Loan",
+        "LocationID": 3499,
+        "LocationString": null
+    },
+    "ObjectID": 9453,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.2062",
+    "OnView": 1,
+    "Period": "Late Period",
+    "Provenance": "[Found near Cairo]; Dikran Kelekian, Paris and New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-11-19T17:21:41.083",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9453",
+    "SortNumber": "    54  2062                                            ",
+    "Style": null,
+    "Title": "Amun-Min-Kamutef"
+}

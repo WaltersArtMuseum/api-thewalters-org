@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1368,
+    "DateEndYear": 1644,
+    "DateText": "14th-17th century",
+    "Description": "Wares of this sort were made for use by the last Northern Song [Sung] emperor (who reigned from 1101 until 1125), but some authorities believe that this vessel and others like it (in the National Palace Museum, Taipei) were made during the Ming [Ming] Dynasty.",
+    "Dimensions": "H: 10 in. (25.4 cm)",
+    "Dynasty": "Ming [Ming] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        },
+        {
+            "ExhTitle": "Imperial Chinese Treasures from the Walters Collection",
+            "ExhibBeginDate": null,
+            "ExhibBeginYear": 0,
+            "ExhibDisplayDate": null,
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 3172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Imperial Chinese Treasures from the Walters Collection. 0."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1485581,
+            "GeographyTerm": "Henan",
+            "Latitude": "34 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.0,
+            "Longitude": "114 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 114.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6599,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.1585_Prof_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.1585_Prof_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.1585_Prof_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.1585_Prof_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.1585_Prof_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stoneware with Jun-ware [Ch'un ware] glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1947,
+        "LocationString": null
+    },
+    "ObjectID": 17299,
+    "ObjectName": "ferneries (planters)",
+    "ObjectNumber": "49.1585",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.747",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17299",
+    "SortNumber": "    49  1585                                            ",
+    "Style": null,
+    "Title": "Spittoon"
+}

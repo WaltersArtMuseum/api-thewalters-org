@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Petrarca (Italian, 1304-1374)",
+            "CreatorID": 7540,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1905",
+    "Culture": null,
+    "DateBeginYear": 1570,
+    "DateEndYear": 1570,
+    "DateText": "1570",
+    "Description": null,
+    "Dimensions": "H: 9 1/8 x W: 6 11/16 in. (23.2 x 17 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10147,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.476.1R_OpnObv_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.476.1R_OpnObv_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.476.1R_OpnObv_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.476.1R_OpnObv_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.476.1R_OpnObv_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment and paper with tempera",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77523,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.476.1R",
+    "OnView": 0,
+    "Period": "High Renaissance",
+    "Provenance": "Olschki [date and mode of acquisition unknown]; Henry Walters, Baltimore, ca. 1905, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77523",
+    "SortNumber": "W        476    1R                                      ",
+    "Style": null,
+    "Title": "Leaf from Emblem Book"
+}

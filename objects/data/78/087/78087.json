@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean Poyer (French, active ca. 1480-ca. 1500)",
+            "CreatorID": 16477,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Workshop of Jean Poyer (French, active ca. 1480-ca. 1500) (?)",
+            "CreatorID": 16477,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1500,
+    "DateText": "late 15th century",
+    "Description": null,
+    "Dimensions": "12 5/8 x 8 1/4 in. (32 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Time Sanctified: The Book of Hours in Medieval Art and Life",
+            "ExhibBeginDate": "1988-04-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 23, 1988-July 17, 1988",
+            "ExhibEndDate": "1988-07-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 87,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Time Sanctified: The Book of Hours in Medieval Art and Life. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11492,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.295.20V_OpnRev_TR_T87IA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.295.20V_OpnRev_TR_T87IA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.295.20V_OpnRev_TR_T87IA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.295.20V_OpnRev_TR_T87IA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.295.20V_OpnRev_TR_T87IA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78087,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.295.20V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78087",
+    "SortNumber": "W        295   20V                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Hours"
+}

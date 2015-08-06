@@ -1,0 +1,111 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Uchikoshi Hirotoshi (Japanese, active 19th century)",
+            "CreatorID": 2648,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1849,
+    "DateText": "19th century",
+    "Description": "A man in a workman's loincloth is depicted running. In his left hand is a rope. He may be running to help subdue the earthquake fish (\"namazu\") depicted in Walters 51.914.",
+    "Dimensions": "1 7/16 in. (3.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490882,
+            "GeographyTerm": "Mito",
+            "Latitude": "36 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.366,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Edo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15389,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.913_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.913_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.913_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.913_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.913_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15388,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.913_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.913_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.913_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.913_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.913_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15390,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.913_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.913_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.913_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.913_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.913_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u4e00\u4e57\u658e\u3000\u5f18\u5bff; [Translation] Ichijosai Hirotoshi (kao)",
+    "Keywords": null,
+    "Medium": "shibuichi, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 498,
+        "LocationString": null
+    },
+    "ObjectID": 35585,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.913",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-21T15:38:21.963",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 39024,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35585",
+    "SortNumber": "    51   913                                            ",
+    "Style": null,
+    "Title": "Fuchi with Running Man"
+}

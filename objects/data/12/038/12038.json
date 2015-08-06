@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Author Saint Bede, the Venerable (673-735)",
+            "CreatorID": 8737,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "This diagram illustrates the Moon's phases in relation to its distance from the Sun. The Earth at center is surrounded by three concentric rings. Along the inner ring are seven discs showing the phases of the waxing and waning moon, indicated by pale yellow wash emanating from the Sun, at right. As the diagram makes clear, and as medieval authorities recognized, the Moon's phases are determined by the extent of its illumination by the Sun. The cycle begins with the new, crescent Moon at upper right (approximately 2 o'clock) and moves counterclockwise, with the days of the lunar cycle given in red. It ends when the Moon is not visible -- that is, when it lies directly between the Earth and Sun, the latter labeled \"Sol XXX.\"",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56086,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.4R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.4R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.4R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.4R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.4R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39287,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.73.4_Fp_BW_H55.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.73.4_Fp_BW_H55.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.73.4_Fp_BW_H55.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.73.4_Fp_BW_H55.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.73.4_Fp_BW_H55.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 12038,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.4R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12038",
+    "SortNumber": "W         73    4R                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagram of the Phases of the Moon"
+}

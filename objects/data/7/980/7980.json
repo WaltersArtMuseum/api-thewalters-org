@@ -1,0 +1,83 @@
+{
+    "Classification": "Timepieces, Clocks & Watches",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Clockmaker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1568,
+    "DateEndYear": 1592,
+    "DateText": "ca. 1580",
+    "Description": "The decoration on this piece is chased in flat relief. The original movement is lost.",
+    "Dimensions": "9 5/16 in. (23.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Undercover Stories in Art",
+            "ExhibBeginDate": "1980-04-20",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "April 20, 1980-June 1, 1980",
+            "ExhibEndDate": "1980-06-01",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2672,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Undercover Stories in Art. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5867,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_58.223_Fnt_BW_H62.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_58.223_Fnt_BW_H62.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_58.223_Fnt_BW_H62.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_58.223_Fnt_BW_H62.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_58.223_Fnt_BW_H62.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gilded brass case, gilded brass dial",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4524,
+        "LocationString": null
+    },
+    "ObjectID": 7980,
+    "ObjectName": "table clocks",
+    "ObjectNumber": "58.223",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Harding, London; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:00.283",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7980",
+    "SortNumber": "    58   223                                            ",
+    "Style": null,
+    "Title": "Clock in the Form of an Urn"
+}

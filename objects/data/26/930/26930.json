@@ -1,0 +1,142 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": -100,
+    "DateEndYear": 100,
+    "DateText": "1st century BC-AD 1st century",
+    "Description": "The form and the single handle suggest that this jug was used for pouring wine. It is decorated in the \"barbotine\" technique, where a liquid clay or slip is applied in relief through a tube, much like icing is applied to a cake. Here, two stork-like birds are facing a large plant in the middle, framed by a garland of ivy leaves around the neck of the jug. Such idyllic scenes with animals and plants are typical of ceramic and metal vessels made during the time of Emperor Augustus.",
+    "Dimensions": "8 7/16 x 4 7/8 in. (21.4 x 12.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Karadeniz kiyisi\\provinces\\Samsun\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1502639,
+            "GeographyTerm": "Samsun",
+            "Latitude": "41 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.283,
+            "Longitude": "036 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33370,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.104_3QtrLft_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.104_3QtrLft_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.104_3QtrLft_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.104_3QtrLft_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.104_3QtrLft_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33375,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.104_Lft_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.104_Lft_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.104_Lft_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.104_Lft_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.104_Lft_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33372,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.104_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.104_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.104_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.104_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.104_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33371,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.104_3QtrRt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.104_3QtrRt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.104_3QtrRt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.104_3QtrRt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.104_3QtrRt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 33376,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.104_Rt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.104_Rt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.104_Rt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.104_Rt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.104_Rt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 33374,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.104_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.104_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.104_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.104_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.104_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 33373,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.104_Det_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.104_Det_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.104_Det_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.104_Det_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.104_Det_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1723,
+        "LocationString": null
+    },
+    "ObjectID": 26930,
+    "ObjectName": "jugs",
+    "ObjectNumber": "48.104",
+    "OnView": 0,
+    "Period": "Augustan",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-10-21T10:15:58.747",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26930",
+    "SortNumber": "    48   104                                            ",
+    "Style": null,
+    "Title": "Jug with Birds"
+}

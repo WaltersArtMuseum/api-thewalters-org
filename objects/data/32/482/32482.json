@@ -1,0 +1,109 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jamal al-Din Husayn Inju Shirazi",
+            "CreatorID": 19282,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Abu al-Fazl ibn Mubarak (1551-1602)",
+            "CreatorID": 19281,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2001",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "late 10th century AH/AD 16th century",
+    "Description": "This single leaf, Walters W.874, depicting the scene of a fatal quarrel over a prostitute comes from a manuscript of Akbarnamah (a biography of the Mughal Emperor Akbar [reigned 963 AH/AD 1556-1014 AH/AD 1605]) by his prime minster Abu al- Fazl ibn Mubarak (died 1011 AH/AD 1602). It was produced in Mughal India at the end of the 10th century AH/AD 16th. The work is pasted (like Walters W.684) on a leaf from Farhang-i Jahangiri (a Persian-language dictionary) by Jamal al-Din Husayn Inju Shirazi (died 1035 AH/AD 1625-1626). The text is written in black Nasta'liq script with lemmata in red.",
+    "Dimensions": "H: 13 9/16 x W: 8 3/4 in. (34.5 x 22.2 cm); Image H: 8 7/8 x W: 5 1/16 in. (22.5 x 12.9 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3077,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.874_Back_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.874_Back_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.874_Back_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.874_Back_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.874_Back_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 3078,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.874_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.874_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.874_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.874_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.874_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Persian; Illumination; Illustration; Manuscript; Miniature; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6438,
+        "LocationString": null
+    },
+    "ObjectID": 32482,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.874",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Fine Indian and Persian Miniatures Sale, Sotheby's, New York, March 25, 1987, lot 185; John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2001, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84215,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84216,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/32482",
+    "SortNumber": "W        874                                            ",
+    "Style": null,
+    "Title": "Single Leaf from Akbarnama by Abu Fazl"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Near Eastern",
+            "CreatorID": 16254,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Phoenician (?)",
+            "CreatorID": 2337,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1000,
+    "DateEndYear": 1900,
+    "DateText": "1000-1900",
+    "Description": null,
+    "Dimensions": "H: 9 1/8 in. (23.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522042,
+            "GeographyTerm": "Phoenicia",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522042,
+            "GeographyTerm": "Phoenicia",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55812,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.558_Fnt_BW_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.558_Fnt_BW_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.558_Fnt_BW_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.558_Fnt_BW_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.558_Fnt_BW_C81.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze with silver and gold inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 485,
+        "LocationString": null
+    },
+    "ObjectID": 40005,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.558",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40005",
+    "SortNumber": "    54   558                                            ",
+    "Style": null,
+    "Title": "Male Figure, so-called Crusader"
+}

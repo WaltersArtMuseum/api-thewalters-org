@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1713,
+    "DateEndYear": 1762,
+    "DateText": "ca. 1725-1750",
+    "Description": null,
+    "Dimensions": "H: 8 1/4 x Diam: 7 5/8 in. (21 x 19.4 cm); H without cover: 5 3/16 in. (13.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ottoman Embroideries and Other Ornament",
+            "ExhibBeginDate": "2007-05-05",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "May 5, 2007-September 9, 2007",
+            "ExhibEndDate": "2007-09-09",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2726,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ottoman Embroideries and Other Ornament. The Walters Art Museum, Baltimore. 2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Ege kiyilari\\provinces\\Kutahya Ili\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501867,
+            "GeographyTerm": "K\u00fctahya",
+            "Latitude": "39 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.416,
+            "Longitude": "029 56",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.933
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8418,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1732_VwA_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1732_VwA_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1732_VwA_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1732_VwA_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1732_VwA_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8419,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1732_VwB_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1732_VwB_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1732_VwB_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1732_VwB_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1732_VwB_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glazed and painted ceramic",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1829,
+        "LocationString": null
+    },
+    "ObjectID": 22212,
+    "ObjectName": "bowls; lids",
+    "ObjectNumber": "48.1732",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.177",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22212",
+    "SortNumber": "    48  1732                                            ",
+    "Style": null,
+    "Title": "Bowl"
+}

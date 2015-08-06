@@ -1,0 +1,130 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": "German",
+    "DateBeginYear": 1000,
+    "DateEndYear": 1199,
+    "DateText": "11th-12th century",
+    "Description": "Portable altars were used by Christians to celebrate the Mass while traveling. On one long side is depicted the Baptism of Christ, attended by a veiled woman, possibly representing the Church, and Christ in Majesty, surrounded by Evangelist symbols.  On the other long side, John the Baptist and the Holy Women at the Tomb are shown.  Originally, the figure of John the Baptist was part of the Baptism scene, but he was mistakenly placed with the Holy Women when the 11th-century plaques (perhaps from an altar panel) were reused in the 12th century to make this portable altar. A pair of apostles decorate both short sides. The rough, square opening at one end was made later, to remove the relic once sealed inside.",
+    "Dimensions": "7 1/2 x 13 3/8 x 7 5/8 in. (19 x 34 x 19.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Baden-W\u00fcrttemberg\\districts (national)\\Freiburg\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1456146,
+            "GeographyTerm": "Reichenau",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\Detmold\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1452079,
+            "GeographyTerm": "Paderborn",
+            "Latitude": "51 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.716,
+            "Longitude": "008 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 8.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11979,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.77_3Qtr_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.77_3Qtr_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.77_3Qtr_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.77_3Qtr_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.77_3Qtr_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11984,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.77_SideB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.77_SideB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.77_SideB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.77_SideB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.77_SideB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11981,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.77_Lft_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.77_Lft_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.77_Lft_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.77_Lft_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.77_Lft_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 11983,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.77_SideA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.77_SideA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.77_SideA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.77_SideA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.77_SideA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 11982,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.77_Rt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.77_Rt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.77_Rt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.77_Rt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.77_Rt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "copper gilt with enamel and porphyry",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Migration and Early Medieval Art",
+        "LocationID": 3854,
+        "LocationString": null
+    },
+    "ObjectID": 12372,
+    "ObjectName": "altars",
+    "ObjectNumber": "53.77",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Guldenpfennig, Paderborn; A. Seligmann, Rey & Co., New York; Henry Walters, Baltimore,1927, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12372",
+    "SortNumber": "    53    77                                            ",
+    "Style": "Romanesque",
+    "Title": "Portable Altar with Scenes of the Life of Christ"
+}

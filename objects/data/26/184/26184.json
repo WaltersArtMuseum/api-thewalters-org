@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Vic\u00fas",
+            "CreatorID": 8585,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Robert L. Beare, 1981",
+    "Culture": "Vic\u00fas",
+    "DateBeginYear": -200,
+    "DateEndYear": 200,
+    "DateText": "200 BC-AD 200",
+    "Description": "Terracotta is excellent for conveying sympathetically the earthbound, seemingly inert quality of this sleeping peccary (a wild pig native to Peru) plopped on the ground. Pre-Columbian potters often adapted distended animal shapes for vessels.\r\n\t\r\nThis modest piece, made for a middle or lower class burial, is from the Vicus culture of northern Peru.",
+    "Dimensions": "9 1/16 in. (23 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55759,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.2453_3Qtr_BW_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.2453_3Qtr_BW_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.2453_3Qtr_BW_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.2453_3Qtr_BW_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.2453_3Qtr_BW_C81.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5578,
+        "LocationString": null
+    },
+    "ObjectID": 26184,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2453",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Robert L. Beare, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1981, by gift.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26184",
+    "SortNumber": "    48  2453                                            ",
+    "Style": null,
+    "Title": "Vessel in the Shape of a Peccary"
+}

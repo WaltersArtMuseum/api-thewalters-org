@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean-L\u00e9on G\u00e9r\u00f4me (French, 1824-1904)",
+            "CreatorID": 4384,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Dr. Edward T. Wilson, 2008",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": "G\u00e9r\u00f4me's skills as a draftsman contributed to his ability to impart a strong sense of realism to paintings showing reconstructions of ancient historical events. In this instance, he has carefully delineated two figures who appear in \"A Roman Slave Market\" (1884), a painting that Henry Walters purchased in 1917 (Walters 37.885).",
+    "Dimensions": "H: 12 5/8 x W: 7 7/8 in. (32.07 x 20 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Expanding Horizons: Recent Additions to the Drawings Collection",
+            "ExhibBeginDate": "2010-04-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "April 17, 2010-July 3, 2010",
+            "ExhibEndDate": "2010-07-03",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2828,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Expanding Horizons: Recent Additions to the Drawings Collection. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14327,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2783_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2783_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2783_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2783_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2783_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "graphite on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5475,
+        "LocationString": null
+    },
+    "ObjectID": 77225,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2783",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Aim\u00e9 Morot [the artist's son-in-law], Paris [date and mode of acquisition unknown] [the drawing was once part of a notebook in his possession, later dismembered]; Dr. Edward T. Wilson, Bethesda, Maryland [date and mode of acquisition unknown]; Walters Art Museum, 2008, by gift.",
+    "PublicAccessDate": "2009-03-09T12:06:30.82",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 17026,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/77225",
+    "SortNumber": "    37  2783                                            ",
+    "Style": null,
+    "Title": "Slave Market"
+}

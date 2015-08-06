@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1513,
+    "DateEndYear": 1537,
+    "DateText": "ca. 1525-1530",
+    "Description": null,
+    "Dimensions": "1 7/8 x 8 9/16 in. (4.7 x 21.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437422,
+            "GeographyTerm": "Gubbio",
+            "Latitude": "43 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.35,
+            "Longitude": "012 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6810,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1367_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1367_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1367_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1367_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1367_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46426,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1367_Back_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1367_Back_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1367_Back_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1367_Back_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1367_Back_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica) and luster decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4793,
+        "LocationString": null
+    },
+    "ObjectID": 22,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.1367",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Guidi [date and mode of acquisition unknown] [no. 135]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.677",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22",
+    "SortNumber": "    48  1367                                            ",
+    "Style": null,
+    "Title": "Dish with Foliage Design"
+}

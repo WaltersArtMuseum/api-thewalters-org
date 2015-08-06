@@ -1,0 +1,166 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1300,
+    "DateEndYear": 1399,
+    "DateText": "possibly 14th century",
+    "Description": "Binding is non-original. Possibly fourteenth century; beech boards covered with alum-tawed pigskin(?); pastedowns made from leaves of a thirteenth-century psalter litany; blind-tooled fillet decoration in a diaper pattern on boards, particularly visible on the lower board; brass clasp added in the fifteenth century(?); spine lettered in an eighteenth-century script, reading \"Psalterium Msc. pergam. cum canticis et symbolis\"",
+    "Dimensions": "Overall: 7 15/16 x 5 9/16 in. (20.2 x 14.1 cm); Folio H: 7 5/8 x W: 5 3/8 in. (19.4 x 13.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448525,
+            "GeographyTerm": "Rheinland",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44941,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 44942,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 44936,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 44935,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 44937,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_ForeEdge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_ForeEdge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_ForeEdge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_ForeEdge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_ForeEdge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 44938,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 44939,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 44940,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.binding_Ext_DD_Tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Binding; Inhabited initial; Musical notation; Devotion",
+    "Medium": "Possibly fourteenth century; beech boards covered with alum-tawed pigskin(?); pastedowns made from leaves of a thirteenth-century psalter litany; blind-tooled fillet decoration in a diaper pattern on boards, particularly visible on the lower board; brass clasp added in the fifteenth century(?); spine lettered in an eighteenth-century script, reading \"Psalterium Msc. pergam. cum canticis et symbolis\"",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90564,
+    "ObjectName": "illuminated manuscripts; bindings",
+    "ObjectNumber": "W.69.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Made for use in the Diocese of Constance after 1224; Used by the church of St. Mary of Strasbourg, 14th century; Owned by Dominicans in the 15th century(?); Martin Bassonier, 15th century, [mode of acquisition unknown; signature on back pastedown]; B\u00e9nigne-Charles F\u00e9vret de Saint M\u00e9min (1770-1852), France, [mode of acquisition unknown, bookplate on front pastedown]; L\u00e9on Gruel collection, Paris, late 19th or early 20th century, [mode of acquisition unknown]; Henry Walters, Baltimore, before 1931, [acquired from Gruel, mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90564",
+    "SortNumber": "W         69binding                                     ",
+    "Style": "Gothic",
+    "Title": "Binding from Psalter of St. Mary of Strasbourg"
+}

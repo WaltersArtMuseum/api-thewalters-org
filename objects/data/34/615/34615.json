@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 1998",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1550,
+    "DateText": "first half of the 16th century",
+    "Description": null,
+    "Dimensions": "H: 11 7/8 x W: 9 13/16 in. (30.2 x 25 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ethiopian Gospel Book: New Acquisition",
+            "ExhibBeginDate": "1999-01-12",
+            "ExhibBeginYear": 1999,
+            "ExhibDisplayDate": "January 12, 1999-April 11, 1999",
+            "ExhibEndDate": "1999-04-11",
+            "ExhibEndYear": 1999,
+            "ExhibitionID": 3091,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ethiopian Gospel Book: New Acquisition. The Walters Art Gallery, Baltimore. 1999."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38614,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.850.154R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.850.154R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.850.154R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.850.154R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.850.154R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11618,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.850.153V-154R_OpnGp_TR_T01III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.850.153V-154R_OpnGp_TR_T01III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.850.153V-154R_OpnGp_TR_T01III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.850.153V-154R_OpnGp_TR_T01III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.850.153V-154R_OpnGp_TR_T01III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11619,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.850.154R_OpnObv_TR_T01III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.850.154R_OpnObv_TR_T01III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.850.154R_OpnObv_TR_T01III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.850.154R_OpnObv_TR_T01III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.850.154R_OpnObv_TR_T01III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "plant; monumental; St. John; opening; Christianity; St. John",
+    "Medium": "ink and pigments on heavy, thick parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 34615,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.850.154R",
+    "OnView": 0,
+    "Period": "Stephanite",
+    "Provenance": "Church, M\u00e4dhane Al\u00e4m at M\u00e4jate, Ethiopia, 1892-1893 [mode of acquisition unknown]; Private collection, France, prior to 1973 [mode of acquisition unknown]; Sam Fogg, London [date and mode of acquisition unknown]; Walters Art Museum, 1998, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34615",
+    "SortNumber": "W        850  154R                                      ",
+    "Style": "Gunda Gunde",
+    "Title": "Leaf from Ethiopian Gospels"
+}

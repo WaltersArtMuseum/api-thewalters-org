@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "'Ali ibn Abi Talib (died 40 AH/AD 661)",
+            "CreatorID": 16703,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Rashid al-Din Muhammad al-Balkhi al-Vatvat (died ca. 578 AH/AD 1182)",
+            "CreatorID": 16711,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "9th century AH/AD 15th century",
+    "Description": "This opening decorated page from Walters manuscript W.615 has an illuminated headpiece with the title of the work in Tawqi script executed in white ink on a gold background. The text begins with the doxological formula (basmalah) in black Muhaqqaq script outlined in gold, followed by two Persian verses in black Naskh script. Following is an Arabic line written in gold Thuluth script outlined in black. The Arabic text is again followed by two Persian verses inscribed in black Naskh.",
+    "Dimensions": "H: 8 1/4 x W: 5 11/16 in. (21 x 14.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20942,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.615.1B_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.615.1B_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.615.1B_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.615.1B_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.615.1B_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Persian; Book; Calligraphy; Codex; Illumination; Manuscript; Iran; Devotion; Literature -- Poetry; Literature -- Prose; Philosophy",
+    "Medium": "ink and pigments on cream, gold-flecked laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79996,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.615.1B",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79996",
+    "SortNumber": "W        615    1B                                      ",
+    "Style": null,
+    "Title": "Illuminated Incipit Page with Titlepiece"
+}

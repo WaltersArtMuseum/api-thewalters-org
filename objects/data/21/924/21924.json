@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Lucas Cranach the elder (German, 1472-1553)",
+            "CreatorID": 3838,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903-1909",
+    "Culture": null,
+    "DateBeginYear": 1513,
+    "DateEndYear": 1537,
+    "DateText": "ca. 1525",
+    "Description": "Lucas Cranach the Elder, the greatest German artist of the 16th century after Albrecht D\u00fcrer, painted several small images of beguiling young women-often superficially justified by a moral association for the private enjoyment of his aristocratic male patrons. \r\n\r\nIndeed, this attractive young woman in rich attire sends mixed signals. Her hair hangs loosely, so she is a not married woman, whose hair would be discretely controlled. In a formal portrait, this would indicate that she is a virgin. However, she engages the viewer directly with an unabashed gaze and an expression suggesting familiarity. This would be inappropriate for an unmarried woman of a respectable family. Her gold jewelry and velvet dress is fashionable, but she wears no high-necked blouse under it. This provocative young woman could be Mary Magdalene, often said to have been a prostitute before she met Christ. \r\n",
+    "Dimensions": "14 5/16 x 10 1/8 in. (36.3 x 25.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50628,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.269_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.269_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.269_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.269_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.269_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 50627,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.269_BackCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.269_BackCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.269_BackCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.269_BackCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.269_BackCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4525,
+        "LocationString": null
+    },
+    "ObjectID": 21924,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.269",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore, between 1903 and 1909 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.3",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21924",
+    "SortNumber": "    37   269                                            ",
+    "Style": null,
+    "Title": "Mary Magdalene (?)"
+}

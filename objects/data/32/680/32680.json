@@ -1,0 +1,172 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kozuka: Murasakibara Toshiyoshi (Japanese, 1829-ca.1890)",
+            "CreatorID": 6119,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Blade: Fujiwara Nobutaka (Japanese)",
+            "CreatorID": 5756,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1829,
+    "DateEndYear": 1902,
+    "DateText": "1829-ca.1890",
+    "Description": "A figure is shown partially obscured within a bamboo grove. This kozuka has a blade, which is signed by its maker.",
+    "Dimensions": "L: 8 5/8 in. (21.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491977,
+            "GeographyTerm": "Aichi-ken",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "137 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 137.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491977,
+            "GeographyTerm": "Aichi-ken",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "137 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 137.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15263,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.900_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.900_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.900_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.900_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.900_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15260,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.900_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.900_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.900_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.900_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.900_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15261,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.900_DetA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.900_DetA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.900_DetA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.900_DetA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.900_DetA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 15262,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.900_DetB_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.900_DetB_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.900_DetB_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.900_DetB_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.900_DetB_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 15264,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.900_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.900_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.900_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.900_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.900_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 15265,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.900_MrkB_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.900_MrkB_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.900_MrkB_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.900_MrkB_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.900_MrkB_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Signature] On kozuka: \u53df\u58fd\u826f\u9020\u4e4b; [Translation] S\u00f4 Toshiyoshi tsukuru kore; [Signature] On blade: \u4f2f\u8006\u5b88\u85e4\u539f\u4fe1\u9ad8; [Translation] H\u00f4ki no kami Fujiwara Nobutaka",
+    "Keywords": "Chinese; plant; bamboo",
+    "Medium": "shibuichi, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 498,
+        "LocationString": null
+    },
+    "ObjectID": 32680,
+    "ObjectName": "kozuka; sword components; handles; blades",
+    "ObjectNumber": "51.900",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32680",
+    "SortNumber": "    51   900                                            ",
+    "Style": null,
+    "Title": "Kozuka with Figure in a Bamboo Grove"
+}

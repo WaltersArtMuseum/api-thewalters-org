@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Muhammad ibn Mustafa Izmiri (Turkish)",
+            "CreatorID": 16702,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1865,
+    "DateEndYear": 1866,
+    "DateText": "1282 AH/AD 1865-1866",
+    "Description": "This final page of Walters manuscript W.577 has a signed and dated colophon written in Ijazah script. The colophon indicates that the text was copied by Muhammad ibn Mustaf\u00e1 in 1282 AHAD/ 1865-1866. It also indicates that this codex is the 21st copy made by this particular calligrapher.",
+    "Dimensions": "H: 5 1/8 x W: 3 9/16 in. (13 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31213,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.577.304b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.577.304b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.577.304b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.577.304b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.577.304b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration]  In Arabic, vocalized: katabahu al-faq\u012bru il\u00e1 All\u0101hi ta '\u0101l\u00e1 /1/ Mub\u0101ksh\u0101hu ibn Qutbin ghafara All\u0101hu /2/ dhun\u016bbahum\u0101 wa-satara 'uy\u016bbahum\u0101 f\u012b Sha'b\u0101ni /3/ sanata thal\u0101th wa-'ishr\u012bna wa-sab'a mi'atin /4/ h\u0101midan li-Ll\u0101hi ta'\u0101l\u00e1 'al\u00e1 ni'amihi wa-musalliyan /5/ 'al\u00e1 nab\u012byihi Muhammadin wa-\u0101lihi al-ghurari al-kir\u0101mi /6/ al-tayyib\u012bna al-t\u0101hir\u012bna wa-musalliman tasl\u012bman /7/",
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Ottoman; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Turkey",
+    "Medium": "ink and pigments on cream-colored paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79970,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.577.304B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79970",
+    "SortNumber": "W        577  304B                                      ",
+    "Style": null,
+    "Title": "Illuminated Colophon"
+}

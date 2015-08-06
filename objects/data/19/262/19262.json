@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Michele di Matteo (Italian, active 1416-1469)",
+            "CreatorID": 2200,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1418,
+    "DateEndYear": 1442,
+    "DateText": "ca. 1430",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 130, pp. 197-198.",
+    "Dimensions": "Painted surface H: 15 7/8 x W: 9 3/8 in. (40.4 x 23.8 cm); Panel reverse H: 17 11/16 x W: 12 3/8 x D: 1 in. (45 x 31.4 x 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36993,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.513_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.513_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.513_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.513_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.513_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46883,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.513_XR_1957.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.513_XR_1957.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.513_XR_1957.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.513_XR_1957.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.513_XR_1957.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] In Virgin's halo: MATER.DOMINI.",
+    "Keywords": null,
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3252,
+        "LocationString": null
+    },
+    "ObjectID": 19262,
+    "ObjectName": "paintings; triptychs",
+    "ObjectNumber": "37.513",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Bernard Berenson [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1911 [mode of acquisition unknown] [through Berenson]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19262",
+    "SortNumber": "    37   513                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

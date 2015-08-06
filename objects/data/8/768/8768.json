@@ -1,0 +1,79 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": -1300,
+    "DateEndYear": -1101,
+    "DateText": "13th-12th century BC",
+    "Description": "Cast with designs in wire-like relief.",
+    "Dimensions": "8 3/4 in. (22.2 cm)",
+    "Dynasty": "Shang [Shang] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7291,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.1237_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.1237_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.1237_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.1237_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.1237_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "funerary ritual",
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6612,
+        "LocationString": null
+    },
+    "ObjectID": 8768,
+    "ObjectName": "libation cups;beakers",
+    "ObjectNumber": "54.1237",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Yamanaka Sale, Collection of a Chinese nobleman from Tientsin, American Art Association, January 29, 1914, no. 110; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.543",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 18316,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 26648,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8768",
+    "SortNumber": "    54  1237                                            ",
+    "Style": null,
+    "Title": "Wine beaker"
+}

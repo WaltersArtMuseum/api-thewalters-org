@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Vietnamese",
+            "CreatorID": 6708,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, in memory of Captain William H. Smith, 1981",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1600,
+    "DateText": "late 15th-16th century",
+    "Description": null,
+    "Dimensions": "Diam: 3 1/16 in. (7.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Recent Gifts of East and Southeast Asian Ceramics",
+            "ExhibBeginDate": "1995-04-14",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "April 14, 1995-September 24, 1995",
+            "ExhibEndDate": "1995-09-24",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 944,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Recent Gifts of East and Southeast Asian Ceramics. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503251,
+            "GeographyTerm": "Viet Nam",
+            "Latitude": "16 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 16.0,
+            "Longitude": "106 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 106.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55772,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.2437_VwA_BW_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.2437_VwA_BW_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.2437_VwA_BW_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.2437_VwA_BW_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.2437_VwA_BW_C81.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stoneware with underglaze cobalt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2095,
+        "LocationString": null
+    },
+    "ObjectID": 19452,
+    "ObjectName": "boxes",
+    "ObjectNumber": "49.2437",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Len Bartkowiak [date and mode of acquisition unknown]; Walters Art Museum, November 1981, by purchase.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19452",
+    "SortNumber": "    49  2437                                            ",
+    "Style": null,
+    "Title": "Covered Box"
+}

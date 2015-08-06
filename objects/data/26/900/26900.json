@@ -1,0 +1,87 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Moriyoshi (Japanese)",
+            "CreatorID": 2264,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1561,
+    "DateEndYear": 1899,
+    "DateText": "Blade: ca. 1573; Scabbard and mount: 19th century",
+    "Description": null,
+    "Dimensions": "28 1/4 in. (71.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kyushu-chiho\\prefectures\\Fukuoka\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493598,
+            "GeographyTerm": "Fukuoka",
+            "Latitude": "33 39",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.65,
+            "Longitude": "130 21",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 130.35
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5310,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.1157_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.1157_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.1157_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.1157_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.1157_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "steel, lacquer, copper alloy, silver alloy, gilt, gold, wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2025,
+        "LocationString": null
+    },
+    "ObjectID": 26900,
+    "ObjectName": "long swords; katana; blades; tsuba; kozuka; menuki; saya",
+    "ObjectNumber": "51.1157",
+    "OnView": 0,
+    "Period": "Momoyama",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.433",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3502,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 11489,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 13899,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79675,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26900",
+    "SortNumber": "    51  1157                                            ",
+    "Style": null,
+    "Title": "Long Sword with Dragon and Family Crests"
+}

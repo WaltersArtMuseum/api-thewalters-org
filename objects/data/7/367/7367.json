@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -270,
+    "DateEndYear": -246,
+    "DateText": "270-246 BC",
+    "Description": "Jugs or wine pitchers (\"oinochoai\") of this kind were used in the cult of the Ptolemaic rulers and always depict one of the queens of the early Ptolemaic period in high relief. This queen can be identified as Arsinoe II by the double cornucopia she holds.",
+    "Dimensions": "2 5/8 x 1 15/16 x 11/16 in. (6.7 x 5 x 1.8 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Faience: The Colors of the Heavens",
+            "ExhibBeginDate": "2003-05-17",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "May 17, 2003-June 30, 2004",
+            "ExhibEndDate": "2004-06-30",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 10,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Faience: The Colors of the Heavens. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2003-2004."
+        },
+        {
+            "ExhTitle": "An Obsession with Fortune: Tyche in Greek and Roman Art",
+            "ExhibBeginDate": "1994-09-01",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "September 1, 1994-December 31, 1994",
+            "ExhibEndDate": "1994-12-31",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2524,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "An Obsession with Fortune: Tyche in Greek and Roman Art. Yale University Art Gallery, New Haven. 1994."
+        },
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51541,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.315_Fnt_BW_H53.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.315_Fnt_BW_H53.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.315_Fnt_BW_H53.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.315_Fnt_BW_H53.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.315_Fnt_BW_H53.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1897,
+        "LocationString": null
+    },
+    "ObjectID": 7367,
+    "ObjectName": "oinochoai",
+    "ObjectNumber": "48.315",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7367",
+    "SortNumber": "    48   315                                            ",
+    "Style": null,
+    "Title": "Oinochoe with Queen Arsinoe II"
+}

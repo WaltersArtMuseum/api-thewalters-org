@@ -1,0 +1,104 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "12th century AH/AD 18th century",
+    "Description": "This painting, Walters manuscript leaf W.711, depicts the third Mughal Emperor Akbar (reigned 963 AH/AD 1556-1014 AH/AD 1605). It was executed in Mughal India in the12th century AH/AD 18th. Akbar is shown seated on a throne and holding the crown in his hands. The inscription in Devanagari script on the left side identifies the sitter as Akbar. The image is framed by salmon and blue borders with illuminated floral motifs.",
+    "Dimensions": "H: 16 5/16 x W: 11 5/8 in. (41.5 x 29.5 cm); Image H: 6 7/8 x W: 4 5/16 in. (17.5 x 11 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 43548,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.711_Det_Fp_DD_FolA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.711_Det_Fp_DD_FolA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.711_Det_Fp_DD_FolA.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.711_Det_Fp_DD_FolA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.711_Det_Fp_DD_FolA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10061,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.711_Fnt_NF_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.711_Fnt_NF_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.711_Fnt_NF_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.711_Fnt_NF_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.711_Fnt_NF_C81.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illustration; Miniature; Painting; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6441,
+        "LocationString": null
+    },
+    "ObjectID": 7005,
+    "ObjectName": "illuminated manuscripts; folios (leaves); portraits",
+    "ObjectNumber": "W.711",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84201,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84202,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/7005",
+    "SortNumber": "W        711                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Portrait of the Emperor Akbar"
+}

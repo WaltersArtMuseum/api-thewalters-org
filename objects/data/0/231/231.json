@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift from Doris Duke Charitable Foundation's Southeast Asian Art Collection, 2002",
+    "Culture": null,
+    "DateBeginYear": 1830,
+    "DateEndYear": 1860,
+    "DateText": "1830-1860",
+    "Description": null,
+    "Dimensions": "H: 47 7/16 x W: 36 7/16 in. (120.5 x 92.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45018,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.276_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.276_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.276_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.276_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.276_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45019,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.276_FntCc_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.276_FntCc_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.276_FntCc_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.276_FntCc_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.276_FntCc_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_35.276_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_35.276_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_35.276_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_35.276_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_35.276_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Vessantara Jataka",
+    "Medium": "pigments on cloth, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 231,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.276",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Doris Duke Charitable Foundation's Southeast Asian Art Collection [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/231",
+    "SortNumber": "    35   276                                            ",
+    "Style": null,
+    "Title": "Vessantara Jataka, Chapter 13 (The Return to the Captial)"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dutch",
+            "CreatorID": 6227,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Follower of Rembrandt van Rijn (Dutch, 1606-1669)",
+            "CreatorID": 2568,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": 1654,
+    "DateEndYear": 1700,
+    "DateText": "1654-1700",
+    "Description": "In the past, the painting was described as possibly a copy after a painting by Rembrandt of his wife. There is no known painting of this composition by Rembrandt and the woman depicted has not been identified.",
+    "Dimensions": "H: 33 15/16 x W: 28 3/8 in. (86.2 x 72 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24594,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.681_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.681_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.681_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.681_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.681_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3349,
+        "LocationString": null
+    },
+    "ObjectID": 4697,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.681",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Kleinberger Galleries, New York [date and mode of acquisition unknown]; Henry Walters, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-15T09:49:58.31",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4697",
+    "SortNumber": "    37   681                                            ",
+    "Style": null,
+    "Title": "Portrait of a Woman"
+}

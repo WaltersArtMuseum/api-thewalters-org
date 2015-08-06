@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Salim al-Rashid",
+            "CreatorID": 15709,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Abu al-Fadl 'Iyad ibn Mus\u00e1 al-Yahsubi al-Bahili (died 544 AH/AD 1149)",
+            "CreatorID": 15710,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1777,
+    "DateEndYear": 1777,
+    "DateText": "1191 AH/AD 1777",
+    "Description": "This folio from Walters manuscript W.586 contains a colophon that gives a short title of the work, the name of the scribe, and the date of copying.",
+    "Dimensions": "H: 7 1/16 x W: 4 1/8 in. (18 x 10.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20899,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.586.242B_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.586.242B_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.586.242B_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.586.242B_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.586.242B_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] katabahu 'abd min 'ib\u0101d All\u0101h 'azza wa-jalla wa-an\u0101 al-faq\u012br al-haq\u012br /1/ al-mudhnib al-dhal\u012bl al-da'\u012bf Sal\u012bm al-Rash\u012bd /2/ ghafara All\u0101h dhun\u016bbahu wa satara 'uy\u016bbahu Allhumma /3/ ihfaz li-s\u0101hibih wa-k\u0101tibih wa-q\u0101ri'ih /4/ wa-li-man nazara f\u012bhi min al-af\u0101t wa-al-'ilal \u0101m\u012bna /5/ y\u0101 rabb al-'\u0101lam\u012bn qad tamma al-far\u0101gh min tahr\u012br /6/ h<\u0101>dhihi [sic] al-Shif\u0101' al-shar\u012bf li-sittat /7/ 'ashar min shahr Shaww\u0101l al-mub\u0101rak /8/ ba'da al-zuhr min yawm al-ahad /9/ li-sanat ihd\u00e1 wa-tis'\u012bn /10/ wa-mi'ah wa-alf min hijrah /11/ man lahu al-sa'\u0101dah /12/ wa-al-'izz wa-al-majd / 13/ wa-al-sharaf /14/",
+    "Keywords": "Arabic; Islamic; Ottoman; Turkish; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Manuscript; Contemporary Binding; Turkey; History; Astrology",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79987,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.586.242B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "al-Sayyid Abu Bakr al-Hilmi, 1281(?) AH/AD 1864-1865 [mode of acquisition unknown] [seal impression with the name and date on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79987",
+    "SortNumber": "W        586  242B                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

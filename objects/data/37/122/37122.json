@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1275,
+    "DateEndYear": 1300,
+    "DateText": "late 13th century",
+    "Description": null,
+    "Dimensions": "H: 4 5/16 x W: 3 1/16 in. (10.9 x 7.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\K\u00f6ln\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1453463,
+            "GeographyTerm": "K\u00f6ln",
+            "Latitude": "50 56",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.933,
+            "Longitude": "006 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40327,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.41.331R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.41.331R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.41.331R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.41.331R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.41.331R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Medallion; Miniature; Walters Art Museum; Gothic; Grotesques; Historiated initial; Scripture; Devotion",
+    "Medium": "ink and pigments on cream-colored parchment, thin to medium thickness",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 37122,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.41.331R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Made for Franciscan community, Cologne [Calendar and litany contain numerous Franciscan saints, including the Translation of St. Francis, St. Anthony of Padua, St. Clara, and the Birth of St. Francis];  Germany [rubric on fol. 257r in German]; Leon Gruel, Paris [date and mode of acquisition unknown] [no. 1128, Gruel bookplate inside upper board];  Henry Walters, Baltimore, before 1931 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37122",
+    "SortNumber": "W         41  331R                                      ",
+    "Style": "Gothic",
+    "Title": "Initial S with Pentecost"
+}

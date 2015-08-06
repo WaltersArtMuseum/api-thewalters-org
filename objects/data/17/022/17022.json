@@ -1,0 +1,83 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase [formerly part of the Walters Collection], 1942",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -401,
+    "DateText": "5th century BC",
+    "Description": "This scaraboid depicts a griffin to the right, and is carved intaglio.",
+    "Dimensions": "L: 11/16 in. (1.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Things With Wings: Mythological Figures in Ancient Greek Art",
+            "ExhibBeginDate": "2009-05-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "May 15, 2009-July 19, 2009",
+            "ExhibEndDate": "2009-07-19",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Things With Wings: Mythological Figures in Ancient Greek Art. Ward Museum, Salisbury. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10032,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_42.865_Top_NF_H61.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_42.865_Top_NF_H61.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_42.865_Top_NF_H61.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_42.865_Top_NF_H61.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_42.865_Top_NF_H61.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "rock crystal",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 838,
+        "LocationString": null
+    },
+    "ObjectID": 17022,
+    "ObjectName": "scaraboids; intaglios",
+    "ObjectNumber": "42.865",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Evans [date and mode of acquisition unknown] [1905 catalogue, plate 2.25]; Henry Walters, New York [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Mrs. Henry Walters Sale, Joseph Brummer, New York, 1942; Walters Art Museum, 1942, by purchase.",
+    "PublicAccessDate": "2010-08-04T09:42:48.72",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17022",
+    "SortNumber": "    42   865                                            ",
+    "Style": null,
+    "Title": "Scaraboid with Griffin"
+}

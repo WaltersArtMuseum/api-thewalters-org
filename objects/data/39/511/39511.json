@@ -1,0 +1,88 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1951",
+    "Culture": null,
+    "DateBeginYear": 601,
+    "DateEndYear": 700,
+    "DateText": "7th century (?)",
+    "Description": "This bracelet and its pair, Walters 71.1129, are carved in low relief around the outer circumferences. This bracelet shows crosses and human figures separated by stylized plants; its pair shows fish between small panels of crosses, stars, and incised patterns. Both pieces are cracked.",
+    "Dimensions": "Diam: 3 7/8 in. (9.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40024,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_71.1128_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_71.1128_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_71.1128_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_71.1128_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_71.1128_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 884,
+        "LocationString": null
+    },
+    "ObjectID": 39511,
+    "ObjectName": "bracelets (jewelry)",
+    "ObjectNumber": "71.1128",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Estate of Dikran Kelekian, New York, 1951; Walters Art Museum, 1951, by purchase.",
+    "PublicAccessDate": "2012-06-25T22:00:00.363",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 22704,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/39511",
+    "SortNumber": "    71  1128                                            ",
+    "Style": "Coptic",
+    "Title": "One of a Pair of Bracelets with Figures, Plants and Fish"
+}

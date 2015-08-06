@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kamal ibn `Abd Allah al-Qaramani",
+            "CreatorID": 17758,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Ahmedi (1334 (?)-815 AH/AD 1413)",
+            "CreatorID": 17757,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1486,
+    "DateEndYear": 1486,
+    "DateText": "891 AH/AD 1486",
+    "Description": "This incipit page from Walters manuscript W.664 with an illuminated titlepiece is inscribed al-mulk li-Llah al-wa?id (Supreme authority belongs to the One God).",
+    "Dimensions": "H: 13 x W: 9 1/16 in. (33 x 23 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Halab\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499745,
+            "GeographyTerm": "Halab",
+            "Latitude": "36 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.233,
+            "Longitude": "037 10",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.166
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Halab\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499745,
+            "GeographyTerm": "Halab",
+            "Latitude": "36 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.233,
+            "Longitude": "037 10",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.166
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28349,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.664.2b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.664.2b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.664.2b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.664.2b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.664.2b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Book; Codex; Colophon; Illumination; Manuscript; Turkey Literature -- Poetry",
+    "Medium": "ink and pigments on thick, non-European paper and Italian paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80988,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.664.2B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80988",
+    "SortNumber": "W        664    2B                                      ",
+    "Style": null,
+    "Title": "Incipit Page with Illuminated Titlepiece"
+}

@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jalisco",
+            "CreatorID": 8584,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2008",
+    "Culture": "Jalisco",
+    "DateBeginYear": -300,
+    "DateEndYear": 300,
+    "DateText": "300 BC-AD 300",
+    "Description": null,
+    "Dimensions": "H: 15 x W: 11 7/8 x D: 11 in. (38.1 x 30.2 x 27.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608942,
+            "GeographyTerm": "M\u00e9xico",
+            "Latitude": "23 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -102.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 13968,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2802_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2802_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2802_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2802_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2802_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 13966,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2802_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2802_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2802_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2802_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2802_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 13967,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2802_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2802_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2802_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2802_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2802_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic buffware with reddish-orange paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5499,
+        "LocationString": null
+    },
+    "ObjectID": 78422,
+    "ObjectName": "figures",
+    "ObjectNumber": "48.2802",
+    "OnView": 0,
+    "Period": "Late Pre-Classic",
+    "Provenance": "Ancient Art of the New World, New York [date and mode of acquisition unknown]; Private collection, August 1990 [mode of acquisition unknown]; Walters Art Museum, 2008, by gift.",
+    "PublicAccessDate": "2009-04-22T15:41:31.05",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78422",
+    "SortNumber": "    48  2802                                            ",
+    "Style": null,
+    "Title": "Seated Male Figure"
+}

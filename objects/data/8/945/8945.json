@@ -1,0 +1,95 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kat\u00f4 J\u00fbkashichi (Japanese, 18th-19th century)",
+            "CreatorID": 3191,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1899,
+    "DateText": "18th-19th century",
+    "Description": null,
+    "Dimensions": "tanto blade: 6 1/8 in. (15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16248,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1166_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1166_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1166_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1166_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1166_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 16247,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1166_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1166_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1166_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1166_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1166_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "kato kashichi haru; [Translation] Inoue Motonaga saku",
+    "Keywords": null,
+    "Medium": "wood, gold lacquer, gilded copper, abalone shell",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2177,
+        "LocationString": null
+    },
+    "ObjectID": 8945,
+    "ObjectName": "daggers; aikuchi; tanto ade;fuchi;kashira;kozuka;kogai;saya;tsuka",
+    "ObjectNumber": "51.1166",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.433",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 36732,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 40812,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79340,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8945",
+    "SortNumber": "    51  1166                                            ",
+    "Style": null,
+    "Title": "Dagger with Quail Amidst Rice Stalks"
+}

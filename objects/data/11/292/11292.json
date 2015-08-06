@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": null,
+    "DateBeginYear": -330,
+    "DateEndYear": -304,
+    "DateText": "330-304 BC",
+    "Description": "A lid for a pyxis, or box, is decorated with two smooth lotus petals that end in tight spirals, like those on as Ionic column, and a central papyrus plant. The lower half of the pyxis (missing) would have contained compartments for cosmetics. To open, the lid turned on a swivel pin of wood or ivory.",
+    "Dimensions": "3 3/8 x 4 x 9/16 in. (8.5 x 10.2 x 1.5 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36138,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.476_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.476_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.476_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.476_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.476_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4888,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.476_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.476_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.476_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.476_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.476_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 11292,
+    "ObjectName": "pyxides",
+    "ObjectNumber": "48.476",
+    "OnView": 1,
+    "Period": "Greco-Roman",
+    "Provenance": "Reverend Wiliam MacGregor Collection Sale, Sotheby's, London, 1922; Dikran Kelekian, New York and Paris, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.05",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11292",
+    "SortNumber": "    48   476                                            ",
+    "Style": null,
+    "Title": "Lid of Cosmetic Box in the Form of a Papyrus Capital"
+}

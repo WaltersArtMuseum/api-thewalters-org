@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Muhammad ibn Mustafa Izmiri (Turkish)",
+            "CreatorID": 16702,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1865,
+    "DateEndYear": 1866,
+    "DateText": "1282 AH/AD 1865-1866",
+    "Description": "This folio from Walters manuscript W.577 is the right side of this illuminated double-page incipit is the incipit for chapter 1 (Surat al-fatihah). The page is divided into three compartments: an upper and lower panel flanking a central area. In the upper and lower panels the chapter title and number of verses are inscribed in headings in Riqa' script in white ink. In the central area the Qur'anic verses are written in vocalized Naskh script in black ink with reading marks in red. The border contains polychrome trefoils and floral scroll work on a blue ground.",
+    "Dimensions": "H: 5 1/8 x W: 3 9/16 in. (13 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31209,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.577.1b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.577.1b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.577.1b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.577.1b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.577.1b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Ottoman; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Turkey",
+    "Medium": "ink and pigments on cream-colored paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79967,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.577.1B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79967",
+    "SortNumber": "W        577    1B                                      ",
+    "Style": null,
+    "Title": "Right Side of an Illuminated Double-page Incipit"
+}

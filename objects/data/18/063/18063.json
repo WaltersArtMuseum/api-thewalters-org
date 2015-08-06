@@ -1,0 +1,130 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean-Claude Duplessis le P\u00e8re (French and Italian, ca. 1695-1774) (?)",
+            "CreatorID": 2977,
+            "Gender": "male",
+            "Role": "Designer"
+        },
+        {
+            "ConcatDisplayName": "Jean-Louis Morin (French, 1732-1787)",
+            "CreatorID": 1915,
+            "Gender": "male",
+            "Role": "Decorator"
+        },
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 1764,
+    "DateEndYear": 1764,
+    "DateText": "1764",
+    "Description": "This exceptional vase, which rests on a gilded wooden base, takes the form of a stylized boat, complete with rigging, port-holes and a flag. This might refer to the coat-of-arms of the city of Paris. At each side is a mask crowned with reeds and holding spars in its mouth. The lower part is decorated with a scene of sailors packing fish on the front, and a marine themed trophy on the back, painted by Jean-Louis Morin. The design of the vase is attributed to Jean-Claude Duplessis p\u00e8re.  Similar pieces can be found in The J. Paul Getty Museum, the Mus\u00e9e du Louvre, Waddesdon Manor, The Metropolitan Museum of Art, the Royal Collection in the United Kingdom, The Wallace Collection, and The Frick Collection.",
+    "Dimensions": "H: 15 5/16 in. (38.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9295,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.559_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.559_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.559_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.559_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.559_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46367,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.559_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.559_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.559_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.559_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.559_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9290,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.559_Back_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.559_Back_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.559_Back_SL.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.559_Back_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.559_Back_SL.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Factory Mark] On base: Intertwined Lls;  [Painter's Mark] Enclosed in apex of factory mark: M;  [Date] Letter: L (1764);  [Decorator's Mark] On base in blue: M (Morin, Jean-Louis)",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain with enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5322,
+        "LocationString": null
+    },
+    "ObjectID": 18063,
+    "ObjectName": "vases; covers",
+    "ObjectNumber": "48.559",
+    "OnView": 1,
+    "Period": "Louis XV",
+    "Provenance": "E. M. Hodgkins Collection, Paris, no. 30;  A. Seligmann, Rey and Co., New York;  Henry Walters, Baltimore, 1928, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.893",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18063",
+    "SortNumber": "    48   559                                            ",
+    "Style": null,
+    "Title": "Potpourri Vase (Vase potpourri \u00e0 vaisseau)"
+}

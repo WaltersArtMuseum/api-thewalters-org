@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Isidore of Seville (Spain, 570-636)",
+            "CreatorID": 5316,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "The T-O map of the inhabited world occupies the center of this wheel-shaped diagram. Twelve profile busts of the winds, their Latin names provided in encircling bands, are depicted in the diagram's wide outer ring; the narrower, unpainted ring just within it contains the winds' Greek names. The four major winds are associated with the four cardinal directions, with East located at the top of the wheel. The busts of the winds blow toward the Earth at the center of the diagram, and their breath, represented as green strokes, flows into the wheel's \"spokes.\" Each spoke bears a brief characterization of the associated wind, and these are expressed mainly in the first-person, as if spoken by the wind itself. Thus, the spokes of this diagram function like speech bubbles in a modern cartoon.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56084,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.1V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.1V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.1V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.1V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.1V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39166,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.73.1v_Fnt_BW_H47.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.73.1v_Fnt_BW_H47.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.73.1v_Fnt_BW_H47.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.73.1v_Fnt_BW_H47.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.73.1v_Fnt_BW_H47.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        },
+        {
+            "ID": 10798,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.73.1V_OpnRev_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.73.1V_OpnRev_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.73.1V_OpnRev_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.73.1V_OpnRev_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.73.1V_OpnRev_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 39480,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.1V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39480",
+    "SortNumber": "W         73    1V                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagram (Rota) of the Winds"
+}

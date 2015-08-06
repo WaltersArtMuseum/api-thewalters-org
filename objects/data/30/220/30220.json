@@ -1,0 +1,94 @@
+{
+    "Classification": "Textiles",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1650,
+    "DateText": "1st half 17th century",
+    "Description": "This brightly colored fragment comes from the upper right hand corner of a famous type of Persian carpet with large floral designs, traditionally called Polonaise or Polish. Such carpets were very popular in Europe during the first half of the 17th century. They were often ordered or acquired in pairs from Iran. Shah Abbas (reigned 1587-1629), the Iranian ruler who established Isfahan as his capital, sent a carpet of this type to the doge, or ruler, of Venice as a present in 1603.",
+    "Dimensions": "21 x 30 1/8 x 1/16 in. (53.3 x 76.5 x 0.2 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Esfahan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507790,
+            "GeographyTerm": "Esfahan",
+            "Latitude": "32 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.683,
+            "Longitude": "051 41",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 51.683
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Esfahan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507777,
+            "GeographyTerm": "Kashan",
+            "Latitude": "33 59",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.983,
+            "Longitude": "051 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 51.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37214,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_81.39_FntCc_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_81.39_FntCc_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_81.39_FntCc_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_81.39_FntCc_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_81.39_FntCc_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12633,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_81.39_Det_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_81.39_Det_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_81.39_Det_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_81.39_Det_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_81.39_Det_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "silk pile, metallic brocading, silk warp, silk and cotton weft",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3084,
+        "LocationString": null
+    },
+    "ObjectID": 30220,
+    "ObjectName": "carpets",
+    "ObjectNumber": "81.39",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest (?) [accessioned in 1988].",
+    "PublicAccessDate": "2009-02-05T16:01:57.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30220",
+    "SortNumber": "    81    39                                            ",
+    "Style": null,
+    "Title": "Corner Fragment of a Polonaise Carpet"
+}

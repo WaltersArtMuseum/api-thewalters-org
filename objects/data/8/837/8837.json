@@ -1,0 +1,101 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Guercino (Italian, 1591-1666)",
+            "CreatorID": 1888,
+            "Gender": "male",
+            "Role": "Painter"
+        },
+        {
+            "ConcatDisplayName": "Copy after Guercino (Italian, 1591-1666)",
+            "CreatorID": 1888,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1591,
+    "DateEndYear": 1666,
+    "DateText": "1591-1666",
+    "Description": "For more information on this tondo, please see Federico Zeri's 1976 catalogue no. 361, pp. 480-481.",
+    "Dimensions": "Painted surface Diam: 28 1/4 in. (71.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Christmas Story in the Language of Art",
+            "ExhibBeginDate": "1950",
+            "ExhibBeginYear": 1950,
+            "ExhibDisplayDate": "1950",
+            "ExhibEndDate": "1950",
+            "ExhibEndYear": 1950,
+            "ExhibitionID": 2242,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Christmas Story in the Language of Art. The Washington County Museum, Hagerstown. 1950."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37152,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1893_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1893_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1893_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1893_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1893_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3293,
+        "LocationString": null
+    },
+    "ObjectID": 8837,
+    "ObjectName": "oil paintings; tondi",
+    "ObjectNumber": "37.1893",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Marquess Filippo Marignoli, Rome and Spoleto, until 1898 [mode of acquisition unknown]; Marquess Francesco Marignoli, 1898 [mode of acquisition unknown]; Don Marcello Massarenti Collection, Rome, 1899 [mode of acquisition unknown] [1900 catalogue supplement: no. 39, as Gennari]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8837",
+    "SortNumber": "    37  1893                                            ",
+    "Style": null,
+    "Title": "Rest on the Flight into Egypt with a Music-making Angel"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902 (?)",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 25 x W: 18 1/2 in. (63.5 x 47 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47731,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.483_XR_1964.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.483_XR_1964.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.483_XR_1964.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.483_XR_1964.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.483_XR_1964.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3374,
+        "LocationString": null
+    },
+    "ObjectID": 22154,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.483",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] (?); Henry Walters, Baltimore, 1902 (?), by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22154",
+    "SortNumber": "    37   483                                            ",
+    "Style": null,
+    "Title": "Portrait of Raphael"
+}

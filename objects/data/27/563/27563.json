@@ -1,0 +1,83 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1942",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1562,
+    "DateText": "ca. 1500-1550",
+    "Description": null,
+    "Dimensions": "7/8 in. (2.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6710,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_42.1201_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_42.1201_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_42.1201_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_42.1201_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_42.1201_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red carnelian",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4525,
+        "LocationString": null
+    },
+    "ObjectID": 27563,
+    "ObjectName": "intaglios",
+    "ObjectNumber": "42.1201",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Joseph Brummer;  Walters Art Museum, 1942, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:59.16",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27563",
+    "SortNumber": "    42  1201                                            ",
+    "Style": null,
+    "Title": "Intaglio of Neptune and Amphitrite Riding a Sea Horse"
+}

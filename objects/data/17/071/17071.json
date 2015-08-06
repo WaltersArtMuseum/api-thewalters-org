@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1813,
+    "DateEndYear": 1862,
+    "DateText": "ca. 2nd quarter 19th century (?)",
+    "Description": null,
+    "Dimensions": "2 in. (5.1 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Chinese Snuff Bottles",
+            "ExhibBeginDate": "2000-10-25",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 25, 2000-February 5, 2001",
+            "ExhibEndDate": "2001-02-05",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 76,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Chinese Snuff Bottles. The Walters Art Gallery, Baltimore. 2000-2001."
+        },
+        {
+            "ExhTitle": "Snuff Bottles",
+            "ExhibBeginDate": "1979-08-01",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "August 1, 1979-December 16, 1979",
+            "ExhibEndDate": "1979-12-16",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 2867,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Snuff Bottles. Flint Institute of Arts, Flint. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10654,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.76_Fnt_BW_6656.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.76_Fnt_BW_6656.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.76_Fnt_BW_6656.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.76_Fnt_BW_6656.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.76_Fnt_BW_6656.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Mark] four character mark in blue enamel: Yung lo tang zhi [Yung lo t'ang chih]; [Translation] the hall of perpetual joy",
+    "Keywords": null,
+    "Medium": "porcelain, enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2034,
+        "LocationString": null
+    },
+    "ObjectID": 17071,
+    "ObjectName": "snuff bottles",
+    "ObjectNumber": "49.76",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.23",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17071",
+    "SortNumber": "    49    76                                            ",
+    "Style": "famille verte",
+    "Title": "Snuff Bottle with Butterflies and Melon Vine"
+}

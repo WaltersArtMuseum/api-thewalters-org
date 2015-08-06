@@ -1,0 +1,83 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Spanish",
+            "CreatorID": 6242,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": "Asturian",
+    "DateBeginYear": 800,
+    "DateEndYear": 899,
+    "DateText": "9th century",
+    "Description": "This intricate plaque illustrates scenes from the early life of Christ, beginning with the Nativity and the Annunciation to the Shepherds.  In the second tier are the Flight into Egypt, the Adoration of the Magi, and Herod, pointing to the scene below of the Massacre of the Innocents.  At the left is the Presentation in the Temple, and at the bottom are the Baptism and First Temptation of Christ, with the Devil appearing as a beast with claws and sharp spines.",
+    "Dimensions": "5 5/16 x 3 5/8 x 3/16 in. (13.5 x 9.1 x 0.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ivory: The Sumptuous Art",
+            "ExhibBeginDate": "1983-10-14",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "October 14, 1983-January 15, 1984",
+            "ExhibEndDate": "1984-01-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 215,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ivory: The Sumptuous Art. The Walters Art Gallery, Baltimore. 1983-1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1444317,
+            "GeographyTerm": "Asturias",
+            "Latitude": "43 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.333,
+            "Longitude": "006 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -6.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7524,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_71.50_Fnt_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_71.50_Fnt_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_71.50_Fnt_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_71.50_Fnt_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_71.50_Fnt_TR.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Migration and Early Medieval Art",
+        "LocationID": 3851,
+        "LocationString": null
+    },
+    "ObjectID": 20048,
+    "ObjectName": "plaques",
+    "ObjectNumber": "71.50",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henri Daguerre, Paris; Henry Walters, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.677",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20048",
+    "SortNumber": "    71    50                                            ",
+    "Style": "Asturian",
+    "Title": "Book-Cover Plaque with Scenes of the Life of Christ"
+}

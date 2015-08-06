@@ -1,0 +1,131 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antonio Rotta (Italian, 1828-1903)",
+            "CreatorID": 5455,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1878",
+    "Culture": null,
+    "DateBeginYear": 1871,
+    "DateEndYear": 1871,
+    "DateText": "1871",
+    "Description": "A young girl wearing a typical Venetian shawl listens stoically as the shoemaker reports upon the hopeless condition of her boot. The artist has depicted this cluttered interior with characteristic detail.\r\n\r\nRotta was born in Italy, and attended to Academy of Fine Arts of Venice in 1828.  He showed work in the Exposition of Fine Arts in Milan in 1853, and won a medal in 1878 at the Exhibition of the Salon of Paris.  He often painted tender scenes, including children or the elderly.",
+    "Dimensions": "H: 25 x W 20 1/2 in. (63.5 x 52 cm); Framed H: 38 1/16 \u00d7 W: 34 1/2 \u00d7 D: 5 1/2 in. (96.6 \u00d7 87.7 \u00d7 14 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        },
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 59060,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.182_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.182_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.182_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.182_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.182_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 59059,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.182_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.182_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.182_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.182_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.182_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 59058,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.182_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.182_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.182_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.182_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.182_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 25069,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.182_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.182_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.182_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.182_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.182_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] At lower right: Antonio Rotta; [Date] At lower right: Venezia 1871",
+    "Keywords": null,
+    "Medium": "oil on fabric",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 4011,
+        "LocationString": null
+    },
+    "ObjectID": 8186,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.182",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Anton Ritter von Oelzelt Sale, Vienna, November 18, 1878, no. 64 [as \"Niente da Fare\"]; William T. Walters, Baltimore, 1878, by purchase [Geroge A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-04-13T16:18:25.693",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8186",
+    "SortNumber": "    37   182                                            ",
+    "Style": null,
+    "Title": "The Hopeless Case"
+}

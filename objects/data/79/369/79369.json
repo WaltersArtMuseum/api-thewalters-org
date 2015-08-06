@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Moche",
+            "CreatorID": 8562,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Moche",
+    "DateBeginYear": 50,
+    "DateEndYear": 800,
+    "DateText": "AD 50-800",
+    "Description": null,
+    "Dimensions": "H: 10 1/2 x W: 6 x D: 5 in. (26.67 x 15.24 x 12.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19113,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2828_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2828_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2828_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2828_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2828_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic redware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5583,
+        "LocationString": null
+    },
+    "ObjectID": 79369,
+    "ObjectName": "dippers",
+    "ObjectNumber": "48.2828",
+    "OnView": 0,
+    "Period": "Early Intermediate-Middle Horizon",
+    "Provenance": "[Dr. Ernest Lira, Houston and Denver (?), or Dr. Peter Almendariz, Denver (?), or M. Brenner, Geneva (?)]; Paul Shepard, Tucson, Arizona [date and mode of acquisition unknown]; Economos Works of Art, Santa Fe, New Mexico [date and mode of acquisition unknown]; Private collection, 1989, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-21T09:32:46.86",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79369",
+    "SortNumber": "    48  2828                                            ",
+    "Style": null,
+    "Title": "Dipper Depicting Singing Man"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1598,
+    "DateEndYear": 1622,
+    "DateText": "ca. 1610",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 314, p. 442.",
+    "Dimensions": "Painted surface H: 17 11/16 x W: 13 3/16 in. (44.9 x 33.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37102,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1113_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1113_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1113_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1113_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1113_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47871,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1113_XR_1974.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1113_XR_1974.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1113_XR_1974.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1113_XR_1974.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1113_XR_1974.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On reverse of the canvas: Ritratto della Madre di Michel Angiolo da Caravaggio fatto da Lui stesso; [Transcription] On the stretcher: dell...dre del M A da Caravagio della Gal. Giustiniani",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3290,
+        "LocationString": null
+    },
+    "ObjectID": 10988,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1113",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 229, as Portrait of the Artist's Mother, by Caravaggio]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10988",
+    "SortNumber": "    37  1113                                            ",
+    "Style": null,
+    "Title": "Portrait of an Elderly Woman"
+}

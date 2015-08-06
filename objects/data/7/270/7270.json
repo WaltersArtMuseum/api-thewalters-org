@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pedro Orrente (Spanish, ca. 1580-1645)",
+            "CreatorID": 5871,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1909",
+    "Culture": null,
+    "DateBeginYear": 1598,
+    "DateEndYear": 1622,
+    "DateText": "ca. 1610",
+    "Description": "Christ stands at the top of the stairs and is mocked by a Roman soldier, while the Roman governor Pontius Pilate gestures to the crowd, declaring, \"Look, I am bringing him out to you to let you know that I find no case against him\" (John 19:4).\r\n\r\nThe Spanish painter Orrente's use of dark silhouettes for figures and architecture set into a narrow plane next to the surface of the painting heightens the emotional intensity of the event and reflects the influence of works by 16th-century Venetian painters, such as the Bassano family, Tintoretto, and Veronese. The architecture also recalls that of Venice. Orrente's trip to Venice must have taken place shortly before 1611, by which time the painter was back in Spain.",
+    "Dimensions": "36 x 50 5/8 in. (91.5 x 128.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\Murcia\\provinces\\Murcia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1444906,
+            "GeographyTerm": "Murcia",
+            "Latitude": "37 59",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.983,
+            "Longitude": "001 08",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -1.133
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\Castilla-La Mancha\\provinces\\Toledo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1443443,
+            "GeographyTerm": "Toledo",
+            "Latitude": "39 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.866,
+            "Longitude": "004 02",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -4.33
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4411,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.575_Fnt_BW_H61.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.575_Fnt_BW_H61.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.575_Fnt_BW_H61.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.575_Fnt_BW_H61.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.575_Fnt_BW_H61.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4610,
+        "LocationString": null
+    },
+    "ObjectID": 7270,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.575",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Henry Walters, Baltimore, 1909 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.533",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7270",
+    "SortNumber": "    37   575                                            ",
+    "Style": null,
+    "Title": "\"Ecce Homo\""
+}

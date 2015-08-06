@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1830,
+    "DateEndYear": 1860,
+    "DateText": "1830-1860",
+    "Description": "This is an example of Hirado ware.",
+    "Dimensions": "7 5/16 in. (18.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19774,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.952_VwA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.952_VwA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.952_VwA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.952_VwA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.952_VwA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19775,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.952_VwB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.952_VwB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.952_VwB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.952_VwB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.952_VwB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19776,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.952_VwC_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.952_VwC_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.952_VwC_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.952_VwC_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.952_VwC_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1714,
+        "LocationString": null
+    },
+    "ObjectID": 21628,
+    "ObjectName": "tokkuri;bottle",
+    "ObjectNumber": "49.952",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.45",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21628",
+    "SortNumber": "    49   952                                            ",
+    "Style": "Hirado ware",
+    "Title": "Sake Bottle (\"Tokkuri\") with Boys Chasing Butterflies"
+}

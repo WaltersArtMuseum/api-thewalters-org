@@ -1,0 +1,116 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francis Hopkinson Smith (American, 1838-1915)",
+            "CreatorID": 3649,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Oliver H. Perry, 1976",
+    "Culture": null,
+    "DateBeginYear": 1902,
+    "DateEndYear": 1902,
+    "DateText": "1902",
+    "Description": "In an interview with a critic for the Baltimore Sun in 1907, the artist noted: \"Extreme realism, then, is when we say too much; extreme impressionism is when we say too little. But to say just the right thing at the right time and in the right way is as desirable in the art of picturemaking as in society.\"\r\n\r\nThis drawing and two accompanying works (WAM 37.2584 and WAM 37.2582) in pencil and gouache were made by the artist in preparation for a painting showing a regatta held on the Grand Canal in May, 1902.\r\n\r\nSmith was born on St. Paul Street, Baltimore. He trained initially as an engineer but later taught himself to paint in watercolors. He traveled extensively, producing watercolors which were reproduced in deluxe \"travel books,\" such as \"Gondola Days\" (1897) and \"The Venice of To-Day\" (1897) as well as various magazines. He was also the author of many popular books.\r\n",
+    "Dimensions": "8 x 9 7/8 in. (20.3 x 25.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53398,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.2585_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.2585_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.2585_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.2585_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.2585_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53397,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.2585_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.2585_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.2585_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.2585_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.2585_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 49491,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2585_Fnt_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2585_Fnt_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2585_Fnt_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2585_Fnt_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2585_Fnt_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pencil and gouache on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2251,
+        "LocationString": null
+    },
+    "ObjectID": 21248,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2585",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mr. and Mrs. Oliver H. Perry [date and mode of acquisition unknown]; Walters Art Museum, 1976, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 2322,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 21942,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21248",
+    "SortNumber": "    37  2585                                            ",
+    "Style": null,
+    "Title": "Scene of a Regatta, Venice"
+}

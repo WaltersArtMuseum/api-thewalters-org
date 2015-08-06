@@ -1,0 +1,104 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Assyrian",
+            "CreatorID": 2071,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": -859,
+    "DateEndYear": -824,
+    "DateText": "859-824 BC",
+    "Description": "During the Assyrian period (900-609 BC), royal artists frequently depicted major military conquests. These two bronze fragments originally belonged to a 21 foot high wooden gate of a temple at Balawat, just northeast of the capital, Nimrud. Together with nearly 265 feet of narrative strips from the same gate now in the British Museum, they illustrate in intricate detail the numerous military campaigns of King Shalmaneser III.\r\n\r\nIn one fragment, Assyrian soldiers carry logs as they march through a hilly, forested landscape. A separate scene to the right depicts three Assyrian officials, clasping their hands in respect.\r\n\r\nIn the other, Syrian porters in long robes and conical hats carry tribute to the Assyrian camp. They bring items for which Syria was famous: wine in skin bags; trays, possibly bearing ivory tusks; and heavy rolls of wool, probably dyed purple. The inscription at the top labels these as gifts from the coastal Phoenician cities of Tyre and Sidon.",
+    "Dimensions": "fragment a H: 3 15/16 x W: 11 x D: 3/16 in. (10 x 28 x 0.4 cm); fragment b H: 3 9/16 x W: 14 1/2 x D: 3/16 in. (9 x 36.8 x 0.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489407,
+            "GeographyTerm": "Ninawa",
+            "Latitude": "36 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.166,
+            "Longitude": "042 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 42.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32573,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_54.2335_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_54.2335_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_54.2335_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_54.2335_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_54.2335_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] labels objects as gifts from the coastal Phoenician cities of Tyre and Sidon",
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 38041,
+    "ObjectName": "reliefs",
+    "ObjectNumber": "54.2335",
+    "OnView": 0,
+    "Period": "Neo-Assyrian",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Sale, Brummer Auction, New York, 1949, Part II, p. 19, no. 85; Walters Art Museum, 1949, by purchase.\r\n",
+    "PublicAccessDate": "2008-12-31T15:39:41.977",
+    "Reign": "Shalmaneser III (859-824 BC)",
+    "RelatedObjects": [
+        {
+            "ObjectID": 10050,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 34255,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/38041",
+    "SortNumber": "    54  2335                                            ",
+    "Style": null,
+    "Title": "Fragments of Bands from a Gate"
+}

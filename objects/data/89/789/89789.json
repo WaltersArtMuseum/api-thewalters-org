@@ -1,0 +1,143 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "The Grolier Club",
+            "CreatorID": 12799,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "Richard de Bury (United Kingdom, 1287 - 1345)",
+            "CreatorID": 32099,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "L\u00e9on Gruel (French, 1841-1923)",
+            "CreatorID": 104,
+            "Gender": "male",
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1901",
+    "Culture": null,
+    "DateBeginYear": 1889,
+    "DateEndYear": 1889,
+    "DateText": "1889",
+    "Description": "In 1889, the Grolier Club of New York City published this three-volume edition of Richard de Bury's Philobiblon (The Love of Books), essays on librarianship composed in 1344. Founded in 1884, the Grolier Club is one of the most influential bibliographic societies, and Henry Walters was a member. L\u00e9on Gruel included the club's insignia in the binding, which he gave to Walters as a token of his admiration. Triple back-to-back bindings are extremely rare; Gruel explains in his dedication that this is the only one he had ever made.",
+    "Dimensions": "H: 7 5/8 \u00d7 W: 6 1/2 in. (19.37 \u00d7 16.51 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bookbindings from the Gilded Age",
+            "ExhibBeginDate": "2013-10-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 26, 2013-May 18, 2014",
+            "ExhibEndDate": "2014-05-18",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3254,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Bookbindings from the Gilded Age. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52715,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1220_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1220_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1220_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1220_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1220_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52714,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1220_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1220_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1220_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1220_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1220_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52713,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1220_LowerCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1220_LowerCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1220_LowerCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1220_LowerCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1220_LowerCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper bound between boards covered with goatskin, gold, and patterned silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2461,
+        "LocationString": null
+    },
+    "ObjectID": 89789,
+    "ObjectName": "rare books; books",
+    "ObjectNumber": "92.1220",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Henry Walters, Baltimore, 1901; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/89789",
+    "SortNumber": "    92  1220                                            ",
+    "Style": null,
+    "Title": "Philobiblon"
+}

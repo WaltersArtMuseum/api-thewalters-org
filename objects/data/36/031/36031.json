@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Berlin Painter (Greek, active ca. 500 BC-ca. 460 BC)",
+            "CreatorID": 5554,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -512,
+    "DateEndYear": -478,
+    "DateText": "ca. 500-490 BC",
+    "Description": "Two figures stand on a ground-line of meander on the shoulder of this hydria. At left, a young Greek soldier advances to the right, his legs and head in profile, with his torso turned to present his back to the viewer. He wears a chitoniskos, chlamys, greaves and an Attic helmet, its cheek pieces raised to expose his face. His left arm, obscured by his body, holds a shield and two spears. He extends his right hand toward the Amazon before him, and their gazes meet. The Amazon attempts to flee from the soldier, her legs are in profile moving right, while her torso is depicted frontally and her head turns back to look at her pursuer. Like the soldier, she is clad in a chitoniskos, though hers has a loose kolpos in front, and she wears a short mantle, a disk earring, and a pointed cap, from which small curls emerge around the forehead. Her weaponry includes a bow in her left hand, and a sagaris, or small axe, ineffectually pointing downward, in her right hand.\r\n\r\nSeveral mythological heroes were said to have had encounters with the Amazons, but the identity of the figure represented here remains uncertain. The meeting of the figures' gazes is evocative of the story of Achilles and the Amazon Penthesilea, who were said to have fallen in love just as the warrior-hero plunged his sword into her chest. The scene might also depict Theseus, the Athenian hero who fought the Amazon queen Antiope.",
+    "Dimensions": "H: 16 1/4 x W (with handles): 16 7/8 x Diam: 14 7/16 in. (41.3 x 42.8 x 36.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heroes: Mortals and Myths in Ancient Greece",
+            "ExhibBeginDate": "2009-10-11",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "October 11, 2009-January 2, 2011",
+            "ExhibEndDate": "2011-01-02",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2089,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heroes: Mortals and Myths in Ancient Greece. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville; San Diego Museum Of Art, San Diego; Alexander S. Onassis Public Benefit Foundation (USA), New York. 2009-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12696,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.79_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.79_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.79_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.79_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.79_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8503,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.79_DetB_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.79_DetB_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.79_DetB_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.79_DetB_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.79_DetB_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8502,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.79_DetA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.79_DetA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.79_DetA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.79_DetA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.79_DetA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3661,
+        "LocationString": null
+    },
+    "ObjectID": 36031,
+    "ObjectName": "hydriae; kalpides; vases",
+    "ObjectNumber": "48.79",
+    "OnView": 1,
+    "Period": "early Classical",
+    "Provenance": "Don Marcello Massarenti Collection, Rome, prior to 1897 [cat. no. 186]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.893",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36031",
+    "SortNumber": "    48    79                                            ",
+    "Style": "Attic",
+    "Title": "Red-figure Hydria with Theseus (?) and an Amazon"
+}

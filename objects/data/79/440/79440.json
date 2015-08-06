@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jama-Coaque",
+            "CreatorID": 31450,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Jama-Coaque",
+    "DateBeginYear": -300,
+    "DateEndYear": 800,
+    "DateText": "300 BC-AD 800",
+    "Description": null,
+    "Dimensions": "H: 17 1/2 x W: 8 1/4 x D: 9 3/4 in. (44.5 x 20.9 x 24.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415238,
+            "GeographyTerm": "Ecuador",
+            "Latitude": "02 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -2.0,
+            "Longitude": "077 30",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -77.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19224,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2862_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2862_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2862_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2862_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2862_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19226,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2862_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2862_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2862_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2862_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2862_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19227,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2862_RtSide_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2862_RtSide_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2862_RtSide_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2862_RtSide_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2862_RtSide_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 19225,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2862_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2862_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2862_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2862_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2862_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic buffware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5547,
+        "LocationString": null
+    },
+    "ObjectID": 79440,
+    "ObjectName": "figures",
+    "ObjectNumber": "48.2862",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Fine Arts of Ancient Lands, New York [date and mode of acquisition unknown]; Herbert L. Lucas, Los Angeles [date and mode of acquisition unknown]; Ancient Art of the New World, New York [date and mode of acquisition unknown]; Private collection, 1992, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-08-04T14:54:12.003",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79440",
+    "SortNumber": "    48  2862                                            ",
+    "Style": null,
+    "Title": "Figure Seated on a Bench with Hands Held to Mouth"
+}

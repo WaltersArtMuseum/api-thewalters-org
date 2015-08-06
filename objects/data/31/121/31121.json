@@ -1,0 +1,112 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1946",
+    "Culture": "Byzantine",
+    "DateBeginYear": 501,
+    "DateEndYear": 600,
+    "DateText": "6th century",
+    "Description": null,
+    "Dimensions": "H: 1 1/2 in. (3.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Treasures of Heaven",
+            "ExhibBeginDate": "2010-10-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "October 17, 2010-October 9, 2011",
+            "ExhibEndDate": "2011-10-09",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures of Heaven. The Cleveland Museum of Art, Cleveland; The Walters Art Museum, Baltimore; The British Museum, London. 2010-2011."
+        },
+        {
+            "ExhTitle": "Sacred Souvenirs: Byzantine Pilgrimage Art",
+            "ExhibBeginDate": "1982-05-04",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 4, 1982-September 6, 1982",
+            "ExhibEndDate": "1982-09-06",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 717,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Sacred Souvenirs: Byzantine Pilgrimage Art. Dumbarton Oaks, Washington. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Hims\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499767,
+            "GeographyTerm": "Qal'at Si'man",
+            "Latitude": "36 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.333,
+            "Longitude": "036 51",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.85
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23252,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_48.1939_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_48.1939_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_48.1939_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_48.1939_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_48.1939_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23251,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_48.1939_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_48.1939_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_48.1939_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_48.1939_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_48.1939_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red clay or earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 885,
+        "LocationString": null
+    },
+    "ObjectID": 31121,
+    "ObjectName": "tokens",
+    "ObjectNumber": "48.1939",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Walters Art Museum, 1946, by purchase.",
+    "PublicAccessDate": "2009-10-09T09:07:18.34",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 38899,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/31121",
+    "SortNumber": "    48  1939                                            ",
+    "Style": null,
+    "Title": "Pilgrim Token from the Shrine of St. Symeon"
+}

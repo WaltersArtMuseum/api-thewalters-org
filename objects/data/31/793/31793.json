@@ -1,0 +1,118 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -425,
+    "DateEndYear": -401,
+    "DateText": "late 5th century BC",
+    "Description": "This askos has a flaring rim that is painted black. It's neck has a concave profile, and is black inside. It has a single strap handle. The body is in the shape of a duck with a flat base, and an underside in reserve with traces of miltos. The wings are in reserve with details in black. The underside of the tail, head, and breast are white-ground with black for the details. A palmette with volutes beneath the bill and an interrupted cross (star) is above to either side. A row of lines in a debased tongue pattern between sets of parallel black lines runs around the front of the base and the two sides. Palmettes decorate the bows of the wings and the back of the duck.",
+    "Dimensions": "2 11/16 x 2 7/16 x 4 3/8 in. (6.9 x 6.2 x 11.1 cm) (h. x max. w. x l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8465,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.270_3QtrLft_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.270_3QtrLft_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.270_3QtrLft_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.270_3QtrLft_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.270_3QtrLft_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4867,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.270_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.270_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.270_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.270_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.270_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4865,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.270_Fnt_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.270_Fnt_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.270_Fnt_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.270_Fnt_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.270_Fnt_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4866,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.270_LftSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.270_LftSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.270_LftSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.270_LftSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.270_LftSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 4864,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.270_Bot_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.270_Bot_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.270_Bot_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.270_Bot_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.270_Bot_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1687,
+        "LocationString": null
+    },
+    "ObjectID": 31793,
+    "ObjectName": "askoi",
+    "ObjectNumber": "48.270",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Henry Walters, Baltimore [date of acquisition unknown], by purchase [purchased in Athens but acquired sometime later by Henry Walters]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-20T11:01:41.737",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31793",
+    "SortNumber": "    48   270                                            ",
+    "Style": "Attic",
+    "Title": "Duck Askos"
+}

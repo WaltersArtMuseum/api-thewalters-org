@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Persian",
+            "CreatorID": 3496,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic; Persian",
+    "DateBeginYear": 1493,
+    "DateEndYear": 1494,
+    "DateText": "899 AH/AD 1493-1494",
+    "Description": "This black leather binding, which is original to the manuscript, Walters W.641, has a stamped central lobed oval, pendants, and cornerpieces, all covered with cloudband motifs.\r\n\r\nThe red doublure, also original to the manuscript, is decorated with a central lobed oval, pendants, and cornerpieces decorated with filigree work on a blue ground. A strip of marbled paper is present at the hinge.",
+    "Dimensions": "Folio H: 6 11/16 x W: 4 1/2 in. (17 x 11.5 cm)",
+    "Dynasty": "Timurid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bindings from the Islamic World",
+            "ExhibBeginDate": "1988-05-17",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "May 17, 1988-November 20, 1988",
+            "ExhibEndDate": "1988-11-20",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2730,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bindings from the Islamic World. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23277,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Timurid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; New Abbasid Style; Contemporary Binding; Afghanistan; Literature -- Poetry",
+    "Medium": "black leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80129,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.641.binding",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Sultan 'Uthman (reigned 1027 AH/AD 1618-1031 AH/AD 1622) (?) [date and mode of acquisition unknown] [erased waqf-seal and waqf-registration statement probably belonging to the Sultan on folio 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80129",
+    "SortNumber": "W        641binding                                     ",
+    "Style": null,
+    "Title": "Binding from Selection of Poems"
+}

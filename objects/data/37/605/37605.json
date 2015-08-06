@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thomas Sully (American, 1783-1872)",
+            "CreatorID": 5305,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1818,
+    "DateEndYear": 1842,
+    "DateText": "ca. 1830",
+    "Description": "Sully often created small-scale watercolors, either related to larger paintings in oil or as exercises in their own right. From the woman's costume this work can be dated to ca. 1830.",
+    "Dimensions": "H: 4 5/8 x W: 3 13/16 in. (11.7 x 9.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "American Drawings and Watercolors of the Nineteenth Century",
+            "ExhibBeginDate": "1953-01-17",
+            "ExhibBeginYear": 1953,
+            "ExhibDisplayDate": "January 17, 1953- February 18, 1953",
+            "ExhibEndDate": "1953-02-18",
+            "ExhibEndYear": 1953,
+            "ExhibitionID": 558,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "American Drawings and Watercolors of the Nineteenth Century. The Walters Art Gallery, Baltimore. 1953."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55095,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1533_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1533_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1533_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1533_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1533_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 55094,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1533_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1533_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1533_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1533_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1533_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: Thos. Sully",
+    "Keywords": "female; woman; portrait",
+    "Medium": "watercolor on white paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1796,
+        "LocationString": null
+    },
+    "ObjectID": 37605,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1533",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. or Henry Walters Collection, Baltimore; by bequest to Walters Art museum, 1931.",
+    "PublicAccessDate": "2014-03-15T01:00:02.127",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37605",
+    "SortNumber": "    37  1533                                            ",
+    "Style": null,
+    "Title": "Portrait of a Lady"
+}

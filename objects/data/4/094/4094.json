@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1420,
+    "DateEndYear": 1430,
+    "DateText": "1420-1430",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 120, pp. 181-183.",
+    "Dimensions": "H: 32 3/4 x W: 34 1/8 in. (83.2 x 86.7 cm); Center panel painted surface H including original moldings: 31 7/8 x W: 17 5/16 x D: 13/16 in. (81 x 44 x 2.1 cm); Left wing painted surface H including original moldings: 31 15/16 x W: 8 1/2 x D: 5/8 in. (81.2 x 21.6 x 1.6 cm); Right wing painted surface H including original moldings: 31 7/8 x W: 8 11/16 x D: 5/8 in. (81 x 22 x 1.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439905,
+            "GeographyTerm": "Abruzzi",
+            "Latitude": "42 15",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.25,
+            "Longitude": "013 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29735,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.740_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.740_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.740_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.740_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.740_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32157,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.740_Fnt_NG_613.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.740_Fnt_NG_613.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.740_Fnt_NG_613.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.740_Fnt_NG_613.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.740_Fnt_NG_613.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and gilding on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2451,
+        "LocationString": null
+    },
+    "ObjectID": 4094,
+    "ObjectName": "paintings; triptych",
+    "ObjectNumber": "37.740",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 40, as attributed to Lorenzo Monaco]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4094",
+    "SortNumber": "    37   740                                            ",
+    "Style": "Gothic",
+    "Title": "The Piet\u00e0, the Annunciation, and Saints"
+}

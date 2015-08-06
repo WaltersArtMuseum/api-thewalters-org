@@ -1,0 +1,93 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Anonymous",
+            "CreatorID": 17248,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "13th century AH/AD 19th century",
+    "Description": "This binding from Walters manuscript W.604 dates to the 13th century AH/AD 19th. It is composed of blind-tooled reddish brown leather, and has no flap.",
+    "Dimensions": "Folio H: 9 1/4 x W: 6 5/16 in. (23.5 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 33123,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.604.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.604.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.604.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.604.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.604.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33124,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.604.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.604.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.604.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.604.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.604.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33122,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.604.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.604.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.604.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.604.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.604.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33121,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.604.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.604.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.604.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.604.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.604.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Timurid; Book; Calligraphy; Codex; Illumination; Illustration; Manuscript; New Abbasid Style; Iran; Literature -- Poetry",
+    "Medium": "reddish brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83216,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.604.binding",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83216",
+    "SortNumber": "W        604binding                                     ",
+    "Style": null,
+    "Title": "Binding from Five Poems (Quintet)"
+}

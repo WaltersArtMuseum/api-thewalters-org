@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Felix Octavius Carr Darley (American, 1822-1888)",
+            "CreatorID": 6799,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1843,
+    "DateEndYear": 1867,
+    "DateText": "ca. 1855",
+    "Description": "The subject matter of this drawing is taken from Aesop's Fables and demonstrates the moral that there is strength in unity: the bundle of sticks cannot be broken when they are tied together, they can only be broken when they are taken one at a time.\r\n\r\nDarley was primarily known as an illustrator in the 19th century. He worked for \"Harper's Monthly\" and illustrated the works of numerous famous authors of the day, including Charles Dickens, Nathaniel Hawthorne, Washington Irving and Harriet Beecher Stowe.",
+    "Dimensions": "H: 4 1/2 x W: 6 13/16 in. (11.5 x 17.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53008,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1572_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1572_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1572_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1572_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1572_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53007,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1572_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1572_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1572_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1572_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1572_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36764,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1572_Fnt_BW_H71.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1572_Fnt_BW_H71.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1572_Fnt_BW_H71.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1572_Fnt_BW_H71.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1572_Fnt_BW_H71.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: Darley",
+    "Keywords": null,
+    "Medium": "wash drawing",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2248,
+        "LocationString": null
+    },
+    "ObjectID": 10646,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1572",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-18T23:00:04.22",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10646",
+    "SortNumber": "    37  1572                                            ",
+    "Style": null,
+    "Title": "Parable of the Faggots"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian (?)",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "9th century AH/AD 15th century",
+    "Description": "This folio from Walters manuscript W.562 is a text page with an illuminated chapter heading for chapter 106 (Surat Quraysh). The title is written in the New Abbasid (Broken Cursive) style in gold ink on a blue ground with green arabesques.",
+    "Dimensions": "H: 14 15/16 x W: 11 in. (38 x 28 cm)",
+    "Dynasty": "Timurid",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31183,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.562.42a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.562.42a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.562.42a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.562.42a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.562.42a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Book; Calligraphy; Codex; Illumination; Iran; Islamic; Koran; Manuscript; Medallion; Ornament; Prayer; Qur`an; Scripture; Timurid; New Abbasid Style",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81122,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.562.42A",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81122",
+    "SortNumber": "W        562   42A                                      ",
+    "Style": null,
+    "Title": "Illuminated Chapter Heading for Chapter 106 (Surat Quraysh)"
+}

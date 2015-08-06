@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sheng Mou (Chinese, 1313-1362) (?)",
+            "CreatorID": 4095,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1916",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": "Some of the mountains have faded out.",
+    "Dimensions": "L without frame: 44 3/16 x W: 24 1/4 in. (112.2 x 61.6 cm)",
+    "Dynasty": "Ming [Ming]-Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32050,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.59_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.59_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.59_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.59_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.59_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32049,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.59_DetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.59_DetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.59_DetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.59_DetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.59_DetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Sticker] With price; [Seal] Lower left, nearly obliterated: Wu T'ang Shen Mou; [Translation] Shen Mou of the district of Wu T'ang.",
+    "Keywords": null,
+    "Medium": "ink and dull green on silk mounted on paper, teakwood frame",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3397,
+        "LocationString": null
+    },
+    "ObjectID": 9424,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.59",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Dr. John C. Ferguson; John C. Ferguson Sale, American Art Association, New York, April 7, 1916, no. 249 [1]; purchased by Henry Walters, Baltimore, 1916; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] credited to \"Shen Mou\"",
+    "PublicAccessDate": "2011-04-01T11:04:12.873",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9424",
+    "SortNumber": "    35    59                                            ",
+    "Style": null,
+    "Title": "Mountain Landscape with Scholar in a Pavilion and Two Figures Approaching"
+}

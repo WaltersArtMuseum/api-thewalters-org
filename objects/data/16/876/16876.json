@@ -1,0 +1,107 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Italian",
+    "DateBeginYear": 1201,
+    "DateEndYear": 1300,
+    "DateText": "13th century",
+    "Description": "Made from molten glass pressed in a mold, this type of medallion was mass-produced and served as a souvenir or memento of a visit to a holy shrine. The medallion, with a typically Byzantine composition, shows that craftsmen in the port city of Venice were familiar with the art of Constantinople.",
+    "Dimensions": "2 5/8 x 2 5/16 x 7/16 in. (6.6 x 5.9 x 1.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Treasures of Heaven",
+            "ExhibBeginDate": "2010-10-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "October 17, 2010-October 9, 2011",
+            "ExhibEndDate": "2011-10-09",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures of Heaven. The Cleveland Museum of Art, Cleveland; The Walters Art Museum, Baltimore; The British Museum, London. 2010-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33725,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.5_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.5_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.5_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.5_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.5_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33724,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.5_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.5_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.5_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.5_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.5_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "Cast labels identify the figures on the medallion. On the middle register, reading right to left and top to bottom: left of leftmost figure: B/TO/LO/M/US; [Transcription] B[AR]T[H]OLOM[E]US; [Translation] Bartholomew; left of the central figure: S/ IC; [Transcription] S[ANCTUS]/I[ESUS] C[HRISTUS]; [Translation] Saint (refers to Bartholemew), Jesus Christ; right of the central figure: S/ XC; [Transcription] S[ANCTUS]/ XC[hristus]; Saint (refers to Mark), Christ; right of rightmost figure: MARCUS; [Transcription] MARCUS; [Translation] Mark. \r\n\r\nOn the lower register, reading right to left and top to bottom: left of leftmost figure: S/IA/CO/b;[Transcription] S[ANCTUS] IACOB; [Translation] Saint James; left of the central figure: S; [Transcription] S[ANCTUS]; [Translation] Saint; right of the central figure: F; [Transcription] F[rancis]; [Translation] Francis; right of rightmost figure: SP/T;  [Transcription] S[ANCTUS] P[E]T[ER]; [Translation] Saint Peter.",
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3861,
+        "LocationString": null
+    },
+    "ObjectID": 16876,
+    "ObjectName": "medallions (medals)",
+    "ObjectNumber": "47.5",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.91",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16876",
+    "SortNumber": "    47     5                                            ",
+    "Style": "Byzantine",
+    "Title": "Pilgrim Medallion with Christ, Angels, Apostles and Saints"
+}

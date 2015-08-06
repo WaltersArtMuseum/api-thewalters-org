@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1951",
+    "Culture": null,
+    "DateBeginYear": -200,
+    "DateEndYear": -1,
+    "DateText": "2nd-1st century BC",
+    "Description": "Slaves, very common in Hellenistic society, were of all nationalities, even Greek. Nubians from the Sudan were brought by camel caravan up the Arabian coast. This figure's struggle, probably against the strain of a heavily laden cart, is eloquently communicated by his posture.",
+    "Dimensions": "4 x 3 1/8 x 1 1/2 in. (10.1 x 8 x 3.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Urban\\governorates\\Al-Iskandariyah\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543855,
+            "GeographyTerm": "Al-Iskandariyah",
+            "Latitude": "31 12",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.2,
+            "Longitude": "029 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28144,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2372_3QtrVwA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2372_3QtrVwA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2372_3QtrVwA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2372_3QtrVwA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2372_3QtrVwA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28147,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2372_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2372_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2372_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2372_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2372_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 28146,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2372_Back_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2372_Back_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2372_Back_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2372_Back_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2372_Back_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3679,
+        "LocationString": null
+    },
+    "ObjectID": 2106,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.2372",
+    "OnView": 1,
+    "Period": "Hellenistic-Roman",
+    "Provenance": "Dikran Kelekian Estate Sale, New York, 1951; Walters Art Museum, 1951, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2106",
+    "SortNumber": "    54  2372                                            ",
+    "Style": null,
+    "Title": "Slave"
+}

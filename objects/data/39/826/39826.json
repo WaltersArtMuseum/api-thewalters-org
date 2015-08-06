@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1941",
+    "Culture": null,
+    "DateBeginYear": -2100,
+    "DateEndYear": -2050,
+    "DateText": "2100-2050 BC",
+    "Description": "Before the writing was added, this tablet, a receipt, was marked with a cylinder seal dated to the reign of King Shulgi of Ur. Still visible are a standing figure of a worshiper with one hand raised and three lines of an inscription with the name of a scribe, suggesting that the seal may have belonged to the person who wrote the tablet.",
+    "Dimensions": "1 3/4 x 1 9/16 x 1 in. (4.5 x 4 x 2.5 cm)",
+    "Dynasty": "3rd Dynasty of Ur",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Maysan\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489401,
+            "GeographyTerm": "Telloh",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Maysan\\deserted settlements\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489401,
+            "GeographyTerm": "Telloh",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6838,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1806_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1806_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1806_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1806_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1806_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "baked clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3729,
+        "LocationString": null
+    },
+    "ObjectID": 39826,
+    "ObjectName": "tablets",
+    "ObjectNumber": "48.1806",
+    "OnView": 1,
+    "Period": "Ur III",
+    "Provenance": "Sadie Jones (Mrs. Henry Walters), New York [date and mode of acquisition unknown]; Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.157",
+    "Reign": "Shulgi (ca. 2094-2047)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39826",
+    "SortNumber": "    48  1806                                            ",
+    "Style": null,
+    "Title": "Tablet with Seal Impression"
+}

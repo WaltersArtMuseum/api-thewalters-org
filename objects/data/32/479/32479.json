@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Maestro di Polittico di Ranghiasci",
+            "CreatorID": 2040,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1425,
+    "DateText": "1400-1425",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 124, pp. 188-189.",
+    "Dimensions": "Painted surface H to apex: 34 5/8 x W: 16 1/4 in. (88 x 41.3 cm); Panel reverse H: 36 5/8 x W: 16 15/16 x D: 1 3/16 in. (93 x 43 x 3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437422,
+            "GeographyTerm": "Gubbio",
+            "Latitude": "43 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.35,
+            "Longitude": "012 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29732,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.701_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.701_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.701_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.701_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.701_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47199,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.701_XR_1965_A.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.701_XR_1965_A.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.701_XR_1965_A.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.701_XR_1965_A.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.701_XR_1965_A.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 47200,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.701_XR_1965_B.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.701_XR_1965_B.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.701_XR_1965_B.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.701_XR_1965_B.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.701_XR_1965_B.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera (?) and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3252,
+        "LocationString": null
+    },
+    "ObjectID": 32479,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.701",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 21; 1897 catalogue: no. 32, as school of Angolo Gaddi]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32479",
+    "SortNumber": "    37   701                                            ",
+    "Style": null,
+    "Title": "St. James the Great"
+}

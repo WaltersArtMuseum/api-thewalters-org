@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Frankish",
+            "CreatorID": 2386,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Frankish",
+    "DateBeginYear": 575,
+    "DateEndYear": 599,
+    "DateText": "late 6th century",
+    "Description": "This buckle is of a type manufactured in workshops near Paris during the last third of the 6th century.  It is incised with bands of concentric geometric ornament centering on a human face, interpreted variously as Medusa or, when surmounted by a cross, as Christ.  In either case, the face is an apotropaic device, intended to protect the wearer from evil.",
+    "Dimensions": "3 11/16 x 2 3/8 x 3/8 in. (9.4 x 6 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1426709,
+            "GeographyTerm": "\u00cele-de-France",
+            "Latitude": "49 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.0,
+            "Longitude": "002 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9699,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9700,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Back_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Back_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Back_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Back_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2345A-54.2345B_Back_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Migration and Early Medieval Art",
+        "LocationID": 3843,
+        "LocationString": null
+    },
+    "ObjectID": 30842,
+    "ObjectName": "buckles",
+    "ObjectNumber": "54.2345",
+    "OnView": 1,
+    "Period": "Early Medieval",
+    "Provenance": "Joseph Brummer, New York; Joseph Brummer Sale, Parke-Bernet Galleries, New York, May 12, 1949, no. 278; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:35.253",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30842",
+    "SortNumber": "    54  2345                                            ",
+    "Style": null,
+    "Title": "Belt Buckle"
+}

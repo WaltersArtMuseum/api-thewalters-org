@@ -1,0 +1,119 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "John Spitzer (American)",
+            "CreatorID": 6804,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Austin Fine, 1984",
+    "Culture": null,
+    "DateBeginYear": 1810,
+    "DateEndYear": 1810,
+    "DateText": "ca. 1810",
+    "Description": null,
+    "Dimensions": "Overall: 63 7/8 in. (162.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Lost and Found: The Secrets of Archimedes",
+            "ExhibBeginDate": "2011-10-16",
+            "ExhibBeginYear": 2011,
+            "ExhibDisplayDate": "October 16, 2011-January 01, 2012",
+            "ExhibEndDate": "2012-01-01",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3061,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Lost and Found: The Secrets of Archimedes. The Walters Art Museum, Baltimore. 2011-2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1041497,
+            "GeographyTerm": "Virginia",
+            "Latitude": "37 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.0,
+            "Longitude": "080 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -80.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36332,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_51.1434_SideA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_51.1434_SideA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_51.1434_SideA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_51.1434_SideA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_51.1434_SideA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36333,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_51.1434_SideB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_51.1434_SideB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_51.1434_SideB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_51.1434_SideB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_51.1434_SideB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36330,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_51.1434_DetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_51.1434_DetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_51.1434_DetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_51.1434_DetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_51.1434_DetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 36331,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_51.1434_DetB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_51.1434_DetB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_51.1434_DetB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_51.1434_DetB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_51.1434_DetB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "maple stock with brass and silver/iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1549,
+        "LocationString": null
+    },
+    "ObjectID": 5799,
+    "ObjectName": "rifle",
+    "ObjectNumber": "51.1434",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mr. Austin Fine, Baltimore, MD",
+    "PublicAccessDate": "2011-10-13T10:24:05.333",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5799",
+    "SortNumber": "    51  1434                                            ",
+    "Style": null,
+    "Title": "Kentucky Rifle"
+}

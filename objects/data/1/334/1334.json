@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jacopo del Casentino (Italian, 1279-ca. 1358)",
+            "CreatorID": 3518,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Workshop of Jacopo del Casentino (Italian, 1279-ca. 1358)",
+            "CreatorID": 3518,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1340,
+    "DateEndYear": 1349,
+    "DateText": "1340-1349",
+    "Description": "These two panels are the wings from a private devotional triptych (three-panel painting). In the Last Judgment scene, Christ arrives in glory to judge the dead, who rise from their tombs expressing hope, awe, and fear. Christ's right hand is turned palm upward to indicate that those on his right side will be saved, while his down-turned left hand is aligned with the mouth of hell, into which a devil drags a female sinner by her hair. Look closely at the Crucifixion; at least eleven angels once surrounded Christ's body. Free-hand drawings of their haloes and bodies can still be seen scratched into the gold ground.\r\n\r\nFor more information on these panels, please see Zeri catalogue number 5, pp. 10-11.",
+    "Dimensions": "Panel H: 13 1/2 x W: 4 15/16 x D: 3/16 in. (34.3 x 12.5 x 0.5 cm); Paninted surface of each panel H: 13 5/16 x W: 4 5/8 in. (33.8 x 11.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 506,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.722_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.722_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.722_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.722_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.722_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47828,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.722_XR_1957.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.722_XR_1957.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.722_XR_1957.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.722_XR_1957.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.722_XR_1957.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and gold leaf on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 13th-15th Century Italian Art",
+        "LocationID": 4576,
+        "LocationString": null
+    },
+    "ObjectID": 1334,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.722",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Metzger Gallery, Florence [date and mode of acquisition unknown]; Don Marcello Massarenti Collection, Rome [dae and mode of acquisition unknown] [1881 catalogue: no. 9-10 as Giotto; 1897 catalogue: no. 59 as School of Giotto]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest. \r\n",
+    "PublicAccessDate": "2008-09-25T17:15:34.613",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1334",
+    "SortNumber": "    37   722                                            ",
+    "Style": "Gothic",
+    "Title": "The Last Judgment and the Crucifixion"
+}

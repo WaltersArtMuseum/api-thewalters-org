@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Partial museum purchase with funds provided by the S. & A.P. Fund, 1956 and partial gift of Mr. Robert E. Hecht, Jr., 1957",
+    "Culture": "Byzantine",
+    "DateBeginYear": 900,
+    "DateEndYear": 999,
+    "DateText": "10th century",
+    "Description": "Saint Christopher is shown here dressed in Byzantine court costume and holding a cross as a sign of his martyrdom for Christ. Christopher, identified by a vertical inscription, was known as the patron saint of travelers and was popular among Christians in both the Byzantine and western traditions. Another tile from the same series survives in the Walters collection and carries an image of Saint Ignatius (inv. 48.2086.7).",
+    "Dimensions": "H: 11 9/16 x W: 11 5/8 x D: 5/16 in. (29.4 x 29.5 x 0.8 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41902,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2086.13_Fnt_TR_T00II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2086.13_Fnt_TR_T00II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2086.13_Fnt_TR_T00II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2086.13_Fnt_TR_T00II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2086.13_Fnt_TR_T00II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3836,
+        "LocationString": null
+    },
+    "ObjectID": 6131,
+    "ObjectName": "ceramic tiles;icons",
+    "ObjectNumber": "48.2086.13",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Nikos Avgheris, Istanbul, ca. 1950, by purchase; Robert E. Hecht, Ruxton, Maryland, 1956, by purchase; Walters Art Museum, 1956, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:34.94",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6131",
+    "SortNumber": "    48  2086   13                                       ",
+    "Style": null,
+    "Title": "Saint Christopher"
+}

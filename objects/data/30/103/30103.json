@@ -1,0 +1,132 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "Walters manuscript W.570 is a large-size illuminated copy of the Qur'an made probably in Turkey in the 11th century AH/AD 17th century. This polychrome manuscript is penned in a number of scripts, including Muhaqqaq, Thuluth, Naskh and Tawqi'.",
+    "Dimensions": "Folio H: 20 1/16 x W: 14 9/16 in. (51 x 37 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum",
+            "ExhibBeginDate": "2007-02-03",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 3, 2007-April 29, 2007",
+            "ExhibEndDate": "2007-04-29",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 186,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum. The Walters Art Museum, Baltimore. 2007."
+        },
+        {
+            "ExhTitle": "The Cross and the Crescent: Books from the Ottoman Age",
+            "ExhibBeginDate": "2003-03-01",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "March 1, 2003-May 18, 2003",
+            "ExhibEndDate": "2003-05-18",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 112,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Cross and the Crescent: Books from the Ottoman Age. The Walters Art Museum, Baltimore. 2003."
+        },
+        {
+            "ExhTitle": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum",
+            "ExhibBeginDate": "2010-03-20",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "March 20, 2010-June 13, 2010",
+            "ExhibEndDate": "2010-06-13",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2827,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28764,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.570.binding_Int_DD_T10_LowerCoverInterior.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.570.binding_Int_DD_T10_LowerCoverInterior.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.570.binding_Int_DD_T10_LowerCoverInterior.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.570.binding_Int_DD_T10_LowerCoverInterior.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.570.binding_Int_DD_T10_LowerCoverInterior.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Ottoman; Book; Codex; Manuscript",
+    "Medium": "ink and pigments on laid, non-European with flyleaves of Italian, pink-tinted paper covered with leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6364,
+        "LocationString": null
+    },
+    "ObjectID": 30103,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.570",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sultan Ahmad (reigned 1703-1730) [date and mode of acquisition unknown]; Mosque of Murad Pasha, Istanbul, 1719, by gift [donated by the Ottoman ruler Sultan Ahmad to the Mosque]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81690,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81691,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81692,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81693,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81694,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81817,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30103",
+    "SortNumber": "W        570                                            ",
+    "Style": null,
+    "Title": "Qur'an"
+}

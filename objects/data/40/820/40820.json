@@ -1,0 +1,95 @@
+{
+    "Classification": "Textiles",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Abraham of Caesarea (Armenian, active 1721-1724)",
+            "CreatorID": 16249,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Armenian",
+    "DateBeginYear": 1721,
+    "DateEndYear": 1721,
+    "DateText": "1721",
+    "Description": null,
+    "Dimensions": "H: 61 x W: 11 7/16 in. (154.9 x 29 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Ic Anadolu\\provinces\\Ankara Ili\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1502201,
+            "GeographyTerm": "Ankara",
+            "Latitude": "39 55",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.916,
+            "Longitude": "032 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 61301,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_83.315_Det_BW_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_83.315_Det_BW_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_83.315_Det_BW_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_83.315_Det_BW_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_83.315_Det_BW_T84.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 54256,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_83.315_DetB_BW_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_83.315_DetB_BW_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_83.315_DetB_BW_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_83.315_DetB_BW_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_83.315_DetB_BW_T84.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Translation] Embroidered in Armenian: This precious stole [is] a praiseworthy yoke / filled with symbolic pictures, / a memorial gift to the Holy Mother of God, / the holy cathedral of Galatia. / For the enjoyment of Moses, [?] bishop, / amazing because of his benevolence, / by master [i.e. craftsman] vardapet Abraham.",
+    "Keywords": null,
+    "Medium": "silk embroidery",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5206,
+        "LocationString": null
+    },
+    "ObjectID": 40820,
+    "ObjectName": "stoles; liturgical vestments",
+    "ObjectNumber": "83.315",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Purchased by Henry Walters, Baltimore; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-11T01:00:02.25",
+    "Reign": "Ahmed III (1703-1730)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40820",
+    "SortNumber": "    83   315                                            ",
+    "Style": "Baroque",
+    "Title": "Stole (Porourar) with the Tree of Jesse"
+}

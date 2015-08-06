@@ -1,0 +1,111 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1755,
+    "DateEndYear": 1779,
+    "DateText": "ca. 1767",
+    "Description": "These pitchers with apple green grounds are decorated with trophies enclosed in floral wreaths.",
+    "Dimensions": "H: 12 3/4 in. (32.39 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9558,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.765_VwB_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.765_VwB_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.765_VwB_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.765_VwB_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.765_VwB_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9556,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.765_Fnt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.765_Fnt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.765_Fnt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.765_Fnt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.765_Fnt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9557,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.765_VwA_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.765_VwA_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.765_VwA_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.765_VwA_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.765_VwA_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 9555,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.765_Back_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.765_Back_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.765_Back_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.765_Back_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.765_Back_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "No visible marks, any marks are obscured by the bronze base.",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain with enamel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5328,
+        "LocationString": null
+    },
+    "ObjectID": 4931,
+    "ObjectName": "pitchers",
+    "ObjectNumber": "48.765",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.113",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 11741,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4931",
+    "SortNumber": "    48   765                                            ",
+    "Style": null,
+    "Title": "One of a Pair of Pitchers (Vase en burette)"
+}

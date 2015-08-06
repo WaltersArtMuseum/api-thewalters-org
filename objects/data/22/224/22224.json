@@ -1,0 +1,91 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sa'di (died 691 AH/AD 1292)",
+            "CreatorID": 15724,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.621 is an illuminated and illustrated manuscript of the Bustan (The garden or The orchard) by the Persian poet Sa\"di (died 691 AH/AD 1292). It dates to the 10th century AH/AD 16th and was produced in Iran. The text is written in black Nasta\"liq script with gold chapter headings on cream and pink tinted paper. The codex opens with an illuminated titlepiece with the author's name (fol. 2b), and there are 3 illustrations (fols. 13a, 39a, and 92a). The lacquer binding is decorated with polychrome floral motifs. Its doublures have blue filigree work in the central ovals and cornerpieces. It is attributable to the 10th century AH/AD 16th and may be original to the manuscript.",
+    "Dimensions": "Folio H: 10 5/8 x W: 6 5/16 in. (27.0 x 16.0 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33820,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.621_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.621_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.621_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.621_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.621_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Illumination; Illustration; Manuscript; Original Binding; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on cream and pink-tinted laid paper covered with lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2340,
+        "LocationString": null
+    },
+    "ObjectID": 22224,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.621",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81951,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81952,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81953,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81954,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81955,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/22224",
+    "SortNumber": "W        621                                            ",
+    "Style": null,
+    "Title": "The Orchard (Bustan)"
+}

@@ -1,0 +1,119 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": "Egyptian",
+    "DateBeginYear": 1,
+    "DateEndYear": 200,
+    "DateText": "1st-2nd century",
+    "Description": "Special instruments were used by priests and priestesses to invoke the deities or to perform rituals before them. One of the most important instruments was the sistrum, a rattle associated with the goddess Hathor. The goddess's face is often incorporated into the sistrum's design, as is, in this example, an image of the god Bes, which serves as the object's handle. Inside of the naos-shaped top is a small cat below the clappers. \r\n\r\n",
+    "Dimensions": "6 15/16 in. (17.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Daily Magic in Ancient Egypt",
+            "ExhibBeginDate": "2006-12-02",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "December 2, 2006-November 25, 2007",
+            "ExhibEndDate": "2007-11-25",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Daily Magic in Ancient Egypt. The Walters Art Museum, Baltimore. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52389,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.493_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.493_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.493_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.493_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.493_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52386,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.493_3QtrLft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.493_3QtrLft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.493_3QtrLft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.493_3QtrLft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.493_3QtrLft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52388,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.493_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.493_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.493_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.493_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.493_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 52387,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.493_3QtrRt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.493_3QtrRt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.493_3QtrRt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.493_3QtrRt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.493_3QtrRt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 401,
+        "LocationString": null
+    },
+    "ObjectID": 15898,
+    "ObjectName": "sistra",
+    "ObjectNumber": "54.493",
+    "OnView": 0,
+    "Period": "Roman",
+    "Provenance": "[Found in Upper Egypt]; Dikran Kelekian, New York and Paris; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15898",
+    "SortNumber": "    54   493                                            ",
+    "Style": null,
+    "Title": "Naos-Sistrum with Bes-Shaped Handle"
+}

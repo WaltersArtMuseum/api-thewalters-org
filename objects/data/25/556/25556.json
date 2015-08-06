@@ -1,0 +1,135 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1300,
+    "DateEndYear": 1400,
+    "DateText": "1300-1400",
+    "Description": null,
+    "Dimensions": "Folio H: 8 1/4 x W: 5 11/16 in. (21 x 14.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Time Sanctified: The Book of Hours in Medieval Art and Life",
+            "ExhibBeginDate": "1988-04-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 23, 1988-July 17, 1988",
+            "ExhibEndDate": "1988-07-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 87,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Time Sanctified: The Book of Hours in Medieval Art and Life. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "Decadent Decades: The Medieval Clothes Horse",
+            "ExhibBeginDate": "1989-01-10",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "January 10, 1989-April 9, 1989",
+            "ExhibEndDate": "1989-04-09",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2314,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Decadent Decades: The Medieval Clothes Horse. The Walters Art Gallery, Baltimore. 1989."
+        },
+        {
+            "ExhTitle": "Saints and Their Symbols",
+            "ExhibBeginDate": "1985-12-17",
+            "ExhibBeginYear": 1985,
+            "ExhibDisplayDate": "December 17, 1985-February 9, 1986",
+            "ExhibEndDate": "1986-02-09",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2873,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Saints and Their Symbols. The Walters Art Gallery, Baltimore. 1985-1986."
+        },
+        {
+            "ExhTitle": "Real People in the Middle Ages: Donor Portraits in Illuminated Manuscripts",
+            "ExhibBeginDate": "1987-04-07",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "April 7, 1987-June 14, 1987",
+            "ExhibEndDate": "1987-06-14",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 111,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Real People in the Middle Ages: Donor Portraits in Illuminated Manuscripts. The Walters Art Gallery, Baltimore. 1987."
+        },
+        {
+            "ExhTitle": "Age of Chivalry: Art in Plantagenet England 1200-1400",
+            "ExhibBeginDate": "1987-11-06",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "November 6, 1987-March 6, 1988",
+            "ExhibEndDate": "1988-03-06",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 3033,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Age of Chivalry: Art in Plantagenet England 1200-1400. Royal Academy of Arts, London. 1987-1988."
+        }
+    ],
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 16936,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.105.15R_ObvDet_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.105.15R_ObvDet_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.105.15R_ObvDet_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.105.15R_ObvDet_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.105.15R_ObvDet_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, gold and silver leaf on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2509,
+        "LocationString": null
+    },
+    "ObjectID": 25556,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.105",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Boteler Family, Shropshire, Diocese of Lichfield, by commission; John Boykett Jarman, England, by 1846 [date and mode of acquisition unknown]; T. Taylor, Wakefield [date and mode of acquisition unknown, but exhibited in 1878]; Leon Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest. \r\n\r\nFive additional leaves: Jean-Marie Le Fell, Paris [date and mode of acquisition unknown]; Sam Fogg, London, [date of acquisition unknown] by purchase; Walters Art Museum, 1994, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 6722,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 13086,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79285,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80076,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/25556",
+    "SortNumber": "W        105                                            ",
+    "Style": "Gothic",
+    "Title": "Book of Hours"
+}

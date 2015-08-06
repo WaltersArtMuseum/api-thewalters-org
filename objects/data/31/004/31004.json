@@ -1,0 +1,88 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After painting by Charles Le Brun (French, 1619-1690)",
+            "CreatorID": 5681,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Josiah Wedgwood (English, 1730-1795)",
+            "CreatorID": 4325,
+            "Gender": "male",
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1800,
+    "DateText": "late 18th century",
+    "Description": "This pair of jasperware vases (with WAM 48.867) have a blue ground, and are decorated with a relief depicting the car of Venus with putti on clouds, they sit on jasper plinths. The handles are wrapped around with snakes in white. The relief of Venus in her chariot drawn by swans is after Charles Le Brun (1629-90), the French painter and principle decorative artist of the reign of Louis XIV. After many experiments Wedgwood perfected jasperware in 1775. The use of a shallow relief in white on a colored ground was inspired by ancient Roman cameo glass.",
+    "Dimensions": "H: 15 5/8 in. (39.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468740,
+            "GeographyTerm": "Staffordshire",
+            "Latitude": "52 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.883,
+            "Longitude": "002 02",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.33
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468740,
+            "GeographyTerm": "Staffordshire",
+            "Latitude": "52 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.883,
+            "Longitude": "002 02",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.33
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44690,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.867_Fnt_BW_5089.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.867_Fnt_BW_5089.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.867_Fnt_BW_5089.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.867_Fnt_BW_5089.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.867_Fnt_BW_5089.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Maker's mark] With short incised line: WEDGWOOD",
+    "Keywords": "Venus; Putti",
+    "Medium": "jasperware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5169,
+        "LocationString": null
+    },
+    "ObjectID": 31004,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.867",
+    "OnView": 0,
+    "Period": "Neoclassical",
+    "Provenance": "George R. Harding Collection, London, until 1911; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-12-13T22:00:01.067",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31004",
+    "SortNumber": "    48   867                                            ",
+    "Style": "Neoclassical",
+    "Title": "Venus in her Chariot drawn by Swans"
+}

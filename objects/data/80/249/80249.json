@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Diqu\u00eds",
+            "CreatorID": 31465,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John G. Bourne, 2013",
+    "Culture": "Diqu\u00eds",
+    "DateBeginYear": 1000,
+    "DateEndYear": 1500,
+    "DateText": "AD 1000-1500",
+    "Description": null,
+    "Dimensions": "H: 5 x W: 4 5/16 x D: 4 5/16 in. (12.7 x 11 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 607790,
+            "GeographyTerm": "Costa Rica",
+            "Latitude": "10 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 10.0,
+            "Longitude": "084 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -84.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27207,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27208,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.94_SideB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5544,
+        "LocationString": null
+    },
+    "ObjectID": 80249,
+    "ObjectName": "tripods; vessels",
+    "ObjectNumber": "2009.20.94",
+    "OnView": 0,
+    "Period": "Period VI",
+    "Provenance": "Stendahl Galleries, Los Angeles; purchased by John G. Bourne, Santa Fe, New Mexico, between 1940 and 1949; given to Walters Art Museum, 2013.",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80249",
+    "SortNumber": "  2009    20   94                                       ",
+    "Style": null,
+    "Title": "Tripod Vessel"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1468,
+    "DateEndYear": 1492,
+    "DateText": "ca. 1480-90",
+    "Description": "Archery contests were not only fun but also a way of encouraging medieval men to learn this valuable skill. Excellent archers could make all the difference in battle; in England, men were required by law to learn how to use a bow. Note the artist's irreverently playful juxtaposition of imagery here; just above the archery contest, St. Sebastian is being martyred in a barrage of arrows.",
+    "Dimensions": "H: 6 11/16 x W: 4 3/4 in. (17 x 12 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27384,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_W.439.54_DetB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_W.439.54_DetB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_W.439.54_DetB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_W.439.54_DetB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_W.439.54_DetB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27383,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_W.439.54_DetA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_W.439.54_DetA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_W.439.54_DetA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_W.439.54_DetA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_W.439.54_DetA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink and tempera",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 81322,
+    "ObjectName": "manuscripts; folios (leaves)",
+    "ObjectNumber": "W.439.54R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, after 1894 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81322",
+    "SortNumber": "W        439   54R                                      ",
+    "Style": null,
+    "Title": "Archery Contest"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Inca",
+            "CreatorID": 8560,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Inka",
+    "DateBeginYear": 1450,
+    "DateEndYear": 1550,
+    "DateText": "1450-1550",
+    "Description": null,
+    "Dimensions": "H: 13 1/4 x W: 9 3/4 x D: 7 1/8 in. (33.7 x 24.77 x 18.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19174,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2834_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2834_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2834_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2834_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2834_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19177,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2834_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2834_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2834_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2834_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2834_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19176,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2834_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2834_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2834_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2834_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2834_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 19175,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2834_3QtrLft_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2834_3QtrLft_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2834_3QtrLft_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2834_3QtrLft_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2834_3QtrLft_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5574,
+        "LocationString": null
+    },
+    "ObjectID": 79379,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2834",
+    "OnView": 0,
+    "Period": "Late Horizon",
+    "Provenance": "Economos Works of Art, Santa Fe, New Mexico [date and mode of acquisition unknown]; Private collection, 1991, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-28T09:17:53.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79379",
+    "SortNumber": "    48  2834                                            ",
+    "Style": "Chimu Inka",
+    "Title": "Vessel of Spirit Man on Gourd"
+}

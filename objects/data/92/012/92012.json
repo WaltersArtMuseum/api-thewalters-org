@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "English",
+    "DateBeginYear": 19,
+    "DateEndYear": 19,
+    "DateText": "19th century",
+    "Description": "This binding is not original to the manuscript, but rather was added in the nineteenth century. It is made of light brown calfskin with narrow decorative roll around the edges and on the spine. The title is stamped and gilded on  spine. The interior covers have multicolored, comb-marbled pastedowns.",
+    "Dimensions": "H: 9 7/16 \u00d7 W: 6 7/8 in. (24 \u00d7 17.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55381,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.81.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.81.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.81.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.81.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.81.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "light brown calf, gilding on spine",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 92012,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.81.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, before 1931; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2013-12-07T01:00:02.347",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/92012",
+    "SortNumber": "W         81binding                                     ",
+    "Style": null,
+    "Title": "Binding from History of the Destruction of Troy"
+}

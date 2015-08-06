@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1662,
+    "DateEndYear": 1916,
+    "DateText": "1662-1916",
+    "Description": null,
+    "Dimensions": "H: 53 1/2 x W: 30 11/16 in. (135.9 x 78 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24577,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.96_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.96_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.96_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.96_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.96_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "colors and gold on paper mounted on cloth on a stretcher",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3407,
+        "LocationString": null
+    },
+    "ObjectID": 14895,
+    "ObjectName": "kakemonos; scroll paintings; portraits",
+    "ObjectNumber": "35.96",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-04-13T16:18:25.693",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14895",
+    "SortNumber": "    35    96                                            ",
+    "Style": null,
+    "Title": "Ancestor Portrait of an Aged Man Seated"
+}

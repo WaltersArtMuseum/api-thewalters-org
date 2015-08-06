@@ -1,0 +1,113 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Vincenzo di Biagio Catena (Italian, ca. 1470-1531) (?)",
+            "CreatorID": 4776,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Marco Basaiti (Italian, active 15th-16th century) (?)",
+            "CreatorID": 2143,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1498,
+    "DateEndYear": 1522,
+    "DateText": "ca. 1510",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 269, pp. 394-396.",
+    "Dimensions": "Painted surface H: 38 7/8 x W: 52 1/2 in. (98.8 x 133.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Giorgione and his Circle",
+            "ExhibBeginDate": "1942",
+            "ExhibBeginYear": 1942,
+            "ExhibDisplayDate": "1942",
+            "ExhibEndDate": "1942",
+            "ExhibEndYear": 1942,
+            "ExhibitionID": 2246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Giorgione and his Circle. Johns Hopkins University, Baltimore. 1942."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41520,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.594_Fnt_TR_T00III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.594_Fnt_TR_T00III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.594_Fnt_TR_T00III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.594_Fnt_TR_T00III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.594_Fnt_TR_T00III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37007,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.594_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.594_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.594_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.594_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.594_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3334,
+        "LocationString": null
+    },
+    "ObjectID": 5803,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.594",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 73, as Cima; 1897 catalogue: no. 380, as Basaiti]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5803",
+    "SortNumber": "    37   594                                            ",
+    "Style": null,
+    "Title": "Saint Jerome in the Wilderness"
+}

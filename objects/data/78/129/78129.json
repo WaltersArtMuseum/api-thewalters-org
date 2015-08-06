@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mori Ippo (Japanese, 1798-1871)",
+            "CreatorID": 4935,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 1990",
+    "Culture": null,
+    "DateBeginYear": 1828,
+    "DateEndYear": 1852,
+    "DateText": "ca. 1840-1850",
+    "Description": null,
+    "Dimensions": "H: 69 7/8 x W:38 in. (177.5 x 96.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Osaka\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492832,
+            "GeographyTerm": "Osaka",
+            "Latitude": "34 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.666,
+            "Longitude": "135 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41175,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_35.152-155_Fnt_TR_T90II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_35.152-155_Fnt_TR_T90II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_35.152-155_Fnt_TR_T90II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_35.152-155_Fnt_TR_T90II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_35.152-155_Fnt_TR_T90II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "animal; bird; peacock; peahen; plant; prunus",
+    "Medium": "ink, color and gold leaf on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2460,
+        "LocationString": null
+    },
+    "ObjectID": 78129,
+    "ObjectName": "fusuma",
+    "ObjectNumber": "VO.99 (35.152, 35.153, 35.154, 35.155)",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "[Dealer] Tokyo; Klaus Nauman, Japan, 1983-1984, by purchase; [Dealer] Honolulu, Hawaii; Julia Meech, New York, 1987-1988, by purchase [in Honolulu]; Walters Art Museum, 1990, by purchase.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 78072,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/78129",
+    "SortNumber": "VO        99                                            ",
+    "Style": null,
+    "Title": "Peacock and Peahen with Flowering Prunus"
+}

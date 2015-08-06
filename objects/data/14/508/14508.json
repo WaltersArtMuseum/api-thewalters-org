@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1906",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 100,
+    "DateText": "AD 1st century",
+    "Description": null,
+    "Dimensions": "H: 3 1/4 in. (8.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1439081,
+            "GeographyTerm": "Calabria",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "016 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 35267,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.818_Fnt_NG_1661.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.818_Fnt_NG_1661.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.818_Fnt_NG_1661.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.818_Fnt_NG_1661.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.818_Fnt_NG_1661.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 425,
+        "LocationString": null
+    },
+    "ObjectID": 14508,
+    "ObjectName": "heads; busts; fragments",
+    "ObjectNumber": "54.818",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Canessa Collection; Henry Walters, Baltimore, 1906, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-08-23T09:30:52.293",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14508",
+    "SortNumber": "    54   818                                            ",
+    "Style": null,
+    "Title": "Head of Mercury (?)"
+}

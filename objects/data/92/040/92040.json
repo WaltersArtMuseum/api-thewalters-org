@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dutch",
+            "CreatorID": 6227,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Christian; Dutch",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "This non-original Eighteenth-century Dutch binding is made of marbleized brown calf over paste-board, thin gold decoration around border of covers, with gold decoration and the word \"Manuscriptu\" inscribed on spine.",
+    "Dimensions": "Folio H: 11.2 x W: 7.2 cm",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56103,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.198.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.198.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.198.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.198.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.198.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56104,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.198.binding_Spine_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.198.binding_Spine_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.198.binding_Spine_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.198.binding_Spine_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.198.binding_Spine_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Manuscript; Book; Illumination; Devotion; Geomancy",
+    "Medium": "paste-board covered with brown calf, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 92040,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.198.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/92040",
+    "SortNumber": "W        198binding                                     ",
+    "Style": null,
+    "Title": "Binding from Dominican Psalter"
+}

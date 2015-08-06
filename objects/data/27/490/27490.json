@@ -1,0 +1,92 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1946",
+    "Culture": "Byzantine",
+    "DateBeginYear": 600,
+    "DateEndYear": 699,
+    "DateText": "7th century",
+    "Description": null,
+    "Dimensions": "H: 13/16 in. (2.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Sacred Souvenirs: Byzantine Pilgrimage Art",
+            "ExhibBeginDate": "1982-05-04",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 4, 1982-September 6, 1982",
+            "ExhibEndDate": "1982-09-06",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 717,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Sacred Souvenirs: Byzantine Pilgrimage Art. Dumbarton Oaks, Washington. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Akdeniz kiyisi\\provinces\\Hatay Ili\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1502059,
+            "GeographyTerm": "Antakya",
+            "Latitude": "36 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.233,
+            "Longitude": "036 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.116
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39109,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1940_Fnt_BW_9014.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1940_Fnt_BW_9014.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1940_Fnt_BW_9014.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1940_Fnt_BW_9014.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1940_Fnt_BW_9014.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "brown earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 885,
+        "LocationString": null
+    },
+    "ObjectID": 27490,
+    "ObjectName": "tokens",
+    "ObjectNumber": "48.1940",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Walters Art Museum, 1946, by purchase.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 31121,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 38899,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/27490",
+    "SortNumber": "    48  1940                                            ",
+    "Style": null,
+    "Title": "Pilgrim Token from the Shrine of St. Simeon the Stylite"
+}

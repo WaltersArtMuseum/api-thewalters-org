@@ -1,0 +1,143 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kano Toshun (Japanese, 1747-1797)",
+            "CreatorID": 3232,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1747,
+    "DateEndYear": 1797,
+    "DateText": "1747-1797",
+    "Description": null,
+    "Dimensions": "H: 8 1/16 x W: 9 1/2 in. (20.5 x 24.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23401,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_35.173_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_35.173_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_35.173_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_35.173_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_35.173_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23961,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_35.173_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_35.173_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_35.173_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_35.173_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_35.173_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature]; [Seal]",
+    "Keywords": null,
+    "Medium": "ink and colors on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2429,
+        "LocationString": null
+    },
+    "ObjectID": 18751,
+    "ObjectName": "albums; paintings",
+    "ObjectNumber": "35.173",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest (?) [accessioned 1991].",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 80137,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80138,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80139,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80140,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80141,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80142,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80143,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80144,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80145,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80146,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80147,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80148,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80149,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80150,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80151,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/18751",
+    "SortNumber": "    35   173                                            ",
+    "Style": null,
+    "Title": "Album of Birds and Flowers"
+}

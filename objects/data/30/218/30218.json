@@ -1,0 +1,75 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -323,
+    "DateEndYear": -30,
+    "DateText": "323-30 BC",
+    "Description": "This gem is carved in intaglio on a convex amethyst. The piece is mounted in a necklace, Walters 57.1534.",
+    "Dimensions": "H: 3/4 in. (1.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32325,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_42.838_DetA_TR_C79II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_42.838_DetA_TR_C79II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_42.838_DetA_TR_C79II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_42.838_DetA_TR_C79II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_42.838_DetA_TR_C79II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "amethyst",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 30218,
+    "ObjectName": "intaglios; gems",
+    "ObjectNumber": "42.838",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3818,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30218",
+    "SortNumber": "    42   838                                            ",
+    "Style": null,
+    "Title": "Intaglio with Aphrodite Holding a Basin"
+}

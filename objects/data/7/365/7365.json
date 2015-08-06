@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "English",
+    "DateBeginYear": 1118,
+    "DateEndYear": 1142,
+    "DateText": "ca. 1130",
+    "Description": "A frontal human face adorns the place where the two halves of this letter \"M\" are joined. The rest of the letterform is adorned with spiraling vine-scrolls sprouting succulent foliage.",
+    "Dimensions": "H: 15 3/16 x W: 11 1/8 in. (38.5 x 28.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Saint John's Bible: A Modern Vision through Medieval Methods",
+            "ExhibBeginDate": "2009-02-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "February 15, 2009-May 24, 2009",
+            "ExhibEndDate": "2009-05-24",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2059,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Saint John's Bible: A Modern Vision through Medieval Methods. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Northumberland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468365,
+            "GeographyTerm": "Rochester",
+            "Latitude": "55 16",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 55.266,
+            "Longitude": "002 16",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.266
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37594,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.18.221V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.18.221V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.18.221V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.18.221V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.18.221V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Walters Art Museum; Romanesque; Inhabited initial; Scripture",
+    "Medium": "ink and pigments on cream-colored parchment of medium thickness",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 7365,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.18.221V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Priory scriptorium of Rochester Cathedral, England, 12th century [possible reference in catalog in Textus Roffensis, Rochester Cathedral Library Ms. A.3.5, fol. 230r; more certain reference in 1202 library catalog in British Library Ms. Royal 5 B.XII, fol. 2r];  Leon Gruel, Paris, before 1931 [mode of acquisition unknown, no. 1138];  Henry Walters, Baltimore, before 1931, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7365",
+    "SortNumber": "W         18  221V                                      ",
+    "Style": "Romanesque",
+    "Title": "Initial \"M\" (Multifarie multisque)"
+}

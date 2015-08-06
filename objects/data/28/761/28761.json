@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2001",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1800,
+    "DateText": "1775-1800",
+    "Description": "Krishna dances at the center between two groups of admiring gopi. Those on his left form an orchestra, while those on his right serve as an appreciative audience.",
+    "Dimensions": "7 1/2 x 6 3/8 in. (19.1 x 16.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\Karnataka\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1504604,
+            "GeographyTerm": "Shorapur",
+            "Latitude": "16 31",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 16.516,
+            "Longitude": "076 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 76.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55336,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.858_Fnt_TR_AJ98.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.858_Fnt_TR_AJ98.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.858_Fnt_TR_AJ98.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.858_Fnt_TR_AJ98.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.858_Fnt_TR_AJ98.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 3062,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.858_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.858_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.858_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.858_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.858_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 28761,
+    "ObjectName": "miniatures",
+    "ObjectNumber": "W.858",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2001, by gift.",
+    "PublicAccessDate": "2008-09-25T17:09:36.323",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28761",
+    "SortNumber": "W        858                                            ",
+    "Style": null,
+    "Title": "Krishna Dancing with Gopi"
+}

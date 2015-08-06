@@ -1,0 +1,113 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian (?)",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Sri Lankan (?)",
+            "CreatorID": 5172,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1926",
+    "Culture": "Hittite",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 2 11/16 x W: 1 1/16 x D: 3/4 in. (6.83 x 2.68 x 1.91 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Undercover Stories in Art",
+            "ExhibBeginDate": "1980-04-20",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "April 20, 1980-June 1, 1980",
+            "ExhibEndDate": "1980-06-01",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2672,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Undercover Stories in Art. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42271,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.360_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.360_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.360_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.360_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.360_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 42270,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.360_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.360_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.360_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.360_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.360_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 42269,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.360_3Qtr_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.360_3Qtr_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.360_3Qtr_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.360_3Qtr_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.360_3Qtr_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "rock crystal",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1462,
+        "LocationString": null
+    },
+    "ObjectID": 30289,
+    "ObjectName": "figurines",
+    "ObjectNumber": "42.360",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1926, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.61",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30289",
+    "SortNumber": "    42   360                                            ",
+    "Style": null,
+    "Title": "Figurine of a Child"
+}

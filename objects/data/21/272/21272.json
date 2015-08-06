@@ -1,0 +1,352 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yar Muhammad al-Haravi (Islamic, active ca. 922 AH/AD 1516)",
+            "CreatorID": 18134,
+            "Gender": "male",
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Nizami Ganjavi (Azerbaijani, died 605 AH/AD 1209)",
+            "CreatorID": 7689,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "'Abd al-Wahhab ibn 'Abd al-Fattah ibn 'Ali (Islamic, active ca. 922 AH/AD 1516)",
+            "CreatorID": 18135,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1516,
+    "DateEndYear": 1516,
+    "DateText": "922 AH/AD 1516",
+    "Description": "This illuminated and illustrated copy of the Khamsah (quintet) of Nizami Ganjavi (died 605 AH/AD 1209), Walters manuscript W.609, was written by Yar Muhammad al-Haravi in 922 AH/AD 1516. Written in 4 columns in black Nasta'liq script, this manuscript opens with a double-page illuminated frontispiece signed by 'Abd al-Wahhab ibn 'Abd al-Fattah ibn 'Ali. It contains 35 illustrations that were repainted in India during the 12th century AH/AD 18th. The seal of Muhammad Asharf ibn Muhammad Khatam al-Husayni, dated 1173 AH/AD 1759-1760 appears on fols. 1a and 401a. It is possible that the brown leather binding with center and side panels brushed with gold is original to the manuscript but was repaired at a later stage in the codex's history.",
+    "Dimensions": "Folio H: 11 7/16 x W: 6 7/8 in. (29 x 17.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521663,
+            "GeographyTerm": "Afghanestan",
+            "Latitude": "33 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.0,
+            "Longitude": "065 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 65.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521663,
+            "GeographyTerm": "Afghanestan",
+            "Latitude": "33 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.0,
+            "Longitude": "065 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 65.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521663,
+            "GeographyTerm": "Afghanestan",
+            "Latitude": "33 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.0,
+            "Longitude": "065 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 65.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27510,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopClsd_DD_UpperBoardOutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopClsd_DD_UpperBoardOutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopClsd_DD_UpperBoardOutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopClsd_DD_UpperBoardOutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopClsd_DD_UpperBoardOutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27511,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopOpn_DD_Upperboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopOpn_DD_Upperboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopOpn_DD_Upperboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopOpn_DD_Upperboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.609.BINDING_TopOpn_DD_Upperboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 27509,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.609.binding_OpnBot_DD_Lowerboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.609.binding_OpnBot_DD_Lowerboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.609.binding_OpnBot_DD_Lowerboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.609.binding_OpnBot_DD_Lowerboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.609.binding_OpnBot_DD_Lowerboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 27507,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.609.Binding_BotClsd_DD_LowerBoardOutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.609.Binding_BotClsd_DD_LowerBoardOutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.609.Binding_BotClsd_DD_LowerBoardOutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.609.Binding_BotClsd_DD_LowerBoardOutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.609.Binding_BotClsd_DD_LowerBoardOutside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 27508,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.609.binding_Clsd_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.609.binding_Clsd_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.609.binding_Clsd_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.609.binding_Clsd_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.609.binding_Clsd_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Illustration; Manuscript; Contemporary Binding; India; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on buff-colored laid paper covered with brown leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2335,
+        "LocationString": null
+    },
+    "ObjectID": 21272,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.609",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Muhammad Asharf ibn Muhammad Khatam al-Husayni, 1173 AH/AD 1759-1760 [date and mode of acquisition unknown] [seal impression on fols. 1a and 401a]; Husayn \u2026[?], 1308 AH/AD 1890-1891 [date and mode of acquisition unknown] [ownership statement on fol. 1b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3809,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5333,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81257,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81258,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81259,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81260,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81261,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81262,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81263,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81264,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81265,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81266,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81267,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81268,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81269,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81270,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81271,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81272,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81273,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81274,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81275,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81276,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81277,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81278,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81279,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81280,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81281,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81282,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81283,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81284,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81285,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81286,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81287,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81288,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81289,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81290,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81291,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81292,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81293,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81294,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81295,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81296,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81297,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81298,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81306,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81307,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21272",
+    "SortNumber": "W        609                                            ",
+    "Style": null,
+    "Title": "Five Poems (Quintet)"
+}

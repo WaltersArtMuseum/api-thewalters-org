@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of the Vitae Imperatorum (Italian, active 1431-1459)",
+            "CreatorID": 4650,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1418,
+    "DateEndYear": 1442,
+    "DateText": "ca. 1430",
+    "Description": null,
+    "Dimensions": "6 x 4 in. (15.2 x 10.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437821,
+            "GeographyTerm": "Lombardia",
+            "Latitude": "45 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.666,
+            "Longitude": "009 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2676,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.332.220R_OpnObv_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.332.220R_OpnObv_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.332.220R_OpnObv_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.332.220R_OpnObv_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.332.220R_OpnObv_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 35813,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.332.220R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L. S. Olschki;  Henry Walters, Baltimore, after 1910, by purchase [Cat. no. 74 of 1910, no. 12, inv. no. 30790, list of ca. 1912, no. 44];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35813",
+    "SortNumber": "W        332  220R                                      ",
+    "Style": null,
+    "Title": "Leaf from Breviary"
+}

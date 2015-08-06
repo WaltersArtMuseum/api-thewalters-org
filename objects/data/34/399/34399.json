@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Coptic",
+            "CreatorID": 6833,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 401,
+    "DateEndYear": 600,
+    "DateText": "5th-6th century (?)",
+    "Description": null,
+    "Dimensions": "Diam: 11/16 in. (1.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38749,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.653_Fnt_BW_5557.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.653_Fnt_BW_5557.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.653_Fnt_BW_5557.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.653_Fnt_BW_5557.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.653_Fnt_BW_5557.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 454,
+        "LocationString": null
+    },
+    "ObjectID": 34399,
+    "ObjectName": "buttons",
+    "ObjectNumber": "54.653",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-04-23T22:00:00.967",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34399",
+    "SortNumber": "    54   653                                            ",
+    "Style": null,
+    "Title": "Button"
+}

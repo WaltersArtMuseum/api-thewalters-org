@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean-Antoine-Th\u00e9odore de Gudin (French, 1802-1880)",
+            "CreatorID": 5469,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1828,
+    "DateEndYear": 1828,
+    "DateText": "1828",
+    "Description": "Jean-Antoine-Th\u00e9odore de Gudin is best known for his large-scale paintings of sea battles and violent shipwrecks. This peaceful marshy landscape is in sharp contrast to the artist's many battleship scenes, which earned de Gudin the title of \"Peintre de la Marine,\" the official painter of the French royal fleet.",
+    "Dimensions": "H: 6 1/8 x W: 9 3/16 in. (15.5 x 23.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "Setting Sail: Drawings of the Sea from WAM",
+            "ExhibBeginDate": "2011-06-18",
+            "ExhibBeginYear": 2011,
+            "ExhibDisplayDate": "June 18, 2011-September 11, 2011",
+            "ExhibEndDate": "2011-09-11",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2987,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Setting Sail: Drawings of the Sea from WAM. The Walters Art Museum, Baltimore. 2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31789,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1631_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1631_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1631_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1631_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1631_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"T. Gudin, 1828\" in ink, lower left; \"45\" and \"56\" in graphite, verso",
+    "Keywords": "transportation; landscape; marine; landscape",
+    "Medium": "brown ink wash with scraping and graphite underdrawing on cream, moderately thick, moderately textured, wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6372,
+        "LocationString": null
+    },
+    "ObjectID": 39358,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1631",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T14:24:08.01",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39358",
+    "SortNumber": "    37  1631                                            ",
+    "Style": null,
+    "Title": "Riverscape with Boats"
+}

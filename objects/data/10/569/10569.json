@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Adolf Leel (German, 19th century)",
+            "CreatorID": 4614,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1864,
+    "DateEndYear": 1864,
+    "DateText": "1864",
+    "Description": "Leel, who drew this medieval scene, remains unknown except for this work.",
+    "Dimensions": "H: 8 1/4 x W: 6 in. (20.9 x 15.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Medley of German Drawings",
+            "ExhibBeginDate": "1996-04-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "April 17, 1996-September 1, 1996",
+            "ExhibEndDate": "1996-09-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2179,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medley of German Drawings. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48051,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1318_Fnt_BW_C82.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1318_Fnt_BW_C82.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1318_Fnt_BW_C82.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1318_Fnt_BW_C82.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1318_Fnt_BW_C82.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature and date] Lower left: A. Leel 64.",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5302,
+        "LocationString": null
+    },
+    "ObjectID": 10569,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1318",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10569",
+    "SortNumber": "    37  1318                                            ",
+    "Style": null,
+    "Title": "Medieval Cloister, Wintertime"
+}

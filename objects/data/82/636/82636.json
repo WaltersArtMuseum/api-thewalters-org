@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Abu al-Hasan al-Shadhili (died 656 AH/AD 1258)",
+            "CreatorID": 16852,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This folio from Walters manuscript W.578 includes a bequest (waqf) statement in the name of Sultan 'Uthman Khan III (reigned 1168-1171 AH/AD 1754-1757) that is signed by Ibrahim Hanif, inspector of awqaf. Seals, apparently of the Sultan and the inspector, are erased.",
+    "Dimensions": "H: 12 3/8 x W: 8 7/16 in. (31.5 x 21.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31214,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.578.2a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.578.2a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.578.2a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.578.2a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.578.2a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Manuscript; Ottoman; Prayer; Turkey",
+    "Medium": "ink and pigments on gold-sprinkled paper and tan tinted paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 82636,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.578.2A",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Sultan 'Uthman Khan III, son of Mustafa II (reigned 1168-1171 AH/AD 1754-1757) [date and mode of acquisition unknown] [waqf entry in the name of the Sultan signed by Ibrahim Hanif, inspector of awqaf on fol. 2a and seals of the Sultan and the inspector erased]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/82636",
+    "SortNumber": "W        578    2A                                      ",
+    "Style": null,
+    "Title": "Bequest Statement with Erased Seals"
+}

@@ -1,0 +1,122 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bartolomeo Sanvito (Italian, 1435/8-after 1518)",
+            "CreatorID": 8167,
+            "Gender": "male",
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Giovanni della Casa (Italian)",
+            "CreatorID": 2113,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1448,
+    "DateEndYear": 1472,
+    "DateText": "ca.1460",
+    "Description": null,
+    "Dimensions": "Folio H: 6 1/8 x W: 4 1/8 in. (15.6 x 10.5 cm); Closed H: 6 5/16 \u00d7 W: 4 5/16 \u00d7 D: 1/2 in. (16.1 \u00d7 11 \u00d7 1.3 cm); Open H: 3 9/16 \u00d7 W: 5 7/8 \u00d7 D: 6 5/16 in. (9 \u00d7 15 \u00d7 16.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14519,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.405.2R_ObvDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.405.2R_ObvDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.405.2R_ObvDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.405.2R_ObvDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.405.2R_ObvDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4057,
+        "LocationString": null
+    },
+    "ObjectID": 2658,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.405",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Piero del Medici of Florence [made as a presentation copy];  Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase [early cat. no. 389, inv. no 2571];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 27687,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36843,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/2658",
+    "SortNumber": "W        405                                            ",
+    "Style": "Renaissance",
+    "Title": "Life of Alphonso VI, King of Aragon and Naples (1416-1458)"
+}

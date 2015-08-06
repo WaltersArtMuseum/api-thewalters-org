@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Adolphe Rajon (French, 1842/3-1888)",
+            "CreatorID": 4531,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Warren Delano IV, 1977",
+    "Culture": null,
+    "DateBeginYear": 1874,
+    "DateEndYear": 1898,
+    "DateText": "ca. 1886",
+    "Description": null,
+    "Dimensions": "12 x 9 3/16 in. (30.5 x 23.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 433,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2543_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2543_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2543_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2543_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2543_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Rajon drawing from life H.W.\" [Henry Walters] in lower right",
+    "Keywords": "man; profile; portrait; historical; portrait",
+    "Medium": "black crayon with white heightening on green-gray, moderately thick, moderately textured, cartridge-style laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2255,
+        "LocationString": null
+    },
+    "ObjectID": 37428,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2543",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Warren Delano IV [great-nephew of the sitter], New York [date and mode of acquisition unknown]; Walters Art Museum, 1977, by gift.",
+    "PublicAccessDate": "2008-12-01T14:17:45.96",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 16312,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/37428",
+    "SortNumber": "    37  2543                                            ",
+    "Style": null,
+    "Title": "Portrait of William T. Walters"
+}

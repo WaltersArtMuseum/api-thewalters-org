@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bellemare Group (?)",
+            "CreatorID": 16487,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1523,
+    "DateEndYear": 1547,
+    "DateText": "ca. 1535",
+    "Description": null,
+    "Dimensions": "H: 7 1/16 x W: 4 3/4 in. (18 x 12 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 59844,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/KPS_W.451.27r_DD_111220081.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/KPS_W.451.27r_DD_111220081.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/KPS_W.451.27r_DD_111220081.jpg",
+                "Small": "http://static.thewalters.org/images/KPS_W.451.27r_DD_111220081.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/KPS_W.451.27r_DD_111220081.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11806,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.451.27R_OpnObv_TR_T89II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.451.27R_OpnObv_TR_T89II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.451.27R_OpnObv_TR_T89II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.451.27R_OpnObv_TR_T89II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.451.27R_OpnObv_TR_T89II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78377,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.451.27R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Jean Lallemant the Younger (d. 1548) [date and mode of acquisition unknown]; Gruel [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78377",
+    "SortNumber": "W        451   27R                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Hours"
+}

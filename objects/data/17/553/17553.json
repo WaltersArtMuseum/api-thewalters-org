@@ -1,0 +1,134 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Saint John Climacus (Syrian, 579-649)",
+            "CreatorID": 7288,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Master of the Revelations of Saint Bridget of Siena",
+            "CreatorID": 7289,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1375,
+    "DateEndYear": 1400,
+    "DateText": "late 14th century",
+    "Description": null,
+    "Dimensions": "folio: 9 1/2 x 6 9/16 in. (24.2 x 16.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14532,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.157.10V_RevDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.157.10V_RevDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.157.10V_RevDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.157.10V_RevDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.157.10V_RevDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2306,
+        "LocationString": null
+    },
+    "ObjectID": 17553,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.157",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Nicolo da Martino;  Howell Wills [date and mode of acquisition unknown];  Sale, London, July 11, 1894, no. 482;  Quaritch, July 11, 1894, by purchase;  L. S. Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase [inv. no. 35190, from the same library as W.291, (Walters Olim #) A.III.67];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 9603,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90565,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/17553",
+    "SortNumber": "W        157                                            ",
+    "Style": "Gothic",
+    "Title": "Scala Santa"
+}

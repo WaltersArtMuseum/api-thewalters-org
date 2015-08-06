@@ -1,0 +1,113 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ahmad ibn Muhammad ibn 'Ali al-Muqri al Fayyumi (died ca. 770 AH/AD 1368)",
+            "CreatorID": 15715,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Ali ibn Muhibb 'Ali",
+            "CreatorID": 15716,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1673,
+    "DateEndYear": 1673,
+    "DateText": "1083 AH/AD 1673",
+    "Description": "Walters manuscript W.590 is a manuscript copy of al-Misbah al-munir fi gharib al-Sharh al-Kabir by Ahmad ibn Muhammad al-Muqri al-Fayyumi (died ca. 770 AH/AD 1368). It is a dictionary of Islamic legal terms that was originally written as a gloss on the commentary of 'Abd al-Karim al-Rafi'i (died 623 AH/AD 1226) on al-Wajiz fi al-furu' by Abu Hamid Muhammad ibn Muhammad al-Ghazzali (died 505 AH/AD 1111), entitled Fath al-'aziz 'al\u00e1 kitab al-Wajiz. The manuscript was copied by the shi`ite scribe 'Ali ibn Muhibb 'Ali in 1083 AH/AD 1673 in Iran. The text was later collated with three other manuscripts in Mecca in 1166 AH/AD 1752 by Muhammad al-Atrabazundi. The light brown goatskin binding with gold-tooled oval central medallion, pendants, and cornerpieces is contemporary with the manuscript.",
+    "Dimensions": "Folio H: 11 x W: 6 5/16 in. (28 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31487,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31488,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Codex; Colophon; Headpiece; Iran; Islamic; Manuscript; Scripture",
+    "Medium": "ink and pigments on laid paper covered with light brown gold-tooled goatskin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2335,
+        "LocationString": null
+    },
+    "ObjectID": 15961,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.590",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Muhammad Afandi Tarabizani [date and mode of acquisition unknown] [see fol. 2a]; Ahmad ibn 'Abd Allah al-Kadharuni [date and mode of acquisition unknown] [see fol. 2a]; Isma'il al-Sayyid 'Ata' Allah al-Maliki al-Husayni, 1113 AH/AD 1701 [mode of acquisition unknown] [see seal on fol. 2a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 82637,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82638,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82639,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/15961",
+    "SortNumber": "W        590                                            ",
+    "Style": null,
+    "Title": "Glossary of Islamic Legal Terminology"
+}

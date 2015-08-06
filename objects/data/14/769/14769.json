@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pellegrino di Mariano Rossini (Italian, active 1449, died 1492)",
+            "CreatorID": 6713,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1449,
+    "DateEndYear": 1492,
+    "DateText": "1449-1492",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 80, pp. 123-124.",
+    "Dimensions": "Painted surface H, including repainted additions: 21 1/4 x W: 15 3/8 x D: 1 3/16 in. (54 x 39 x 3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29734,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.727_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.727_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.727_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.727_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.727_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48160,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.727_XR_1998_A.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.727_XR_1998_A.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.727_XR_1998_A.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.727_XR_1998_A.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.727_XR_1998_A.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 48161,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.727_XR_1998_B.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.727_XR_1998_B.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.727_XR_1998_B.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.727_XR_1998_B.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.727_XR_1998_B.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Transcription] On cross: INRI",
+    "Keywords": null,
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6456,
+        "LocationString": null
+    },
+    "ObjectID": 14769,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.727",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 75, as school of Fra Angelico]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14769",
+    "SortNumber": "    37   727                                            ",
+    "Style": null,
+    "Title": "The Crucifixion with Saints"
+}

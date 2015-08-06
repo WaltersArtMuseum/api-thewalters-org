@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Ottonian",
+    "DateBeginYear": 988,
+    "DateEndYear": 1012,
+    "DateText": "ca. 1000",
+    "Description": null,
+    "Dimensions": "H: 5 7/16 \u00d7 W: 4 5/16 in. (13.8 \u00d7 10.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Rheinland-Pfalz\\districts (national)\\Trier\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454192,
+            "GeographyTerm": "Trier",
+            "Latitude": "49 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.75,
+            "Longitude": "006 39",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.65
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55051,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.9.153R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.9.153R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.9.153R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.9.153R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.9.153R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Caroline minuscule; Codex; Manuscript; Calligraphy; Ornament; Liturgy",
+    "Medium": "ink and pigments on thin to medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 91915,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.9.153R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "L\u00e9on Gruel, Paris, early twentieth century, [mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-11-09T01:00:02.753",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91915",
+    "SortNumber": "W          9  153R                                      ",
+    "Style": null,
+    "Title": "Initial I"
+}

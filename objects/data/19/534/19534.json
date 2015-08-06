@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greco-Roman",
+            "CreatorID": 2185,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": null,
+    "DateBeginYear": -100,
+    "DateEndYear": 100,
+    "DateText": "100 BC-AD 100",
+    "Description": null,
+    "Dimensions": "H: 3 3/8 in. (8.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62620,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.1134_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.1134_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.1134_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.1134_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.1134_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 410,
+        "LocationString": null
+    },
+    "ObjectID": 19534,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.1134",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Castellani, Paris, 1884, no. 441 (?); Sambon Collection Sale, Paris, 1914, no. 63; Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1927, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19534",
+    "SortNumber": "    54  1134                                            ",
+    "Style": null,
+    "Title": "Child as Orator"
+}

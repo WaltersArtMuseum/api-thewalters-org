@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Saint Abbo of Fleury (ca. 945 - 1004)",
+            "CreatorID": 15152,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "In this diagram, the names of the seven planetary bodies \u2013 the Sun, the Moon, and the five known planets \u2013 are written along the vertical, at left. At top, along the horizontal, are the zodiacal names. One may follow the path of each planetary body through the zodiac by reading the graph from left to right. The diagram gives a sense not only of the independence of each planet's orbit, but also of the different lengths of time it took each planet to complete one circuit of the zodiac. Along the bottom of the diagram is a list of the planetary bodies, with their distances given as musical values -- a tone (tonus), a semitone (semitonium), or three semitones (tria semitonia) -- as well as an abbreviated account of interplanetary distances, given as proportions of the distance from Earth to the Moon.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56088,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.5V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.5V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.5V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.5V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.5V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 35532,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.5V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35532",
+    "SortNumber": "W         73    5V                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagram of Planetary Courses in the Zodiacal Signs"
+}

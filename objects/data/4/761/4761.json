@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thomas Couture (French, 1815-1879)",
+            "CreatorID": 6295,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1850,
+    "DateEndYear": 1850,
+    "DateText": "1850",
+    "Description": "This painting of the prodigal son as a forlorn youth seated next to a man talking to a young woman is a replica of a work exhibited in the Paris Salon of 1841. The original version was destroyed in the Chicago Fire of 1971.",
+    "Dimensions": "13 1/4 x 10 1/4 in. (33.6 x 26 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10578,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.848_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.848_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.848_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.848_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.848_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48348,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.848_XR_1984.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.848_XR_1984.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.848_XR_1984.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.848_XR_1984.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.848_XR_1984.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "\"T. Couture/1850,\" signed at left",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3318,
+        "LocationString": null
+    },
+    "ObjectID": 4761,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.848",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "E.-L. Jacibson, The Hague; Sale, Paris, 1876, no. 21; M. Leblanc-Barbedienne Sale, Paris, 1892, no. 27; William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4761",
+    "SortNumber": "    37   848                                            ",
+    "Style": null,
+    "Title": "The Prodigal Son"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greco-Roman",
+            "CreatorID": 2185,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": 100,
+    "DateText": "332 BC-AD 100",
+    "Description": "Prometheus is depicted standing, with a chain around the right arm, and the eagle at his right knee, on a three part base.",
+    "Dimensions": "H: 12 3/8 in. (31.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62673,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.607_Fnt_BW_H47.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.607_Fnt_BW_H47.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.607_Fnt_BW_H47.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.607_Fnt_BW_H47.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.607_Fnt_BW_H47.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 417,
+        "LocationString": null
+    },
+    "ObjectID": 33089,
+    "ObjectName": "lamps; statuettes",
+    "ObjectNumber": "54.607",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33089",
+    "SortNumber": "    54   607                                            ",
+    "Style": null,
+    "Title": "Prometheus"
+}

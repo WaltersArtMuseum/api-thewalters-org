@@ -1,0 +1,95 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Hellenistic",
+    "DateBeginYear": -199,
+    "DateEndYear": -100,
+    "DateText": "2nd century BC",
+    "Description": "This relief formed part of a larger composition that likely decorated a piece of furniture.",
+    "Dimensions": "9 3/16 x 6 1/4 x 5/16 in. (23.3 x 15.8 x 0.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        },
+        {
+            "ExhTitle": "Sicily: Between Greece and Rome",
+            "ExhibBeginDate": "2013-04-03",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "April 03, 2013-January 05, 2014",
+            "ExhibEndDate": "2014-01-05",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3102,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Sicily: Between Greece and Rome. J. Paul Getty Museum, Los Angeles; The Cleveland Museum of Art, Cleveland. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1436305,
+            "GeographyTerm": "Sicilia",
+            "Latitude": "37 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.5,
+            "Longitude": "014 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8994,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_71.557_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_71.557_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_71.557_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_71.557_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_71.557_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3674,
+        "LocationString": null
+    },
+    "ObjectID": 8979,
+    "ObjectName": "plaques",
+    "ObjectNumber": "71.557",
+    "OnView": 1,
+    "Period": "Greco-Roman",
+    "Provenance": "[Found in Sicily, late 19th century]; A. Sambon [date and mode of acquisition unknown]; Henry Walters, Baltimore, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:41.347",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8979",
+    "SortNumber": "    71   557                                            ",
+    "Style": "Hellenistic",
+    "Title": "Appliqu\u00e9 with Satyr Walking to Left"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1630,
+    "DateEndYear": 1640,
+    "DateText": "1630-1640",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 341, pp. 464-465.",
+    "Dimensions": "Painted surface H: 23 1/16 x W: 17 11/16 in. (58.5 x 45 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29712,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1076_Fnt_BW_H74.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1076_Fnt_BW_H74.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1076_Fnt_BW_H74.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1076_Fnt_BW_H74.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1076_Fnt_BW_H74.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47870,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1076_XR_1974.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1076_XR_1974.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1076_XR_1974.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1076_XR_1974.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1076_XR_1974.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3290,
+        "LocationString": null
+    },
+    "ObjectID": 7610,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1076",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 123; 1897 catalogue: no. 265, as Girolamo da Carpi]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7610",
+    "SortNumber": "    37  1076                                            ",
+    "Style": null,
+    "Title": "The Holy Family with Saints and Angels"
+}

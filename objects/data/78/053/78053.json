@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Muhammad ibn Mahmud Tusi (12th century)",
+            "CreatorID": 15720,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "This folio from Walters manuscript W.593 contains the 2nd half of a map of the world.",
+    "Dimensions": "H: 14 3/16 x W: 9 1/2 in. (36.1 x 24.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Expanding World Views: A Millennium of Maps",
+            "ExhibBeginDate": "2001-10-20",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "October 20, 2001-January 20, 2002",
+            "ExhibEndDate": "2002-01-20",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 125,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Expanding World Views: A Millennium of Maps. The Walters Art Museum, Baltimore. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37612,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.593.53a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.593.53a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.593.53a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.593.53a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.593.53a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11295,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.593.53A_Opn_TR_T03III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.593.53A_Opn_TR_T03III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.593.53A_Opn_TR_T03III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.593.53A_Opn_TR_T03III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.593.53A_Opn_TR_T03III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11294,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.593.52B-W.593.53A_Opn_TR_T03III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.593.52B-W.593.53A_Opn_TR_T03III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.593.52B-W.593.53A_Opn_TR_T03III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.593.52B-W.593.53A_Opn_TR_T03III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.593.52B-W.593.53A_Opn_TR_T03III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Codex; Illumination; Illustration; Manuscript; Iran; Turkey; Cosmology",
+    "Medium": "ink and pigments on thick, laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78053,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.593.53A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown] [ex libris on upper board inside]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78053",
+    "SortNumber": "W        593   53A                                      ",
+    "Style": null,
+    "Title": "Second Half of a Map of the World"
+}

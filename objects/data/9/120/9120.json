@@ -1,0 +1,131 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1338,
+    "DateEndYear": 1390,
+    "DateText": "ca. 1350-1375",
+    "Description": "This icon, one of the finest in North America, features the \"Anastasis,\" or the Resurrection of Christ, the traditional Byzantine image depicting Christ's descent into hell to redeem the Just of the Old Testament. In the upper portion of the painting, the Harrowing of Hell is shown. In the Christian tradition, this is the period of time between Christ's burial on Good Friday and the discovery of his Resurrection on Easter Sunday, when Christ was thought to have entered hell, defeated Satan, and freed the worthy souls who had been imprisoned there, including David, Solomon, John the Baptist and other prophets, and the first parents, Adam and Eve. Beneath is a depiction of the Holy Women mourning at Christ's tomb and then learning of the Resurrection from the angel.",
+    "Dimensions": "H: 14 3/16 x W: 10 7/16 x D: 1 3/16 in. (36.2 x 26.5 x 3 cm)",
+    "Dynasty": "Palaeologan Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Sacred Arts and City Life: The Glory of Medieval Novgorod",
+            "ExhibBeginDate": "2005-02-13",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "February 13, 2005-February 12, 2006",
+            "ExhibEndDate": "2006-02-12",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 287,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Sacred Arts and City Life: The Glory of Medieval Novgorod. Bucerius Kunst Forum, Hamburg; The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Holy Image, Holy Space: Icons and Frescoes from Greece",
+            "ExhibBeginDate": "1988-08-21",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "August 21, 1988-April 29, 1990",
+            "ExhibEndDate": "1990-04-29",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 648,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Holy Image, Holy Space: Icons and Frescoes from Greece. The Walters Art Gallery, Baltimore; Center for the Fine Arts, Miami; Kimbell Art Museum, Fort Worth; Fine Arts Museums of San Francisco, San Francisco; The Cleveland Museum of Art, Cleveland; The Detroit Institute of Arts, Detroit; Virginia Museum of Fine Arts, Richmond. 1988-1990."
+        },
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431963,
+            "GeographyTerm": "Macedonia",
+            "Latitude": "41 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.0,
+            "Longitude": "023 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4109,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.751_Fnt_TR_T85.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.751_Fnt_TR_T85.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.751_Fnt_TR_T85.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.751_Fnt_TR_T85.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.751_Fnt_TR_T85.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48347,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithoutCradle.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithoutCradle.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithoutCradle.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithoutCradle.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithoutCradle.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48817,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithCradle.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithCradle.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithCradle.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithCradle.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.751_XR_DateUnk_WithCradle.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Translation] Of Greek inscription: And the women were sitting opposite the tomb. And Mary Magdalene and the other Mary were there to see [the place] where He had been buried",
+    "Keywords": "Anastasis; Resurrection; Byzantine art; icon; Angel; Adam; Eve; saint; Mandorla",
+    "Medium": "tempera on wood with gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3837,
+        "LocationString": null
+    },
+    "ObjectID": 9120,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.751",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Don Marcello Massarenti Collection, Rome, by purchase; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.63",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9120",
+    "SortNumber": "    37   751                                            ",
+    "Style": "Byzantine",
+    "Title": "Resurrection of Christ"
+}

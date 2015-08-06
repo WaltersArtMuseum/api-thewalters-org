@@ -1,0 +1,106 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Otsuki Mitsuoki (Japanese, 1766-1834)",
+            "CreatorID": 5018,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1826,
+    "DateEndYear": 1826,
+    "DateText": "1826",
+    "Description": "A dragon's head and part of his body appear above the central opening of this tsuba. At the bottom and left are waves. Dragons were traditional said to control the seas, so they are often depicted with waves.",
+    "Dimensions": "H: 2 13/16 in. (7.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Osaka\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492832,
+            "GeographyTerm": "Osaka",
+            "Latitude": "34 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.666,
+            "Longitude": "135 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19511,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.386_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.386_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.386_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.386_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.386_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19510,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.386_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.386_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.386_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.386_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.386_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19512,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.386_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.386_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.386_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.386_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.386_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Date] \u6587\u653f\u4e5d[ ][ ]; [Transliteration] Bunsei Ky\u00fb [  ] [  ]; [Translation] Ninth year of Bunsei (1826); [Signature] \u5927\u6708\u5149\u8208; [Translation] \u00d4tsuki Mitsuoki (kao)",
+    "Keywords": "wave; animal; dragon",
+    "Medium": "silver alloy",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4112,
+        "LocationString": null
+    },
+    "ObjectID": 2722,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.386",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.387",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2722",
+    "SortNumber": "    51   386                                            ",
+    "Style": "Otsuki School",
+    "Title": "Tsuba with Dragon and Waves"
+}

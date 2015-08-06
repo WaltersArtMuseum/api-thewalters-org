@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Guido delle Colonne (13th century)",
+            "CreatorID": 7302,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "English",
+    "DateBeginYear": 1350,
+    "DateEndYear": 1400,
+    "DateText": "second half 14th century",
+    "Description": null,
+    "Dimensions": "H: 9 7/16 \u00d7 W: 6 7/8 in. (24 \u00d7 17.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55380,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.81.1R_Fp_DD_2012.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.81.1R_Fp_DD_2012.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.81.1R_Fp_DD_2012.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.81.1R_Fp_DD_2012.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.81.1R_Fp_DD_2012.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Manuscript; Colophon",
+    "Medium": "ink and pigments on medium to heavy weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 92011,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.81.1R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Created in England, ca. 1375. Waler dei Klerla (?) [1]. An English library [2], 15th century. Homofredus Taylor, 16th century (?) [3]. Robertus Nebbus, 16th century (?) [4]. Tailerus, 16th century (?) [5]; Edward Conway [d. 1631] [6]. Thomas Thorpe, London, early 19th century [7]; purchased by Sir Thomas Phillipps, 1836 [8]; Sothebys Sale (by Thomas Fenwick, grandson of Phillipps), after 1893. Henry Walters, Baltimore, before 1931; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] inscription on fol. 109r\r\n[2] no. 38 in top margin of fol. 1\r\n[3] inscribed twice on fol. 108v, along with the name \"Atwodde\"\r\n[4] inscription on 109r\r\n[5] inscription on 109r\r\n[6] signature on fol. 109v\r\n[7] his catalog no. 293\r\n[8] catalog no. 9409",
+    "PublicAccessDate": "2013-12-07T01:00:02.347",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/92011",
+    "SortNumber": "W         81    1R                                      ",
+    "Style": null,
+    "Title": "Decorated Initial \"L\""
+}

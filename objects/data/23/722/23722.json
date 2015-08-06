@@ -1,0 +1,107 @@
+{
+    "Classification": "Leather",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Dr. Richard Ettinghausen, 1952",
+    "Culture": null,
+    "DateBeginYear": 601,
+    "DateEndYear": 900,
+    "DateText": "7th-9th century",
+    "Description": "This is a fragment of a flat leather object. It may have been a book cover, but since no trace of boards or backing survives, this is problematic. The design was an all-over pattern of contiguous circles, painted in green with yellow outlines upon a deep red ground. A palmette was framed in each circle and a stylized floral design filled the interstices. A broad border used a \"beaded\" edging abnd stylized acanthus leaves painted in yellow outline.",
+    "Dimensions": "H: 7 7/8 x W: 7 7/8 in. (20 x 20 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The History of Bookbinding 525-1950 A.D.",
+            "ExhibBeginDate": "1957-11-12",
+            "ExhibBeginYear": 1957,
+            "ExhibDisplayDate": "November 12, 1957-January 12, 1958",
+            "ExhibEndDate": "1958-01-12",
+            "ExhibEndYear": 1958,
+            "ExhibitionID": 664,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The History of Bookbinding 525-1950 A.D.. Baltimore Museum of Art, Baltimore. 1957-1958."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55227,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_73.106_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_73.106_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_73.106_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_73.106_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_73.106_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 55226,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_73.106_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_73.106_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_73.106_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_73.106_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_73.106_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 6068,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_73.106_Fnt_BW_H56.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_73.106_Fnt_BW_H56.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_73.106_Fnt_BW_H56.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_73.106_Fnt_BW_H56.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_73.106_Fnt_BW_H56.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2508,
+        "LocationString": null
+    },
+    "ObjectID": 23722,
+    "ObjectName": "fragments; bindings",
+    "ObjectNumber": "73.106",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "[Cairo]; Dr. Richard Ettinghausen [date and mode of acquistion unknown]; Walters Art Museum, 1952, by gift.",
+    "PublicAccessDate": "2009-06-03T11:01:51.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23722",
+    "SortNumber": "    73   106                                            ",
+    "Style": null,
+    "Title": "Painted Leather Fragment"
+}

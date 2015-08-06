@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Francesco Guardi (Italian, 1712-1793)",
+            "CreatorID": 2647,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 10 13/16 x W: 15 3/4 in. (27.5 x 40 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29667,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.615_Fnt_BW_H62.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.615_Fnt_BW_H62.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.615_Fnt_BW_H62.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.615_Fnt_BW_H62.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.615_Fnt_BW_H62.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46893,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.615_XR_1971.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.615_XR_1971.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.615_XR_1971.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.615_XR_1971.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.615_XR_1971.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3374,
+        "LocationString": null
+    },
+    "ObjectID": 16005,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.615",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-01T12:01:45.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16005",
+    "SortNumber": "    37   615                                            ",
+    "Style": null,
+    "Title": "The Arsenal, Venice"
+}

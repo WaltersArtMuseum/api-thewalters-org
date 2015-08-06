@@ -1,0 +1,94 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -450,
+    "DateEndYear": -400,
+    "DateText": "late 5th century BC",
+    "Description": "Very fine incision on the beard.",
+    "Dimensions": "L: 2 7/16 in. (6.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54632,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1484_Lft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1484_Lft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1484_Lft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1484_Lft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1484_Lft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 54633,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1484_Right_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1484_Right_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1484_Right_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1484_Right_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1484_Right_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        },
+        {
+            "ID": 5503,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.1484_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.1484_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.1484_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.1484_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.1484_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3646,
+        "LocationString": null
+    },
+    "ObjectID": 30566,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.1484",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30566",
+    "SortNumber": "    54  1484                                            ",
+    "Style": "Archaic",
+    "Title": "Goat"
+}

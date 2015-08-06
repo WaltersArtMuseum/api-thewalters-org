@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Angelos Bitzamanos (Greek, 1467-1532)",
+            "CreatorID": 16211,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Formerly attributed to Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": "Orthodox Eastern",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1532,
+    "DateText": "early 16th century",
+    "Description": null,
+    "Dimensions": "7 7/8 x 6 3/8 in. (20 x 16.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10829,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.626_Cntr_NF_H47.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.626_Cntr_NF_H47.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.626_Cntr_NF_H47.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.626_Cntr_NF_H47.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.626_Cntr_NF_H47.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9063,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.626_Fnt_NF_H47.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.626_Fnt_NF_H47.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.626_Fnt_NF_H47.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.626_Fnt_NF_H47.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.626_Fnt_NF_H47.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "Next to the image of Saint Jerome: + Angelus Bizamanus pinxit, i.e. 'Angelus Bizamanus painted [this]'.",
+    "Keywords": null,
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 891,
+        "LocationString": null
+    },
+    "ObjectID": 9729,
+    "ObjectName": "paintings; triptychs; icons",
+    "ObjectNumber": "37.626",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9729",
+    "SortNumber": "    37   626                                            ",
+    "Style": "Post-Byzantine",
+    "Title": "Virgin and Child with Saints Jerome and John the Baptist"
+}

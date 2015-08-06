@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Muhammad ibn Sulayman al-Jazuli (died 877 AH/AD 1472)",
+            "CreatorID": 16706,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This text folio is from Walters manuscript W.583. Like many copies of this text, this manuscript includes additional devotional material, such as lists of the noble names accorded to the Prophet Muhammad.",
+    "Dimensions": "H: 7 1/2 x W: 4 3/4 in. (19 x 12 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum",
+            "ExhibBeginDate": "2010-03-20",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "March 20, 2010-June 13, 2010",
+            "ExhibEndDate": "2010-06-13",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2827,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27229,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.583.11b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.583.11b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.583.11b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.583.11b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.583.11b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Prayer; Arabic; Islamic; Ottoman; Book; Calligraphy; Codex; Headpiece; Illumination; Illustration; Manuscript; Ornament; Painting; Contemporary Binding; Turkey; Devotion",
+    "Medium": "ink and pigments on laid European paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81128,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.583.11B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Leon Gruel, Paris [date and mode of acquisition unknown] [book plate: no. 1155 LG]; Henry Walters, Baltimore [date of acquisition unknown], by purchase [from Leon Gruel]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81128",
+    "SortNumber": "W        583   11B                                      ",
+    "Style": null,
+    "Title": "Illuminated Text Page with the Noble Names Accorded to the Prophet Muhammad"
+}

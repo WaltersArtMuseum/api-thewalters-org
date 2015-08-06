@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Arent Arentsz. (Dutch, ca. 1585-1635)",
+            "CreatorID": 5683,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1635,
+    "DateText": "1st half 17th century",
+    "Description": null,
+    "Dimensions": "H: 7 11/16 x W: 10 1/16 in. (19.5 x 25.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters",
+            "ExhibBeginDate": "1981-11-01",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "November 1, 1981-February 1, 1982",
+            "ExhibEndDate": "1982-02-01",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2517,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters. The Walters Art Gallery, Baltimore. 1981-1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46812,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.678_Fnt_BW_H77.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.678_Fnt_BW_H77.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.678_Fnt_BW_H77.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.678_Fnt_BW_H77.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.678_Fnt_BW_H77.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] AA",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3265,
+        "LocationString": null
+    },
+    "ObjectID": 12712,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.678",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12712",
+    "SortNumber": "    37   678                                            ",
+    "Style": null,
+    "Title": "Fishing Scene"
+}

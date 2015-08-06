@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": "Russian",
+    "DateBeginYear": 1600,
+    "DateEndYear": 1699,
+    "DateText": "17th century",
+    "Description": "Judging from its size, this was probably one in a row of panels depicting the earthly life of Christ upon the altar screen (called an iconostasis) of an Orthodox church. The archangel Gabriel and Mary are shown in the town of Nazareth, but the drapery over them suggests that the event occurs indoors. The staff identifies Gabriel as a messenger of God whose Holy Spirit, represented by a dove, is descending upon the Virgin. Mary holds purple thread that, according to legend, she was spinning for a curtain for the Temple of Jerusalem. \"Mother of God\" is written above her head.",
+    "Dimensions": "25 1/4 x 20 3/8 in. (64.1 x 51.8 cm)",
+    "Dynasty": "House of Romanov",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century",
+            "ExhibBeginDate": "1959-11-09",
+            "ExhibBeginYear": 1959,
+            "ExhibDisplayDate": "November 9, 1959-January 3, 1960",
+            "ExhibEndDate": "1960-01-03",
+            "ExhibEndYear": 1960,
+            "ExhibitionID": 69,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century. The Walters Art Gallery, Baltimore. 1959-1960."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2008-02-27",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "February 27, 2008-January 4, 2009",
+            "ExhibEndDate": "2009-01-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1957,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Museum of Biblical Art, New York; Colby College Museum of Art, Waterville; Joslyn Art Museum, Omaha. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Yisra'el\\districts (national)\\HaZafon, Mehoz\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1489843,
+            "GeographyTerm": "Nazerat",
+            "Latitude": "32 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.7,
+            "Longitude": "035 18",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.3
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55748,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1181_Fnt_BW_T89.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1181_Fnt_BW_T89.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1181_Fnt_BW_T89.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1181_Fnt_BW_T89.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1181_Fnt_BW_T89.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on wood panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3259,
+        "LocationString": null
+    },
+    "ObjectID": 16958,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.1181",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Saint Petersburg and Paris, by purchase; Henry Walters, Baltimore, 1928, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16958",
+    "SortNumber": "    37  1181                                            ",
+    "Style": null,
+    "Title": "The Annunciation"
+}

@@ -1,0 +1,101 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek (?)",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman (?)",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -200,
+    "DateEndYear": -1,
+    "DateText": "2nd-1st century BC",
+    "Description": null,
+    "Dimensions": "H: 4 15/16 in. (12.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Artisans of Ancient Rome",
+            "ExhibBeginDate": "1997-09-03",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "September 3, 1997-January 3, 1998",
+            "ExhibEndDate": "1998-01-03",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 2666,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Artisans of Ancient Rome. The Newark Museum, Newark. 1997-1998."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-Lubnan\\governorates\\Al-Janub\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1495232,
+            "GeographyTerm": "Sayda",
+            "Latitude": "33 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.55,
+            "Longitude": "035 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.366
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-Lubnan\\governorates\\Al-Janub\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1495232,
+            "GeographyTerm": "Sayda",
+            "Latitude": "33 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.55,
+            "Longitude": "035 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58508,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.687_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.687_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.687_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.687_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.687_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 410,
+        "LocationString": null
+    },
+    "ObjectID": 21233,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.687",
+    "OnView": 0,
+    "Period": "Hellenistic (?)",
+    "Provenance": "Durighello Sale, 1924, no. 27; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21233",
+    "SortNumber": "    54   687                                            ",
+    "Style": null,
+    "Title": "Aphrodite Binding Her Hair"
+}

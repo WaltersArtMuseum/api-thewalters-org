@@ -1,0 +1,137 @@
+{
+    "Classification": "Enamels",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French (?)",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Venetian () (?)",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1201,
+    "DateEndYear": 1300,
+    "DateText": "13th century",
+    "Description": null,
+    "Dimensions": "H: 9 13/16 x W: 7 3/4 in. (25 x 19.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Five Thousand Years of Faces",
+            "ExhibBeginDate": "1983-01-15",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "January 15, 1983-July 30, 1983",
+            "ExhibEndDate": "1983-07-30",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2928,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Five Thousand Years of Faces. Bellevue Art Museum, Bellevue. 1983."
+        },
+        {
+            "ExhTitle": "A Medieval Treasury: An Exhibition of Medieval Art from the Third to the Sixteenth Century",
+            "ExhibBeginDate": "1968-10-08",
+            "ExhibBeginYear": 1968,
+            "ExhibDisplayDate": "October 8, 1968 -December 8, 1968",
+            "ExhibEndDate": "1968-12-08",
+            "ExhibEndYear": 1968,
+            "ExhibitionID": 350,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medieval Treasury: An Exhibition of Medieval Art from the Third to the Sixteenth Century. Andrew Dickson White Museum of Art, Cornell University, Ithaca; Munson-Williams-Proctor Arts Institute- Museum of Art, Utica. 1968."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55753,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_44.250_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_44.250_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_44.250_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_44.250_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_44.250_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "champlev\u00e9 enamel on copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1535,
+        "LocationString": null
+    },
+    "ObjectID": 15486,
+    "ObjectName": "figures",
+    "ObjectNumber": "44.250",
+    "OnView": 0,
+    "Period": "Gothic",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15486",
+    "SortNumber": "    44   250                                            ",
+    "Style": "Limoges style",
+    "Title": "Christ from a Crucifix"
+}

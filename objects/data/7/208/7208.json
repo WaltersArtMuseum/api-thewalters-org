@@ -1,0 +1,107 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Japanese",
+    "DateBeginYear": 1700,
+    "DateEndYear": 1899,
+    "DateText": "18th-19th century",
+    "Description": "A silver octopus on top grasping a piece of coral with all tentacles. Loop on a swivel.",
+    "Dimensions": "1 7/8 x 1 3/4 in. (4.7 x 4.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Netsuke: Miniature Sculpture of Japan",
+            "ExhibBeginDate": "1978-09-24",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "September 24, 1978-November 12, 1978",
+            "ExhibEndDate": "1978-11-12",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 275,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Netsuke: Miniature Sculpture of Japan. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39418,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1344_VwB_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1344_VwB_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1344_VwB_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1344_VwB_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1344_VwB_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39417,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1344_VwA_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1344_VwA_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1344_VwA_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1344_VwA_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1344_VwA_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 5694,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_57.1344_Fnt_BW_C79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_57.1344_Fnt_BW_C79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_57.1344_Fnt_BW_C79.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_57.1344_Fnt_BW_C79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_57.1344_Fnt_BW_C79.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "animal; octopus",
+    "Medium": "silver, coral",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2063,
+        "LocationString": null
+    },
+    "ObjectID": 7208,
+    "ObjectName": "netsukes",
+    "ObjectNumber": "57.1344",
+    "OnView": 0,
+    "Period": "Edo; Meiji",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.95",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7208",
+    "SortNumber": "    57  1344                                            ",
+    "Style": null,
+    "Title": "Octopus Grasping a Piece of Coral"
+}

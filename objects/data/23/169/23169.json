@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1909",
+    "Culture": "Egyptian",
+    "DateBeginYear": -1462,
+    "DateEndYear": -1338,
+    "DateText": "ca. 1450 BC",
+    "Description": "Traces of red grid lines can be seen in this fragmentary painting from a tomb wall. It depicts a half-kneeling, half-squatting, woman in front of an offering table. The grid was used in ancient Egypt to assure the right proportions and layout of paintings and reliefs.",
+    "Dimensions": "H: 11 5/8 x W: 9 3/16 x D: 1 1/8 in. (29.5 x 23.4 x 2.8 cm); H within frame: 11 x W: 9 in. (27.9 x 22.8 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Tools and Models: The Art of the Sculptor in Ancient Egypt",
+            "ExhibBeginDate": "2003-08-09",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "August 9, 2003-March 28, 2004",
+            "ExhibEndDate": "2004-10-31",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2176,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Tools and Models: The Art of the Sculptor in Ancient Egypt. The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 1,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_32.2_FntDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_32.2_FntDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_32.2_FntDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_32.2_FntDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_32.2_FntDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "woman; offering; funerary",
+    "Medium": "distemper paint on mud plaster",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3760,
+        "LocationString": null
+    },
+    "ObjectID": 23169,
+    "ObjectName": "mural paintings; fragments",
+    "ObjectNumber": "32.2",
+    "OnView": 1,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1909, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.47",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23169",
+    "SortNumber": "    32     2                                            ",
+    "Style": null,
+    "Title": "Woman Kneeling Before an Offering Table"
+}

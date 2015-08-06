@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Martin Schongauer (German, ca. 1430-1491)",
+            "CreatorID": 6206,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "early 16th century",
+    "Description": "This painting is after an engraving by Martin Schongauer of the same subject.",
+    "Dimensions": "H: 8 3/4 x W: 6 1/8 in. (22.3 x 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30434,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.775_Fnt_BW_H77.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.775_Fnt_BW_H77.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.775_Fnt_BW_H77.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.775_Fnt_BW_H77.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.775_Fnt_BW_H77.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3394,
+        "LocationString": null
+    },
+    "ObjectID": 4435,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.775",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-01T12:01:45.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4435",
+    "SortNumber": "    37   775                                            ",
+    "Style": null,
+    "Title": "The Nativity with the Adoration of the Shepherds"
+}

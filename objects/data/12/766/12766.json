@@ -1,0 +1,130 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1942",
+    "Culture": null,
+    "DateBeginYear": -900,
+    "DateEndYear": -700,
+    "DateText": "900-700 BC",
+    "Description": "Under a canopy, a worshiper faces a deity- possibly Ishtar, goddess of fertility- on a raised platform. Two winged genii (protective deities) holding ceremonial buckets flank the central scene, and divine astral symbols appear above. A three-line inscription gives the name and titles of the owner: \"[seal] of Nabu-nurka-lamur, superintendent of Ahu-shamshi, the palace herald.\" The finely drilled style of this seal dates it to the 9th or 8th century BC.",
+    "Dimensions": "2 3/8 x 3/4 in. (6.1 x 1.8 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522050,
+            "GeographyTerm": "Mesopotamia",
+            "Latitude": "34 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.0,
+            "Longitude": "044 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7979,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1194_SideA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1194_SideA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1194_SideA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1194_SideA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1194_SideA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 7980,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1194_SideB_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1194_SideB_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1194_SideB_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1194_SideB_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1194_SideB_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 7981,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1194_SideC_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1194_SideC_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1194_SideC_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1194_SideC_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1194_SideC_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 7982,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1194_SideD_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1194_SideD_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1194_SideD_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1194_SideD_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1194_SideD_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 7983,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1194_Top_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1194_Top_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1194_Top_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1194_Top_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1194_Top_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 32501,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.1194_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.1194_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.1194_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.1194_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.1194_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Translation] (seal) of Nabu-nurka-lamur, superintendent of Ahu-shamshi, the palace herald",
+    "Keywords": null,
+    "Medium": "carved pink quartzite, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3729,
+        "LocationString": null
+    },
+    "ObjectID": 12766,
+    "ObjectName": "cylinder seals",
+    "ObjectNumber": "42.1194",
+    "OnView": 1,
+    "Period": "Neo-Assyrian",
+    "Provenance": "Sadie Jones (Mrs. Henry Walters), New York [date and mode of acquisition unknown]; Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1942, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:39.737",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12766",
+    "SortNumber": "    42  1194                                            ",
+    "Style": null,
+    "Title": "Cylinder Seal with Winged Deities"
+}

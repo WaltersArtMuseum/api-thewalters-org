@@ -1,0 +1,92 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum Purchase",
+    "Culture": null,
+    "DateBeginYear": 1075,
+    "DateEndYear": 1125,
+    "DateText": "late 11th-early 12th century",
+    "Description": "This leaf once belonged to a small missal, and was created in the late eleventh or early twelfth century. The distinct style of its miniature suggests it was made in Southern Germany, or possibly in the Tyrol region of Austria, where line drawing in colored inks had developed into a regional style. The recto depicts the Crucifixion, and the later redrawing of Christ, especially apparent in his face and feet, suggests it had been worn down through pious touch. On the verso is found the opening text for the Canon of the Mass, introduced by a historiated initial \"T\" containing a standing man wearing a short skirt. That the manuscript was well-used is attested to both by the heavy wear to the parchment, and by the two original manuscript tabs that were created as page markers for this important text and image.",
+    "Dimensions": "H: 8 3/4 \u00d7 W: 5 11/16 in. (22.3 \u00d7 14.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Schatzkammer: Henry Walters' German Manuscripts",
+            "ExhibBeginDate": "2006-07-22",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "July 22, 2006-October 29, 2006",
+            "ExhibEndDate": "2006-10-29",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 96,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Schatzkammer: Henry Walters' German Manuscripts. The Walters Art Museum, Baltimore. 2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45868,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.757.R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.757.R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.757.R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.757.R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.757.R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Drawing; Grotesques; Historiated initial; Illumination; Manuscript; Miniature; Walters Art Museum; Liturgy",
+    "Medium": "ink and pigments on well-finished but worn medium weight parchment; original knotted vellum tabs remain on side and bottom of page",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6433,
+        "LocationString": null
+    },
+    "ObjectID": 13310,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.757",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Originally part of a missal, southern Germany or Austrian Tyrol, late 11th or early 12th century; Robert E. Hecht collection, before 1955; Walters Art Museum, 1955, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 90746,
+            "RelationType": "Child"
+        },
+        {
+            "ObjectID": 90747,
+            "RelationType": "Child"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/13310",
+    "SortNumber": "W        757                                            ",
+    "Style": "Romanesque",
+    "Title": "Leaf of a missal with the Crucifixion and Canon of the Mass"
+}

@@ -1,0 +1,133 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "Charles Nicolas Dodin (French, 1734-1803)",
+            "CreatorID": 2402,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 1779,
+    "DateEndYear": 1779,
+    "DateText": "1779",
+    "Description": "This turquoise, or \"bleu c\u00e9leste,\" oviform vase bears reserves (painted panels on the body of the vase) showing, one one side, a cavalier scene of a trumpeter and peasants by Charles Nicolas Dodin, and, on the other, military trophies. The reserves are surrounded with gilt garlands and laurel leaves. The vase is also adorned with two putti standing on the handles stringing garlands of laurels around the neck. There are similar vases in the Mus\u00e9e du Louvre as well as the Metropolitan Museum of Art in the Kress Collection. It forms part of a garniture (set) with WAM 48.563 and WAM 48.564.",
+    "Dimensions": "H: 15 3/4 in. (40 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 63027,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.565_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.565_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.565_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.565_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.565_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 63028,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.565_Lft_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.565_Lft_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.565_Lft_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.565_Lft_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.565_Lft_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 63026,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.565_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.565_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.565_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.565_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.565_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 63029,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.565_Rt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.565_Rt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.565_Rt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.565_Rt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.565_Rt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Factory Mark] Intertwined Lls;  [Date] Letters in blue: bb (1779);  [Decorator's Mark] In blue: K (Dodin, Charles Nicolas);  [Gilder's Mark]: LG (not visible, but possibly Le Guay, Etienne-Henry, a\u00een\u00e9, p\u00e8re)",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5329,
+        "LocationString": null
+    },
+    "ObjectID": 16727,
+    "ObjectName": "vases; covers",
+    "ObjectNumber": "48.565",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Earl of Pembroke;  Earl of Pembroke Collection Sale, May 8, 1851, lot 383; Mrs. Lyne Stephes [date and mode of acquisition unknown];  Baron Schroeder [date and mode of acquisition unknown];  Baron Schroder Sale, Christie's, July 5, 1910, lots 45 and 46;  E. M. Hodgkins Collection, Paris, no. 62 [date and mode of acquisition unknown];  A. Seligmann, Rey and Co., New York;  Henry Walters, Baltimore, 1928, by purchase;  Walters Art Museum, 1931, by bequest.\r\n\r\n\r\n",
+    "PublicAccessDate": "2008-09-25T17:14:36.91",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 27523,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 34223,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/16727",
+    "SortNumber": "    48   565                                            ",
+    "Style": null,
+    "Title": "Vase (Vase colonne de Paris)"
+}

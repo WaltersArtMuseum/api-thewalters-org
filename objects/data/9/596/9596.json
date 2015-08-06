@@ -1,0 +1,95 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1951",
+    "Culture": null,
+    "DateBeginYear": -312,
+    "DateEndYear": -238,
+    "DateText": "ca. 300-250 BC",
+    "Description": "This type of drinking vessel originated in the Near East and enjoyed a special popularity in Macedonia following Alexander the Great's conquests.",
+    "Dimensions": "2 1/8 x 3 7/16 in. (5.5 x 8.7 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29116,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1843_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1843_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1843_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1843_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1843_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 29114,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1843_BackProf_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1843_BackProf_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1843_BackProf_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1843_BackProf_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1843_BackProf_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3665,
+        "LocationString": null
+    },
+    "ObjectID": 9596,
+    "ObjectName": "cups",
+    "ObjectNumber": "57.1843",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Nicolas Koutoulakis, Galerie Segredakis, Paris, June 22, 1951; Walters Art Museum, 1951, by purchase.",
+    "PublicAccessDate": "2008-12-31T16:05:35.88",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9596",
+    "SortNumber": "    57  1843                                            ",
+    "Style": null,
+    "Title": "Footless Cup"
+}

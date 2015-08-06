@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 365, p. 484.",
+    "Dimensions": "Painted surface H: 21 5/8 x W: 17 1/8 in. (55 x 43.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37140,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1837_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1837_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1837_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1837_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1837_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3293,
+        "LocationString": null
+    },
+    "ObjectID": 6347,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1837",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 210; 1897 catalogue: no. 170, as Guercino]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6347",
+    "SortNumber": "    37  1837                                            ",
+    "Style": null,
+    "Title": "Half-length Female Figure"
+}

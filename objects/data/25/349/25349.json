@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Netherlandish",
+            "CreatorID": 15361,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": "Burgundian",
+    "DateBeginYear": 1478,
+    "DateEndYear": 1502,
+    "DateText": "ca. 1490",
+    "Description": "This altarpiece was probably made for the family chapel of the couple portrayed on the wings.  The elegantly carved central scene of the mourning over the dead Christ is set into a niche,  as if in a church.  After the central scene was carved, painted, and gilded (probably in Brussels), the unfinished triptych would have been sent to the shop of a painter.  The style suggests that he was influenced by Hugo van der Goes (active ca. 1440-1482) and probably worked in Ghent.  There the wings were finished with commissioned portraits.\r\n  \r\nThe wings show the donors kneeling in prayer, accompanied by their patron saints, John the Baptist and Mary Magdalene.  The linked initials, I and M, are surely those of the donors' first names, Jan (I and J were written the same) and Maria (which we can guess from their patron saints), but their family name is unknown.  The face of Maria is subtly painted, while the coarse execution of the husband's face is a later alteration.  This is probably Maria's second husband, whose profile replaces the scraped remains of an earlier portrait, presumably Maria's first (dead?) husband.  For another portrait of a donor with John the Baptist by Hugo van der Goes, see Walters 37.296.",
+    "Dimensions": "open: 30 x 32 5/8 x 9 in. (76.2 x 82.9 x 22.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Small Northern European Portraits from The Walters Art Gallery, Baltimore",
+            "ExhibBeginDate": "2000-09-17",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "September 17, 2000-December 19, 2000",
+            "ExhibEndDate": "2000-12-19",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 74,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Small Northern European Portraits from The Walters Art Gallery, Baltimore. National Gallery of Art, Washington. 2000."
+        },
+        {
+            "ExhTitle": "Time Sanctified: The Book of Hours in Medieval Art and Life",
+            "ExhibBeginDate": "1988-04-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 23, 1988-July 17, 1988",
+            "ExhibEndDate": "1988-07-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 87,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Time Sanctified: The Book of Hours in Medieval Art and Life. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Bruxelles\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1422033,
+            "GeographyTerm": "Bruxelles",
+            "Latitude": "50 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.833,
+            "Longitude": "004 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Oost-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421794,
+            "GeographyTerm": "Gent",
+            "Latitude": "51 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.33,
+            "Longitude": "003 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4204,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.242_FntLft_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.242_FntLft_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.242_FntLft_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.242_FntLft_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.242_FntLft_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4205,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.242_FntRt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.242_FntRt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.242_FntRt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.242_FntRt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.242_FntRt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil and gold leaf on panel (wings), painted and gilded wood (central section)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: 15th-Century Art of Northern Europe",
+        "LocationID": 3905,
+        "LocationString": null
+    },
+    "ObjectID": 25349,
+    "ObjectName": "altarpieces",
+    "ObjectNumber": "37.242",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Jacques Seligmann, Paris, by purchase; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.27",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25349",
+    "SortNumber": "    37   242                                            ",
+    "Style": "Renaissance",
+    "Title": "Triptych with Lamentation Over Christ with Donors and Saints"
+}

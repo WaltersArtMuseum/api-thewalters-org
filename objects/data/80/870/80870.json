@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912 (?)",
+    "Culture": null,
+    "DateBeginYear": 1493,
+    "DateEndYear": 1517,
+    "DateText": "ca. 1505",
+    "Description": null,
+    "Dimensions": "H: 23 5/8 x W: 20 1/2 in. (60 x 52 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25312,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.472.41V_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.472.41V_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.472.41V_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.472.41V_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.472.41V_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 25311,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.472.41V_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.472.41V_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.472.41V_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.472.41V_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.472.41V_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80870,
+    "ObjectName": "manuscripts; folios (leaves)",
+    "ObjectNumber": "W.472.41V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "L. S. Olschki, (inv. no. 29909) [date and mode of acquisition unknown]; Henry Walters, Baltimore, ca. 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80870",
+    "SortNumber": "W        472   41V                                      ",
+    "Style": null,
+    "Title": "Leaf from Antiphonarium"
+}

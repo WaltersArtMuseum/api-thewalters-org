@@ -1,0 +1,113 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Ambrogio Traversari (Italian, 1386 - 1439)",
+            "CreatorID": 5800,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1907",
+    "Culture": null,
+    "DateBeginYear": 1428,
+    "DateEndYear": 1452,
+    "DateText": "ca. 1440-1450",
+    "Description": null,
+    "Dimensions": "Folio H: 13 1/4 x W: 9 1/16 in. (33.7 x 23 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Leonardo's Last Supper: Before and After",
+            "ExhibBeginDate": "1983-12-18",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "December 18, 1983-March 4, 1984",
+            "ExhibEndDate": "1984-03-04",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2947,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Leonardo's Last Supper: Before and After. National Gallery of Art, Washington. 1983-1984."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62941,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.351.13r_Fp_BW_T83.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.351.13r_Fp_BW_T83.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.351.13r_Fp_BW_T83.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.351.13r_Fp_BW_T83.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.351.13r_Fp_BW_T83.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Italy; Renaissance; Virgin; hagiography; Ambrosius",
+    "Medium": "ink, tempera paint and gold leaf on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 76542,
+    "ObjectName": "illuminated manuscripts;folios (leaves)",
+    "ObjectNumber": "w.351.13R",
+    "OnView": 0,
+    "Period": "early Renaissance",
+    "Provenance": "Congregatione de Sancto Domenego de Bologna, Bologna, ca. 1500 [fol. 1v flyleaf]; Abbate mateo Canonici [collection no. 300]; Rev. Walter Sneyd, 1835, by purchase [circular bookplate on front flyleaf]; Rev. Walter Sneyd Sale, London, 1903, no. 481; Bernard (?)] Quaritch, 1903, by purchase; Olschki Collection [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1907, by purchase [invoice Nov.  24, 1905; described in a letter of Dec. 20, 1906]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-10-15T01:00:01.18",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/76542",
+    "SortNumber": "w        351   13R                                      ",
+    "Style": "International Gothic",
+    "Title": "Leaf from the Life of the Virgin: The Last Supper"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Miniatures",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "American",
+            "CreatorID": 6184,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1825,
+    "DateText": "1800-1825",
+    "Description": "Formerly identified as a portrait of Washington Irving. The frame of this miniature has been pierced at the top and bottom suggesting it may have one been part of a bracelet or otherwise repurposed.",
+    "Dimensions": "H: 2 1/8 x W: 1 5/8 in. (5.4 x 4.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45919,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.9_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.9_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.9_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.9_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.9_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45918,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.9_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.9_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.9_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.9_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.9_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        }
+    ],
+    "Inscriptions": "[Inscription] On back: Washington Irving",
+    "Keywords": "portraits",
+    "Medium": "watercolor on ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2369,
+        "LocationString": null
+    },
+    "ObjectID": 8030,
+    "ObjectName": "miniatures (paintings)",
+    "ObjectNumber": "38.9",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8030",
+    "SortNumber": "    38     9                                            ",
+    "Style": null,
+    "Title": "Portrait of a Gentleman"
+}

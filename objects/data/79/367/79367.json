@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Lambayeque (Sic\u00e1n)",
+            "CreatorID": 31446,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Lambayeque",
+    "DateBeginYear": 800,
+    "DateEndYear": 1350,
+    "DateText": "800-1350",
+    "Description": null,
+    "Dimensions": "H: 6 3/16 x W: 7 x D: 4 3/16 in. (15.75 x 17.78 x 10.67 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19097,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2826_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2826_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2826_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2826_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2826_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19098,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2826_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2826_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2826_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2826_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2826_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19099,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2826_RtSide_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2826_RtSide_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2826_RtSide_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2826_RtSide_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2826_RtSide_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5582,
+        "LocationString": null
+    },
+    "ObjectID": 79367,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2826",
+    "OnView": 0,
+    "Period": "Middle Horizon-Late Intermediate",
+    "Provenance": "[Dr. Ernest Lira, Houston and Denver (?), or Dr. Peter Almendariz, Denver (?), or M. Brenner, Geneva (?)]; Paul Shepard, Tucson, Arizona [date and mode of acquisition unknown]; Economos Works of Art, Santa Fe, New Mexico [date and mode of acquisition unknown]; Private collection, 1988, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-15T08:29:11.193",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79367",
+    "SortNumber": "    48  2826                                            ",
+    "Style": null,
+    "Title": "Double-Whistle Vessel with Sea Birds"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Russian",
+    "DateBeginYear": 1763,
+    "DateEndYear": 1787,
+    "DateText": "ca. 1775",
+    "Description": "The traditional style of the painting in this icon of Christ Emmanuel contrasts with the Baroque ornament of its cover, in which the young Christ's nimbus and the surrounding four evangelists are depicted in chased silver and the border is in silver and filigree enamel. The silver frame bears three assayer's marks: the 'St. George' stamp of Moscow, and the stamps of two inspectors, through which the icon can be dated. Elaborate icon covers such as the one here became increasingly popular from the seventeenth through the nineteenth century.",
+    "Dimensions": "7 3/16 x 5 7/8 in. (18.2 x 15 cm)",
+    "Dynasty": "House of Romanov",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century",
+            "ExhibBeginDate": "1959-11-09",
+            "ExhibBeginYear": 1959,
+            "ExhibDisplayDate": "November 9, 1959-January 3, 1960",
+            "ExhibEndDate": "1960-01-03",
+            "ExhibEndYear": 1960,
+            "ExhibitionID": 69,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century. The Walters Art Gallery, Baltimore. 1959-1960."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Rossiya\\republics\\Rossiya\\autonomous cities\\Moskva\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1510725,
+            "GeographyTerm": "Moskva",
+            "Latitude": "55 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 55.75,
+            "Longitude": "037 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12512,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_57.713_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_57.713_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_57.713_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_57.713_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_57.713_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46896,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_57.713_XR_1989.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_57.713_XR_1989.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_57.713_XR_1989.jpg",
+                "Small": "http://static.thewalters.org/images/CON_57.713_XR_1989.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_57.713_XR_1989.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on wood panel, silver-gilt riza, textile on back",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 894,
+        "LocationString": null
+    },
+    "ObjectID": 25403,
+    "ObjectName": "icons",
+    "ObjectNumber": "57.713",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-31T15:53:23.18",
+    "Reign": "Catherine II",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25403",
+    "SortNumber": "    57   713                                            ",
+    "Style": "Baroque",
+    "Title": "Christ Emmanuel"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -100,
+    "DateEndYear": 100,
+    "DateText": "1st century BC-AD 1st century",
+    "Description": "The god Bes was responsible for protecting mothers and children. This jar may have held liquids used as remedies.",
+    "Dimensions": "5 3/16 in. (13.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Faience: The Colors of the Heavens",
+            "ExhibBeginDate": "2003-05-17",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "May 17, 2003-June 30, 2004",
+            "ExhibEndDate": "2004-06-30",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 10,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Faience: The Colors of the Heavens. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51437,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1600_Fnt_BW_T02.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1600_Fnt_BW_T02.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1600_Fnt_BW_T02.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1600_Fnt_BW_T02.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1600_Fnt_BW_T02.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 51438,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1600_Rt_BW_T02.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1600_Rt_BW_T02.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1600_Rt_BW_T02.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1600_Rt_BW_T02.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1600_Rt_BW_T02.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1897,
+        "LocationString": null
+    },
+    "ObjectID": 36941,
+    "ObjectName": "jars",
+    "ObjectNumber": "48.1600",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36941",
+    "SortNumber": "    48  1600                                            ",
+    "Style": null,
+    "Title": "Jar in the Form of Bes"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1525,
+    "DateEndYear": 1550,
+    "DateText": "1525-1550",
+    "Description": "For more information on this fresco fragment, please see Federico Zeri's 1976 catalogue no. 235, pp. 358-359.",
+    "Dimensions": "Painted surface Diam: 23 3/4 x Approx. D including auxiliary fabric: 1/16 in. (60.3 x 0.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "I, Claudius: Art in the Age of Julio-Claudians",
+            "ExhibBeginDate": "1977-12-07",
+            "ExhibBeginYear": 1977,
+            "ExhibDisplayDate": "December 7, 1977-January 22, 1978",
+            "ExhibEndDate": "1978-01-22",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2506,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "I, Claudius: Art in the Age of Julio-Claudians. The Walters Art Gallery, Baltimore. 1977-1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36980,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.435_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.435_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.435_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.435_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.435_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "fresco on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3271,
+        "LocationString": null
+    },
+    "ObjectID": 8458,
+    "ObjectName": "paintings; fragments; frescoes",
+    "ObjectNumber": "37.435",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome, prior to 1897 [date of acquisition unknown] [1897 catalogue: no. 197, as Domenico Beccafumi]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8458",
+    "SortNumber": "    37   435                                            ",
+    "Style": null,
+    "Title": "A Sibyl"
+}

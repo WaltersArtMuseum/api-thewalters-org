@@ -1,0 +1,107 @@
+{
+    "Classification": "Miniatures",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "American",
+            "CreatorID": 6184,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the A. Jay Fink Foundation, Inc., Baltimore, in memory of Abraham Jay Fink, 1963",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": "This miniature is a section of a steel engraving of John Adams, second president of The United States. Miniature portraits of important figures such as presidents and generals were kept as a sign of patriotism and respect. The portrait is framed in gold with a pearl border.\r\n",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Revolution! Documents from the American War of Independence",
+            "ExhibBeginDate": "2004-03-27",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "March 27, 2004-July 3, 2004",
+            "ExhibEndDate": "2004-07-03",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2344,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Revolution! Documents from the American War of Independence. The Walters Art Museum, Baltimore. 2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45913,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.604_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.604_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.604_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.604_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.604_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45912,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.604_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.604_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.604_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.604_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.604_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 56494,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_38.604_Fnt_BW_T85.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_38.604_Fnt_BW_T85.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_38.604_Fnt_BW_T85.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_38.604_Fnt_BW_T85.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_38.604_Fnt_BW_T85.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper, gold, pearl",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2369,
+        "LocationString": null
+    },
+    "ObjectID": 35105,
+    "ObjectName": "portraits; engravings (prints)",
+    "ObjectNumber": "38.604",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "A.J. Fink, Baltimore [date and mode of acquisition unknown]; A.J. Fink Foundation Inc., Baltimore, [date and mode of acquisition unknown]; Walters Art Museum, 1963, by gift.",
+    "PublicAccessDate": "2014-02-19T01:00:01.457",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35105",
+    "SortNumber": "    38   604                                            ",
+    "Style": null,
+    "Title": "John Adams"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Orthodox",
+    "DateBeginYear": 1700,
+    "DateEndYear": 1799,
+    "DateText": "18th century",
+    "Description": "An icon such as this would have been displayed in a church on the feast day of Christ's Transfiguration (August 6) to be venerated by the faithful. The abrasion of Christ's image on it bears witness to such veneration by touch and kiss. Because of its small size, the image may have also been used privately, possibly by a monk. Eastern Orthodox monks placed a special value on the Transfiguration because they believed that, like the apostles shown in the bottom of the panel, they too could see God's light through contemplation.",
+    "Dimensions": "11 x 8 13/16 in. (27.9 x 22.4 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Holy Image, Holy Space: Icons and Frescoes from Greece",
+            "ExhibBeginDate": "1988-08-21",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "August 21, 1988-April 29, 1990",
+            "ExhibEndDate": "1990-04-29",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 648,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Holy Image, Holy Space: Icons and Frescoes from Greece. The Walters Art Gallery, Baltimore; Center for the Fine Arts, Miami; Kimbell Art Museum, Fort Worth; Fine Arts Museums of San Francisco, San Francisco; The Cleveland Museum of Art, Cleveland; The Detroit Institute of Arts, Detroit; Virginia Museum of Fine Arts, Richmond. 1988-1990."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10542,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1081_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1081_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1081_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1081_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1081_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47178,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1081_XR_1981.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1081_XR_1981.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1081_XR_1981.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1081_XR_1981.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1081_XR_1981.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Transfiguration",
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3834,
+        "LocationString": null
+    },
+    "ObjectID": 8806,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.1081",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Henry Walters, Baltimore, [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8806",
+    "SortNumber": "    37  1081                                            ",
+    "Style": "Post-Byzantine",
+    "Title": "Transfiguration of Christ"
+}

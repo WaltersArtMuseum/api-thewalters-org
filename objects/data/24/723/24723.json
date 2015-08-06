@@ -1,0 +1,107 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1567,
+    "DateEndYear": -1085,
+    "DateText": "1567-1085 BC",
+    "Description": "This piece has a black elongated body with two rings at the top.",
+    "Dimensions": "H: 1 15/16 x Diam of neck: 5/16 in. (4.85 x 0.87 cm); Diam of Base: 11/16 in. (1.69 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21737,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_47.40_SideA_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_47.40_SideA_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_47.40_SideA_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_47.40_SideA_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_47.40_SideA_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21738,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_47.40_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_47.40_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_47.40_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_47.40_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_47.40_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 21736,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_47.40_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_47.40_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_47.40_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_47.40_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_47.40_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 24723,
+    "ObjectName": "pendants (jewelry)",
+    "ObjectNumber": "47.40",
+    "OnView": 0,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-15T09:49:58.31",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24723",
+    "SortNumber": "    47    40                                            ",
+    "Style": null,
+    "Title": "Pendant with Yellow and White Feathered Lines"
+}

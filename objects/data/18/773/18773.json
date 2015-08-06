@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ary Scheffer (Dutch, 1795-1858)",
+            "CreatorID": 5601,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "H: 14 3/8 x W: 7 11/16 in. (36.5 x 19.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery",
+            "ExhibBeginDate": "1983-03-17",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "March 17, 1983-April 24, 1983",
+            "ExhibEndDate": "1983-04-24",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 432,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41572,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.989_Fnt_TR_T02II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.989_Fnt_TR_T02II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.989_Fnt_TR_T02II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.989_Fnt_TR_T02II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.989_Fnt_TR_T02II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signed] Lower left edge in ink: Ary Scheffer; [Line] Top, verso: graphite arc drawn to create an arch; [Inscription] Left pendantive above arch, in brown ink: Dante; [Inscription] Right pendantive above arch, in brown ink: Beatrice",
+    "Keywords": "man; woman; historical; literary figures",
+    "Medium": "graphite, pen and ink, and ink wash with white heightening on slightly textured, moderately thick, beige wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4913,
+        "LocationString": null
+    },
+    "ObjectID": 18773,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.989",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "The Queen of Holland [date and mode of acquisition unknown]; William T. Walters, Baltimore, before 1879 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-16T22:00:00.84",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18773",
+    "SortNumber": "    37   989                                            ",
+    "Style": null,
+    "Title": "Dante and Beatrice"
+}

@@ -1,0 +1,94 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mexican (Colima-Nayarit)",
+            "CreatorID": 15517,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Promised gift of John Bourne",
+    "Culture": "Colima-Nayarit",
+    "DateBeginYear": -300,
+    "DateEndYear": 200,
+    "DateText": "300 BC-AD 200",
+    "Description": null,
+    "Dimensions": "TL.2009.20.287.2- H: 4 3/16 x W: 1 9/16 x D: 1/2 in. (10.64 x 3.97 x 1.27 cm)\r\nTL.2009.20.287.3- H: 4 1/2 x W: 1 3/4 x D: 1/2 in. (11.43 x 4.45 x 1.27 cm)\r\nTL.2009.20.287.4- H: 3 7/8 x W: 1 5/8 x D: 1/2 in. (9.84 x 4.13 x 1.27 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 609588,
+            "GeographyTerm": "Nayarit",
+            "Latitude": "22 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 22.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 611809,
+            "GeographyTerm": "Colima",
+            "Latitude": "19 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 19.166,
+            "Longitude": "104 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -104.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27038,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27037,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_3Qtr_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_3Qtr_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_3Qtr_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_3Qtr_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.287.2-4_3Qtr_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "obsidian (1), chert (2)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5588,
+        "LocationString": null
+    },
+    "ObjectID": 80510,
+    "ObjectName": "blades; axes",
+    "ObjectNumber": "TL.2009.20.287.2-4",
+    "OnView": 0,
+    "Period": "Late Formative-Early Classic",
+    "Provenance": "Economos Works of Art [date and mode of acquisition unknown]; John G. Bourne, May 12, 1994, by purchase.",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80510",
+    "SortNumber": "TL      2009   20  287   2  4                           ",
+    "Style": null,
+    "Title": "Three Knife/Axe Forms"
+}

@@ -1,0 +1,137 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian (?)",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Metalworker"
+        },
+        {
+            "ConcatDisplayName": "Egyptian (?)",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1301,
+    "DateEndYear": 1400,
+    "DateText": "14th century",
+    "Description": "This engraved and inlaid bowl is decorated with cartouches with inscriptions, rosettes, and peonies.",
+    "Dimensions": "3 9/16 x 5 7/8 in. (9 x 15 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "Exhibition of Persian Art",
+            "ExhibBeginDate": "1940-04-24",
+            "ExhibBeginYear": 1940,
+            "ExhibDisplayDate": "1940",
+            "ExhibEndDate": "1940",
+            "ExhibEndYear": 1940,
+            "ExhibitionID": 320,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exhibition of Persian Art. Iranian Institute, New York. 1940."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499705,
+            "GeographyTerm": "Suriyah",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "038 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 38.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499705,
+            "GeographyTerm": "Suriyah",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "038 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 38.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7329,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.513_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.513_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.513_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.513_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.513_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscriptions]",
+    "Keywords": null,
+    "Medium": "brass with gold and silver inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Art",
+        "LocationID": 3926,
+        "LocationString": null
+    },
+    "ObjectID": 22307,
+    "ObjectName": "bowls",
+    "ObjectNumber": "54.513",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.27",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22307",
+    "SortNumber": "    54   513                                            ",
+    "Style": null,
+    "Title": "Bowl"
+}

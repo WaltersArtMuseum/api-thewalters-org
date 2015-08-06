@@ -1,0 +1,99 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nazca",
+            "CreatorID": 31447,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Nasca",
+    "DateBeginYear": 1,
+    "DateEndYear": 700,
+    "DateText": "AD 1-700",
+    "Description": null,
+    "Dimensions": "H: 68 1/2 x W: 12 1/4 x D: 5 in. (174 x 31.1 x 12.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19754,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.351_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.351_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.351_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.351_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.351_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19755,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.351_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.351_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.351_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.351_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.351_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19756,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.351_FntDetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.351_FntDetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.351_FntDetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.351_FntDetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.351_FntDetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood with red paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2460,
+        "LocationString": null
+    },
+    "ObjectID": 79377,
+    "ObjectName": "posts",
+    "ObjectNumber": "61.351",
+    "OnView": 0,
+    "Period": "Early Intermediate",
+    "Provenance": "Martin and Ullman Artweave Textile Gallery, New York [date and mode of acquisition unknown]; Private collection, 1992, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-09-23T11:05:30.1",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79378,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/79377",
+    "SortNumber": "    61   351                                            ",
+    "Style": null,
+    "Title": "Post with Carved Faces"
+}

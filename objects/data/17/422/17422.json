@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -332,
+    "DateText": "664-332 BC",
+    "Description": "A scarab with wings is engraved on the bull's neck, and a saddle with two more pairs of wings are engraved on the back.",
+    "Dimensions": "H: 7 x L: 5 5/8 in. (17.8 x 14.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al-Jizah\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544372,
+            "GeographyTerm": "Al-Jizah",
+            "Latitude": "30 01",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.16,
+            "Longitude": "031 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57945,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.418_Lft_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.418_Lft_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.418_Lft_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.418_Lft_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.418_Lft_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 17422,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.418",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17422",
+    "SortNumber": "    54   418                                            ",
+    "Style": null,
+    "Title": "Apis, Bull of Memphis"
+}

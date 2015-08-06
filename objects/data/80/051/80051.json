@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Sultan 'Ali",
+            "CreatorID": 16856,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic; Persian",
+    "DateBeginYear": 1493,
+    "DateEndYear": 1494,
+    "DateText": "899 AH/AD 1493-1494",
+    "Description": "This illuminated headpiece from Walters manuscript W.641 is inscribed Allah wa-la siwahu in gold in the New Abbasid (Broken Cursive) style on a deep blue background. Incidentals are written in gold.",
+    "Dimensions": "H: 6 11/16 x W: 4 1/2 in. (17 x 11.5 cm)",
+    "Dynasty": "Timurid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23121,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.641.1B_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.641.1B_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.641.1B_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.641.1B_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.641.1B_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Timurid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; New Abbasid Style; Contemporary Binding; Afghanistan; Literature -- Poetry",
+    "Medium": "ink and pigments on thick, well-polished, off-white paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80051,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.641.1B",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Sultan 'Uthman (reigned 1027 AH/AD 1618-1031 AH/AD 1622) (?) [date and mode of acquisition unknown] [erased waqf-seal and waqf-registration statement probably belonging to the Sultan on folio 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80051",
+    "SortNumber": "W        641    1B                                      ",
+    "Style": null,
+    "Title": "Illuminated Incipit with Headpiece"
+}

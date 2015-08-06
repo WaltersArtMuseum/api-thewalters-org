@@ -1,0 +1,126 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Zayn al-Din Isma'il ibn Hasan al-Jurjani (died 531 AH/AD 1136)",
+            "CreatorID": 19261,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Muhammad ibn Ma'ruf ibn Mahammad al-Zarir (?) al-Kazaruni Shirani)",
+            "CreatorID": 19262,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1484,
+    "DateEndYear": 1484,
+    "DateText": "22 Rabi' II 889 AH/AD 1484",
+    "Description": "Walters manuscript W.595 is a compendium/encyclopedia of medicine entitled Zakhirah-i Khvarazmshahi, composed by Zayn al-Din al-Jurjani (died 531 AH/AD 1136). It was copied by Muhammad ibn Ma'ruf ibn Mahammad al-Zarir (?) al-Kazaruni Shirani in 889 AH/AD 1484. The text opens with a double-page illuminated incipit with verses alluding to the title of the work.",
+    "Dimensions": "Folio H: 12 x W: 7 5/16 in. (30.5 x 18.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bindings from the Islamic World",
+            "ExhibBeginDate": "1988-05-17",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "May 17, 1988-November 20, 1988",
+            "ExhibEndDate": "1988-11-20",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2730,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bindings from the Islamic World. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33398,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Codex; Colophon; Illumination; Manuscript; Contemporary Binding; Iran; Science -- Medicine",
+    "Medium": "ink and pigments on creamy, thin paper covered with red leather with light brown leather doublures",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2335,
+        "LocationString": null
+    },
+    "ObjectID": 35337,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.595",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "'Ali [date and mode of acquisition unknown] [ownership statement (min kutub) and seal on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 77628,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77629,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77630,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77631,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77632,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83463,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35337",
+    "SortNumber": "W        595                                            ",
+    "Style": null,
+    "Title": "Compendium of Medicine"
+}

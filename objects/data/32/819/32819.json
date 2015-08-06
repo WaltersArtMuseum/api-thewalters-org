@@ -1,0 +1,143 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": "On the back of this plaque has a small handle-like element, which may indicate that it was used for sealing. On the other side, there are three lines with inscriptions which contain the names and titles of Ptolemy VI as well as the name and epitets of the goddess Hathor.",
+    "Dimensions": "H: 2 1/16 x W: 1 3/16 x D: 7/16 in. (5.27 x 3.03 x 1.16 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Secret Signs: Egyptian Writing",
+            "ExhibBeginDate": "2003-08-16",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "August 16, 2003-March 21, 2004",
+            "ExhibEndDate": "2004-03-21",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2345,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Secret Signs: Egyptian Writing. The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21679,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.82_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.82_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.82_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.82_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.82_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21680,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.82_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.82_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.82_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.82_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.82_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 21681,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.82_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.82_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.82_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.82_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.82_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 21682,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.82_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.82_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.82_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.82_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.82_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 21677,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.82_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.82_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.82_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.82_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.82_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 21678,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.82_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.82_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.82_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.82_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.82_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "steatite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1906,
+        "LocationString": null
+    },
+    "ObjectID": 32819,
+    "ObjectName": "plaques (flat objects); seal; foundation deposit",
+    "ObjectNumber": "42.82",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquistion unknown]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-15T09:49:58.31",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32819",
+    "SortNumber": "    42    82                                            ",
+    "Style": null,
+    "Title": "Seal with Inscription of Ptolemy VI Philometor (180-164 and 163-145 BC)"
+}

@@ -1,0 +1,122 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Eusebius of Caesarea, Bishop of Caesarea (ca. 260-ca. 340)",
+            "CreatorID": 8611,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Joseph Knopfelmacher, 1996",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1375,
+    "DateEndYear": 1425,
+    "DateText": "late 14th-early 15th century",
+    "Description": "This fragmentary manuscript, comprised of four canon tables spread over one bifolium, would originally have been the introductory pages of a fourteenth- or early fifteenth-century Gospel book. Written in the Lake Tana region of Ethiopia, the pages contain canons I-V, which relate the concordance of the Gospels through a chart in which each number corresponds to a Gospel passage, a system originally created by Eusebius of Caesarea in the early fourth century. The numbers here, in keeping with a long tradition, are placed within an arcade of brightly decorated columns and arches. Common within Ethiopian canon table decoration are the curtains, which hang from the sides of the columns, and the interlace-filled arches adorned with birds. These pages provide an excellent example of Ethiopian canon table illumination from the early Solomonic period.",
+    "Dimensions": "H: 13 9/16 x W: 10 1/16 in. (34.5 x 25.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Angels of Light: Ethiopian Art from the Walters Art Museum",
+            "ExhibBeginDate": "2006-02-05",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 5, 2006-May 20, 2007",
+            "ExhibEndDate": "2007-05-20",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 1958,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Angels of Light: Ethiopian Art from the Walters Art Museum. Birmingham Museum of Art, Birmingham; Smith College Museum of Art, Northampton; Museum of Biblical Art, New York. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Ityop'iya\\lakes\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541964,
+            "GeographyTerm": "T'ana Hayk'",
+            "Latitude": "12 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 12.0,
+            "Longitude": "037 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Ityop'iya\\lakes\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541964,
+            "GeographyTerm": "T'ana Hayk'",
+            "Latitude": "12 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 12.0,
+            "Longitude": "037 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54120,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Canon Table; Christianity; gospel; religion; book; Illumination; Manuscript; Miniature; Painting; Walters Art Museum; Scripture; Theology",
+    "Medium": "ink and pigments on heavy yellowed parchment covered a modern portfolio of heavy archival paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2354,
+        "LocationString": null
+    },
+    "ObjectID": 4532,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.838",
+    "OnView": 0,
+    "Period": "Solomonic",
+    "Provenance": "Mr. and Mrs. Joseph Knopfelmacher, New York,  acquired in Addis Ababa ca. 1960; Walters Art Museum, 1996, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3075,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 9192,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20707,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37981,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90668,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4532",
+    "SortNumber": "W        838                                            ",
+    "Style": "Ethiopian",
+    "Title": "Ethiopian canon tables"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1904",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1540,
+    "DateText": "early 16th century",
+    "Description": "The panels with late Gothic tracery and decorated with coats of arms, including those of France and Brittany, are original, but the assemblage is 19th-century.",
+    "Dimensions": "76 x 34 1/4 in. (193 x 87 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5929,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_65.3_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_65.3_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_65.3_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_65.3_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_65.3_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood (walnut), wrought iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4649,
+        "LocationString": null
+    },
+    "ObjectID": 24887,
+    "ObjectName": "chests",
+    "ObjectNumber": "65.3",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "E. Gaillard Sale, Paris, June 8, 1904, no. 12; Henry Walters, Baltimore, 1904, by purchase; Walters Art Musueum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-09-25T17:15:00.44",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24887",
+    "SortNumber": "    65     3                                            ",
+    "Style": "late Gothic",
+    "Title": "Chest"
+}

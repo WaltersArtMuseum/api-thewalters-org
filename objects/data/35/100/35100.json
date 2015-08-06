@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Willem Vrelandt and Associates (Flemish, active 1450-1460)",
+            "CreatorID": 4254,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1438,
+    "DateEndYear": 1462,
+    "DateText": "ca. 1450",
+    "Description": null,
+    "Dimensions": "5 7/8 x 3 15/16 in. (15 x 10 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\West-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421893,
+            "GeographyTerm": "Brugge",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11609,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.220.150V_OpnRev_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.220.150V_OpnRev_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.220.150V_OpnRev_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.220.150V_OpnRev_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.220.150V_OpnRev_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31764,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.220.150v_Fp_BW_H65.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.220.150v_Fp_BW_H65.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.220.150v_Fp_BW_H65.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.220.150v_Fp_BW_H65.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.220.150v_Fp_BW_H65.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 35100,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.220.150V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Damascene Morgand, 1886, by purchase; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35100",
+    "SortNumber": "W        220  150V                                      ",
+    "Style": null,
+    "Title": "Owner Presented to Christ by Saint Catherine"
+}

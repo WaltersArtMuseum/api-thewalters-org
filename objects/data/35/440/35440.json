@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 100,
+    "DateText": "AD 1st century",
+    "Description": null,
+    "Dimensions": "H: 4 15/16 x W: 3 3/8 in. (12.6 x 8.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Serapis: The Creation of a God",
+            "ExhibBeginDate": "2002-04-02",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 2, 2002-November 17, 2002",
+            "ExhibEndDate": "2002-11-17",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 309,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Serapis: The Creation of a God. The Walters Art Museum, Baltimore. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58540,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.871_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.871_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.871_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.871_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.871_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 425,
+        "LocationString": null
+    },
+    "ObjectID": 35440,
+    "ObjectName": "busts",
+    "ObjectNumber": "54.871",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unkonwn]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35440",
+    "SortNumber": "    54   871                                            ",
+    "Style": null,
+    "Title": "Bust of Dionysus"
+}

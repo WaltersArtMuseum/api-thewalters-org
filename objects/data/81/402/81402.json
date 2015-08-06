@@ -1,0 +1,154 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "13th century AH/AD 19th century",
+    "Description": "This 19th-century lacquer binding from Walters manuscript W.575 has a floral composition on a red field.",
+    "Dimensions": "Folio H: 3 3/4 x W: 2 9/16 in. (9.5 x 6.5 cm)",
+    "Dynasty": "Qajar Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28960,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28964,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_upperboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_upperboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_upperboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_upperboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_upperboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 28963,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_lowerboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_lowerboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_lowerboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_lowerboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Int_DD_lowerboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 28959,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_lowerboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_lowerboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_lowerboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_lowerboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Ext_DD_lowerboardoutside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 28962,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 28961,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_foreedge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_foreedge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_foreedge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_foreedge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Fnt_DD_foreedge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 28965,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Top_DD_head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Top_DD_head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Top_DD_head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Top_DD_head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Top_DD_head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 28958,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.575.binding_Bot_DD_tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.575.binding_Bot_DD_tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.575.binding_Bot_DD_tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.575.binding_Bot_DD_tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.575.binding_Bot_DD_tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Qajar; Book; Calligraphy; Codex; Illumination; Manuscript; Iran",
+    "Medium": "lacquer with marbled paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81402,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.575.binding",
+    "OnView": 0,
+    "Period": "Qajar",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81402",
+    "SortNumber": "W        575binding                                     ",
+    "Style": null,
+    "Title": "Binding from Qur'an"
+}

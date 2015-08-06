@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Miyagawa Kozan (Japanese, 1842-1916)",
+            "CreatorID": 2866,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 2002",
+    "Culture": null,
+    "DateBeginYear": 1886,
+    "DateEndYear": 1886,
+    "DateText": "1886",
+    "Description": "This Kosodate Kannon is modeled after the stone sculpture of Kosodate Kannon in Koyasu City.  The piece was commissioned in 1886 as a retirement present for the former governor of Kanagawa Prefecture, Mr. Oki.",
+    "Dimensions": "H: 24 11/16 x W: 9 1/2 x D: 9 1/2 in. (62.7 x 24.2 x 24.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "D\u00e9j\u00e0 Vu? Recurrence",
+            "ExhibBeginDate": "2007-09-19",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "September 19, 2007-January 20, 2008",
+            "ExhibEndDate": "2008-01-20",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2816,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "D\u00e9j\u00e0 Vu? Recurrence. The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Kanagawa-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491060,
+            "GeographyTerm": "Yokohama",
+            "Latitude": "35 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.466,
+            "Longitude": "139 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6635,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.2793_Fnt_TR_T83IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.2793_Fnt_TR_T83IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.2793_Fnt_TR_T83IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.2793_Fnt_TR_T83IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.2793_Fnt_TR_T83IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1531,
+        "LocationString": null
+    },
+    "ObjectID": 15457,
+    "ObjectName": "statues;sculpture",
+    "ObjectNumber": "49.2793",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Mr. Oki, Yokohama, 1886, by commission;  Nakamura Sakujido [date and of acquisition unknown];  Sydney L. Moss Ltd. Oriental Art, London, prior to 1998 [mode of acquisition unknown];  M. C. N. Antiques, London [date and mode of acquisition unknown];  Walters Art Museum, 2002, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:09:35.263",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15457",
+    "SortNumber": "    49  2793                                            ",
+    "Style": null,
+    "Title": "Kannon and Child"
+}

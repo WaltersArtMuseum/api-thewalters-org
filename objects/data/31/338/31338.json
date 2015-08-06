@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1956",
+    "Culture": "Byzantine",
+    "DateBeginYear": 900,
+    "DateEndYear": 999,
+    "DateText": "10th century",
+    "Description": null,
+    "Dimensions": "H: 3 7/8 x W: 3 3/16 in. (9.9 x 8.1 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40442,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_55.82_Fnt_BW_H59.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_55.82_Fnt_BW_H59.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_55.82_Fnt_BW_H59.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_55.82_Fnt_BW_H59.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_55.82_Fnt_BW_H59.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "lead",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1410,
+        "LocationString": null
+    },
+    "ObjectID": 31338,
+    "ObjectName": "crosses; chandeliers",
+    "ObjectNumber": "55.82",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "[Discovered in Asia Minor, close to Istanbul, ca. 1950]; Nikos Avgheris, Istanbul, ca. 1952, by purchase; Robert E. Hecht Jr., Ruxton, Maryland, 1956, by purchase; Walters Art Museum, 1956, by purchase.",
+    "PublicAccessDate": "2012-07-10T22:00:00.41",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31338",
+    "SortNumber": "    55    82                                            ",
+    "Style": null,
+    "Title": "Fragment from a Chandelier (?)"
+}

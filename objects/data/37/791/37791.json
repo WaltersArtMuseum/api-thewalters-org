@@ -1,0 +1,179 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Richard Caton Woodville (American, 1825-1855)",
+            "CreatorID": 2112,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Kurt Versen, 1991",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 10 9/16 x W: 15 9/16 in. (26.9 x 39.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "New Eyes on America: The Genius of Richard Caton Woodville",
+            "ExhibBeginDate": "2013-03-10",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "March 10, 2013 -  November 03, 2013",
+            "ExhibEndDate": "2013-11-03",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2834,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "New Eyes on America: The Genius of Richard Caton Woodville. The Walters Art Museum, Baltimore; Mint Museum of Art Uptown, Charlotte. 2013."
+        },
+        {
+            "ExhTitle": "The American Artist as Painter and Draftsman",
+            "ExhibBeginDate": "2001-10-20",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "October 20, 2001-December 30, 2001",
+            "ExhibEndDate": "2001-12-30",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 2160,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The American Artist as Painter and Draftsman. The Walters Art Museum, Baltimore. 2001."
+        },
+        {
+            "ExhTitle": "Richard Caton Woodville",
+            "ExhibBeginDate": "1967-04-21",
+            "ExhibBeginYear": 1967,
+            "ExhibDisplayDate": "April 21, 1967-April 5, 1968",
+            "ExhibEndDate": "1968-04-05",
+            "ExhibEndYear": 1968,
+            "ExhibitionID": 3158,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Richard Caton Woodville. Corcoran Gallery of Art, Washington; The Walters Art Gallery, Baltimore; Munson-Williams-Proctor Arts Institute- Museum of Art, Utica; High Museum of Art, Atlanta; Brooklyn Museum, Brooklyn. 1967-1968."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\D\u00fcsseldorf\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1453070,
+            "GeographyTerm": "D\u00fcsseldorf",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "006 47",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.783
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37387,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37385,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36728,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2650_DetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2650_DetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2650_DetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2650_DetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2650_DetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 36729,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2650_DetB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2650_DetB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2650_DetB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2650_DetB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2650_DetB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 36730,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2650_DetC_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2650_DetC_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2650_DetC_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2650_DetC_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2650_DetC_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 30636,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2650_Back_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        },
+        {
+            "ID": 30638,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2650_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "graphite on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5474,
+        "LocationString": null
+    },
+    "ObjectID": 37791,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2650",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Antoinette Schnitzler Woodville, D\u00fcsseldorf; Alice Marquart, by descent; Anny Versen, before 1895, by descent; Mr. Kurt Versen, Florida, ca. 1910, by descent; The Walters Art Museum, 1991, by gift",
+    "PublicAccessDate": "2012-10-19T22:00:00.27",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37791",
+    "SortNumber": "    37  2650                                            ",
+    "Style": null,
+    "Title": "The Card Players (recto) / Classical Scene (verso)"
+}

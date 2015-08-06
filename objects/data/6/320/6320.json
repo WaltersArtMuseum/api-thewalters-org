@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1952",
+    "Culture": null,
+    "DateBeginYear": 938,
+    "DateEndYear": 975,
+    "DateText": "ca. 950-975",
+    "Description": null,
+    "Dimensions": "H: 12 5/16 x W: 9 1/2 in. (31.2 x 24.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminating the Word: Gospel Books in the Middle Ages",
+            "ExhibBeginDate": "2004-07-10",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "July 10, 2004-October 3, 2004",
+            "ExhibEndDate": "2004-10-03",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2012,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminating the Word: Gospel Books in the Middle Ages. The Walters Art Museum, Baltimore. 2004."
+        },
+        {
+            "ExhTitle": "The Saint John's Bible: A Modern Vision through Medieval Methods",
+            "ExhibBeginDate": "2009-02-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "February 15, 2009-May 24, 2009",
+            "ExhibEndDate": "2009-05-24",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2059,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Saint John's Bible: A Modern Vision through Medieval Methods. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\Detmold\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1452076,
+            "GeographyTerm": "Corvey",
+            "Latitude": "51 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.783,
+            "Longitude": "009 24",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.4
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40271,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.1v_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.1v_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.1v_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.1v_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.1v_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Illumination; Manuscript; Medallion; Miniature; Ornament; Painting; Walters Art Museum; Scripture",
+    "Medium": "ink and pigments on thick parchment, with suede surface on flesh side",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 6320,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.751.1V",
+    "OnView": 0,
+    "Period": "Ottonian",
+    "Provenance": "Written in the Monastery of Corvey on the Weser River in Germany ca. 940-975, during the reign of Otto I [based on style and paleography]; [Originally part of a Gospel Book belonging to the Chapter Library of the Cathedral of Rheims until the French Revolution, now Ms. 10 in the Rheims Municipal Library]; Sir Thomas Phillips, London, ca. 1855 [mode of acquisition unknown] [Ms. 14122, noted on bottom of fol. 1r]; A. Chester Beatty, December 1920, acquired privately from Phillips collection; Walters Art Museum, October 1952, by purchase [from Mrs. Chester Beatty through Maggs Brothers].",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6320",
+    "SortNumber": "W        751    1V                                      ",
+    "Style": "Ottonian",
+    "Title": "Frontispiece for the Gospel of Luke"
+}

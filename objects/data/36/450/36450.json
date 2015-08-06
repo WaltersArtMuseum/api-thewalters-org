@@ -1,0 +1,106 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egawa Munetaka (Japanese, active mid 19th century)",
+            "CreatorID": 3326,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "A gold tiger with black shakudo stripes is shown crouched near bamboo. Tigers and bamboo are commonly paired on sword fittings. They represent the acceptance of the strong (tiger) by the weak (bamboo).",
+    "Dimensions": "1 9/16 in. (3.9 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kyushu-chiho\\prefectures\\Saga\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493750,
+            "GeographyTerm": "Saga",
+            "Latitude": "33 16",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.266,
+            "Longitude": "130 18",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 130.3
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kyushu-chiho\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493771,
+            "GeographyTerm": "Nagasaki",
+            "Latitude": "32 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.833,
+            "Longitude": "129 55",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 129.916
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15366,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1042_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1042_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1042_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1042_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1042_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15365,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1042_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1042_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1042_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1042_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1042_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15367,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1042_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1042_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1042_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1042_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1042_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u6c5f\u5ddd\u5b97\u5b5d\u4f5c; [Translation] Egawa Munetaka saku",
+    "Keywords": "animal; tiger; plant; bamboo",
+    "Medium": "shibuichi, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 36450,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1042",
+    "OnView": 0,
+    "Period": "late Edo-Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-14T09:53:02.977",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36450",
+    "SortNumber": "    51  1042                                            ",
+    "Style": null,
+    "Title": "Fuchi with Tiger and Bamboo"
+}

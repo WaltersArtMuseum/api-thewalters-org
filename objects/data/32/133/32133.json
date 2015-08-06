@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -342,
+    "DateText": "664-342 BC",
+    "Description": "This statuette of Anubis, god of embalming, represents him striding, wearing a long wig that covers the transition between his human body and jackal head. As a son of Osiris, he wears the double crown of Upper and Lower Egypt.",
+    "Dimensions": "9 13/16 x 2 7/16 x 3 15/16 in. (24.9 x 6.2 x 10 cm)",
+    "Dynasty": "26th-30th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mummified",
+            "ExhibBeginDate": "2008-11-15",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "November 15, 2008-November 8, 2013",
+            "ExhibEndDate": "2013-11-08",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2173,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mummified. The Walters Art Museum, Baltimore. 2008-2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11845,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.552_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.552_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.552_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.552_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.552_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, glass or stone",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 402,
+        "LocationString": null
+    },
+    "ObjectID": 32133,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.552",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Khawam [from Mitrahina]; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.407",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32133",
+    "SortNumber": "    54   552                                            ",
+    "Style": null,
+    "Title": "Standing Anubis"
+}

@@ -1,0 +1,154 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1952",
+    "Culture": null,
+    "DateBeginYear": 938,
+    "DateEndYear": 975,
+    "DateText": "ca. 950-975",
+    "Description": "Binding is non-original. Modern English crushed dark blue morocco by W.H. Smith and Son, first half of the twentieth century; gold tooled outer fillet and lettering, which read \"EVANGELIORUM FRAGMENTA MS. SAEC. IX;\" inside: wide borders of morocco with triple fillet gold tooled; vellum doublure and flyleaves.",
+    "Dimensions": "H: 12 5/16 x W: 9 1/2 in. (31.2 x 24.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\Detmold\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1452076,
+            "GeographyTerm": "Corvey",
+            "Latitude": "51 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.783,
+            "Longitude": "009 24",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.4
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40283,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 40284,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 40278,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 40277,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 40279,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_ForeEdge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_ForeEdge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_ForeEdge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_ForeEdge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_ForeEdge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 40281,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 40280,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 40282,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.binding_Ext_DD_Tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Illumination; Manuscript; Medallion; Miniature; Ornament; Painting; Walters Art Museum; Scripture",
+    "Medium": "modern English crushed dark blue morocco, gold tooled outer fillet and lettering, wide borders of morocco with triple fillet gold tooled; vellum doublure and flyleaves",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 88708,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.751.binding",
+    "OnView": 0,
+    "Period": "Ottonian",
+    "Provenance": "Written in the Monastery of Corvey on the Weser River in Germany ca. 940-975, during the reign of Otto I [based on style and paleography]; [Originally part of a Gospel Book belonging to the Chapter Library of the Cathedral of Rheims until the French Revolution, now Ms. 10 in the Rheims Municipal Library]; Sir Thomas Phillips, London, ca. 1855 [mode of acquisition unknown] [Ms. 14122, noted on bottom of fol. 1r]; A. Chester Beatty, December 1920, acquired privately from Phillips collection; Walters Art Museum, October 1952, by purchase [from Mrs. Chester Beatty through Maggs Brothers].",
+    "PublicAccessDate": "2012-07-05T22:00:00.38",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/88708",
+    "SortNumber": "W        751binding                                     ",
+    "Style": "Ottonian",
+    "Title": "Binding from Corvey Gospel fragment"
+}

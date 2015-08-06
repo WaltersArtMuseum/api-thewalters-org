@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "German; Christian",
+    "DateBeginYear": 1151,
+    "DateEndYear": 1200,
+    "DateText": "2nd half 12th century",
+    "Description": null,
+    "Dimensions": "H: 4 7/16 x W: 2 1/2 in. (11.3 x 6.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heinrich der L\u00f6we und seine Zeit: Herchaft und Repr\u00e4sentation der Welfen",
+            "ExhibBeginDate": "1995-08-06",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "August 6, 1995-November 12, 1995",
+            "ExhibEndDate": "1995-11-12",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 697,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Heinrich der L\u00f6we und seine Zeit: Herchaft und Repr\u00e4sentation der Welfen. Herzog Anton Ulrich-Museum, Braunschweig. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Hessen\\districts (national)\\Kassel\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1453844,
+            "GeographyTerm": "Karlshafen",
+            "Latitude": "51 38",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.633,
+            "Longitude": "009 26",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.433
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55276,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.10.88V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.10.88V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.10.88V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.10.88V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.10.88V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Caroline minuscule; Codex; Historiated initial; Illumination; Manuscript; Miniature; Walters Art Museum; Devotion",
+    "Medium": "ink and pigments on well-prepared, medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 21780,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.10.88V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Abbey of Helmarshausen, made for Matilda, duchess of Saxony [depicted on fol. 6v], eldest daughter of King Henry II of England and his queen, Eleanor [St. Modoaldus, Bishop of Trier, in calendar in gold and in litany; Relics moved to Helmarshausen in 1107; St. Meinmulf, Bishop of Paderborn, founder of Helmarshausen abbey]; Petrus Grillinger, Chamberlain of the Archbishop of Salzburg, 1430 [mode of acquisition unknown] [on fol. 126v, \"Hic liber fuit Domini petri Grillimger Magistri Kamere Curie Salzbu\"]; Leon Gruel, prior to 1903 [mode of acquisition unknown] [bookplate of Gruel and Engelmann, no. 136]; Henry Walters, Baltimore, June 9, 1903, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21780",
+    "SortNumber": "W         10   88V                                      ",
+    "Style": "Romanesque",
+    "Title": "Initial D (Dixit dominus)"
+}

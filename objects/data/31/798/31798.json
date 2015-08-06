@@ -1,0 +1,113 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian (?)",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Greek (?)",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": null,
+    "DateBeginYear": -300,
+    "DateEndYear": -101,
+    "DateText": "3rd-2nd century BC",
+    "Description": "During the 26th Dynasty, the Greeks established merchant colonies in Egypt. Faience workshops in these towns produced goods for the local population, as well as products in an Egyptian style for export. The \"rhyton,\" or drinking vessel, takes inspiration from Near Eastern models.",
+    "Dimensions": "8 1/4 x 3 9/16 in. (21 x 9 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9222,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.368_Prof_TR_T88IIA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.368_Prof_TR_T88IIA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.368_Prof_TR_T88IIA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.368_Prof_TR_T88IIA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.368_Prof_TR_T88IIA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39111,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.368_Fnt_BW_T88.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.368_Fnt_BW_T88.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.368_Fnt_BW_T88.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.368_Fnt_BW_T88.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.368_Fnt_BW_T88.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 31798,
+    "ObjectName": "rhyta",
+    "ObjectNumber": "48.368",
+    "OnView": 1,
+    "Period": "Hellenistic-Ptolemaic",
+    "Provenance": "Reverend William MacGregor Collection Sale, Sotheby's, London, 1922, no. 212; Dikran Kelekian, Paris and New York, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.987",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31798",
+    "SortNumber": "    48   368                                            ",
+    "Style": null,
+    "Title": "\"Rhyton\" with Griffins"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "F\u00e9lix Fran\u00e7ois Georges Philibert Ziem (French, 1821-1911)",
+            "CreatorID": 1943,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1865",
+    "Culture": null,
+    "DateBeginYear": 1853,
+    "DateEndYear": 1865,
+    "DateText": "ca. 1865",
+    "Description": "The sun is setting in the west, illuminating the entrance to the Grand Canal. At the left, silhouetted against the sky, is the dome of Santa Maria della Salute. The right is dominated by the Ducal Palace and beyond it, the Campanile. Crossing from the Riva degli Schiavoni is a gondola laden with passengers. Several sailing vessels are moored at the right.\r\n\r\nF\u00e9lix Ziem was active in the Paris Salon in 1849.  He was influenced by the Barbizon school and acquired their naturalistic approach.",
+    "Dimensions": "H: 17 1/16 x W: 21 5/8 in. (43.3 x 55 cm); Framed H: 28 3/8 \u00d7 W: 33 1/16 \u00d7 D: 4 1/2 in. (72 \u00d7 84 \u00d7 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41246,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.158_FntA_TR_C80IA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.158_FntA_TR_C80IA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.158_FntA_TR_C80IA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.158_FntA_TR_C80IA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.158_FntA_TR_C80IA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] In dark brown at lower right: Ziem",
+    "Keywords": "Venice; Italy",
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 4011,
+        "LocationString": null
+    },
+    "ObjectID": 33761,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.158",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1865, by purchase [from the artist]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-04-13T16:18:25.693",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 38302,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/33761",
+    "SortNumber": "    37   158                                            ",
+    "Style": null,
+    "Title": "Venice, Evening"
+}

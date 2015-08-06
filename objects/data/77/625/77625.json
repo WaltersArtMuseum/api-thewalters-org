@@ -1,0 +1,119 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kamal ibn `Abd al-Haqq al-Sabzawari (Iranian, died after 1558)",
+            "CreatorID": 15670,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Kamal ibn `Abd al-Haqq al-Sabzawari (Iranian, died after 1558)",
+            "CreatorID": 15670,
+            "Gender": null,
+            "Role": "Illuminator"
+        },
+        {
+            "ConcatDisplayName": "'Ali ibn Abi Talib (died 40 AH/AD 661)",
+            "CreatorID": 16703,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1534,
+    "DateEndYear": 1534,
+    "DateText": "941 AH/AD 1534",
+    "Description": "This text page from Walters manuscript W.579 is defined by the use of alternating black Naskh and gold Thuluth. The Naskh panels are flanked by illuminated medallions with a gold-tooled outline. The gold Thuluth lines are set apart by outlines resembling clouds. Illuminated rosettes serve as verse markers. The stamp in the left margin is the personal seal of the Vizier 'Ali Pasha, who gave the manuscript to an educational charity in 1130 AH/AD 1717.",
+    "Dimensions": "H: 9 1/4 x W: 6 1/2 in. (23.5 x 16.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Ornament",
+            "ExhibBeginDate": "1988-02-16",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "February 16, 1988-May 8, 1988",
+            "ExhibEndDate": "1988-05-08",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2713,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Ornament. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum",
+            "ExhibBeginDate": "2007-02-03",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 3, 2007-April 29, 2007",
+            "ExhibEndDate": "2007-04-29",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 186,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum. The Walters Art Museum, Baltimore. 2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Mazandaran\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507895,
+            "GeographyTerm": "Gorgan",
+            "Latitude": "36 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.833,
+            "Longitude": "054 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 54.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Mazandaran\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507895,
+            "GeographyTerm": "Gorgan",
+            "Latitude": "36 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.833,
+            "Longitude": "054 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 54.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20880,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.579.3A_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.579.3A_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.579.3A_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.579.3A_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.579.3A_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Calligraphy; Codex; Colophon; Headpiece; History; Illumination; Iran; Islamic; Manuscript; Ornament; Prayer; Script",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77625,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.579.3A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Vizier al-Shahid 'Ali Pasha, ca. 1130 AH/AD 1717 (?) [mode of acquisition unknown] [waqf-seal impression of the Vizier dated 1130 AH/AD 1717 with the original shelf mark 1414 on fols. 2a, 2b, and 3a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77625",
+    "SortNumber": "W        579    3A                                      ",
+    "Style": null,
+    "Title": "Illuminated Text Page with Seal"
+}

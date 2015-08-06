@@ -1,0 +1,92 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Gift of the Baroness Helen Giskra, 1948",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1725,
+    "DateText": "early 18th century",
+    "Description": "In 1967, John Hayward of the Victoria and Albert Museum identified these pieces as Saxon.",
+    "Dimensions": "7 13/16 in. (19.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Artful Dining: The Exhibition",
+            "ExhibBeginDate": "1994-07-30",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "July 30, 1994-October 31, 1994",
+            "ExhibEndDate": "1994-10-31",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2747,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artful Dining: The Exhibition. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454401,
+            "GeographyTerm": "Sachsen",
+            "Latitude": "52 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.833,
+            "Longitude": "010 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5749,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_57.1805_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_57.1805_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_57.1805_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_57.1805_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_57.1805_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "iron, bone, silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 8016,
+    "ObjectName": "table knives; forks; silverware; flatware",
+    "ObjectNumber": "57.1805",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Baroness Helen Giskra [date and mode of acquisition unknown];  Walters Art Museum, 1948, by gift.",
+    "PublicAccessDate": "2008-09-25T17:14:37.597",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 90805,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 90806,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8016",
+    "SortNumber": "    57  1805                                            ",
+    "Style": null,
+    "Title": "Knife and Fork with Stained Green Bone Handles and Silver Appliques"
+}

@@ -1,0 +1,142 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Yoshie Shinomoto, 1992",
+    "Culture": null,
+    "DateBeginYear": 1885,
+    "DateEndYear": 1885,
+    "DateText": "1885",
+    "Description": null,
+    "Dimensions": "H: 135 3/4 x W: 36 3/4 in. (344.81 x 93.35 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46169,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_35.187_TopBot_DD_2013_merged.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_35.187_TopBot_DD_2013_merged.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_35.187_TopBot_DD_2013_merged.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_35.187_TopBot_DD_2013_merged.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_35.187_TopBot_DD_2013_merged.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45203,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.187_Top_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.187_Top_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.187_Top_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.187_Top_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.187_Top_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 45201,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.187_Ctr_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.187_Ctr_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.187_Ctr_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.187_Ctr_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.187_Ctr_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 45199,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.187_Bot_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.187_Bot_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.187_Bot_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.187_Bot_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.187_Bot_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 45204,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.187_TopCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.187_TopCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.187_TopCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.187_TopCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.187_TopCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 16
+        },
+        {
+            "ID": 45202,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.187_CtrCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.187_CtrCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.187_CtrCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.187_CtrCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.187_CtrCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 17
+        },
+        {
+            "ID": 45200,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.187_BotCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.187_BotCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.187_BotCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.187_BotCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.187_BotCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 18
+        }
+    ],
+    "Inscriptions": "[Date] Inscription at the bottom equivalent to AD 1885",
+    "Keywords": "Life Story of the Buddha",
+    "Medium": "paint on cotton",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2984,
+        "LocationString": null
+    },
+    "ObjectID": 35020,
+    "ObjectName": "banners; paintings",
+    "ObjectNumber": "35.187",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Yoshie Shinomoto, Monkton, Maryland [date and mode of acquisition unknown]; Walters Art Museum, 1992, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35020",
+    "SortNumber": "    35   187                                            ",
+    "Style": null,
+    "Title": "The Buddha's Descent from Heaven"
+}

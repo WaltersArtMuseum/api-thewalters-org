@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pietro Fabris (Italian, active 1768-1778)",
+            "CreatorID": 4583,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1768,
+    "DateEndYear": 1770,
+    "DateText": "1768-1770",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 436, p. 548.",
+    "Dimensions": "Painted surface H: 24 15/16 x W: 30 3/16 in. (63.3 x 76.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Savings Bank of Baltimore Special Display",
+            "ExhibBeginDate": "1984-03-06",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "March 6, 1984-April 14, 1984",
+            "ExhibEndDate": "1984-04-14",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2952,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Savings Bank of Baltimore Special Display. The Savings Bank of Baltimore, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37189,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.875_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.875_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.875_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.875_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.875_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3299,
+        "LocationString": null
+    },
+    "ObjectID": 28723,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.875",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 287, as Claude Lorrain; 1897 catalogue: no. 800, as Nicolas Lancret]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28723",
+    "SortNumber": "    37   875                                            ",
+    "Style": null,
+    "Title": "Fanciful View of the Neapolitan Coast"
+}

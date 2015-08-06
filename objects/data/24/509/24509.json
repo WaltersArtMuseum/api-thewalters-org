@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bartholomaeus Anglicus (English, born ca. 1203, died 1272)",
+            "CreatorID": 4523,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Jacop Bellaert (Dutch, active 1484-1485)",
+            "CreatorID": 4182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1485,
+    "DateEndYear": 1485,
+    "DateText": "1485",
+    "Description": null,
+    "Dimensions": "H: 13 3/8 x W: 8 3/8 in. (33.97 x 21.27 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Noord-Holland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473828,
+            "GeographyTerm": "Haarlem",
+            "Latitude": "52 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.383,
+            "Longitude": "004 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11456,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/REF_91.168.105v_Opn_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/REF_91.168.105v_Opn_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/REF_91.168.105v_Opn_UK.jpg",
+                "Small": "http://static.thewalters.org/images/REF_91.168.105v_Opn_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/REF_91.168.105v_Opn_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 100
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and watercolor wash on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 24509,
+    "ObjectName": "incunabula",
+    "ObjectNumber": "91.168.105V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Acquired by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-12-09T01:00:00.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24509",
+    "SortNumber": "    91   168  105V                                      ",
+    "Style": null,
+    "Title": "The Ages of Man"
+}

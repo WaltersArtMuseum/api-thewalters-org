@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles Felix Blauvelt (American, 1824-1900)",
+            "CreatorID": 2311,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1847,
+    "DateEndYear": 1871,
+    "DateText": "ca. 1859",
+    "Description": "Blauvelt studied with Charles Loring Elliott and at the Pennsylvania Academy of the Fine Arts and the National Academy of Design. He pursued a career as a genre and portrait painter, before settling in Annapolis, Maryland where he taught draftsmanship at the Naval Academy. Blauvelt was among the artists whom William T. Walters encountered during his forays in the New York art market just prior to the Civil War, acquiring 5 works by the artist. Blauvelt specialized in small genre paintings, frequently of single figures.",
+    "Dimensions": "H: 7 5/16 x W: 5 5/16 in. (18.6 x 13.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Private Lives: Nineteenth Century American Genre Drawings",
+            "ExhibBeginDate": "1995-01-24",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "January 24, 1995-June 4, 1995",
+            "ExhibEndDate": "1995-06-04",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 2180,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Private Lives: Nineteenth Century American Genre Drawings. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "Private Lives: Nineteenth Century American Genre Drawings",
+            "ExhibBeginDate": "1994-09-08",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "September 8, 1994-November 13, 1994",
+            "ExhibEndDate": "1994-11-13",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2723,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Private Lives: Nineteenth Century American Genre Drawings. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50189,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1949_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1949_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1949_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1949_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1949_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48470,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1949_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1949_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1949_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1949_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1949_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Bottom left: Blauvelt",
+    "Keywords": "snow; winter; shovels",
+    "Medium": "oil on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2248,
+        "LocationString": null
+    },
+    "ObjectID": 40004,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1949",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore; inherited by Henry Walters, Baltimore, 1894; by bequest to Walters Art Museum, 1931 [1].\r\n\r\n[1] from the Walters residence of 5 West Mount Vernon Place, Baltimore",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40004",
+    "SortNumber": "    37  1949                                            ",
+    "Style": null,
+    "Title": "Looking For a Job (Snow Shoveller)"
+}

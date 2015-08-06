@@ -1,0 +1,88 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sadahide (Japanese, 1807-1873)",
+            "CreatorID": 3017,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Surugaya Hanhichi",
+            "CreatorID": 15047,
+            "Gender": null,
+            "Role": "Publisher"
+        }
+    ],
+    "CreditLine": "Bequest of Robert S. Shaull, 1990",
+    "Culture": null,
+    "DateBeginYear": 1830,
+    "DateEndYear": 1870,
+    "DateText": "1830-1870",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\volcanes\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1492168,
+            "GeographyTerm": "Fuji-san",
+            "Latitude": "35 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.383,
+            "Longitude": "138 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.7
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Kanagawa-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491060,
+            "GeographyTerm": "Yokohama",
+            "Latitude": "35 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.466,
+            "Longitude": "139 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16948,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.368.6_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.368.6_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.368.6_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.368.6_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.368.6_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Gountei Sadahide ga",
+    "Keywords": "Tokaido; Mt. Fuji; Yokohama school; travel",
+    "Medium": "pigments on mulberry paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 79310,
+    "ObjectName": "color woodcuts",
+    "ObjectNumber": "95.368.6",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Robert S. Shaull [date and mode of acquisition unknown]; Walters Art Museum, 1990, by bequest.",
+    "PublicAccessDate": "2014-12-06T01:00:00.213",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79310",
+    "SortNumber": "    95   368    6                                       ",
+    "Style": "Yokohama School",
+    "Title": "Tokaido meisho ichiran no zu"
+}

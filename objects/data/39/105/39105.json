@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greco-Roman",
+            "CreatorID": 2185,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1929",
+    "Culture": null,
+    "DateBeginYear": -100,
+    "DateEndYear": 200,
+    "DateText": "100 BC-AD 200",
+    "Description": null,
+    "Dimensions": "H: 9 7/8 in. (25.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543915,
+            "GeographyTerm": "Misr Bahri",
+            "Latitude": "31 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.0,
+            "Longitude": "031 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57892,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.1052_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.1052_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.1052_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.1052_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.1052_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 423,
+        "LocationString": null
+    },
+    "ObjectID": 39105,
+    "ObjectName": "statuary groups; figures",
+    "ObjectNumber": "54.1052",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Khawam [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1929, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39105",
+    "SortNumber": "    54  1052                                            ",
+    "Style": null,
+    "Title": "Kastor and Polydeukes"
+}

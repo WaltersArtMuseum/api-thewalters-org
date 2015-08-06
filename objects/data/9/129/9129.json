@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles Lanman (American, 1819\u20131895)",
+            "CreatorID": 6813,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 10 15/16 x W: 14 15/16 in. (27.8 x 38 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Setting Sail: Drawings of the Sea from WAM",
+            "ExhibBeginDate": "2011-06-18",
+            "ExhibBeginYear": 2011,
+            "ExhibDisplayDate": "June 18, 2011-September 11, 2011",
+            "ExhibEndDate": "2011-09-11",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2987,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Setting Sail: Drawings of the Sea from WAM. The Walters Art Museum, Baltimore. 2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\Rhode Island\\counties\\Washington\\islands\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 937465,
+            "GeographyTerm": "Block Island",
+            "Latitude": "41 11",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.183,
+            "Longitude": "071 34",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -71.566
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31791,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2459_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2459_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2459_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2459_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2459_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on heavy paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2227,
+        "LocationString": null
+    },
+    "ObjectID": 9129,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2459",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. or Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-21T15:17:18.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9129",
+    "SortNumber": "    37  2459                                            ",
+    "Style": null,
+    "Title": "Block Island, RI"
+}

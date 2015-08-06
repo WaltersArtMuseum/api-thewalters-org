@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Sandro Botticelli (Italian, 1444/5-1510)",
+            "CreatorID": 15774,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1495,
+    "DateEndYear": 1499,
+    "DateText": "1495-1499",
+    "Description": "This \"tondo\" (round painting) depicts the \"Virgo lactans,\" which is the Latin term for the nursing Virgin Mary. The image testifies to the humanity of Christ as it shows that he consumed food like all other humans. Mary is seated on the ground. In this pose, she is known as the Madonna of Humility. The young Saint John the Baptist, Jesus' second cousin, gazes reverently at Christ. John the Baptist was the patron saint of Florence, and the painting comes from the Florentine artist Sandro Botticelli's workshop, as can be seen in its graceful contours, so it was most likely painted for a patron from that city. A \"tondo\" was not used as an altarpiece and could be hung in a private home.\r\n\r\nFor more information on this tondo, please see Zeri catalogue number 58, p. 94.",
+    "Dimensions": "Painted surface Diam: 36 13/16 x D: 1 7/16 in. (93.5 x 3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28576,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW_H63.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW_H63.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW_H63.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW_H63.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW_H63.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10572,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.422_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and oil on wood panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 15th-Century Italian Art",
+        "LocationID": 4581,
+        "LocationString": null
+    },
+    "ObjectID": 15551,
+    "ObjectName": "tondi",
+    "ObjectNumber": "37.422",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 31, as Botticelli]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.427",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15551",
+    "SortNumber": "    37   422                                            ",
+    "Style": null,
+    "Title": "Madonna and Child with the Young Saint John the Baptist"
+}

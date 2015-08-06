@@ -1,0 +1,116 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alisher Navoi (died 906 AH/AD 1501)",
+            "CreatorID": 19348,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.663 is a Safavid illuminated and illustrated collection of the Hamse (quintet), written in \u00c7agatay (eastern Turkic), composed by the celebrated 'Ali \u0160ir Neva'i (died 906 AH/AD 1501), and inspired by the Persian Khamse of Nizami and Amir Khusraw Dihlavi. This copy dates to the 10th century AH/AD 16th and has 5 double-page illustrations in the early Safavid court style. Each double-page illustration introduces the following individual poems: Kitab-i heyrat \u00fcl-ebrar (fols. 1b-2a), Kitab-i Ferhad va Sirin (fols. 45b-46a), Kitab-i Mecnun va Leyla (fols. 108b-109a), Kitab-i Hest bihist (fols. 147b-148a), and Kitab-i Iskendername (fols. 199b-200a). Each poem is also introduced by an illuminated incipit (fols. 2b, 46b, 109b, 148b, and 200b). The brown goatskin binding has a central lobed oval with pendants and cornerpieces brushed with gold. It is possibly attributable to the10th century AH/AD 16th.",
+    "Dimensions": "Folio H: 9 1/4 x W: 2 9/16 in. (23.5 x 6.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mything Persons: Historic Figures in Legends of East and West",
+            "ExhibBeginDate": "1998-05-02",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "May 2, 1998-August 9, 1998",
+            "ExhibEndDate": "1998-08-09",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 29,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mything Persons: Historic Figures in Legends of East and West. The Walters Art Gallery, Baltimore. 1998."
+        },
+        {
+            "ExhTitle": "Islamic Insights",
+            "ExhibBeginDate": "1980-03-15",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "March 15, 1980-May 25, 1980",
+            "ExhibEndDate": "1980-05-25",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 548,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Islamic Insights. Katonah Gallery, Katonah. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34863,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.663_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.663_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.663_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.663_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.663_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Safavid; Turkish; Book; Codex; Illumination; Illustration; Manuscript; Turkey; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with brown goatskin with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2347,
+        "LocationString": null
+    },
+    "ObjectID": 18847,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.663",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 90189,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91117,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91118,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91119,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91120,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/18847",
+    "SortNumber": "W        663                                            ",
+    "Style": null,
+    "Title": "Five Poems (Quintet)"
+}

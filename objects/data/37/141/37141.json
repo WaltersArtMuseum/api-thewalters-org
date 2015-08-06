@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, before 1889",
+    "Culture": null,
+    "DateBeginYear": 1736,
+    "DateEndYear": 1745,
+    "DateText": "1736-1745",
+    "Description": null,
+    "Dimensions": "H: 8 7/8 in. (22.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realistic Perfection: The Making of Oriental Ceramic Art",
+            "ExhibBeginDate": "2011-03-12",
+            "ExhibBeginYear": 2011,
+            "ExhibDisplayDate": "March 12, 2011-June 4, 2011",
+            "ExhibEndDate": "2011-06-04",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 3160,
+            "LocationID": 4051,
+            "NonWAMExhibition": false,
+            "Textblock": "Realistic Perfection: The Making of Oriental Ceramic Art. The Walters Art Museum, Baltimore. 2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30183,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_49.2063_FntVwB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_49.2063_FntVwB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_49.2063_FntVwB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_49.2063_FntVwB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_49.2063_FntVwB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with iron-rust glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1951,
+        "LocationString": null
+    },
+    "ObjectID": 37141,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2063",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-11-18T16:33:41.14",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37141",
+    "SortNumber": "    49  2063                                            ",
+    "Style": null,
+    "Title": "Iridescent Iron-Rust Vase"
+}

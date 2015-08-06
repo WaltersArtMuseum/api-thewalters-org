@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "'Ali ibn Abi Talib (died 40 AH/AD 661)",
+            "CreatorID": 16703,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "13th century AH/AD 19th century",
+    "Description": "This non-original binding from Walters manuscript W.651 dates to the 13th century AH/AD 19th. The binding is composed of Qajar lacquer and is without a flap. The binding has floral motifs in the center panel, and an Arabic inscription in Riqa' script in the top and bottom panels quoting Imam \"Ali ibn Abi Talib and highlighting the exercise of elegant writing as a means of income.",
+    "Dimensions": "Folio H: 6 7/8 x W: 4 5/16 in. (17.5 x 11.0 cm)",
+    "Dynasty": "Qajar Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33835,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.651.binding_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.651.binding_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.651.binding_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.651.binding_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.651.binding_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28850,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.651.binding_TopInt_DD_UpperBoardInside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.651.binding_TopInt_DD_UpperBoardInside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.651.binding_TopInt_DD_UpperBoardInside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.651.binding_TopInt_DD_UpperBoardInside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.651.binding_TopInt_DD_UpperBoardInside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 28848,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.651.binding_BotInt_DD_LowerBoardInside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.651.binding_BotInt_DD_LowerBoardInside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.651.binding_BotInt_DD_LowerBoardInside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.651.binding_BotInt_DD_LowerBoardInside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.651.binding_BotInt_DD_LowerBoardInside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": "Islamic; Persian; Safavid; Qajar; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Literature -- Poetry",
+    "Medium": "lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81479,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.651.binding",
+    "OnView": 0,
+    "Period": "Qajar",
+    "Provenance": "Mahmud Askani, 1893-1894, by purchase [ownership statement on fol. 6b written by Husayn Qavam Daftar (?) and dated 1311 AH/AD 1893-1894 stating that this precious book was bought for his son Mahmud Askani from a woman for 10 ashrafis (gold dinars)]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81479",
+    "SortNumber": "W        651binding                                     ",
+    "Style": null,
+    "Title": "Binding from Poems (tarji'band)"
+}

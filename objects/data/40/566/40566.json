@@ -1,0 +1,101 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Agnolo Bronzino (Italian, 1503-1572)",
+            "CreatorID": 8184,
+            "Gender": "male",
+            "Role": "Workshop"
+        },
+        {
+            "ConcatDisplayName": "Agnolo Bronzino (Italian, 1503-1572)",
+            "CreatorID": 8184,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1909-1922",
+    "Culture": null,
+    "DateBeginYear": 1540,
+    "DateEndYear": 1549,
+    "DateText": "1540-1549",
+    "Description": "Bronzino served for several years as court painter to Cosimo I de' Medici (1519-1574), the wealthy and powerful grand duke of Tuscany. The artist painted portraits of many members of the Medici family, and this picture may represent Duke Cosimo's and Eleonora da Toledo's son Garcia, born in 1547, or another son, Ferdinando, born in 1549. Wrapped in swaddling clothes, the baby recalls representations of the infant Jesus, revealing the pious intentions of the child's parents. Importance was given to the portrayal of children during the 16th century because of the high mortality rate.\r\n\r\nThis portrait shows Bronzino's elegant and relief-like style.\r\n\r\nFor more information on this painting, please see Federico Zeri's 1976 catalogue no. 212, p. 328.",
+    "Dimensions": "Painted surface H: 13 3/16 x W: 10 1/4 x D: 1 5/16 in. (33.5 x 26 x 3.3 cm); Framed H: 16 7/8 x W: 19 9/16 x D: 2 5/8 in. (42.86 x 49.69 x 6.67 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Art and Love in Renaissance Italy",
+            "ExhibBeginDate": "2008-11-10",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "November 10, 2008-June 14, 2009",
+            "ExhibEndDate": "2009-06-14",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1980,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Art and Love in Renaissance Italy. The Metropolitan Museum of Art, New York; Kimbell Art Museum, Fort Worth. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4060,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.451_Fnt_TR_T86II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.451_Fnt_TR_T86II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.451_Fnt_TR_T86II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.451_Fnt_TR_T86II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.451_Fnt_TR_T86II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4654,
+        "LocationString": null
+    },
+    "ObjectID": 40566,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.451",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Bernard Berenson, Settignano [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1909-1922, by purchase [from Berenson]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.44",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40566",
+    "SortNumber": "    37   451                                            ",
+    "Style": null,
+    "Title": "Portrait of a Baby Boy"
+}

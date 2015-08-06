@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Robert A. Wittman, 1991",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49712,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.178_Fnt_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.178_Fnt_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.178_Fnt_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.178_Fnt_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.178_Fnt_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] Lower left: Zojo-ji Daisojo; [Translation] High priest \"Hall of Wisdom\" (?) [of the] Zojo Temple; [Stamp] kakihan",
+    "Keywords": null,
+    "Medium": null,
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2414,
+        "LocationString": null
+    },
+    "ObjectID": 40722,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.178",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Robert A. Wittman, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1991, by gift.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40722",
+    "SortNumber": "    35   178                                            ",
+    "Style": null,
+    "Title": "Descent of the Amida"
+}

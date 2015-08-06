@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ishiguro Masakatsu (Japanese, active mid 19th century)",
+            "CreatorID": 6146,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "Bush clover is shown growing by the side of a stream. Bush clover (\"hagi\") is one of the seven celebrated autumn plants. This is part of a set with Walters 51.1011.",
+    "Dimensions": "L: 1 9/16 in. (3.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Tohoku-chiho\\prefectures\\Fukushima\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490189,
+            "GeographyTerm": "Aizu-Wakamatsu",
+            "Latitude": "37 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.5,
+            "Longitude": "139 58",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.966
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19437,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1010_SideA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1010_SideA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1010_SideA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1010_SideA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1010_SideA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19438,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1010_SideB_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1010_SideB_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1010_SideB_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1010_SideB_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1010_SideB_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19436,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1010_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1010_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1010_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1010_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1010_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u77f3\u9ed2\u653f\u52dd; [Translation] Ishiguro Masakatsu",
+    "Keywords": "plant; autumn; flower; river",
+    "Medium": "shibuichi, silver, gold alloys, shakudo, and copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 27865,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1010",
+    "OnView": 0,
+    "Period": "Edo-Meiji",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 5617,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/27865",
+    "SortNumber": "    51  1010                                            ",
+    "Style": null,
+    "Title": "Fuchi with Bush Clover"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1765,
+    "DateEndYear": 1770,
+    "DateText": "1765-1770",
+    "Description": null,
+    "Dimensions": "2 x 3 5/16 in. (5.1 x 8.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Berlin\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450941,
+            "GeographyTerm": "Berlin",
+            "Latitude": "52 32",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.533,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4745,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2048_Fnt_BW_H60.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2048_Fnt_BW_H60.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2048_Fnt_BW_H60.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2048_Fnt_BW_H60.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2048_Fnt_BW_H60.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with glaze and polychrome, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4285,
+        "LocationString": null
+    },
+    "ObjectID": 36153,
+    "ObjectName": "snuffboxes",
+    "ObjectNumber": "48.2048",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.3",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36153",
+    "SortNumber": "    48  2048                                            ",
+    "Style": null,
+    "Title": "Cartouche-Shaped Snuffbox Depicting Views of Towns"
+}

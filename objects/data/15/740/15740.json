@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eusebius of Caesarea, Bishop of Caesarea (ca. 260-ca. 340)",
+            "CreatorID": 8611,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 975,
+    "DateEndYear": 1000,
+    "DateText": "late 10th century",
+    "Description": null,
+    "Dimensions": "12 3/16 x 7 1/16 in. (31 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminating the Word: Gospel Books in the Middle Ages",
+            "ExhibBeginDate": "2004-07-10",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "July 10, 2004-October 3, 2004",
+            "ExhibEndDate": "2004-10-03",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2012,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminating the Word: Gospel Books in the Middle Ages. The Walters Art Museum, Baltimore. 2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Lorraine\\departments\\Meuse\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1428240,
+            "GeographyTerm": "Fleury",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Lorraine\\departments\\Meuse\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1428240,
+            "GeographyTerm": "Fleury",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2436,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.3.16V_OpnRev_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.3.16V_OpnRev_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.3.16V_OpnRev_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.3.16V_OpnRev_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.3.16V_OpnRev_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 15740,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.3.16V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Abbey, Saint-Benoit-sur-Lo\u00eere, Fleury (?), late 10th century;  L\u00e9on Gruel, Paris, prior to 1903 [mode of acquisition unknown];  Henry Walters, Baltimore, 1903, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15740",
+    "SortNumber": "W          3   16V                                      ",
+    "Style": "Franco-Saxon",
+    "Title": "Leaf from Gospels"
+}

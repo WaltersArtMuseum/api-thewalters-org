@@ -1,0 +1,106 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nasir al-Din Muhammad al-Fayyumi",
+            "CreatorID": 16853,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Ridwan ibn Muhammad al-Tabizi",
+            "CreatorID": 16854,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "al-Busiri (Egyptian, died 694 AH/AD 1294)",
+            "CreatorID": 16535,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1366,
+    "DateEndYear": 1366,
+    "DateText": "767 AH/AD 1366",
+    "Description": "This illuminated title page from Walters manuscript W.581 gives the title of the work, as well as the authors' names. There is also a statement referring to the patronage of the manuscript, indicating that it was made for the Mawlawi (Mevlevi) Library (bi-rasm al-Khizanah al-Karimah al-\"Aliyah al-Mawlawiyah).",
+    "Dimensions": "H: 10 5/8 x W: 7 1/16 in. (27 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23084,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.581.1A_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.581.1A_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.581.1A_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.581.1A_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.581.1A_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Ornament; Iran; Turkey; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper with chain lines grouped in twos",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80028,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.581.1A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mawlawi (Mevlevi) Library, Konya, Turkey (?), 767 AH/AD 1366 [mode of acquisition unknown] [bi-rasm al-Khizanah al-Karimah al-'Aliyah al-Mawlawiyah\u2026 (fol.1a)]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80028",
+    "SortNumber": "W        581    1A                                      ",
+    "Style": null,
+    "Title": "Illuminated Title Page with Authors' Names and Patronage Statement"
+}

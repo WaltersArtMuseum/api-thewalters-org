@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Saint Bede, the Venerable (673-735)",
+            "CreatorID": 8737,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "The idea of the harmony of spheres \u2013 that numerical proportions corresponding to musical harmonies governed both the movement of the seven heavenly bodies and their distance from the Earth \u2013 was taken up by medieval writers from ancient thought. In the illustration of the harmony of the spheres in the upper part of the page, the Sun, the Moon, and the five known planets are depicted as seven discs of equal size. Between them are written musical intervals -- a tone (tonus), a semitone (semitonium), or three semitones (tria semitonia). The diagram below shows the Earth at center. The names of the zodiac are written in the outer frame. The names of the planetary bodies are written above their orbits, shown as red rings. Because each of these heavenly bodies has its own, eccentric orbit, the rings representing their orbits are not concentric.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56087,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.5R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.5R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.5R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.5R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.5R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 28605,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.5R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28605",
+    "SortNumber": "W         73    5R                                      ",
+    "Style": "Romanesque",
+    "Title": "The Harmony of the Spheres and the Planetary Orbits"
+}

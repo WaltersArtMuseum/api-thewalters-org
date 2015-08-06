@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eusebius of Caesarea, Bishop of Caesarea (ca. 260-ca. 340)",
+            "CreatorID": 8611,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Joseph Knopfelmacher, 1996",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1375,
+    "DateEndYear": 1425,
+    "DateText": "late 14th-early 15th century",
+    "Description": null,
+    "Dimensions": "H: 13 9/16 x W: 10 1/16 in. (34.5 x 25.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Ityop'iya\\lakes\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541964,
+            "GeographyTerm": "T'ana Hayk'",
+            "Latitude": "12 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 12.0,
+            "Longitude": "037 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45468,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.838.1R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.838.1R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.838.1R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.838.1R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.838.1R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11562,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.838.1R_OpnObv_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.838.1R_OpnObv_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.838.1R_OpnObv_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.838.1R_OpnObv_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.838.1R_OpnObv_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Illumination; Manuscript; Miniature; Painting; Walters Art Museum; Scripture; Theology",
+    "Medium": "ink and pigments on heavy yellowed parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 9192,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.838.1R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Joseph and Margaret Knopfelmacher collection, acquired in Addis Ababa ca. 1960; Walters Art Museum, 1996, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9192",
+    "SortNumber": "W        838    1R                                      ",
+    "Style": "Ethiopian",
+    "Title": "Canon Table"
+}

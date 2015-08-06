@@ -1,0 +1,79 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Prosper M\u00e9rim\u00e9e (French, 1803-1870)",
+            "CreatorID": 16439,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the Joseph F. McCrindle Collection, 2009",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": "Here, M\u00e9rim\u00e9e depicts a dashing Spanish matador poised for action.",
+    "Dimensions": "H: 3 9/16 x W: 2 5/16 in. (9.05 x 5.87 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18446,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2793_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2793_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2793_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2793_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2793_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "Inscribed on mat: Deux Espagnols",
+    "Keywords": null,
+    "Medium": "watercolor on cream-colored paper tipped to a white sheet",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6594,
+        "LocationString": null
+    },
+    "ObjectID": 79171,
+    "ObjectName": "drawings; caricatures",
+    "ObjectNumber": "37.2793",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Joseph F. McCrindle (1923-2008), New York, #A0677; Joseph F. McCrindle Foundation, New York, 2008, by bequest; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-06-15T11:17:49.673",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79169,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 79170,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/79171",
+    "SortNumber": "    37  2793                                            ",
+    "Style": null,
+    "Title": "One of \"Deux Espagnols\""
+}

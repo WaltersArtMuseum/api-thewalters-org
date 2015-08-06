@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sir Lawrence Alma-Tadema, R.A., O.M. (Anglo-Dutch, 1836-1912)",
+            "CreatorID": 4782,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Commissioned by William T. Walters, 1882",
+    "Culture": null,
+    "DateBeginYear": 1882,
+    "DateEndYear": 1882,
+    "DateText": "1882",
+    "Description": null,
+    "Dimensions": "H: 22 3/4 x W: 11 1/2 in. (57.8 x 29.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Supple Brush: The Flowering of Continental Watercolors",
+            "ExhibBeginDate": "1979-05-27",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "May 27, 1979-July 22, 1979",
+            "ExhibEndDate": "1979-07-22",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 404,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Supple Brush: The Flowering of Continental Watercolors. The Walters Art Gallery, Baltimore. 1979."
+        },
+        {
+            "ExhTitle": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery",
+            "ExhibBeginDate": "1983-03-17",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "March 17, 1983-April 24, 1983",
+            "ExhibEndDate": "1983-04-24",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 432,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1983."
+        },
+        {
+            "ExhTitle": "Empires Restored, Elysium Revisited: The Art of Sir Lawrence Alma-Tadema",
+            "ExhibBeginDate": "1991-09-21",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "September 21, 1991-September 6, 1992",
+            "ExhibEndDate": "1992-09-06",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 813,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Empires Restored, Elysium Revisited: The Art of Sir Lawrence Alma-Tadema. Amsterdam: Van Gogh Museum, AJ Amsterdam; The Sterling and Francine Clark Art Institute, Williamstown; The Walters Art Gallery, Baltimore; Taft Museum of Art, Cincinnati; The Dixon Gallery and Gardens, Memphis. 1991-1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41633,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.974_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.974_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.974_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.974_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.974_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signed] Lower right: Alma Tadema --",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3387,
+        "LocationString": null
+    },
+    "ObjectID": 22339,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.974",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, 1882, by commission; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-12-04T22:00:00.913",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22339",
+    "SortNumber": "    37   974                                            ",
+    "Style": null,
+    "Title": "'Twixt Venus and Bacchus"
+}

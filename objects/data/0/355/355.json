@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eug\u00e8ne Delacroix (French, 1798-1863)",
+            "CreatorID": 2617,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1866",
+    "Culture": null,
+    "DateBeginYear": 1835,
+    "DateEndYear": 1835,
+    "DateText": "1835",
+    "Description": null,
+    "Dimensions": "H: 7 13/16 x W: 10 1/4 in. (19.8 x 26.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31744,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1220_Fnt_BW_6057.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1220_Fnt_BW_6057.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1220_Fnt_BW_6057.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1220_Fnt_BW_6057.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1220_Fnt_BW_6057.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"E.D.\" in lower left stamped in red (Lugt Suppl. ?); \"Eug\u00e8ne Delacroix\" in blue ink on reverse in later hand",
+    "Keywords": "animal",
+    "Medium": "pen and iron gall ink with graphite on light blue moderately thick, smooth wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2254,
+        "LocationString": null
+    },
+    "ObjectID": 355,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1220",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Delacroix Sale, H\u00f4tel Drouot, Paris, February 17-19, 1864, lot 474; Baron de Laage, Paris, 1864; Georges Petit [date and mode of acquisition unknown]; William T. Walters, Baltimore, 1866, by purchase [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.77",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/355",
+    "SortNumber": "    37  1220                                            ",
+    "Style": null,
+    "Title": "Lion and Tortoise"
+}

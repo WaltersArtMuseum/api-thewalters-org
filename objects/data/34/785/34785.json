@@ -1,0 +1,89 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Isidore of Seville (Spain, 570-636)",
+            "CreatorID": 5316,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "Two overlapping squares with a common diagonal create the cube in the upper diagram. The Sun is portrayed in the upper left corner, the Moon in the lower right. The four elements, Earth, Air, Fire, and Water, along with their respective properties, occupy the cube's upper square. The wheel-shaped diagram in the bottom part of the page visualizes the idea that Man is a microcosm of the universe, and the universe a macrocosm of Man. Within the ring at center are the words (reading from top to bottom) \"World,\" \"Man,\" and \"Year.\" The eight intersecting arcs illustrate the relationships among the parts of the world \u2013 the four elements, the four bodily humors, and the four seasons. The cross shape created by the arcs expresses Christ's role in restoring to nature its original harmony, order, and meaning, believed to have been disrupted by the Fall of Man.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Text and Image: Medieval Book Illustration",
+            "ExhibBeginDate": "1986-02-11",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "February 11, 1986-March 23, 1986",
+            "ExhibEndDate": "1986-03-23",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2872,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Text and Image: Medieval Book Illustration. The Walters Art Gallery, Baltimore. 1986."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56091,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.7V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.7V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.7V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.7V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.7V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 34785,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.7V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34785",
+    "SortNumber": "W         73    7V                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagrams of a Cube, and the Microcosmic-Macrocosmic Harmony"
+}

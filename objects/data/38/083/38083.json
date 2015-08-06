@@ -1,0 +1,155 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": null,
+    "DateBeginYear": -242,
+    "DateEndYear": -218,
+    "DateText": "ca. 230 BC",
+    "Description": "The piece has a hole in the back of the seat. The red paint in the hair has been repaired near the bottom.",
+    "Dimensions": "8 11/16 x 5 1/16 x 3 9/16 in. (22 x 12.9 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58077,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.290_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.290_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.290_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.290_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.290_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 58074,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.290_3QtrLft_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.290_3QtrLft_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.290_3QtrLft_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.290_3QtrLft_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.290_3QtrLft_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 58078,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.290_Lft_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.290_Lft_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.290_Lft_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.290_Lft_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.290_Lft_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 58076,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.290_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.290_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.290_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.290_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.290_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 58079,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.290_Rt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.290_Rt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.290_Rt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.290_Rt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.290_Rt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 58075,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.290_3QtrRt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.290_3QtrRt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.290_3QtrRt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.290_3QtrRt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.290_3QtrRt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 4874,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.290_Fnt_BW_T88.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.290_Fnt_BW_T88.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.290_Fnt_BW_T88.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.290_Fnt_BW_T88.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.290_Fnt_BW_T88.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta with white slip, traces of paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3680,
+        "LocationString": null
+    },
+    "ObjectID": 38083,
+    "ObjectName": "figurines",
+    "ObjectNumber": "48.290",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Joseph Brummer, 1927; Henry Walters, Baltimore, 1927, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.953",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38083",
+    "SortNumber": "    48   290                                            ",
+    "Style": null,
+    "Title": "Seated Maiden with \"Melon\" Hairstyle"
+}

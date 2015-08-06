@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "'Ali Quli ibn Qadr ibn Nur[...] Barrak (?) (Iranian)",
+            "CreatorID": 15731,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1559,
+    "DateEndYear": 1559,
+    "DateText": "966 AH/AD 1559",
+    "Description": "This incipit page from Walters manuscript W.630 is inscribed with the title of the work and the author's name: Divan-i Khvajah Hafiz Shirazi 'alayhi al-rahmah. The gilt medallion with inscription and blue and gilt ground is decorated with polychrome vine and floral motifs. The text area has interlinear gilt decoration, also with polychrome floral motifs. The framing lines are in blue, gold, and black.",
+    "Dimensions": "H: 10 1/4 x W: 6 1/8 in. (26 x 15.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum",
+            "ExhibBeginDate": "2010-03-20",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "March 20, 2010-June 13, 2010",
+            "ExhibEndDate": "2010-06-13",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2827,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31400,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.630.1b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.630.1b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.630.1b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.630.1b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.630.1b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Contemporary Binding; Iran; Fortune-telling; Literature -- Poetry",
+    "Medium": "ink and pigments on cream-colored laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81211,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.630.1B",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Sultan 'Uthman Khan (?) [date and mode of acquisition unknown] [erased waqf seal and statement signed by [Ibrahim] Hanif, inspector of awqaf and the shelfmarks 3815 and 3795 (crossed out) on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81211",
+    "SortNumber": "W        630    1B                                      ",
+    "Style": null,
+    "Title": "Incipit Page with Titlepiece"
+}

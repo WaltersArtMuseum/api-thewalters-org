@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of the Lu\u00e7on Master (French, active ca. 1390-1417)",
+            "CreatorID": 7798,
+            "Gender": null,
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1398,
+    "DateEndYear": 1422,
+    "DateText": "ca. 1410",
+    "Description": null,
+    "Dimensions": "7 1/8 x 5 1/16 in. (18.1 x 12.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Small Northern European Portraits from The Walters Art Gallery, Baltimore",
+            "ExhibBeginDate": "2000-09-17",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "September 17, 2000-December 19, 2000",
+            "ExhibEndDate": "2000-12-19",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 74,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Small Northern European Portraits from The Walters Art Gallery, Baltimore. National Gallery of Art, Washington. 2000."
+        },
+        {
+            "ExhTitle": "Decadent Decades: The Medieval Clothes Horse",
+            "ExhibBeginDate": "1989-01-10",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "January 10, 1989-April 9, 1989",
+            "ExhibEndDate": "1989-04-09",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2314,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Decadent Decades: The Medieval Clothes Horse. The Walters Art Gallery, Baltimore. 1989."
+        },
+        {
+            "ExhTitle": "Images of Devotion: Personal Piety in Medieval Manuscripts and Ivories",
+            "ExhibBeginDate": "1997-07-02",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "July 2, 1997-October 12, 1997",
+            "ExhibEndDate": "1997-10-12",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 2410,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Images of Devotion: Personal Piety in Medieval Manuscripts and Ivories. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2555,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.231.89R_OpnObv_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.231.89R_OpnObv_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.231.89R_OpnObv_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.231.89R_OpnObv_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.231.89R_OpnObv_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "opaque watercolor, gold leaf, and ink on vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 12982,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.231.89R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "J. Raulsin de Saint-Nicolas (?), France, 18th century [mode of acquisition unknown]; B\u00e9nigne-Charles F\u00e8vret de Saint-Memin, Dijon, ca. 1739-1792 [mode of acquisition unknown]; L\u00e9on Gruel, Paris, ca. 1900 (?) [mode of acquisition unknown]; Henry Walters, Baltimore, 1895-1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12982",
+    "SortNumber": "W        231   89R                                      ",
+    "Style": "International Gothic",
+    "Title": "Leaf from Book of Hours"
+}

@@ -1,0 +1,75 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": "This figurine is meant for attachment to a vase.",
+    "Dimensions": "H: 4 in. (10.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435176,
+            "GeographyTerm": "Palestrina",
+            "Latitude": "41 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.833,
+            "Longitude": "012 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58090,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.340_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.340_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.340_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.340_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.340_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1688,
+        "LocationString": null
+    },
+    "ObjectID": 27796,
+    "ObjectName": "figurines",
+    "ObjectNumber": "48.340",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 33638,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/27796",
+    "SortNumber": "    48   340                                            ",
+    "Style": "Hellenistic",
+    "Title": "Figurine of a Woman"
+}

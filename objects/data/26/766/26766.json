@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1238,
+    "DateEndYear": 1262,
+    "DateText": "ca. 1250",
+    "Description": "In this page from Walters manuscript W.106 Joseph, the youngest of Jacob's twelve sons was a dreamer, beloved by his father, and hated by his brethren. One day, Jacob, seated on a grand chair as befits a patriarch, said to Joseph, \"Go now, see if it is well with your brothers, and with the flock; and bring me word again.\"",
+    "Dimensions": "H: 5 3/16 x W: 3 3/4 in. (13.2 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Oxfordshire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468718,
+            "GeographyTerm": "Oxford",
+            "Latitude": "51 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.766,
+            "Longitude": "001 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31336,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.106.14r_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.106.14r_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.106.14r_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.106.14r_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.106.14r_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] below the image reads: Jacob sends Joseph, his son, to Sichen to his brothers who were guarding the beasts; [Transliteration] Above: iacob ioseph; [Transliteration] Below: iacob enveat ioseph suen fiz en sichen a sas freres q[ui] gardient les bestes.",
+    "Keywords": "Art; Book; Christian; Illumination; Manuscript; Painting",
+    "Medium": "ink and pigment on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 26766,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.106.14R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "L\u00e9on Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, June 6, 1903, by purchase [see The Diaries of George Lucas]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26766",
+    "SortNumber": "W        106   14R                                      ",
+    "Style": null,
+    "Title": "Jacob Sends Joseph to his Brothers (Genesis 37:13-14)"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -301,
+    "DateText": "5th-4th century BC",
+    "Description": null,
+    "Dimensions": "H: 5 x W: 1 9/16 x D: 4 5/8 in. (12.7 x 4 x 11.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Serapis: The Creation of a God",
+            "ExhibBeginDate": "2002-04-02",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 2, 2002-November 17, 2002",
+            "ExhibEndDate": "2002-11-17",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 309,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Serapis: The Creation of a God. The Walters Art Museum, Baltimore. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62669,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.414_Lft_BW_H64.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.414_Lft_BW_H64.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.414_Lft_BW_H64.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.414_Lft_BW_H64.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.414_Lft_BW_H64.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 402,
+        "LocationString": null
+    },
+    "ObjectID": 1892,
+    "ObjectName": "figurines; statuettes",
+    "ObjectNumber": "54.414",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1892",
+    "SortNumber": "    54   414                                            ",
+    "Style": null,
+    "Title": "Apis Bull with Sun Disk"
+}

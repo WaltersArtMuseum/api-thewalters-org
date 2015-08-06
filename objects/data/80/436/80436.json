@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nari\u00f1o",
+            "CreatorID": 31463,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Promised gift of John Bourne",
+    "Culture": "Nari\u00f1o",
+    "DateBeginYear": 1250,
+    "DateEndYear": 1500,
+    "DateText": "AD 1250-1500",
+    "Description": null,
+    "Dimensions": "H: 3 9/16 x Diam: 7 5/8 in. (9.05 x 19.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1414585,
+            "GeographyTerm": "Colombia",
+            "Latitude": "04 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 4.0,
+            "Longitude": "072 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -72.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415238,
+            "GeographyTerm": "Ecuador",
+            "Latitude": "02 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -2.0,
+            "Longitude": "077 30",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -77.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27622,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Int_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Int_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Int_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Int_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Int_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27621,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.281_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware, slip paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5555,
+        "LocationString": null
+    },
+    "ObjectID": 80436,
+    "ObjectName": "bowls",
+    "ObjectNumber": "TL.2009.20.281",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Economos Works of Art [date and mode of acquisition unknown]; John G. Bourne, 1990s, by purchase.",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80436",
+    "SortNumber": "TL      2009   20  281                                  ",
+    "Style": null,
+    "Title": "Bowl"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Y\u00fcan Shang-t'ung (Chinese, 1570-after 1661)",
+            "CreatorID": 6782,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1655,
+    "DateEndYear": 1655,
+    "DateText": "1655",
+    "Description": null,
+    "Dimensions": "H: 42 x W: 21 3/4 in. (106.7 x 55.3 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22961,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.19_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.19_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.19_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.19_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.19_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22960,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.19_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.19_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.19_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.19_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.19_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22962,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.19_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.19_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.19_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.19_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.19_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22963,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.19_MrkB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.19_MrkB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.19_MrkB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.19_MrkB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.19_MrkB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Inscription] At top; [Seal] At top; [Seal] Bottom right",
+    "Keywords": null,
+    "Medium": "ink and light colors on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2413,
+        "LocationString": null
+    },
+    "ObjectID": 39985,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.19",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 147]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39985",
+    "SortNumber": "    35    19                                            ",
+    "Style": null,
+    "Title": "Morning Boat Jam"
+}

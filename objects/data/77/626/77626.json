@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kamal ibn `Abd al-Haqq al-Sabzawari (Iranian, died after 1558)",
+            "CreatorID": 15670,
+            "Gender": null,
+            "Role": "Illuminator"
+        },
+        {
+            "ConcatDisplayName": "Kamal ibn `Abd al-Haqq al-Sabzawari (Iranian, died after 1558)",
+            "CreatorID": 15670,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "'Ali ibn Abi Talib (died 40 AH/AD 661)",
+            "CreatorID": 16703,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1534,
+    "DateEndYear": 1534,
+    "DateText": "941 AH/AD 1534",
+    "Description": "This folio from Walters manuscript W.579 contains this illuminated colophon, written in Tawqi'/Riqa' script in gold ink, it is stated that Shaykh Kamal ibn \"Abd al-Haqq al-Sabzawari completed the manuscript at Astarabad in 941 AH/AD 1534.",
+    "Dimensions": "H: 9 1/4 x W: 6 1/2 in. (23.5 x 16.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Mazandaran\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507895,
+            "GeographyTerm": "Gorgan",
+            "Latitude": "36 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.833,
+            "Longitude": "054 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 54.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Mazandaran\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507895,
+            "GeographyTerm": "Gorgan",
+            "Latitude": "36 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.833,
+            "Longitude": "054 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 54.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27226,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.579.8B_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.579.8B_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.579.8B_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.579.8B_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.579.8B_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration]   tammat al-da'w\u0101t al-mub\u0101rak\u0101t /1/ bi-hamdi All\u0101hi ta'\u0101l\u00e1 wa-mannihi al-kar\u012bm /2/ 'al\u00e1 al-yadi al-'abd al-mudhnib al-r\u0101j\u012b il\u00e1 rahmati All\u0101h al-maliki /3/ al-rah\u012bm al-b\u0101r\u012b shaykh Kam\u0101l ibn 'Abd al-Haqq al-Sabzaw\u0101r\u012b /4/ taj\u0101waza All\u0101hu 'an sayyi'atihim\u0101 bi-baldah tayyibah Ustar\u0101b\u0101d [sic] hummiyat /5/ 'an al-af\u0101ti wa-al-bal\u012by\u0101ti f\u012b shuh\u016br sanat ihd\u00e1 wa-/6/ arba'\u012bn wa-tis'imi'atin min al-hijrah muharriruh\u0101 wa-mudhahhibuh\u0101 wa-k\u0101tibuh\u0101 /7/",
+    "Keywords": "Arabic; Binding; Book; Calligraphy; Codex; Colophon; Headpiece; History; Illumination; Iran; Islamic; Manuscript; Ornament; Prayer; Script",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77626,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.579.8B",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Vizier al-Shahid 'Ali Pasha, ca. 1130 AH/AD 1717 (?) [mode of acquisition unknown] [waqf-seal impression of the Vizier dated 1130 AH/AD 1717 with the original shelf mark 1414 on fols. 2a, 2b, and 3a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77626",
+    "SortNumber": "W        579    8B                                      ",
+    "Style": null,
+    "Title": "Illuminated Colophon"
+}

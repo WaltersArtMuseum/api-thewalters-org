@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of Walters 323",
+            "CreatorID": 8346,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1428,
+    "DateEndYear": 1452,
+    "DateText": "ca. 1440",
+    "Description": null,
+    "Dimensions": "4 1/8 x 3 3/8 in. (10.4 x 8.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lombardia\\provinces\\Milano\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438033,
+            "GeographyTerm": "Milano",
+            "Latitude": "45 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.466,
+            "Longitude": "009 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2606,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.323.126V_OpnRev_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.323.126V_OpnRev_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.323.126V_OpnRev_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.323.126V_OpnRev_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.323.126V_OpnRev_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 6302,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.323.126V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Barbavara Family [coat of arms];  Leon Gruel [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6302",
+    "SortNumber": "W        323  126V                                      ",
+    "Style": "International Gothic",
+    "Title": "Leaf from Barbavara Book of Hours"
+}

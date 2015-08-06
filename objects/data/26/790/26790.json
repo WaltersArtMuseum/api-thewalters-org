@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2001",
+    "Culture": null,
+    "DateBeginYear": 1738,
+    "DateEndYear": 1762,
+    "DateText": "ca. 1750",
+    "Description": "This unfinished study provides us with a glimpse of the process involved in the creation of an Indian miniature painting. The outline was swiftly sketched with a bold outline that was altered by the artist. The colors of the archer's clothes, together with his face and hands, are applied in a flat, even color. The background was never completed.",
+    "Dimensions": "H: 7 15/16 x W: 5 13/16 in. (20.2 x 14.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Asian Rotation: 11/2013-2/2014",
+            "ExhibBeginDate": "2013-11-20",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "November 19, 2013 - February 16, 2014",
+            "ExhibEndDate": "2014-02-16",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3285,
+            "LocationID": 4916,
+            "NonWAMExhibition": false,
+            "Textblock": "Asian Rotation: 11/2013-2/2014. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\Rajasthan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507163,
+            "GeographyTerm": "Kishangarh",
+            "Latitude": "26 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 26.55,
+            "Longitude": "074 52",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.866
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3089,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.885_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.885_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.885_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.885_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.885_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 26790,
+    "ObjectName": "miniatures (paintings)",
+    "ObjectNumber": "W.885",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2001, by gift.",
+    "PublicAccessDate": "2008-09-25T17:09:36.387",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26790",
+    "SortNumber": "W        885                                            ",
+    "Style": null,
+    "Title": "Study of an Archer"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -663,
+    "DateEndYear": -332,
+    "DateText": "663-332 BC",
+    "Description": null,
+    "Dimensions": "H: 15 1/4 in. (38.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57940,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.393_Rt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.393_Rt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.393_Rt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.393_Rt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.393_Rt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 403,
+        "LocationString": null
+    },
+    "ObjectID": 39272,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.393",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Henry Walters, Baltimore, 1924 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39272",
+    "SortNumber": "    54   393                                            ",
+    "Style": null,
+    "Title": "Hawk"
+}

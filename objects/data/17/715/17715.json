@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1735,
+    "DateEndYear": 1795,
+    "DateText": "1735-1795",
+    "Description": "Imitating Song [Sung] dynasty Guan [Kuan] ware.",
+    "Dimensions": "19 7/16 in. (49.3 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Imperial Chinese Treasures from the Walters Collection",
+            "ExhibBeginDate": null,
+            "ExhibBeginYear": 0,
+            "ExhibDisplayDate": null,
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 3172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Imperial Chinese Treasures from the Walters Collection. 0."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5198,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2187_Fnt_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2187_Fnt_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2187_Fnt_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2187_Fnt_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2187_Fnt_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with iron oxide glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6184,
+        "LocationString": null
+    },
+    "ObjectID": 17715,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2187",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.027",
+    "Reign": "Qianlong [Ch'ien lung]",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17715",
+    "SortNumber": "    49  2187                                            ",
+    "Style": null,
+    "Title": "Vase"
+}

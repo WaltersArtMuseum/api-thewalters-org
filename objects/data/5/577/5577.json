@@ -1,0 +1,95 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": -1380,
+    "DateEndYear": -1300,
+    "DateText": "1380-1300 BC",
+    "Description": "A rare and fine example of so-called \"Egyptian blue\" ceramic ware, this lovely vase has a form similar to contemporary vessels of alabaster.",
+    "Dimensions": "4 15/16 x 4 in. (12.6 x 10.2 cm) (h. x diam.);\r\ntop of vase: 3 11/16 in. (9.4 cm) (diam.);\r\nlid: 5/16 x 3 3/4 in. (0.8 x 9.5 cm) (h. x diam.)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Egypt's Golden Age: The Art of Living in the New Kingdom (1558-1085 B.C.)",
+            "ExhibBeginDate": "1982-02-03",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "February 3, 1982-January 2, 1983",
+            "ExhibEndDate": "1983-01-02",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2682,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Egypt's Golden Age: The Art of Living in the New Kingdom (1558-1085 B.C.). Museum of Fine Arts, Boston, Boston; Houston Museum of Natural Science, Houston; The Walters Art Gallery, Baltimore. 1982-1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Qina\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544585,
+            "GeographyTerm": "Al Uqsur",
+            "Latitude": "25 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 25.683,
+            "Longitude": "032 39",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.65
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36119,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.1_VwA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.1_VwA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.1_VwA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.1_VwA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.1_VwA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36120,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.1_VwB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.1_VwB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.1_VwB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.1_VwB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.1_VwB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 5577,
+    "ObjectName": "vases; covers",
+    "ObjectNumber": "47.1",
+    "OnView": 1,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.783",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5577",
+    "SortNumber": "    47     1                                            ",
+    "Style": null,
+    "Title": "Amphora with Cover"
+}

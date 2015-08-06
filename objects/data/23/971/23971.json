@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1688,
+    "DateEndYear": 1762,
+    "DateText": "ca. 1700-1750",
+    "Description": null,
+    "Dimensions": "6 5/8 x 3 3/8 in. (16.8 x 8.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ottoman Embroideries and Other Ornament",
+            "ExhibBeginDate": "2007-05-05",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "May 5, 2007-September 9, 2007",
+            "ExhibEndDate": "2007-09-09",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2726,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ottoman Embroideries and Other Ornament. The Walters Art Museum, Baltimore. 2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Ege kiyilari\\provinces\\Kutahya Ili\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501867,
+            "GeographyTerm": "K\u00fctahya",
+            "Latitude": "39 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.416,
+            "Longitude": "029 56",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.933
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57411,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1208_SideA-DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1208_SideA-DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1208_SideA-DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1208_SideA-DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1208_SideA-DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 57412,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1208_SideB_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1208_SideB_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1208_SideB_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1208_SideB_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1208_SideB_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glazed and painted ceramic",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1822,
+        "LocationString": null
+    },
+    "ObjectID": 23971,
+    "ObjectName": "flasks (bottles)",
+    "ObjectNumber": "48.1208",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-02-27T01:00:01.493",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23971",
+    "SortNumber": "    48  1208                                            ",
+    "Style": null,
+    "Title": "Rosewater Flask"
+}

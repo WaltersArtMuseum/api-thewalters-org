@@ -1,0 +1,70 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1990",
+    "Culture": "Byzantine",
+    "DateBeginYear": 301,
+    "DateEndYear": 600,
+    "DateText": "4th-6th century",
+    "Description": "This token displays an image of the menorah, the seven-branched candlestick used in Jewish temples. Made for private use, such tokens were at times inscribed with the name of the owner. In this period, the menorah was considered a symbol of the Jewish hope for deliverance from persecution and was imprinted on small amulets throughout the eastern Mediterranean region.",
+    "Dimensions": "H: 13/16 in. (2.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522053,
+            "GeographyTerm": "Palestine",
+            "Latitude": "31 55",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.916,
+            "Longitude": "035 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30490,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_47.654_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_47.654_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_47.654_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_47.654_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_47.654_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3806,
+        "LocationString": null
+    },
+    "ObjectID": 25429,
+    "ObjectName": "tokens",
+    "ObjectNumber": "47.654",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "Helios Old World Antiquities, Westminster, Maryland, by purchase; Walters Art Museum, 1990, by purchase.",
+    "PublicAccessDate": "2010-12-17T09:35:54.373",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25429",
+    "SortNumber": "    47   654                                            ",
+    "Style": null,
+    "Title": "Menorah Token"
+}

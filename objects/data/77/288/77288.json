@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Gabriele di Pietro",
+            "CreatorID": 2818,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "Francesco Petrarca (Italian, 1304-1374)",
+            "CreatorID": 7540,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": null,
+    "Culture": null,
+    "DateBeginYear": 1473,
+    "DateEndYear": 1473,
+    "DateText": "1473",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11350,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_91.921.1R_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_91.921.1R_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_91.921.1R_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_91.921.1R_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_91.921.1R_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": null,
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77288,
+    "ObjectName": "incunabulum; folios (leaves)",
+    "ObjectNumber": "91.921.1R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": null,
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77288",
+    "SortNumber": "    91   921    1R                                      ",
+    "Style": null,
+    "Title": "Leaf from Canzoniere e Trionfi"
+}

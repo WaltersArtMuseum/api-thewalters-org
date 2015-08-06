@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -30,
+    "DateText": "664-30 BC",
+    "Description": null,
+    "Dimensions": "5 9/16 x 2 5/16 x 1 1/2 in. (14.2 x 5.9 x 3.9 cm)",
+    "Dynasty": "30th-Ptolemaic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Thou Shalt Have No Other Gods Before Me",
+            "ExhibBeginDate": "1964-05",
+            "ExhibBeginYear": 1964,
+            "ExhibDisplayDate": "May 1964-September 1964",
+            "ExhibEndDate": "1964-09",
+            "ExhibEndYear": 1964,
+            "ExhibitionID": 2200,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Thou Shalt Have No Other Gods Before Me. The Jewish Museum, New York. 1964."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6492,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.1537_Fnt_TR_T83III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.1537_Fnt_TR_T83III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.1537_Fnt_TR_T83III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.1537_Fnt_TR_T83III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.1537_Fnt_TR_T83III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 39547,
+    "ObjectName": "mirrors; supports; figurines",
+    "ObjectNumber": "48.1537",
+    "OnView": 1,
+    "Period": "Late Period-Greco-Roman",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39547",
+    "SortNumber": "    48  1537                                            ",
+    "Style": null,
+    "Title": "Mirror Support in the Form of Bes"
+}

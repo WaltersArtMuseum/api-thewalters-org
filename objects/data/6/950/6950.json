@@ -1,0 +1,149 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nubian (?)",
+            "CreatorID": 7121,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Egyptian (?)",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Nubian",
+    "DateBeginYear": -75,
+    "DateEndYear": 1,
+    "DateText": "late 1st century BC",
+    "Description": "This reclining lion with a raised head shows the compact body shape and other stylistic features typical of Meroitic art.",
+    "Dimensions": "H: 7/16 x L: 11/16 x D: 1/8 in. (1.08 x 1.72 x 0.37 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22734,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1560_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1560_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1560_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1560_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1560_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22737,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1560_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1560_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1560_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1560_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1560_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22732,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1560_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1560_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1560_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1560_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1560_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22735,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1560_SideA_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1560_SideA_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1560_SideA_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1560_SideA_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1560_SideA_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22736,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1560_SideB_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1560_SideB_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1560_SideB_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1560_SideB_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1560_SideB_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3765,
+        "LocationString": null
+    },
+    "ObjectID": 6950,
+    "ObjectName": "amulets",
+    "ObjectNumber": "57.1560",
+    "OnView": 1,
+    "Period": "Meroitic",
+    "Provenance": "Khawam Brothers, Cairo [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:41.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6950",
+    "SortNumber": "    57  1560                                            ",
+    "Style": null,
+    "Title": "Reclining Lion"
+}

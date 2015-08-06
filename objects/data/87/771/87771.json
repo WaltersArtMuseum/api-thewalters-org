@@ -1,0 +1,155 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Henri Caruchet",
+            "CreatorID": 33250,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Th\u00e9ophile Gautier (French, 1811 - 1873)",
+            "CreatorID": 9543,
+            "Gender": null,
+            "Role": "Translator"
+        },
+        {
+            "ConcatDisplayName": "L\u00e9on Gruel (French, 1841-1923)",
+            "CreatorID": 104,
+            "Gender": "male",
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1931",
+    "Culture": null,
+    "DateBeginYear": 1900,
+    "DateEndYear": 1900,
+    "DateText": "1900",
+    "Description": "This French translation of a Chinese folktale, The Water Pavilion, was completed by Th\u00e9ophile Gautier at the turn of the century. L\u00e9on Gruel created a binding suitably evocative of Chinese art, with a hanging basket and butterfly. Decorative arts from China, Japan, and the Middle East were extremely fashionable in the late 19th century.\r\n",
+    "Dimensions": "H: 9 7/16 x W: 6 5/16 x D: 9/16 in. (24 x 16 x 1.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bookbindings from the Gilded Age",
+            "ExhibBeginDate": "2013-10-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 26, 2013-May 18, 2014",
+            "ExhibEndDate": "2014-05-18",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3254,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Bookbindings from the Gilded Age. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52749,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.846_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.846_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.846_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.846_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.846_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52748,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.846_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.846_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.846_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.846_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.846_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52747,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.846_LowerCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.846_LowerCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.846_LowerCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.846_LowerCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.846_LowerCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 39593,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_92.846_TopExtCc_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_92.846_TopExtCc_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_92.846_TopExtCc_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_92.846_TopExtCc_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_92.846_TopExtCc_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paper bound between boards covered with goatskin and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5393,
+        "LocationString": null
+    },
+    "ObjectID": 87771,
+    "ObjectName": "books; rare books",
+    "ObjectNumber": "92.846",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Henry Walters, Baltimore, before 1931; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/87771",
+    "SortNumber": "    92   846                                            ",
+    "Style": null,
+    "Title": "Le pavillon sur l'eau"
+}

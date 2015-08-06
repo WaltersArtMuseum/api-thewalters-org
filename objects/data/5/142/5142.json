@@ -1,0 +1,88 @@
+{
+    "Classification": "Textiles",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Orthodox Eastern",
+    "DateBeginYear": 1733,
+    "DateEndYear": 1733,
+    "DateText": "1733",
+    "Description": "This embroidered icon, similar to Walters 83.332, represents St. Antony the Great (d. 356), the founder of Egyptian monasticism.",
+    "Dimensions": "H: 1/16 x W: 1/16 in. (0.16 x 0.16 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44429,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_83.431_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_83.431_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_83.431_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_83.431_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_83.431_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] Below the image: + \u03a7\u03b5\u1fd6\u03c1 \u1f08\u03bd\u03c4[\u03c9]\u03bd\u1f77\u03bf\u03c5 ~ ,\u03b1\u03c8\u03bb\u03b3\u1fbf; [Translation] [By] Anthony\u2019s hand, 1733.",
+    "Keywords": null,
+    "Medium": "silver threads, silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3123,
+        "LocationString": null
+    },
+    "ObjectID": 5142,
+    "ObjectName": "icons; embroideries",
+    "ObjectNumber": "83.431",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-12-12T22:00:00.493",
+    "Reign": "Mahmud I (1730-1754)",
+    "RelatedObjects": [
+        {
+            "ObjectID": 11808,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/5142",
+    "SortNumber": "    83   431                                            ",
+    "Style": null,
+    "Title": "St. Anthony of Egypt"
+}

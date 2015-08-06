@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Francois-Hubert Drouais (French, 1727-1775)",
+            "CreatorID": 6393,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1738,
+    "DateEndYear": 1762,
+    "DateText": "ca. 1750-1760",
+    "Description": null,
+    "Dimensions": "H: 21 5/8 x W: 18 1/8 in. (55 x 46 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29051,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.390_BefTrt_BW_H51.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.390_BefTrt_BW_H51.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.390_BefTrt_BW_H51.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.390_BefTrt_BW_H51.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.390_BefTrt_BW_H51.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3356,
+        "LocationString": null
+    },
+    "ObjectID": 31363,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.390",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-01T12:01:45.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31363",
+    "SortNumber": "    37   390                                            ",
+    "Style": null,
+    "Title": "Portrait of a Young Lady"
+}

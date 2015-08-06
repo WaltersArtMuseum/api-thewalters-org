@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 4 in. (10.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492875,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.83,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8561,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2115_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2115_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2115_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2115_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2115_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8559,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2115_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2115_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2115_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2115_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2115_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8560,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2115_MrkB_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2115_MrkB_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2115_MrkB_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2115_MrkB_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2115_MrkB_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] Kenzan",
+    "Keywords": null,
+    "Medium": "stoneware, white slip with iron and cobalt pigments under clear glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5728,
+        "LocationString": null
+    },
+    "ObjectID": 15433,
+    "ObjectName": "incense burners",
+    "ObjectNumber": "49.2115",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.997",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15433",
+    "SortNumber": "    49  2115                                            ",
+    "Style": "Kyoto ware",
+    "Title": "Incense or Charcoal Container with Signatures of Ogata Korin and Ogata Kenzan"
+}

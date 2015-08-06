@@ -1,0 +1,106 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tamagawa Yoshihisa II (Japanese, 1779-1835)",
+            "CreatorID": 3516,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1796,
+    "DateEndYear": 1835,
+    "DateText": "1796-1835",
+    "Description": "This tsuba is formed by the body of a dragon wrapped around the central opening for the sword. Dragons are commonly featured in Chinese and Japanese art. They are considered symbols of strength.",
+    "Dimensions": "2 15/16 x 2 3/4 in. (7.4 x 7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490882,
+            "GeographyTerm": "Mito",
+            "Latitude": "36 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.366,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490847,
+            "GeographyTerm": "Suifu",
+            "Latitude": "36 37",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.616,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12262,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.160_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.160_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.160_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.160_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.160_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12261,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.160_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.160_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.160_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.160_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.160_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12263,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.160_Mrk_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.160_Mrk_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.160_Mrk_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.160_Mrk_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.160_Mrk_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u6c34\u5e9c\u4f4f\u3000\u7389\u5ddd\u7f8e\u4e45; [Transliteration] suifu ju/tamagawa yoshihisa (kao); [Translation] Residing in Suifu/Tamagawa Yoshihisa",
+    "Keywords": "dragon",
+    "Medium": "iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4104,
+        "LocationString": null
+    },
+    "ObjectID": 10800,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.160",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-15T16:22:33.83",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10800",
+    "SortNumber": "    51   160                                            ",
+    "Style": "Kinai School",
+    "Title": "Tsuba with a Dragon"
+}

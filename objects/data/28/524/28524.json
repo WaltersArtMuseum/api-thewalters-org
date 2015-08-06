@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1908",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1522,
+    "DateText": "ca. 1500-1510",
+    "Description": "The inscription translates \"I entrust myself to you.\" The sharp profile, derived from Roman coins, was a favored format for portraiture during the 15th century.",
+    "Dimensions": "13/16 x 9 1/16 in. (2 x 23 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437433,
+            "GeographyTerm": "Deruta",
+            "Latitude": "42 59",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.983,
+            "Longitude": "012 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6801,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1351_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1351_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1351_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1351_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1351_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46418,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1351_Fnt_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1351_Fnt_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1351_Fnt_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1351_Fnt_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1351_Fnt_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transription] On the front, in the scroll: AVI\u00b7MEREC\u00baMAD\u00ba ;[Translation] I entrust myself to you; [Inscription/Signature] On the back, between the footring, in blue, a stylized \"B\" crossed by a paraph",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4796,
+        "LocationString": null
+    },
+    "ObjectID": 28524,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.1351",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "J. Seligmann, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1908 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28524",
+    "SortNumber": "    48  1351                                            ",
+    "Style": null,
+    "Title": "Dish with Female Bust and Inscription"
+}

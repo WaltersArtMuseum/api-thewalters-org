@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "George Beare (British, active 1738-49)",
+            "CreatorID": 3050,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1929",
+    "Culture": null,
+    "DateBeginYear": 1728,
+    "DateEndYear": 1752,
+    "DateText": "ca. 1740-49",
+    "Description": null,
+    "Dimensions": "30 3/16 x 25 1/4 in. (76.6 x 64.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Portraits Re-Examined: Dawoud Bey Project",
+            "ExhibBeginDate": "2008-12-06",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "December 6, 2008-February 16, 2009",
+            "ExhibEndDate": "2009-02-16",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2102,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Portraits Re-Examined: Dawoud Bey Project. The Walters Art Museum, Baltimore. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1463106,
+            "GeographyTerm": "United Kingdom",
+            "Latitude": "54 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 54.0,
+            "Longitude": "004 30",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -4.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25724,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.232_Fnt_BW_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.232_Fnt_BW_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.232_Fnt_BW_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.232_Fnt_BW_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.232_Fnt_BW_H73.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3347,
+        "LocationString": null
+    },
+    "ObjectID": 19559,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.232",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, before 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-11-19T17:12:28.75",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19559",
+    "SortNumber": "    37   232                                            ",
+    "Style": null,
+    "Title": "Portrait of a Lady Holding a Book"
+}

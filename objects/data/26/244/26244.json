@@ -1,0 +1,95 @@
+{
+    "Classification": "Coins & Medals",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1957",
+    "Culture": "Byzantine",
+    "DateBeginYear": 919,
+    "DateEndYear": 944,
+    "DateText": "919-944",
+    "Description": "The reverse shows Christ enthroned with an inscription \"INS XPS REX REGNATIUM.\" The obverse shows Constantine VII as a youth with Romanus I.",
+    "Dimensions": "Diam: 13/16 in. (2.1 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41030,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_59.714_Rev_BW_H58.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_59.714_Rev_BW_H58.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_59.714_Rev_BW_H58.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_59.714_Rev_BW_H58.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_59.714_Rev_BW_H58.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 830,
+        "LocationString": null
+    },
+    "ObjectID": 26244,
+    "ObjectName": "solidi",
+    "ObjectNumber": "59.714",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Walters Art Museum, 1957, by purchase.",
+    "PublicAccessDate": "2012-07-31T22:00:00.653",
+    "Reign": "Constantine VII (913-959); Romanus I (920-944)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26244",
+    "SortNumber": "    59   714                                            ",
+    "Style": null,
+    "Title": "Gold Coin (Solidus) of Constantine VII and Romanus I"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1890,
+    "DateText": "1800-1890",
+    "Description": "This piece has open-work carving in 7 sections, \"a-g\".",
+    "Dimensions": "29 1/4 x 8 5/8 in. (74.3 x 21.9 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54517,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_42.239_Fnt_BW_3899.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_42.239_Fnt_BW_3899.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_42.239_Fnt_BW_3899.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_42.239_Fnt_BW_3899.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_42.239_Fnt_BW_3899.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56122,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_42.239_A-G_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_42.239_A-G_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_42.239_A-G_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_42.239_A-G_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_42.239_A-G_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "nephrite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5361,
+        "LocationString": null
+    },
+    "ObjectID": 34574,
+    "ObjectName": "incense burners",
+    "ObjectNumber": "42.239",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-22T01:00:01.853",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34574",
+    "SortNumber": "    42   239                                            ",
+    "Style": null,
+    "Title": "Incense Burner in the Form of a Pagoda"
+}

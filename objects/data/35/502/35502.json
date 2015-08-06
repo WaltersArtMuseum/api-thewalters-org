@@ -1,0 +1,100 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian () (?)",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Greek (?)",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Marilyn and Herbert Scher, 2003",
+    "Culture": null,
+    "DateBeginYear": -325,
+    "DateEndYear": -300,
+    "DateText": "late 4th century BC",
+    "Description": "This cup shows a variation of the motif of the female head: the woman is an Amazon and she wears a dotted Phrygian cap and a laurel wreath. The outside of the cup is decorated with figures of a naked youth and a seated woman, with palmettes in between.",
+    "Dimensions": "2 1/8 x 8 1/4 in. (5.4 x 21 cm) (h. x max. width)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440814,
+            "GeographyTerm": "Puglia",
+            "Latitude": "41 15",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.25,
+            "Longitude": "016 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440814,
+            "GeographyTerm": "Puglia",
+            "Latitude": "41 15",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.25,
+            "Longitude": "016 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6571,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2767_Int_TR_T03III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2767_Int_TR_T03III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2767_Int_TR_T03III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2767_Int_TR_T03III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2767_Int_TR_T03III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 6572,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2767_Prof_TR_T03III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2767_Prof_TR_T03III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2767_Prof_TR_T03III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2767_Prof_TR_T03III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2767_Prof_TR_T03III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3663,
+        "LocationString": null
+    },
+    "ObjectID": 35502,
+    "ObjectName": "kylikes",
+    "ObjectNumber": "48.2767",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Ariadne Galleries, Inc., New York [date and mode of acquisition unknown]; Marilyn and Herbert Scher, Pikesville, MD, 1984, by purchase; Walters Art Museum, 2003, by gift.",
+    "PublicAccessDate": "2008-09-25T17:13:40.283",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35502",
+    "SortNumber": "    48  2767                                            ",
+    "Style": null,
+    "Title": "Red-Figure Kylix"
+}

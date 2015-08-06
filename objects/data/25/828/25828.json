@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": "Russian",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "This icon represents the seven sacred events associated with the days of the week: the Resurrection (Sunday); the assembly of the archangels (Monday); the beheading of John the Baptist (Tuesday); the Annunciation (Wednesday); Christ Washing the Disciples' Feet (Thursday); the Crucifixion (Friday); and the Second Coming (Saturday). The saints, including kings, bishops, apostles, martyrs, monks, and nuns, are gathered below Christ to praise him and await his judgement. The Savior holds an open book with the words \"Come, O blessed of [my father]\" (Matthew 25:34).",
+    "Dimensions": "12 3/16 x 10 1/4 x 1 7/16 in. (31 x 26 x 3.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century",
+            "ExhibBeginDate": "1959-11-09",
+            "ExhibBeginYear": 1959,
+            "ExhibDisplayDate": "November 9, 1959-January 3, 1960",
+            "ExhibEndDate": "1960-01-03",
+            "ExhibEndYear": 1960,
+            "ExhibitionID": 69,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century. The Walters Art Gallery, Baltimore. 1959-1960."
+        },
+        {
+            "ExhTitle": "A Millennium of Christianity: Russian Art from The Walters Art Gallery",
+            "ExhibBeginDate": "1988-12-15",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "December 15, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 563,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Millennium of Christianity: Russian Art from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4412,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.580_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.580_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.580_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.580_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.580_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46890,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.580_XR_DateUnk.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.580_XR_DateUnk.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.580_XR_DateUnk.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.580_XR_DateUnk.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.580_XR_DateUnk.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on wood, silver filigree, enamel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3820,
+        "LocationString": null
+    },
+    "ObjectID": 25828,
+    "ObjectName": "icons;enamels",
+    "ObjectNumber": "37.580",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris, by purchase; Henry Walters, Baltimore, 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25828",
+    "SortNumber": "    37   580                                            ",
+    "Style": null,
+    "Title": "Seven Days of the Week"
+}

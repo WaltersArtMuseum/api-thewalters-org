@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Baltimore Painter (Greek, active ca. 330 BC-310 BC)",
+            "CreatorID": 2096,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -298,
+    "DateText": "ca. 320-310 BC",
+    "Description": "When an ancient artist's name is not known, he is often designated by the location of his most prominent work. Thus, the artist of this vase is known as the Baltimore Painter, taking his name from this piece. More than 1,500 vases are attributed to this artist, who worked in Apulia, South Italy. The flowery vines, elaborately patterned drapery, extensive use of foreshortening (the technique of drawing objects from the front and creating an illusion of depth), and added color are typical of Apulian works. This vessel served as a funerary marker. On the front, the messenger-god Hermes, who also guided the dead to the underworld, waits as a woman (representing the deceased) prepares for her journey there. The figures on either side may represent other dead souls.\r\n\r\nThis type of \"krater,\" a vessel for mixing water and wine, is known as a volute \"krater\" because of the spiral, scroll-like (volute) shape of the handles. Though generally used for dispensing wine at parties, the funerary scenes depicted on the sides of the vessel indicate that it was not created for drinking parties, but for use as a burial marker. The scenes on the vase represent the underworld. The world of the dead was referred to as \"the house of Hades,\" the domain of that god. On the backside is a warrior clothed in Campanian (southern Italy) clothing, seated in a \"naiskos,\" or shrine.\r\n",
+    "Dimensions": "44 7/8 x 23 5/8 x 18 5/16 in. (114 x 60 x 46.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        },
+        {
+            "ExhTitle": "The Art of South Italy: Vases from Magna Graecia",
+            "ExhibBeginDate": "1982-05-12",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 12, 1982-April 10, 1983",
+            "ExhibEndDate": "1983-04-10",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2919,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Art of South Italy: Vases from Magna Graecia. Virginia Museum of Fine Arts, Richmond; Philbrook Art Center, Tulsa; The Detroit Institute of Arts, Detroit. 1982-1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440814,
+            "GeographyTerm": "Puglia",
+            "Latitude": "41 15",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.25,
+            "Longitude": "016 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8505,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.86_SideA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.86_SideA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.86_SideA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.86_SideA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.86_SideA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8507,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.86_SideB_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.86_SideB_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.86_SideB_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.86_SideB_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.86_SideB_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3664,
+        "LocationString": null
+    },
+    "ObjectID": 30814,
+    "ObjectName": "volute kraters",
+    "ObjectNumber": "48.86",
+    "OnView": 1,
+    "Period": "Classical",
+    "Provenance": "Joseph Brummer; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.893",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30814",
+    "SortNumber": "    48    86                                            ",
+    "Style": null,
+    "Title": "Volute Krater"
+}

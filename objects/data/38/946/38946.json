@@ -1,0 +1,70 @@
+{
+    "Classification": "Coins & Medals",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase [formerly part of the Walters Collection], 1948",
+    "Culture": null,
+    "DateBeginYear": -336,
+    "DateEndYear": -323,
+    "DateText": "336-323 BC",
+    "Description": null,
+    "Dimensions": "1/4 in. (0.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431963,
+            "GeographyTerm": "Macedonia",
+            "Latitude": "41 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.0,
+            "Longitude": "023 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5886,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_59.702_Back_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_59.702_Back_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_59.702_Back_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_59.702_Back_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_59.702_Back_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4592,
+        "LocationString": null
+    },
+    "ObjectID": 38946,
+    "ObjectName": "coins",
+    "ObjectNumber": "59.702",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; John Walsh, Sr. [date of acquisition unknown], by gift; John Walsh, 2nd [date and mode of acquisition unknown]; Walters Art Museum, 1948, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:41.3",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38946",
+    "SortNumber": "    59   702                                            ",
+    "Style": null,
+    "Title": "Athena"
+}

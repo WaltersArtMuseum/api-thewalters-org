@@ -1,0 +1,126 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sa'di (died 691 AH/AD 1292)",
+            "CreatorID": 15724,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Muhammad ibn Ahmad `Assar Tabrizi (died 1382)",
+            "CreatorID": 8016,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1572,
+    "DateEndYear": 1572,
+    "DateText": "980 AH/AD 1572",
+    "Description": "Walters manuscript W.619 is an illuminated manuscript containing 2 works by Sa\"di (died 691 AH/AD 1292): the Gulistan (Rose garden) and the Bustan (Orchard). It was copied in 980 AH/AD 1572 by Muhammad Riza al-Tabrizi in Iran. The text of the Gulistan appears in the main area, while that of the Bustan is inscribed obliquely around the main text area on three sides. Both texts are written in black and gold nasta\"liq script. The margins are multi-colored, gold-sprinkled tinted or marbled paper. The original leather binding dates to the 10th century AH/AD 16th and has dentelle-style decorated boards and doublures with gold filigree work over a multi-colored ground of blue, green, red, and black.",
+    "Dimensions": "Folio H: 12 5/8 x W: 8 7/16 in. (32.0 x 21.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33815,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Original Binding; Iran; Literature -- Poetry; Literature -- Prose",
+    "Medium": "ink and pigments on paper with margins of multi-colored, gold-sprinkled tinted or marbled paper bound between boards covered with leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2348,
+        "LocationString": null
+    },
+    "ObjectID": 17584,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.619",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81852,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81853,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81854,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83668,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 85654,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 85655,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/17584",
+    "SortNumber": "W        619                                            ",
+    "Style": null,
+    "Title": "Two Works of Sa`di: The Rose Garden (Gulistan) and The Orchard (Bustan)"
+}

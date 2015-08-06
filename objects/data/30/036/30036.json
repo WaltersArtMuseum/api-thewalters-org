@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ikkei (Japanese, active 1870s) (?)",
+            "CreatorID": 2687,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "Painting H: 13 1/4 x W: 19 in. (33.6 x 48.3 cm); Mounting H: 48 x W: 24 in. (121.92 x 60.96 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Japanese Cloisonne Enamels from the Stephen W. Fisher Collection",
+            "ExhibBeginDate": "2010-02-14",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "February 14, 2010-June 13, 2010",
+            "ExhibEndDate": "2010-06-13",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2249,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Japanese Cloisonne Enamels from the Stephen W. Fisher Collection. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\prefectures\\Hyogo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492512,
+            "GeographyTerm": "Harima",
+            "Latitude": "34 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.7,
+            "Longitude": "134 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 134.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55743,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.86_Fnt_NF_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.86_Fnt_NF_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.86_Fnt_NF_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.86_Fnt_NF_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.86_Fnt_NF_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]; [Seal]; [Signature]",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on paper and brocade",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2410,
+        "LocationString": null
+    },
+    "ObjectID": 30036,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.86",
+    "OnView": 0,
+    "Period": "Edo-Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30036",
+    "SortNumber": "    35    86                                            ",
+    "Style": null,
+    "Title": "Two Quail with Ears of Grain"
+}

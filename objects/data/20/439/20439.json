@@ -1,0 +1,88 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French ?",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Italian ?",
+            "CreatorID": 33562,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1917",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": "\"Sgabello\" is the Italian word for a type of simple chair that is basically a stool with a back support.  This was a common type of easily moved seating in affluent Italian (and subsequently French) homes. Chairs only started to become comfortable in the 1600s. The chair appears to be at least partially reconstructed at a later period, possibly the in the 1800s.\r\n",
+    "Dimensions": "H: 39 3/8 in. (100 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5927,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_65.25_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_65.25_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_65.25_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_65.25_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_65.25_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood (walnut)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4588,
+        "LocationString": null
+    },
+    "ObjectID": 20439,
+    "ObjectName": "chairs",
+    "ObjectNumber": "65.25",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Collection E. Volpi, Florence; E. Volpi Sale, American Art Galleries, New York, 1917, no. 282; purchased by Walters Art Museum, 1917.",
+    "PublicAccessDate": "2008-09-25T17:15:00.457",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20439",
+    "SortNumber": "    65    25                                            ",
+    "Style": null,
+    "Title": "\"Sgabello\"-Type Chair with Scrolls"
+}

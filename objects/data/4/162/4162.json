@@ -1,0 +1,159 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "H: 9 1/4 x W: 10 5/8 in. (23.5 x 27 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23703,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.172_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.172_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.172_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.172_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.172_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and colors on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6456,
+        "LocationString": null
+    },
+    "ObjectID": 4162,
+    "ObjectName": "albums; paintings",
+    "ObjectNumber": "35.172",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest (?) [accessioned 1991].",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 631,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 1828,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5683,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6764,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7352,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7944,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 8589,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10236,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10630,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10971,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 12252,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14774,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20608,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22857,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 27028,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 28754,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 29725,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37526,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38046,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38991,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39329,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 40612,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4162",
+    "SortNumber": "    35   172                                            ",
+    "Style": null,
+    "Title": "Album Depicting Small Birds"
+}

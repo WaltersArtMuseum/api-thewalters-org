@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1534,
+    "DateEndYear": 1534,
+    "DateText": "941 AH/AD 1534",
+    "Description": "Walters manuscript W.579 is bound in a brown leather binding (with a flap). The binding is decorated with interconnected gold-tooled lobed medallions and discs with vine and floral motifs. The binding also includes an inner frame with a vine and scroll motif, a gold-tooled outer frame, and doublures with a central lobed oval and corner pendants with filigree decoration on a blue ground.",
+    "Dimensions": "Folio H: 9 1/4 x W: 6 1/2 in. (23.5 x 16.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bindings from the Islamic World",
+            "ExhibBeginDate": "1988-05-17",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "May 17, 1988-November 20, 1988",
+            "ExhibEndDate": "1988-11-20",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2730,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bindings from the Islamic World. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Mazandaran\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507895,
+            "GeographyTerm": "Gorgan",
+            "Latitude": "36 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.833,
+            "Longitude": "054 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 54.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20882,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.579.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.579.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.579.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.579.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.579.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Calligraphy; Codex; Colophon; Headpiece; History; Illumination; Iran; Islamic; Manuscript; Ornament; Prayer; Script",
+    "Medium": "gold-tooled brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79972,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.579.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Vizier al-Shahid 'Ali Pasha, ca. 1130 AH/AD 1717 (?) [mode of acquisition unknown] [waqf-seal impression of the Vizier dated 1130 AH/AD 1717 with the original shelf mark 1414 on fols. 2a, 2b, and 3a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79972",
+    "SortNumber": "W        579binding                                     ",
+    "Style": null,
+    "Title": "Binding from Prayer Book"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1288,
+    "DateEndYear": 1325,
+    "DateText": "ca. 1300-1325",
+    "Description": "In the margins are hybrids, as well as Saints Andrew, Bartholomew, Peter, and John the Baptist.",
+    "Dimensions": "H: 6 7/8 x W: 5 1/16 in. (17.5 x 12.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Time Sanctified: The Book of Hours in Medieval Art and Life",
+            "ExhibBeginDate": "1988-04-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 23, 1988-July 17, 1988",
+            "ExhibEndDate": "1988-07-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 87,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Time Sanctified: The Book of Hours in Medieval Art and Life. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "Medieval Mastery, Book Illumination from Charlemagne to Charles the Bold (Meesterlijke Middeleeuwen)",
+            "ExhibBeginDate": "2002-09-21",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "September 21, 2002-December 8, 2002",
+            "ExhibEndDate": "2002-12-08",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2604,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Medieval Mastery, Book Illumination from Charlemagne to Charles the Bold (Meesterlijke Middeleeuwen). Stedelijik Museum Vander Kelen-Mertens, Leuven. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Nord-Pas-de-Calais\\departments\\Pas-de-Calais\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1424216,
+            "GeographyTerm": "Arras",
+            "Latitude": "50 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.283,
+            "Longitude": "002 46",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.766
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23594,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.104.71R_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.104.71R_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.104.71R_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.104.71R_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.104.71R_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 20096,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.104.71R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, after 1894, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20096",
+    "SortNumber": "W        104   71R                                      ",
+    "Style": "Gothic",
+    "Title": "Three Clerics Singing Before a Lectern"
+}

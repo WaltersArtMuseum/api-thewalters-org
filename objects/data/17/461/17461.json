@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Saint Jerome (died 419/420)",
+            "CreatorID": 7645,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1917",
+    "Culture": "Carolingian",
+    "DateBeginYear": 850,
+    "DateEndYear": 899,
+    "DateText": "second half 9th century",
+    "Description": null,
+    "Dimensions": "H: 6 7/8 x W: 4 13/16 in. (17.5 x 12.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Oberbayern\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450401,
+            "GeographyTerm": "Freising",
+            "Latitude": "48 24",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.4,
+            "Longitude": "011 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39855,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.4.28V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.4.28V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.4.28V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.4.28V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.4.28V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Caroline minuscule; Scripture",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 17461,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.4.28V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Freising, Germany, ca. 865-875; Germany, 19th century; Leon Gruel and Robert Engelmann, Paris, late 19th-early 20th century [mode of acquisition unknown, no.78];  Henry Walters, Baltimore, February 19, 1917 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17461",
+    "SortNumber": "W          4   28V                                      ",
+    "Style": "Carolingian",
+    "Title": "Canon Table"
+}

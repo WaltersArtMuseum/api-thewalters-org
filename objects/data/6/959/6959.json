@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1854,
+    "DateEndYear": 1878,
+    "DateText": "ca. 1866",
+    "Description": "Barye was commissioned to design a relief showing a Napoleon III on horseback dressed as a Roman emperor. The relief was installed above the Carrousel entrance to the Louvre in 1868. Two years later, after the fall of the emperor, the relief was removed; it is now preserved in the Mus\u00e9e nationale du ch\u00e2teau in Compi\u00e8gne, outside Paris. On this sheet, Barye has traced the outlines of his design.",
+    "Dimensions": "H: 8 3/4 x W: 8 5/8 in. (22.2 x 21.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Untamed: The Art of Antoine-Louis Barye",
+            "ExhibBeginDate": "2007-02-11",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 11, 2007-April 13, 2008",
+            "ExhibEndDate": "2008-04-13",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 1956,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Untamed: The Art of Antoine-Louis Barye. The Walters Art Museum, Baltimore; Philbrook Museum of Art, Tulsa; The Henry Morrison Flagler Museum, Palm Beach. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62389,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2221_Fnt_BW_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2221_Fnt_BW_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2221_Fnt_BW_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2221_Fnt_BW_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2221_Fnt_BW_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "horse; equestrian; royalty; emperor; Classical",
+    "Medium": "graphite on tracing paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5473,
+        "LocationString": null
+    },
+    "ObjectID": 6959,
+    "ObjectName": "sketches;drawings;leaf",
+    "ObjectNumber": "37.2221",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mme Vildieu-Barye; Fabius Fr\u00e8res, Paris; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6959",
+    "SortNumber": "    37  2221                                            ",
+    "Style": null,
+    "Title": "Design for the Relief of Napoleon III"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Hsu Fang (Chinese)",
+            "CreatorID": 3299,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 43 1/8 x W: 18 3/8 in. (109.5 x 46.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23717,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.18_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.18_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.18_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.18_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.18_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23716,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.18_Det_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.18_Det_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.18_Det_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.18_Det_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.18_Det_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 23718,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.18_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.18_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.18_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.18_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.18_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 23719,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.18_MrkB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.18_MrkB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.18_MrkB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.18_MrkB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.18_MrkB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Inscription] At top; [Seal] At top; [Seal] At bottom",
+    "Keywords": null,
+    "Medium": "ink on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2412,
+        "LocationString": null
+    },
+    "ObjectID": 6509,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.18",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 146]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6509",
+    "SortNumber": "    35    18                                            ",
+    "Style": null,
+    "Title": "Mountain Landscape with Cascade and Houses"
+}

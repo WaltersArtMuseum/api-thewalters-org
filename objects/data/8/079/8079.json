@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Frank O. Salisbury (English, 1874-1962)",
+            "CreatorID": 4639,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Partial gift of Mrs. Frederick B. Adams, Miss Laura Franklin Delano, Mrs. George Harold Edgell, and Mrs John Russell Pope, 1947",
+    "Culture": null,
+    "DateBeginYear": 1947,
+    "DateEndYear": 1947,
+    "DateText": "1947",
+    "Description": "This portrait of Henry Walters (1848\u20131931), the founder of the Walters Art Museum, is full of vivid character. However, the artist did not paint the portrait from life. It was, in fact, commissioned 16 years after Henry's death by three of his nieces and his stepdaughter together with the museum. The painting was composed from photographs by the leading portrait painter Frank O. Salisbury. Salisbury also painted portraits of several other leading American philanthropists and art collectors, including Andrew Mellon, who funded and gave his art collection to the National Gallery of Art in Washington, D.C., J. P. Morgan Sr., whose collection would later become the Morgan Library & Museum in New York City, and John D. Rockefeller Jr., an important patron of the Metropolitan Museum of Art. The portrait shows Henry wearing several accessories that now belong to the museum. Each of them sheds light on his friendships and interests, contributing to the painting's evocation of a particular individual.",
+    "Dimensions": "50 x 40 1/2 in. (127 x 102.87 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        },
+        {
+            "ExhTitle": "Millet and Barbizon Art",
+            "ExhibBeginDate": "1996",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "1996",
+            "ExhibEndDate": "1996",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 6,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Millet and Barbizon Art. Matsumoto City Museum, Matsumoto City; Tokuyama City Museum of Art and History, Tokuyama; Kasama Nichido Museum, Kasama City; Ishikawa Prefectural Museum of Art, Kanazawa. 1996."
+        },
+        {
+            "ExhTitle": "Triumph of French Painting: Masterpieces from Ingres to Matisse",
+            "ExhibBeginDate": "2000-03-12",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "March 12, 2000-January 26, 2002",
+            "ExhibEndDate": "2002-01-26",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 442,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Triumph of French Painting: Masterpieces from Ingres to Matisse. Baltimore Museum of Art, Baltimore; Philbrook Museum of Art, Tulsa; Norton Museum of Art, West Palm Beach; Dayton Art Institute, Dayton; Royal Academy of Arts, London; Albright-Knox Art Gallery, Buffalo. 2000-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9726,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2000_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2000_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2000_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2000_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2000_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 4028,
+        "LocationString": null
+    },
+    "ObjectID": 8079,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2000",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Walters Art Museum, 1947, by commission and gift.",
+    "PublicAccessDate": "2008-09-25T17:14:36.41",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8079",
+    "SortNumber": "    37  2000                                            ",
+    "Style": null,
+    "Title": "Portrait of Henry Walters"
+}

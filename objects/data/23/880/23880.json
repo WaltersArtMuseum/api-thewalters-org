@@ -1,0 +1,93 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Lady Elizabeth Templetown (English, 1747-1823)",
+            "CreatorID": 5311,
+            "Gender": "female",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Josiah Wedgwood (English, 1730-1795)",
+            "CreatorID": 4325,
+            "Gender": "male",
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1771,
+    "DateEndYear": 1800,
+    "DateText": "late 18th century",
+    "Description": "This vase, a pair with WAM 48.862, shows scenes of sacrifice to Pomona and Flora (the goddesses of fruits and flowers) probably designed by Lady Elizabeth Templeton and modelled by William Hackwood. Hackwood was first taken on at the Wedgwood Etruria factory in 1769, and worked for the firm for 63 years. He was mainly employed in adapting, re-modelling and finishing busts and bas reliefs, such as the ones that appear on these vases. Jasperware, which was inspired by Roman cameo glass, was a technique invented by Wedgwood which was perfected in 1775.",
+    "Dimensions": "H: 11 7/8 in. (30.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468740,
+            "GeographyTerm": "Staffordshire",
+            "Latitude": "52 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.883,
+            "Longitude": "002 02",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.33
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468740,
+            "GeographyTerm": "Staffordshire",
+            "Latitude": "52 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.883,
+            "Longitude": "002 02",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.33
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44686,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.861_Fnt_BW_C40.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.861_Fnt_BW_C40.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.861_Fnt_BW_C40.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.861_Fnt_BW_C40.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.861_Fnt_BW_C40.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Maker's mark] WEDGWOOD 2",
+    "Keywords": "women; children; worship; sacrifice",
+    "Medium": "jasperware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5169,
+        "LocationString": null
+    },
+    "ObjectID": 23880,
+    "ObjectName": "vases; covers",
+    "ObjectNumber": "48.861",
+    "OnView": 0,
+    "Period": "Neoclassical",
+    "Provenance": "Collection of A. J. Crawford to 1908 or B. F. Bonaventure, New York, to 1911; Henry Walters, Baltimore, 1908 or 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-12-13T22:00:01.067",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3586,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/23880",
+    "SortNumber": "    48   861                                            ",
+    "Style": "Neo-classical",
+    "Title": "Women and Children at Sacrifice and Worship"
+}

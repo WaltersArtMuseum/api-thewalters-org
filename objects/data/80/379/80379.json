@@ -1,0 +1,137 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Honduran (?) (Maya style)",
+            "CreatorID": 17130,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Guatemalan (?) (Maya style)",
+            "CreatorID": 15520,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John G. Bourne, 2014",
+    "Culture": "Maya style",
+    "DateBeginYear": 250,
+    "DateEndYear": 850,
+    "DateText": "AD 250-850",
+    "Description": null,
+    "Dimensions": "L: 4 13/16 x W: 1 7/8 x D: 5/16 in. (12.2 x 4.8 x 0.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exploring Art of the Ancient Americas: The John Bourne Collection Gift",
+            "ExhibBeginDate": "2012-02-12",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "February 12, 2012 - June 23, 2013",
+            "ExhibEndDate": "2013-08-18",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2988,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exploring Art of the Ancient Americas: The John Bourne Collection Gift. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville. 2012-2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608506,
+            "GeographyTerm": "Honduras",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "086 30",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -86.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608249,
+            "GeographyTerm": "Guatemala",
+            "Latitude": "15 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.5,
+            "Longitude": "090 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -90.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608249,
+            "GeographyTerm": "Guatemala",
+            "Latitude": "15 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.5,
+            "Longitude": "090 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -90.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608506,
+            "GeographyTerm": "Honduras",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "086 30",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -86.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27923,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.224_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.224_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.224_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.224_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.224_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27922,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.224_3Qtr_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.224_3Qtr_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.224_3Qtr_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.224_3Qtr_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.224_3Qtr_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "flint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5590,
+        "LocationString": null
+    },
+    "ObjectID": 80379,
+    "ObjectName": "sculpture; flints",
+    "ObjectNumber": "2009.20.224",
+    "OnView": 0,
+    "Period": "Classic (?)",
+    "Provenance": "Michael Robins [date and mode of acquisition unknown]; John G. Bourne, 1990s, by purchase.",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80379",
+    "SortNumber": "  2009    20  224                                       ",
+    "Style": null,
+    "Title": "Eccentric"
+}

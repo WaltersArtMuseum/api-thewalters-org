@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": null,
+    "Description": "Bes holds a hawk in his left hand. This was probably the head of a scepter.",
+    "Dimensions": "H: 6 5/8 in. (16.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 874,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_54.405_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_54.405_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_54.405_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_54.405_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_54.405_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 875,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_54.405_FntDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_54.405_FntDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_54.405_FntDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_54.405_FntDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_54.405_FntDet_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 407,
+        "LocationString": null
+    },
+    "ObjectID": 36840,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.405",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36840",
+    "SortNumber": "    54   405                                            ",
+    "Style": null,
+    "Title": "Bes on Papyrus Column"
+}

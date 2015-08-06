@@ -1,0 +1,104 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, made possible by the Women's Committee, Octavo Plus, and Mr. and Mrs. James Ulmer III, 1999",
+    "Culture": null,
+    "DateBeginYear": 1289,
+    "DateEndYear": 1313,
+    "DateText": "ca. 1301",
+    "Description": "The calendar itself starts on fol. 1r, half way through the month of January, and ends on fol. 12r, with December. Fol. 12v contains a table of the dates of Easter. Fol. 13r contains a list of days of fairs at certain towns. Fols. 13v-14v are blank. The quire structure is regular, fols. 6/7, 5/8, 4/9, 3/10, 2/11, and 1/12 are conjoint. Fols. 13 and 14 are singletons. Fol. 13 was presumably once conjoint with the now missing first part of the text, and it is likely that fol. 14 was once conjoint with a (possibly blank) page prefatory to the calendar. Judging by the degree of wear on the present fol. 1r, the first page of the calendar has been lost for many years. Structurally, however, the present fragment probably formed a discrete \"booklet\" within the Hours of which it was once a part.",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Medieval Mastery, Book Illumination from Charlemagne to Charles the Bold (Meesterlijke Middeleeuwen)",
+            "ExhibBeginDate": "2002-09-21",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "September 21, 2002-December 8, 2002",
+            "ExhibEndDate": "2002-12-08",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2604,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Medieval Mastery, Book Illumination from Charlemagne to Charles the Bold (Meesterlijke Middeleeuwen). Stedelijik Museum Vander Kelen-Mertens, Leuven. 2002."
+        },
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44591,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.851.8_Det_TR_T01.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.851.8_Det_TR_T01.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.851.8_Det_TR_T01.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.851.8_Det_TR_T01.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.851.8_Det_TR_T01.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2505,
+        "LocationString": null
+    },
+    "ObjectID": 21564,
+    "ObjectName": "manuscripts; calendars",
+    "ObjectNumber": "W.851",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Possibly made for John III, Lord of Ghistelles and Ingelmunster, (d. 1315); Sir Sydney Cockerell [date and mode of acquisition unknown]; Dr. Rosy Schiling [date and mode of acquisition unknown]; Western Manuscripts and Miniatures Sale, Sotheby's London, December 1, 1998, Lot 17; Walters Art Museum, 1999, by purchase.",
+    "PublicAccessDate": "2012-12-11T22:00:00.653",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81156,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81157,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21564",
+    "SortNumber": "W        851                                            ",
+    "Style": null,
+    "Title": "The Ghistelles Calendar"
+}

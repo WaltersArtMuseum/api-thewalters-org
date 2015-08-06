@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Xanto Avelli (Italian, ca. 1487-ca. 1542)",
+            "CreatorID": 4363,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1516,
+    "DateEndYear": 1540,
+    "DateText": "ca. 1528-1530",
+    "Description": "This dish shows Hercules, who loved Omphale, queen of Lydia. She made him shed his military trappings for more feminine accessories, like the distaff for spinning that he holds here. The Latin inscription translates as \"Love conquers all.\" An inscription on the back wrongly identifies Omphale as Hercules's wife, Deianira. Inscriptions were often applied by an assistant unfamiliar with the scene.",
+    "Dimensions": "2 5/16 x 10 11/16 in. (5.9 x 27.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437422,
+            "GeographyTerm": "Gubbio",
+            "Latitude": "43 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.35,
+            "Longitude": "012 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6800,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1344_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1344_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1344_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1344_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1344_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46417,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1344_Back_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1344_Back_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1344_Back_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1344_Back_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1344_Back_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] In the center, between the footring, in blue: Hercule et / Deianira X",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4786,
+        "LocationString": null
+    },
+    "ObjectID": 37910,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.1344",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37910",
+    "SortNumber": "    48  1344                                            ",
+    "Style": null,
+    "Title": "Dish with Hercules and Omphale"
+}

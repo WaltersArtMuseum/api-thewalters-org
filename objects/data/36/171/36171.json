@@ -1,0 +1,82 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1906",
+    "Culture": null,
+    "DateBeginYear": 1201,
+    "DateEndYear": 1400,
+    "DateText": "13th-14th century",
+    "Description": "This lion would have supported either an image of the Bodhisattva Ma\u00f1jusri (Monju in Japanese), who stands for the Buddha's wisdom, or a sacred gem.",
+    "Dimensions": "11 7/8 in. (30.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7436,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_61.182_VwB_TR_T90IIA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_61.182_VwB_TR_T90IIA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_61.182_VwB_TR_T90IIA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_61.182_VwB_TR_T90IIA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_61.182_VwB_TR_T90IIA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35295,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_61.182_Fnt_NG_1522.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_61.182_Fnt_NG_1522.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_61.182_Fnt_NG_1522.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_61.182_Fnt_NG_1522.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_61.182_Fnt_NG_1522.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood with polychrome",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1938,
+        "LocationString": null
+    },
+    "ObjectID": 36171,
+    "ObjectName": "statuettes;sculptures",
+    "ObjectNumber": "61.182",
+    "OnView": 0,
+    "Period": "Kamakura",
+    "Provenance": "[From Matsubara, Kyoto temple]; Bunkio Matsuki Sale, American Art Association, New York, 1906; Henry Walters, Baltimore, 1906, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.98",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36171",
+    "SortNumber": "    61   182                                            ",
+    "Style": null,
+    "Title": "Buddhist Guardian Lion (Shishi)"
+}

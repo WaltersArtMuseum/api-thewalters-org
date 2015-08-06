@@ -1,0 +1,94 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1101,
+    "DateEndYear": 1200,
+    "DateText": "12th century",
+    "Description": "The eagle and rabbit are on a ground of vine scrolls. The rabbit is decorated with a textile pattern. The upper section of the five-sided plaque is broken away.",
+    "Dimensions": "2 1/8 x 2 3/16 in. (5.4 x 5.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57473,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_71.565_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_71.565_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_71.565_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_71.565_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_71.565_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 57472,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_71.565_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_71.565_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_71.565_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_71.565_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_71.565_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 55999,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_71.565_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_71.565_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_71.565_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_71.565_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_71.565_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1923,
+        "LocationString": null
+    },
+    "ObjectID": 4561,
+    "ObjectName": "plaques (flat objects)",
+    "ObjectNumber": "71.565",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4561",
+    "SortNumber": "    71   565                                            ",
+    "Style": "Fatimid",
+    "Title": "Eagle and Rabbit"
+}

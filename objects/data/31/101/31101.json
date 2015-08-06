@@ -1,0 +1,190 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Copy after Jean-Claude Duplessis le P\u00e8re (French and Italian, ca. 1695-1774)",
+            "CreatorID": 2977,
+            "Gender": "male",
+            "Role": "Designer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 19,
+    "DateEndYear": 19,
+    "DateText": "19th century",
+    "Description": "This vase (and its mate, Walters 48.612) is probably a nineteenth-century replica of the Vincennes-S\u00e8vres \"vase \u00e0 oreilles,\" designed by Jean-Claude Duplessis in the eighteenth century.",
+    "Dimensions": "H: 8 7/16 in. (21.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Continental Table Porcelain of the Eighteenth Century",
+            "ExhibBeginDate": "1965",
+            "ExhibBeginYear": 1965,
+            "ExhibDisplayDate": "1965",
+            "ExhibEndDate": "1965",
+            "ExhibEndYear": 1965,
+            "ExhibitionID": 172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Continental Table Porcelain of the Eighteenth Century. de Young Museum, San Francisco. 1965."
+        },
+        {
+            "ExhTitle": "Age of Elegance: The Rococo and its Effects",
+            "ExhibBeginDate": "1959",
+            "ExhibBeginYear": 1959,
+            "ExhibDisplayDate": "1959",
+            "ExhibEndDate": "1959",
+            "ExhibEndYear": 1959,
+            "ExhibitionID": 471,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Age of Elegance: The Rococo and its Effects. Baltimore Museum of Art, Baltimore. 1959."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9422,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.611_Fnt_DD_19112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.611_Fnt_DD_19112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.611_Fnt_DD_19112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.611_Fnt_DD_19112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.611_Fnt_DD_19112003.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46384,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.611_48.612_Fnt_BW_C40.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.611_48.612_Fnt_BW_C40.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.611_48.612_Fnt_BW_C40.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.611_48.612_Fnt_BW_C40.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.611_48.612_Fnt_BW_C40.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9423,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.611_Prof_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.611_Prof_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.611_Prof_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.611_Prof_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.611_Prof_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 9421,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.611_Back_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.611_Back_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.611_Back_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.611_Back_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.611_Back_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 9426,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.611-612_Fnt_DD_19112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.611-612_Fnt_DD_19112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.611-612_Fnt_DD_19112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.611-612_Fnt_DD_19112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.611-612_Fnt_DD_19112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 9424,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.611-612_Back_DD_19112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.611-612_Back_DD_19112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.611-612_Back_DD_19112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.611-612_Back_DD_19112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.611-612_Back_DD_19112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 47385,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.611_Fnt_BW_C40.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.611_Fnt_BW_C40.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.611_Fnt_BW_C40.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.611_Fnt_BW_C40.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.611_Fnt_BW_C40.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 10
+        }
+    ],
+    "Inscriptions": "[Factory Mark] Intertwined Lls",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5176,
+        "LocationString": null
+    },
+    "ObjectID": 31101,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.611",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "E. M. Hodgkins Collection, Paris, no. 8 [date and mode of acquisition unknown]; A. Seligmann, Rey and Co., New York; Henry Walters, Baltimore, 1928, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.987",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 33594,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/31101",
+    "SortNumber": "    48   611                                            ",
+    "Style": null,
+    "Title": "Tulip-Shaped Vase"
+}

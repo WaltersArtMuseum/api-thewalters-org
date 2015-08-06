@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pseudo-Marco Ricci (Italian, active before 1707-1710)",
+            "CreatorID": 17756,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1710,
+    "DateText": "1700-1710",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 371, p. 490.",
+    "Dimensions": "Painted surface H: 16 5/16 x W: 16 1/4 in. (41.5 x 41.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Going for Baroque",
+            "ExhibBeginDate": "1995-09-24",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "September 24, 1995-February  4, 1996",
+            "ExhibEndDate": "1996-02-04",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 948,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Going for Baroque. The Walters Art Gallery, Baltimore. 1995-1996."
+        },
+        {
+            "ExhTitle": "Tiepolo Unveiled: The Restoration of a Masterpiece",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2335,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Tiepolo Unveiled: The Restoration of a Masterpiece. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29607,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.550_Fnt_BW_H65.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.550_Fnt_BW_H65.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.550_Fnt_BW_H65.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.550_Fnt_BW_H65.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.550_Fnt_BW_H65.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3302,
+        "LocationString": null
+    },
+    "ObjectID": 11909,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.550",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 456, as Salvator Rosa]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 37425,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/11909",
+    "SortNumber": "    37   550                                            ",
+    "Style": null,
+    "Title": "Soldiers in a Landscape with a Waterfall"
+}

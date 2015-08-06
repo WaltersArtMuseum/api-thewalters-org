@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1478,
+    "DateEndYear": 1502,
+    "DateText": "ca. 1490",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue number 76, p. 114.",
+    "Dimensions": "Painted surface sight H: 21 1/16 x W: 14 5/16 in. (53.5 x 36.3 cm); Surviving panel H: 23 9/16 x W: 16 7/16 x D: 1 1/8 in. (59.8 x 41.7 x 2.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28592,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.735_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.735_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.735_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.735_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.735_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48345,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.735_XR_1964.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.735_XR_1964.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.735_XR_1964.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.735_XR_1964.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.735_XR_1964.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 48346,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.735_XR_1970.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.735_XR_1970.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.735_XR_1970.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.735_XR_1970.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.735_XR_1970.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Seal] On reverse of panel: red wax seal with coat of arms; [Number] On reverse in black paint: #73",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3248,
+        "LocationString": null
+    },
+    "ObjectID": 24653,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.735",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 36, as Fra Filippo Lippi; 1897 catalogue: no. 74, as Florentine School, around 1500]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-08-04T08:37:22.903",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24653",
+    "SortNumber": "    37   735                                            ",
+    "Style": null,
+    "Title": "Madonna and Child with an Angel"
+}

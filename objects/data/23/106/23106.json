@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovan Pietro Birago (Italian, active 1471-1513)",
+            "CreatorID": 8047,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1512,
+    "DateText": "ca. 1500",
+    "Description": null,
+    "Dimensions": "folio: 4 x 4 in. (10.2 x 10.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Manuscript Painting in the Renaissance",
+            "ExhibBeginDate": "1989-10-03",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "October 3, 1989-January 7, 1990",
+            "ExhibEndDate": "1990-01-07",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 86,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Painting in the Renaissance. The Walters Art Gallery, Baltimore. 1989-1990."
+        },
+        {
+            "ExhTitle": "The Illuminated Initial",
+            "ExhibBeginDate": "1991-10-08",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "October 8, 1991-January 5, 1992",
+            "ExhibEndDate": "1992-01-05",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Illuminated Initial. The Walters Art Gallery, Baltimore. 1991-1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lombardia\\provinces\\Brescia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438404,
+            "GeographyTerm": "Brescia",
+            "Latitude": "45 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.55,
+            "Longitude": "010 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2964,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.413B_Rev_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.413B_Rev_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.413B_Rev_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.413B_Rev_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.413B_Rev_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6431,
+        "LocationString": null
+    },
+    "ObjectID": 23106,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.413.B",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase [inv. no. 33063];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 21404,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/23106",
+    "SortNumber": "W        413B                                           ",
+    "Style": null,
+    "Title": "Initial S with David in Deep Water"
+}

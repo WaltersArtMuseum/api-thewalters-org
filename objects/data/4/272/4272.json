@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1480,
+    "DateText": "1475-1480",
+    "Description": "The woman depicted here in bust-length profile wears the costume of the early 15th century. This is surely not a portrait of a particular woman, but of a type, a \"pretty young woman.\" The painting is from a large series of similar bust-length profile \"portraits\" that would originally have hung in a row decorating the upper walls and possibly the ceiling of a private home. The present figure is framed by cusped Gothic architecture. The early provenance and style of the group suggest that they were executed by an artist in Lombardy in northern Italy but a specific attribution remains to be clarified. For another panel from this series, please see Walters 37.1110.  Panels from this series belong to the Museo Poldi Pezzoli and to the Museo del Castello Sforzesco in Milan. For more information about the present painting, please see Federico Zeri's 1976 catalogue \"Italian Paintings in the Walters Art Gallery\" vol. I, no. 200, pp. 293-294.",
+    "Dimensions": "Painted surface H: 14 3/16 x W: 14 1/2 x D excluding cradle: 1/4 in. (36 x 36.8 x 0.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437821,
+            "GeographyTerm": "Lombardia",
+            "Latitude": "45 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.666,
+            "Longitude": "009 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27899,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1849_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1849_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1849_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1849_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1849_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on wood (spruce) panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3373,
+        "LocationString": null
+    },
+    "ObjectID": 4272,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.1849",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 344, as School of Umbria or Ancona]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 2120,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4272",
+    "SortNumber": "    37  1849                                            ",
+    "Style": null,
+    "Title": "Profile of a Woman"
+}

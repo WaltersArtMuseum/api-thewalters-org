@@ -1,0 +1,137 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ukrainian",
+            "CreatorID": 16232,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1958",
+    "Culture": "Kievan Rus",
+    "DateBeginYear": 1100,
+    "DateEndYear": 1199,
+    "DateText": "12th century",
+    "Description": null,
+    "Dimensions": "H: 1 5/16 x W: 1 7/16 in. (3.3 x 3.6 cm)",
+    "Dynasty": "Rurikid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century",
+            "ExhibBeginDate": "1959-11-09",
+            "ExhibBeginYear": 1959,
+            "ExhibDisplayDate": "November 9, 1959-January 3, 1960",
+            "ExhibEndDate": "1960-01-03",
+            "ExhibEndYear": 1960,
+            "ExhibitionID": 69,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century. The Walters Art Gallery, Baltimore. 1959-1960."
+        },
+        {
+            "ExhTitle": "A Millennium of Christianity: Russian Art from The Walters Art Gallery",
+            "ExhibBeginDate": "1988-12-15",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "December 15, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 563,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Millennium of Christianity: Russian Art from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1460288,
+            "GeographyTerm": "Ukrayina",
+            "Latitude": "49 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.0,
+            "Longitude": "032 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1460288,
+            "GeographyTerm": "Ukrayina",
+            "Latitude": "49 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.0,
+            "Longitude": "032 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41007,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_57.1872_Fnt_BW_H59.tif.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_57.1872_Fnt_BW_H59.tif.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_57.1872_Fnt_BW_H59.tif.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_57.1872_Fnt_BW_H59.tif.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_57.1872_Fnt_BW_H59.tif.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 837,
+        "LocationString": null
+    },
+    "ObjectID": 25066,
+    "ObjectName": "pendants; earrings",
+    "ObjectNumber": "57.1872",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Julius Carlebach Gallery, New York, by purchase; Walters Art Museum, 1958, by purchase.",
+    "PublicAccessDate": "2012-07-31T22:00:00.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25066",
+    "SortNumber": "    57  1872                                            ",
+    "Style": null,
+    "Title": "Earring"
+}

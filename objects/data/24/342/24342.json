@@ -1,0 +1,161 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Imamzada Sulayman",
+            "CreatorID": 15400,
+            "Gender": null,
+            "Role": "Patron"
+        },
+        {
+            "ConcatDisplayName": "Qanbar ibn Mahmud (Iranian)",
+            "CreatorID": 6746,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Iranian-Islamic",
+    "DateBeginYear": 1551,
+    "DateEndYear": 1552,
+    "DateText": "December 1551-January 1552",
+    "Description": "These doors originally opened into the mausoleum, or tomb, of Imamzada Sulayman, the son of a spiritual leader in Iran, where Shia (Shi'ite) Islam became the state religion in the 16th century.  The doors' intricately carved and inlaid decoration is typical of the ornamentation in religious buildings and includes inscriptions in praise of Ali, son-in-law of the prophet Muhammad and the leader of Shia Muslims. Panels with radiating star designs evoke the eternal heavens. \r\n\r\nThe maker's full name, carved in the lower right panel, indicates that he was the son of a carpenter and confirms that crafts such as woodcarving were practiced by generations within the same family.",
+    "Dimensions": "76 1/2 x 40 5/8 x 2 13/16 in. (194.3 x 103.2 x 7.2 cm)",
+    "Dynasty": "early Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Azarbaijan-e Sharqi\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1508157,
+            "GeographyTerm": "Tabriz",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "046 18",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 46.3
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Azarbaijan-e Sharqi\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1508157,
+            "GeographyTerm": "Tabriz",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "046 18",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 46.3
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30063,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.297_VwA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.297_VwA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.297_VwA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.297_VwA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.297_VwA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 30058,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.297_DetA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.297_DetA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.297_DetA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.297_DetA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.297_DetA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 30059,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.297_DetB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.297_DetB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.297_DetB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.297_DetB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.297_DetB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 30060,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.297_DetC_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.297_DetC_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.297_DetC_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.297_DetC_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.297_DetC_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 30061,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.297_DetD_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.297_DetD_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.297_DetD_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.297_DetD_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.297_DetD_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 30062,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.297_DetE_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.297_DetE_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.297_DetE_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.297_DetE_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.297_DetE_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Date] A.H. Muharram 959",
+    "Keywords": "Muslim; pattern; calligraphy; decorative; architecture; geometric; Shiite; star",
+    "Medium": "wood with ivory inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Art",
+        "LocationID": 3921,
+        "LocationString": null
+    },
+    "ObjectID": 24342,
+    "ObjectName": "doors",
+    "ObjectNumber": "61.297",
+    "OnView": 1,
+    "Period": "early Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.317",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24342",
+    "SortNumber": "    61   297                                            ",
+    "Style": "Safavid",
+    "Title": "Mausoleum Doors"
+}

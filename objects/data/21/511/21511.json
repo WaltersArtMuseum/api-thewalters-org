@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni di Paolo (Italian, ca. 1420-1482)",
+            "CreatorID": 3338,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1426,
+    "DateEndYear": 1426,
+    "DateText": "1426",
+    "Description": "This is one of four early masterpieces by Giovanni di Paolo in the Walters.  It was originally part of a predella (paintings on the base of an altarpiece) in the chapel of the Malavolti family in the church of San Domenico in Siena. The main altar panel, dated 1426 and depicting the Virgin and Child flanked by saints, is in Italy. The predella panels show, chronologically, the Resurrection of Lazarus, the Way to Calvary, the Descent from the Cross, and the Entombment. Originally, an image of the Crucifixion (now in Germany) would have been in the center. \r\n\r\nThroughout his career, Giovanni di Paolo referred to the pictorial tradition of his native Siena that was rooted in Byzantine art and is characterized by, in particular, the gold ground and the stylized rock formations.\r\n\r\nFor more information on these panels, please see Federico Zeri's 1976 catalogue no. 78a-d, pp. 116-121.",
+    "Dimensions": "Painted surface H: 15 7/8 x W: 17 1/4 x D: 13/16 in. (40.4 x 43.8 x 2 cm); Framed H: 18 3/8 x W: 19 3/4 x D: 2 5/8 in. (46.7 x 50.1 x 6.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Early Renaissance in Siena",
+            "ExhibBeginDate": "2010-03-26",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "March 26, 2010-July 11, 2010",
+            "ExhibEndDate": "2010-07-11",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2079,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Early Renaissance in Siena. Complesso Museale Santa Maria della Scala, Siena. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 26071,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.489C_AftTrt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.489C_AftTrt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.489C_AftTrt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.489C_AftTrt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.489C_AftTrt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "cross; Jesus Christ; Christian; Mary; mourning",
+    "Medium": "tempera and gold leaf on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 13th-15th Century Italian Art",
+        "LocationID": 4575,
+        "LocationString": null
+    },
+    "ObjectID": 21511,
+    "ObjectName": "predellas; altarpieces; panel paintings",
+    "ObjectNumber": "37.489C",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "The Church of San Domenico, Siena, 1426 [\"Pecci-Paganucci\" altar until mid 16th century, \"Malavolti\" altar from the early 17th century, Refectory from the early 17th to perhaps the late 18th century]; Comm. Galgano Saracini, Siena, prior to 1819 [mode of acquisition unknown] [1819 catalogue, no. 1257-1260, as Duccio di Segna]; The Counts Chigi-Saracini, Siena [date and mode of acquisition unknown]; Luigi Grassi, Florence [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1911 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.473",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 29964,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21511",
+    "SortNumber": "    37   489C                                           ",
+    "Style": "Gothic",
+    "Title": "The Descent from the Cross"
+}

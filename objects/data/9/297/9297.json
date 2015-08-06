@@ -1,0 +1,118 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1958",
+    "Culture": null,
+    "DateBeginYear": -2012,
+    "DateEndYear": -1988,
+    "DateText": "ca. 2000 BC",
+    "Description": null,
+    "Dimensions": "H: 10 11/16 x W (with handles):11 x D: 9 5/8 in. (27.2 x 28 x 24.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1477678,
+            "GeographyTerm": "Gansu",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 102.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38751,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2392_3Qtr_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2392_3Qtr_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2392_3Qtr_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2392_3Qtr_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2392_3Qtr_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 38752,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2392_Side_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2392_Side_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2392_Side_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2392_Side_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2392_Side_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 38753,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2392_SideA_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2392_SideA_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2392_SideA_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2392_SideA_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2392_SideA_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 38754,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2392_SideB_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2392_SideB_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2392_SideB_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2392_SideB_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2392_SideB_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 6897,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2392_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2392_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2392_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2392_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2392_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6027,
+        "LocationString": null
+    },
+    "ObjectID": 9297,
+    "ObjectName": "jars",
+    "ObjectNumber": "49.2392",
+    "OnView": 0,
+    "Period": "Neolithic (Ma-ch'ang phase)",
+    "Provenance": "Mr. and Mrs. Eric Mayell, Carmel; Mathias Komor, New York; Walters Art Museum, 1958, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:09:35.17",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9297",
+    "SortNumber": "    49  2392                                            ",
+    "Style": null,
+    "Title": "Storage Jar"
+}

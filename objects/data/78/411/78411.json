@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Zapotec",
+            "CreatorID": 8569,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2008",
+    "Culture": "Zapotec",
+    "DateBeginYear": 300,
+    "DateEndYear": 600,
+    "DateText": "AD 300-600",
+    "Description": null,
+    "Dimensions": "H: 16 1/2 x W: 14 1/8 x D: 7 1/2 in. (41.9 x 35.9 x 19.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608942,
+            "GeographyTerm": "M\u00e9xico",
+            "Latitude": "23 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -102.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 13503,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2788_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2788_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2788_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2788_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2788_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 13502,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2788_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2788_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2788_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2788_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2788_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic greyware with traces of polychrome paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5511,
+        "LocationString": null
+    },
+    "ObjectID": 78411,
+    "ObjectName": "urns",
+    "ObjectNumber": "48.2788",
+    "OnView": 0,
+    "Period": "Early Classic",
+    "Provenance": "Merrin Gallery, New York [date and mode of acquisition unknown]; Private collection, July 1998 [mode of acquisition unknown]; Walters Art Museum, 2008, by gift.",
+    "PublicAccessDate": "2009-04-22T11:45:40.32",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78411",
+    "SortNumber": "    48  2788                                            ",
+    "Style": null,
+    "Title": "Figural Urn of Cocijo (Cociyo)"
+}

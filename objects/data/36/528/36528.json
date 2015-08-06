@@ -1,0 +1,136 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "Jean-Louis Morin (French, 1732-1787) (?)",
+            "CreatorID": 1915,
+            "Gender": "male",
+            "Role": "Decorator"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 1779,
+    "DateEndYear": 1779,
+    "DateText": "1779",
+    "Description": null,
+    "Dimensions": "H: 17 3/8 in. (44.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46466,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.643_Fnt_BW_H77.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.643_Fnt_BW_H77.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.643_Fnt_BW_H77.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.643_Fnt_BW_H77.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.643_Fnt_BW_H77.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9499,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.643_3Qtr_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.643_3Qtr_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.643_3Qtr_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.643_3Qtr_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.643_3Qtr_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9501,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.643_Fnt_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.643_Fnt_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.643_Fnt_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.643_Fnt_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.643_Fnt_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 9502,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.643_Prof_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.643_Prof_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.643_Prof_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.643_Prof_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.643_Prof_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 9500,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.643_Back_DD_18112003.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.643_Back_DD_18112003.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.643_Back_DD_18112003.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.643_Back_DD_18112003.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.643_Back_DD_18112003.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": "[Factory Mark] Intertwined Lls; [Date] Letters in gold: bb (1779); [Decorator's Mark] (possibly Morin [Jean-Louis (1732-1787)])",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5180,
+        "LocationString": null
+    },
+    "ObjectID": 36528,
+    "ObjectName": "vases; covers",
+    "ObjectNumber": "48.643",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "E. M. Hodgkins Collection, Paris, no. 65; A. Seligmann, Rey and Co., New York; Henry Walters, Baltimore, 1928, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.067",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36528",
+    "SortNumber": "    48   643                                            ",
+    "Style": null,
+    "Title": "Vase with Cover (Vase momies \u00e0 ornements)"
+}

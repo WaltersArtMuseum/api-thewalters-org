@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "C. M. B. (American)",
+            "CreatorID": 33560,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Commissioned by William T. Walters, by 1859",
+    "Culture": null,
+    "DateBeginYear": 1859,
+    "DateEndYear": 1859,
+    "DateText": "1859",
+    "Description": "This tailpiece was specially commissioned for one of William T. Walters' albums of drawings. It shows a palette and brushes covered by a spider's web, the spider is suspended from a brush below. Under this is the word \"finis,\" Latin for \"end.\" The seemingly abandoned pallette perhaps suggests the mortality of the artist. This would echo a second tailpiece by the same artist which shows a skull, and is inscribed \"emigravit,\" meaning \"departed.\"",
+    "Dimensions": "H: 7 5/16 \u00d7 W: 9 1/2 in. (18.57 \u00d7 24.13 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53020,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1581_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1581_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1581_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1581_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1581_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53019,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1581_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1581_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1581_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1581_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1581_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48392,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1581_Fnt_BW_H79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1581_Fnt_BW_H79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1581_Fnt_BW_H79.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1581_Fnt_BW_H79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1581_Fnt_BW_H79.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Initialed] CMB [Inscribed] below center: FINIS",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2248,
+        "LocationString": null
+    },
+    "ObjectID": 4846,
+    "ObjectName": "watercolors; tailpieces",
+    "ObjectNumber": "37.1581",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Commissioned by William T. Walters, Baltimore, by 1859; inherited by Henry Walters, Baltimore, 1894; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4846",
+    "SortNumber": "    37  1581                                            ",
+    "Style": null,
+    "Title": "Illuminated Tailpiece with a Palette and Brushes for William T. Walters' Drawings Album \"Original Sketches\""
+}

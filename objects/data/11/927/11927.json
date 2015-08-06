@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Silvestro dei Gherarducci (Italian, 1339-1399)",
+            "CreatorID": 4269,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1380,
+    "DateEndYear": 1390,
+    "DateText": "1380-1390",
+    "Description": null,
+    "Dimensions": "folio: 8 1/4 x 7 7/8 in. (21 x 20 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Manuscript Painting in the Renaissance",
+            "ExhibBeginDate": "1989-10-03",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "October 3, 1989-January 7, 1990",
+            "ExhibEndDate": "1990-01-07",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 86,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Painting in the Renaissance. The Walters Art Gallery, Baltimore. 1989-1990."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "The Gothic Illuminators of Florence",
+            "ExhibBeginDate": "1994-11-17",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 17, 1994-February 26, 1995",
+            "ExhibEndDate": "1995-02-26",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 83,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Gothic Illuminators of Florence. The Metropolitan Museum of Art, New York. 1994-1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2966,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.416_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.416_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.416_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.416_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.416_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6432,
+        "LocationString": null
+    },
+    "ObjectID": 11927,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.416",
+    "OnView": 0,
+    "Period": "Early Renaissance",
+    "Provenance": "Olschki;  Henry Walters, Baltimore [date of acquisition unknown], by purchase [inv. no. 32977 on back];  Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11927",
+    "SortNumber": "W        416                                            ",
+    "Style": null,
+    "Title": "Leaf from Antiphonary"
+}

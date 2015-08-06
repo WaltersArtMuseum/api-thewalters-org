@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Johann Woodcock",
+            "CreatorID": 4387,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John Woodcock, 1960",
+    "Culture": null,
+    "DateBeginYear": 1949,
+    "DateEndYear": 1949,
+    "DateText": "1949",
+    "Description": "Calligrapher John Woodcock handwrote, illustrated, and bound this book on English brasses. The manuscript contains drawings of brass rubbings of many knights and nobles, including Sir John d'Abernon, Thomas de Hope, and Nichol de Gore, as well as noblewomen such as the wives of Reginald de Malyns, Nicholas Wadham, and Nicholas Wotton. The names and dates in the titles for the images are based directly on the green ink inscriptions accompanying the illuminations.",
+    "Dimensions": "Folio H: 15 3/8 \u00d7 W: 11 1/8 in. (39 \u00d7 28.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468812,
+            "GeographyTerm": "Surrey",
+            "Latitude": "51 12",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.2,
+            "Longitude": "000 03",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53723,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.769.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.769.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.769.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.769.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.769.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Illustration; Codex; Manuscript; Calligraphy; Original binding; Drawing; Watermark; History",
+    "Medium": "ink and pigments on white bond paper bound between black Nigerian goat quarter cardboard cover covered with hot-pressed wove tan paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2354,
+        "LocationString": null
+    },
+    "ObjectID": 33754,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.769",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "John Woodcock, Surrey, England, 1949; Walters Art Museum, 1960, by gift.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33754",
+    "SortNumber": "W        769                                            ",
+    "Style": null,
+    "Title": "English Brasses"
+}

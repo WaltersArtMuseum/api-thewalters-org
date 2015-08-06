@@ -1,0 +1,116 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "T\u00e4kl\u00e4 Maryam",
+            "CreatorID": 31602,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Museum Purchase, 1976",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1930,
+    "DateEndYear": 1975,
+    "DateText": "mid 20th century",
+    "Description": "This twentieth-century Ethiopian prayerbook is dedicated to the Holy Trinity and its miracles, and contains readings for each day of the week. The text might have been composed by Takla Maryam, whose name appears on fol. 13r. The author felt that the Trinity was not worshipped and celebrated as it should be, not even as much as the martyrs, the angels, and the desert fathers. The manuscript itself was owned by Gabra Mikael (fols. 21v, 52v, and passim). It still retains its double leather satchel, complete with the remains of a carrying strap, which suggests that it may have been taken on pilgrimages. Small bits of colored thread have been attached to the corners of the first folios of the readings, an unusual solution to helping the reader navigate the text. Written in Ge'ez, Ethiopia's liturgical language, the manuscript appears to have been originally undecorated, with knot work added to the upper margins of the first two readings at a later date.",
+    "Dimensions": "H: 5 3/16 x W: 3 7/8 in. (13.1 x 9.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Angels of Light: Ethiopian Art from the Walters Art Museum",
+            "ExhibBeginDate": "2006-02-05",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 5, 2006-May 20, 2007",
+            "ExhibEndDate": "2007-05-20",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 1958,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Angels of Light: Ethiopian Art from the Walters Art Museum. Birmingham Museum of Art, Birmingham; Smith College Museum of Art, Northampton; Museum of Biblical Art, New York. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54100,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.784.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.784.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.784.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.784.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.784.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11539,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.784_VwA_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.784_VwA_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.784_VwA_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.784_VwA_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.784_VwA_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "book; codex; leather; binding; bag; prayer; Christianity; religion; original binding; devotion",
+    "Medium": "ink and pigments on heavy, slightly yellowed parchment; colored thread attached to corners of folios to mark the beginnings of readings wooden end boards with leather satchel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2353,
+        "LocationString": null
+    },
+    "ObjectID": 22752,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.784",
+    "OnView": 0,
+    "Period": "Modern",
+    "Provenance": "G\u00e4br\u00e4 Mika'el, mid-twentieth century [mode of acquisition unknown]; Gabra Mika'el Wubnah [date and mode of acquisition unknown]; Walters Art Museum, 1976, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 6811,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21324,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 87629,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 87630,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 87631,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/22752",
+    "SortNumber": "W        784                                            ",
+    "Style": "Ethiopian",
+    "Title": "Ethiopian prayer book"
+}

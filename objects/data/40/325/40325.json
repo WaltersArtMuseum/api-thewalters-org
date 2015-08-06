@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1820,
+    "DateEndYear": 1850,
+    "DateText": "1820-1850",
+    "Description": null,
+    "Dimensions": "2 3/16 in. (5.5 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Chinese Snuff Bottles",
+            "ExhibBeginDate": "2000-10-25",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 25, 2000-February 5, 2001",
+            "ExhibEndDate": "2001-02-05",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 76,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Chinese Snuff Bottles. The Walters Art Gallery, Baltimore. 2000-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56135,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.106_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.106_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.106_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.106_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.106_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Reign Mark] Four-character mark of Daoguang [Tao-kuang] (1820-1850) in relief",
+    "Keywords": null,
+    "Medium": "stoneware with green glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2034,
+        "LocationString": null
+    },
+    "ObjectID": 40325,
+    "ObjectName": "snuff bottles",
+    "ObjectNumber": "49.106",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": "Daoguang [Tao-kuang] (1820-1850)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40325",
+    "SortNumber": "    49   106                                            ",
+    "Style": null,
+    "Title": "Snuff Bottle with Floral Scrolls"
+}

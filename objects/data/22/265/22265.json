@@ -1,0 +1,119 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1966",
+    "Culture": null,
+    "DateBeginYear": -1070,
+    "DateEndYear": -664,
+    "DateText": "1070-664 BC",
+    "Description": "This pendant is cast in round, and depicts Amen, the cosmic and state god of Egypt.\r\nThe figure of Amun is striding.",
+    "Dimensions": "H: 15/16 x W: 3/16 x D: 3/8 in. (2.4 x 0.6 x 1 cm)",
+    "Dynasty": "18th-24th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22752,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1978_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1978_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1978_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1978_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1978_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22753,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1978_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1978_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1978_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1978_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1978_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22754,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1978_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1978_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1978_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1978_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1978_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22751,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1978_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1978_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1978_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1978_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1978_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Treasury",
+        "LocationID": 3649,
+        "LocationString": null
+    },
+    "ObjectID": 22265,
+    "ObjectName": "amulets; pendants",
+    "ObjectNumber": "57.1978",
+    "OnView": 1,
+    "Period": "Third Intermediate",
+    "Provenance": "Collection of Suydam; John E. Kieffer, Jr. [date and mode of acquisition unknown]; Walters Art Museum, 1966, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:41.22",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22265",
+    "SortNumber": "    57  1978                                            ",
+    "Style": null,
+    "Title": "Amun"
+}

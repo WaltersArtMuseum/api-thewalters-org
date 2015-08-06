@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1861,
+    "DateEndYear": 1873,
+    "DateText": "1862-1873",
+    "Description": "This is an example of \"famille rose\" porcelain.",
+    "Dimensions": "3 1/16 in. (7.8 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5293,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.96_Gp_BW_H75.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.96_Gp_BW_H75.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.96_Gp_BW_H75.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.96_Gp_BW_H75.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.96_Gp_BW_H75.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "reign mark of  Tongzhi [T'ung-chih] (1861-1874)",
+    "Keywords": null,
+    "Medium": "carved porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2036,
+        "LocationString": null
+    },
+    "ObjectID": 7587,
+    "ObjectName": "snuff bottles",
+    "ObjectNumber": "49.96",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.263",
+    "Reign": "Tongzhi [T'ung-chih] (1861-1874)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7587",
+    "SortNumber": "    49    96                                            ",
+    "Style": "famille rose",
+    "Title": "Snuff Bottle with River Landscape"
+}

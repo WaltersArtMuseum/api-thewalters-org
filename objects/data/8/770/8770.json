@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Joseph Mallord William Turner (English, 1775-1851)",
+            "CreatorID": 2991,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, 1890",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This painting is a forgery.",
+    "Dimensions": "H: 24 x W: 36 1/16 in. (61 x 91.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Forgeries and Their Detection",
+            "ExhibBeginDate": "1975-09-26",
+            "ExhibBeginYear": 1975,
+            "ExhibDisplayDate": "September 26, 1975-November 2, 1975",
+            "ExhibEndDate": "1975-11-02",
+            "ExhibEndYear": 1975,
+            "ExhibitionID": 2462,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Forgeries and Their Detection. Frick Fine Arts Building, University of Pittsburgh, Pittsburgh. 1975."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24634,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.132_Fnt_BW_T89.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.132_Fnt_BW_T89.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.132_Fnt_BW_T89.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.132_Fnt_BW_T89.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.132_Fnt_BW_T89.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47725,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.132_XR_1963.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.132_XR_1963.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.132_XR_1963.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.132_XR_1963.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.132_XR_1963.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3374,
+        "LocationString": null
+    },
+    "ObjectID": 8770,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.132",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, 1890 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-06-23T16:29:22.587",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8770",
+    "SortNumber": "    37   132                                            ",
+    "Style": null,
+    "Title": "Grand Canal, Venice"
+}

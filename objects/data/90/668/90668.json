@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eusebius of Caesarea, Bishop of Caesarea (ca. 260-ca. 340)",
+            "CreatorID": 8611,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Joseph Knopfelmacher, 1996",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1375,
+    "DateEndYear": 1425,
+    "DateText": "late 14th-early 15th century",
+    "Description": null,
+    "Dimensions": "H: 13 9/16 x W: 10 1/16 in. (34.5 x 25.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Ityop'iya\\lakes\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541964,
+            "GeographyTerm": "T'ana Hayk'",
+            "Latitude": "12 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 12.0,
+            "Longitude": "037 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Ityop'iya\\lakes\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541964,
+            "GeographyTerm": "T'ana Hayk'",
+            "Latitude": "12 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 12.0,
+            "Longitude": "037 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45523,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.838.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45522,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.838.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.838.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.838.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.838.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.838.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Canon Table; Christianity; gospel; religion; book; Illumination; Manuscript; Miniature; Painting; Walters Art Museum; Scripture; Theology",
+    "Medium": "heavy archival paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90668,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.838.binding",
+    "OnView": 0,
+    "Period": "Solomonic",
+    "Provenance": "Mr. and Mrs. Joseph Knopfelmacher, New York,  acquired in Addis Ababa ca. 1960; Walters Art Museum, 1996, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90668",
+    "SortNumber": "W        838binding                                     ",
+    "Style": "Ethiopian",
+    "Title": "Binding for Ethiopian canon tables"
+}

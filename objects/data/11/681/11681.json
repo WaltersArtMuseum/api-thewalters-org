@@ -1,0 +1,119 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Meroitic",
+            "CreatorID": 19133,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1905",
+    "Culture": null,
+    "DateBeginYear": -700,
+    "DateEndYear": -200,
+    "DateText": "700-200 BC",
+    "Description": "Elaborate oil lamps with figural attachments were common at the royal court in the ancient kingdom of Mero\u00eb. This lamp depicts a captive nude prisoner, his hands bound to his ankles. The lamp would have been suspended by a chain from the collar around the figure's neck. A Meroitic symbol, perhaps an owner's mark, is incised on the prisoner's shoulders.",
+    "Dimensions": "W: 4 1/8 x D: 3 9/16 x L: 10 in. (10.4 x 9 x 25.4 cm)\r\n",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Revealing the African Presence in Renaissance Europe",
+            "ExhibBeginDate": "2012-10-14",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "October 6, 2012-June 9, 2013",
+            "ExhibEndDate": "2013-06-09",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2444,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Revealing the African Presence in Renaissance Europe. The Walters Art Museum, Baltimore; Princeton University Art Museum, Princeton. 2012-2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32427,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1549_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1549_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1549_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1549_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1549_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32425,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1549_3Qtr_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1549_3Qtr_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1549_3Qtr_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1549_3Qtr_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1549_3Qtr_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 32426,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1549_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1549_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1549_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1549_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1549_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 32428,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1549_SideA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1549_SideA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1549_SideA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1549_SideA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1549_SideA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3765,
+        "LocationString": null
+    },
+    "ObjectID": 11681,
+    "ObjectName": "lamps",
+    "ObjectNumber": "54.1549",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Guilhou Sale, 1905, lot 307 [said to be found in Egypt]; Henry Walters, Baltimore, 1905, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11681",
+    "SortNumber": "    54  1549                                            ",
+    "Style": null,
+    "Title": "Oil Lamp with Bound Prisoner"
+}

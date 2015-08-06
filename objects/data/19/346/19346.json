@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1987",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1001,
+    "DateEndYear": 1100,
+    "DateText": "11th century",
+    "Description": "The cross carries inscriptions on both sides, but only one of them is partially legible at present.",
+    "Dimensions": "H: 3 1/16 x W: 1 1/2 in. (7.7 x 3.8 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39147,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39148,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW_T88.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW_T88.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW_T88.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW_T88.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2627_Fnt_BW_T88.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] \u039a(\u1f7b\u03c1\u03b9)\u03b5 \u03b2\u03bf\u1f75\u03b8\u03b7 \u03c4\u1f78\u03bd \u03c6[\u03bf\u03c1\u03bf\u1fe6\u03bd\u03c4\u03b1]; [Translation] Lord, help the wearer",
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 898,
+        "LocationString": null
+    },
+    "ObjectID": 19346,
+    "ObjectName": "reliquaries; crosses (objects)",
+    "ObjectNumber": "54.2627",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Pete N. Nickolas (\"Helios Old World Antiques\"), Westminster, Maryland, [date of acquisition unknown] by purchase; Walters Art Museum, 1987, by purchase.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19346",
+    "SortNumber": "    54  2627                                            ",
+    "Style": null,
+    "Title": "Pectoral Reliquary Cross with Inscriptions"
+}

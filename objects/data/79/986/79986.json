@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Salim al-Rashid",
+            "CreatorID": 15709,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Abu al-Fadl 'Iyad ibn Mus\u00e1 al-Yahsubi al-Bahili (died 544 AH/AD 1149)",
+            "CreatorID": 15710,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1777,
+    "DateEndYear": 1777,
+    "DateText": "1191 AH/AD 1777",
+    "Description": "This folio from Walters manuscript W.586 is an illuminated incipit page with a headpiece.",
+    "Dimensions": "H: 7 1/16 x W: 4 1/8 in. (18 x 10.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20898,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.586.1B_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.586.1B_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.586.1B_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.586.1B_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.586.1B_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 26552,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.586.1B_FpDetA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.586.1B_FpDetA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.586.1B_FpDetA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.586.1B_FpDetA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.586.1B_FpDetA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Ottoman; Turkish; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Manuscript; Contemporary Binding; Turkey; History; Astrology",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79986,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.586.1B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "al-Sayyid Abu Bakr al-Hilmi, 1281(?) AH/AD 1864-1865 [mode of acquisition unknown] [seal impression with the name and date on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79986",
+    "SortNumber": "W        586    1B                                      ",
+    "Style": null,
+    "Title": "Illuminated Incipit Page with Headpiece"
+}

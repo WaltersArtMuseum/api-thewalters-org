@@ -1,0 +1,125 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "L\u00e9on Gruel (French, 1841-1923)",
+            "CreatorID": 104,
+            "Gender": "male",
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1905",
+    "Culture": null,
+    "DateBeginYear": 1265,
+    "DateEndYear": 1265,
+    "DateText": "1265",
+    "Description": null,
+    "Dimensions": "14 1/4 x 9 13/16 in. (36.2 x 25 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Byzantium: Faith and Power (1261-1557)",
+            "ExhibBeginDate": "2004-04-23",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "March 23, 2004-July 5, 2004",
+            "ExhibEndDate": "2004-07-05",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 63,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Byzantium: Faith and Power (1261-1557). The Metropolitan Museum of Art, New York. 2004."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Manuscript Sleuthing: Discoveries of a Curator",
+            "ExhibBeginDate": "1995-02-15",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 15, 1995-May 21, 1995",
+            "ExhibEndDate": "1995-05-21",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 174,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Sleuthing: Discoveries of a Curator. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11478,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.152.156V_OpnRev_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.152.156V_OpnRev_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.152.156V_OpnRev_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.152.156V_OpnRev_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.152.156V_OpnRev_TR.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Gothic; Italy; Bible; Sicily",
+    "Medium": "tempera and gold leaf on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 2733,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.152.156V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "[Associated with Conradin of Hohenstaufen, King of Jerusalem and Sicily (d. 1268), in a note (no longer extant) by the comte de Bastard that was found at the beginning of the manuscript according to Delisle, 1892]; Comte Auguste Bastard d'Estang [no. B741], early 19th century [two color lithographs made for Peintures et ornaments, 1832-1869]; Spitzer Sale, Paris, 1893, no. 3030; Charles Stein, Paris [date and mode of acquisition unknown]; Jacques Rosenthal, Munich [1902 and 1905 catalogues]; Henry Walters, Baltimore, 1905, by purchase [Leo Olschki as agent]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2733",
+    "SortNumber": "W        152  156V                                      ",
+    "Style": null,
+    "Title": "Tobias and the Angel"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sakai Hoshuku (Japanese, 1878-1956)",
+            "CreatorID": 5229,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the Ambassador and Mrs. William J. Sebald Fund, 1990",
+    "Culture": null,
+    "DateBeginYear": 1907,
+    "DateEndYear": 1907,
+    "DateText": "1907",
+    "Description": null,
+    "Dimensions": "Painting H: 46 x W: 19 1/4 in. (116.8 x 48.9 cm); Mounting H: 80 x W: 24 3/4 in. (203.2 x 62.87 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Japanese Cloisonne Enamels from the Stephen W. Fisher Collection",
+            "ExhibBeginDate": "2010-02-14",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "February 14, 2010-June 13, 2010",
+            "ExhibEndDate": "2010-06-13",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2249,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Japanese Cloisonne Enamels from the Stephen W. Fisher Collection. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21278,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.151_Fnt_BW_T96.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.151_Fnt_BW_T96.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.151_Fnt_BW_T96.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.151_Fnt_BW_T96.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.151_Fnt_BW_T96.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Date] early summer of Meiji year 40; [Signature] On right scroll: Hoshuku; [Seal] On right scroll: Koreitsu",
+    "Keywords": null,
+    "Medium": "ink and colors on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2407,
+        "LocationString": null
+    },
+    "ObjectID": 6933,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.151",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Mami Yasukochi, Tokyo [date and mode of acquisition unknown]; Walters Art Museum, 1990, by purchase.",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 31911,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/6933",
+    "SortNumber": "    35   151                                            ",
+    "Style": null,
+    "Title": "Fans of the Twelve Months"
+}

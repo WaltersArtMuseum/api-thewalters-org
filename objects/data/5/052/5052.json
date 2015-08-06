@@ -1,0 +1,114 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "'Ali ibn Abi Talib (died 40 AH/AD 661)",
+            "CreatorID": 16703,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Rashid al-Din Muhammad al-Balkhi al-Vatvat (died ca. 578 AH/AD 1182)",
+            "CreatorID": 16711,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "9th century AH/AD 15th century",
+    "Description": "Walters manuscript W.615, an illuminated copy of One hundred sayings, referred to as Mi'at kalimah in Arabic and Sad kalimah in Persian and attributed to the 4th caliph of Islam, \"Ali ibn Abi Talib (died 40 AH/AD 661), contains a Persian paraphrase (dubayt) by Rashid al-Din Muhammad al-Balkhi, known as al-Vatvat (Watwat) (died ca. 578 AH/AD 1182). The manuscript was completed in Iran sometime in the 9th century AH/AD 15th. The sayings of `Ali in Arabic are written in blue Muhaqqaq and gold Thuluth scripts, and the Persian verses are written in black Naskh scripts. The codex opens with an illuminated titlepiece inscribed in white Tawqi script (fol. 1b). The dark brown goatskin binding with central lobed medallion and pendants and doublures with filigree decoration may date to the 9th or 10th century AH/AD 15th or 16th.",
+    "Dimensions": "Folio H: 8 1/4 x W: 5 11/16 in. (21 x 14.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "To Arrest the Ravages of Time: Caring for Art at the Walters",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 721,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "To Arrest the Ravages of Time: Caring for Art at the Walters. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23263,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.615.binding_ClsdTop_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.615.binding_ClsdTop_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.615.binding_ClsdTop_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.615.binding_ClsdTop_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.615.binding_ClsdTop_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Persian; Book; Calligraphy; Codex; Illumination; Manuscript; Iran; Devotion; Literature -- Poetry; Literature -- Prose; Philosophy",
+    "Medium": "ink and pigments on cream, gold-flecked laid paper covered with dark brown goatskin with gold; red leather doublures",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2340,
+        "LocationString": null
+    },
+    "ObjectID": 5052,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.615",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79995,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79996,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79997,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/5052",
+    "SortNumber": "W        615                                            ",
+    "Style": null,
+    "Title": "One Hundred Sayings"
+}

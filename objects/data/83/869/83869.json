@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Basavan",
+            "CreatorID": 3585,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1952",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th",
+    "Description": "Walters manuscript leaf W.748 is a Mughal drawing depicting a horseman and is inscribed 'amal-i Basavan (work of Basavan). This attribution, in a later hand, refers to the Mughal artist Basavan, who served at the court of the Emperor Humayun (died 963 AH/AD 1556) and his successor Akbar (died 1014 AH/AD 1605). In the Mughal atelier, Basavan contributed to numerous manuscript projects, especially images of battle scenes. There are tiny prickings along the outline of the drawing that suggest it served as a model for transmission.",
+    "Dimensions": "H: 11 13/16 x W: 10 5/8 in. (30 x 27 cm); Image H: 3 11/16 x W: 4 5/16 in. (9.4 x 11 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38710,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.748.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.748.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.748.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.748.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.748.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Illustration; Miniature; Drawing; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83869,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.748.A",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Kelekian Estate, 1952, by bequest; Walters Art Museum, 1952, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83869",
+    "SortNumber": "W        748A                                           ",
+    "Style": null,
+    "Title": "Horseman"
+}

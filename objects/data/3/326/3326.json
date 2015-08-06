@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1915",
+    "Culture": null,
+    "DateBeginYear": 1520,
+    "DateEndYear": 1520,
+    "DateText": "1520",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 183, pp. 271-272.",
+    "Dimensions": "Painted surface H: 20 7/8 x W: 27 15/16 x D: 3/4 in. (53 x 71 x 1.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29060,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.461_Fnt_BW_H63.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.461_Fnt_BW_H63.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.461_Fnt_BW_H63.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.461_Fnt_BW_H63.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.461_Fnt_BW_H63.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] On center of parapet along lower edge: ANTA CRUCE P. MDXX.",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3263,
+        "LocationString": null
+    },
+    "ObjectID": 3326,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.461",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William Beckford, Fonthill Abbey, until 1822 [mode of acquisition unknown]; Charles Butler, Warrenwood, Hatfield, England [date and mode of acquisition unknown]; Henry Walters, Baltimore, prior to 1915 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-04-01T11:04:12.873",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3326",
+    "SortNumber": "    37   461                                            ",
+    "Style": null,
+    "Title": "Madonna and Child Between St. Francis and St. Jerome"
+}

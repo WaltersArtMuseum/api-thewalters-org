@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1300,
+    "DateEndYear": 1399,
+    "DateText": "14th century",
+    "Description": "Saint Andrew, holding a scroll, looks intently to his left, indicating that the panel once may have formed part of a group of icons with Christ at the center.  It may have been placed on the upper tier of an \"iconostasis,\" the screen dividing the sanctuary from the nave in an Orthodox Church.  The color scheme of the icon is unusual in its use of extremely bright colors for the saint's robe and a mustard yellow - instead of gold - for the background.",
+    "Dimensions": "10 1/4 x 8 1/16 x 7/8 in. (26 x 20.5 x 2.2 cm)",
+    "Dynasty": "Palaeologan Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Holy Image, Holy Space: Icons and Frescoes from Greece",
+            "ExhibBeginDate": "1988-08-21",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "August 21, 1988-April 29, 1990",
+            "ExhibEndDate": "1990-04-29",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 648,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Holy Image, Holy Space: Icons and Frescoes from Greece. The Walters Art Gallery, Baltimore; Center for the Fine Arts, Miami; Kimbell Art Museum, Fort Worth; Fine Arts Museums of San Francisco, San Francisco; The Cleveland Museum of Art, Cleveland; The Detroit Institute of Arts, Detroit; Virginia Museum of Fine Arts, Richmond. 1988-1990."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431963,
+            "GeographyTerm": "Macedonia",
+            "Latitude": "41 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.0,
+            "Longitude": "023 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4087,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.559_Fnt_TR_T88II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.559_Fnt_TR_T88II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.559_Fnt_TR_T88II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.559_Fnt_TR_T88II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.559_Fnt_TR_T88II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on wood with gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3837,
+        "LocationString": null
+    },
+    "ObjectID": 39354,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.559",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris, by purchase; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39354",
+    "SortNumber": "    37   559                                            ",
+    "Style": null,
+    "Title": "Saint Andrew"
+}

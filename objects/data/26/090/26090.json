@@ -1,0 +1,136 @@
+{
+    "Classification": "Textiles",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian (?)",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Turkish (?)",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1910",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": "Carpets are perhaps the best known of all artworks from the Islamic world. Woven in a wide range of colors and patterns, pile carpets covered the floors of humble dwellings, courtly palaces, and religious institutions from earliest Islamic times. Because they are susceptible to wear and tear, relatively few carpets made before the 16th century have survived. During the 19th century, many Islamic rugs were produced for export to Europe and North America, where they were- and still are- commonly called \"Oriental.\"\r\n\r\nThe medallion carpet is among the most familiar and popular of all rug types. The design is almost always symmetrical and often features a scalloped or starburst medallion in the center, set against a floral field and framed by wide borders filled with still more flowers, usually in panels. This fine (but typically worn) example also includes pairs of birds arranged around the center and verses of Persian poetry in the borders.",
+    "Dimensions": "H: 83 x W: 59 in. (210.8 x 149.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37288,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_81.7_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_81.7_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_81.7_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_81.7_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_81.7_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12634,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_81.7_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_81.7_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_81.7_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_81.7_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_81.7_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 35623,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_81.7_Fnt_NG_3271.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_81.7_Fnt_NG_3271.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_81.7_Fnt_NG_3271.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_81.7_Fnt_NG_3271.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_81.7_Fnt_NG_3271.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wool pile, metallic brocading, silk warp, silk and cotton weft",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5450,
+        "LocationString": null
+    },
+    "ObjectID": 26090,
+    "ObjectName": "carpets",
+    "ObjectNumber": "81.7",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Yerkes Sale; Henry Walters, Baltimore, 1910 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-02-05T16:01:04.533",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26090",
+    "SortNumber": "    81     7                                            ",
+    "Style": null,
+    "Title": "Medallion Carpet"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Textiles",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Coptic",
+    "DateBeginYear": 400,
+    "DateEndYear": 599,
+    "DateText": "5th-6th century",
+    "Description": "The popularity of the cult of Dionysus, which was initially introduced to Egypt by the early Ptolemy rulers in the 3rd century BC and continued into early Byzantine times (4th-7th century), resulted in numerous textiles, such as this garment panel featuring Dionysiac themes. The \"segmentum\" (ornamental tunic patch) depicts dancers involved in what was probably intended to be a Dionysiac dance to celebrate regeneration and rebirth. The commonly used grape vine border, which frames the central portion of the panel, also acts as an allusion to Dionysus and to renewal and prosperity associated with him.",
+    "Dimensions": "Overall H: 15 13/16 x W: 13 11/16 in. (40.2 x 34.8 cm); Left fragment (A) H: 15 3/4 x W: 1 9/16 in. (40 x 3.9 cm); Top fragment (B) H: 4 x W: 12 3/16 in. (10.2 x 30.9 cm); Bottom fragment (C) H: 3 1/8 x W: 9 7/16 in. (8 x 24 cm); Right fragment (D) H: 11 x W: 1 9/16 in. (27.9 x 4 cm)\r\n",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Seeing Music in Medieval Manuscripts",
+            "ExhibBeginDate": "2014-06-28",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "June 28, 2014 - October 12, 2014",
+            "ExhibEndDate": "2014-10-12",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3316,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Seeing Music in Medieval Manuscripts. 2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30672,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_83.485_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_83.485_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_83.485_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_83.485_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_83.485_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 30670,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_83.485_DetA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_83.485_DetA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_83.485_DetA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_83.485_DetA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_83.485_DetA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 30671,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_83.485_DetB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_83.485_DetB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_83.485_DetB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_83.485_DetB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_83.485_DetB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wool, linen",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3136,
+        "LocationString": null
+    },
+    "ObjectID": 14323,
+    "ObjectName": "textiles; costume",
+    "ObjectNumber": "83.485",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-03T17:14:47.587",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14323",
+    "SortNumber": "    83   485                                            ",
+    "Style": null,
+    "Title": "Garment Decoration (\"Segmentum\") with Figures Under an Arcade"
+}

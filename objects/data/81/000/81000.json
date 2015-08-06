@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 816,
+    "DateEndYear": 900,
+    "DateText": "3rd century AH/AD 9th century",
+    "Description": "This folio from Walters manuscript W.552 is executed in Kufic script. Already in the 9th century, the rectilinear Kufic script seen on this page began to be replaced by a more cursive \"font\" called the New Abbasid style. The Abbasids were an early Islamic dynasty that ruled from AD 750-1258.  The first center of political, economic and cultural life for the Abbasids was Baghdad, the circular City of Peace (madinat al-salam), which became the empire's capital in 762.",
+    "Dimensions": "H: 5 5/16 x W: 8 1/4 in. (13.5 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544950,
+            "GeographyTerm": "Middle East",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30720,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.552.36b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.552.36b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.552.36b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.552.36b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.552.36b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Abbasid; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Manuscript;  Prayer;  Qur`an; Central Arab Lands (Near East); Kufic; Early Abbasid script",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81000,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.552.36B",
+    "OnView": 0,
+    "Period": "Abbasid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81000",
+    "SortNumber": "W        552   36B                                      ",
+    "Style": null,
+    "Title": "Folio with Kufic Script"
+}

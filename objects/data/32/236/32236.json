@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -612,
+    "DateEndYear": -500,
+    "DateText": "ca. 600-500 BC",
+    "Description": "This group of amulets were strung in modern times to a necklace that follows the order of an amulet necklace found on a mummy in the Faiyum. On this string are 8 \"djed\" pillars (symbols of Osiris), Thoth, figures of Horus, two figures of Re, a \"wadj\" (papyrus scepter, symbolizing resurrection), Nephthys, and Khnum. The combination of amulets without an amulet of Isis and only one \"wadj\" makes it likely that these amulets come from a larger context such as a mummy net or amulet ensemble of a deceased, and not from a single necklace.",
+    "Dimensions": "1 3/8 in. (3.5 cm) max.\r\n1 1/8 in. (2.9 cm) min.",
+    "Dynasty": "26th-27th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        },
+        {
+            "ExhTitle": "Through Ancient Eyes: Portraiture in Ancient Egypt",
+            "ExhibBeginDate": "1988-04-21",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 21, 1988-July 31, 1988",
+            "ExhibEndDate": "1988-07-31",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 3038,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Through Ancient Eyes: Portraiture in Ancient Egypt. Birmingham Museum of Art, Birmingham. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9160,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.1685-1699_48.1712_VwA_TR_C79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.1685-1699_48.1712_VwA_TR_C79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.1685-1699_48.1712_VwA_TR_C79.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.1685-1699_48.1712_VwA_TR_C79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.1685-1699_48.1712_VwA_TR_C79.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 42052,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.1685-1699_FntDet_TR_C79I.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.1685-1699_FntDet_TR_C79I.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.1685-1699_FntDet_TR_C79I.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.1685-1699_FntDet_TR_C79I.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.1685-1699_FntDet_TR_C79I.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience with blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3775,
+        "LocationString": null
+    },
+    "ObjectID": 32236,
+    "ObjectName": "amulets; pendants",
+    "ObjectNumber": "48.1685-1699",
+    "OnView": 1,
+    "Period": "Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-15T09:49:58.31",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32236",
+    "SortNumber": "    48  1685 1699                                       ",
+    "Style": null,
+    "Title": "Group of 16 Amulets Strung as a Necklace"
+}

@@ -1,0 +1,100 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Workshop of the Fontana family (Italian, active 16th-17th century) (?)",
+            "CreatorID": 15791,
+            "Gender": null,
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": 1548,
+    "DateEndYear": 1582,
+    "DateText": "ca. 1560-1570",
+    "Description": "The moon-goddess Diana was accompanied by a group of chaste nymphs. Seated under an elaborate fountain, the goddess, attended to by two of her followers, can be recognized by the crescent moon on her head. The dish shows how the artist imitated the style of contemporary painting with bulky figures represented in complex turning poses. The back also shows a scene related to the element of water: Neptune, the god of the sea, astride two dolphins.",
+    "Dimensions": "2 5/8 x 17 1/16 in. (6.7 x 43.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6790,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1316_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1316_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1316_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1316_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1316_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46406,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1316_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1316_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1316_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1316_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1316_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4787,
+        "LocationString": null
+    },
+    "ObjectID": 37660,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.1316",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Jacques Seligmann, Paris, by purchase; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.503",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37660",
+    "SortNumber": "    48  1316                                            ",
+    "Style": null,
+    "Title": "Dish with Diana and Her Nymphs Bathing"
+}

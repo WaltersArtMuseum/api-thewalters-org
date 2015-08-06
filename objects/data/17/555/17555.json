@@ -1,0 +1,105 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kiyoshige (Japanese)",
+            "CreatorID": 7043,
+            "Gender": "male",
+            "Role": "Metalworker"
+        },
+        {
+            "ConcatDisplayName": "Narita Eizui (Japanese, active ca. 1800)",
+            "CreatorID": 2943,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1788,
+    "DateEndYear": 1812,
+    "DateText": "ca. 1800",
+    "Description": null,
+    "Dimensions": "21 5/16 in. (54.1 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\Nagano-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491662,
+            "GeographyTerm": "Yamaguchi",
+            "Latitude": "35 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.55,
+            "Longitude": "137 33",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 137.55
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\Nagano-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491662,
+            "GeographyTerm": "Yamaguchi",
+            "Latitude": "35 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.55,
+            "Longitude": "137 33",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 137.55
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5327,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.1257_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.1257_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.1257_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.1257_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.1257_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Ichigyokudo Eizui; [Transcription] Choshu ju Fujiwara Kiyoshige saku; [Translation] Made by Kiyoshige, of the Fujiwara clan, living in Choshu province",
+    "Keywords": "animal; insect; dragonfly; plant; flower; chrysanthemum",
+    "Medium": "lacquer, silver, gold, copper alloy, wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2025,
+        "LocationString": null
+    },
+    "ObjectID": 17555,
+    "ObjectName": "short swords; wakizashi blade;tsuba;fuchi;kashira;menuki;kozuka;saya;tsu",
+    "ObjectNumber": "51.1257",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.467",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 17973,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79669,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79670,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79671,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/17555",
+    "SortNumber": "    51  1257                                            ",
+    "Style": null,
+    "Title": "Short Sword with Chrysanthemums on the Fittings"
+}

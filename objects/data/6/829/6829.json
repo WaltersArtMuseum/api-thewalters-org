@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1973",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1200,
+    "DateEndYear": 1299,
+    "DateText": "13th century",
+    "Description": null,
+    "Dimensions": "H: 4 1/2 x W: 5 1/16 in. (11.5 x 12.8 cm)",
+    "Dynasty": "Lusignan Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1474344,
+            "GeographyTerm": "Cyprus",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "033 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 33.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39373,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2355_Fnt_BW_H43.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2355_Fnt_BW_H43.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2355_Fnt_BW_H43.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2355_Fnt_BW_H43.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2355_Fnt_BW_H43.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic with polychrome",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 877,
+        "LocationString": null
+    },
+    "ObjectID": 6829,
+    "ObjectName": "cups",
+    "ObjectNumber": "48.2355",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "William H. Smith, Alexandria, Virginia, by purchase [in Cyprus]; Walters Art Museum, 1973, by purchase.",
+    "PublicAccessDate": "2012-06-04T22:00:00.403",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6829",
+    "SortNumber": "    48  2355                                            ",
+    "Style": null,
+    "Title": "Stemmed Cup with Incised Designs"
+}

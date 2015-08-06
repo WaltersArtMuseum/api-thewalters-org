@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": "Christian; German",
+    "DateBeginYear": 1440,
+    "DateEndYear": 1450,
+    "DateText": "mid 15th century",
+    "Description": "This late medieval German prayer book is an example of a highly personal devotional item. It was originally made ca. 1440 for Leonhard von Laymingen, bishop of Passau (fl. 1423-1451). The text primarily features a series of prayers to various saints as well as prayers for travelings. Many illuminations and some text pages have been excised, but the book is nonetheless extensively decorated. The prayer book's illuminations consist of thirty miniatures and four historiated initials that complement the text, usually with illustrations of saints. Bishop von Laymingen appears in his prayer book several times kneeling before the saint to which that particular prayer is dedicated. Additionally, the Laymingen coat of arms appears twenty times throughout the book.",
+    "Dimensions": "Overall H: 5 1/2 x W: 4 1/8 in. (14 x 10.5 cm); Folio H: 5 1/16 x W: 3 5/8 in. (12.8 x 9.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Travel in Medieval Manuscripts",
+            "ExhibBeginDate": "1993-04-13",
+            "ExhibBeginYear": 1993,
+            "ExhibDisplayDate": "April 13, 1993-July 11, 1993",
+            "ExhibEndDate": "1993-07-11",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 94,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Travel in Medieval Manuscripts. The Walters Art Gallery, Baltimore. 1993."
+        },
+        {
+            "ExhTitle": "Schatzkammer: Henry Walters' German Manuscripts",
+            "ExhibBeginDate": "2006-07-22",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "July 22, 2006-October 29, 2006",
+            "ExhibEndDate": "2006-10-29",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 96,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Schatzkammer: Henry Walters' German Manuscripts. The Walters Art Museum, Baltimore. 2006."
+        },
+        {
+            "ExhTitle": "Manuscripts and Facsimiles",
+            "ExhibBeginDate": "1985-10-22",
+            "ExhibBeginYear": 1985,
+            "ExhibDisplayDate": "October 22, 1985-December 15, 1985",
+            "ExhibEndDate": "1985-12-15",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2020,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscripts and Facsimiles. The Walters Art Gallery, Baltimore. 1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Niederbayern\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1450078,
+            "GeographyTerm": "Passau",
+            "Latitude": "48 35",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.583,
+            "Longitude": "013 28",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.466
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53709,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W163_000388_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W163_000388_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W163_000388_300.jpg",
+                "Small": "http://static.thewalters.org/images/W163_000388_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W163_000388_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Gothic; Heraldry; Walters Art Museum; Historiated initial; Binding; Manuscript; Devotion",
+    "Medium": "ink and pigments on smooth, medium weight, slightly trimmed parchment bound between beech boards covered with ca. 1600 blind-stamped and tooled brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2313,
+        "LocationString": null
+    },
+    "ObjectID": 34546,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.163",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Leonhard von Laymingen, Bishop of Passau, 1423-1541, by commission; Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34546",
+    "SortNumber": "W        163                                            ",
+    "Style": "Gothic",
+    "Title": "Prayer Book of Bishop Leonhard von Laymingen of Passau"
+}

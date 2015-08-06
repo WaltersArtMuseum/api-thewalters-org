@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Richard Caton Woodville (American, 1825-1855)",
+            "CreatorID": 2112,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Henry Walters Bequest, 1931",
+    "Culture": null,
+    "DateBeginYear": 1845,
+    "DateEndYear": 1845,
+    "DateText": "1845",
+    "Description": "This sketch is related to a three figure composition in graphite (WAM 37.2006).",
+    "Dimensions": "H: 7 5/8 x W: 5 7/8 in. (19.3 x 14.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "New Eyes on America: The Genius of Richard Caton Woodville",
+            "ExhibBeginDate": "2013-03-10",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "March 10, 2013 -  November 03, 2013",
+            "ExhibEndDate": "2013-11-03",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2834,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "New Eyes on America: The Genius of Richard Caton Woodville. The Walters Art Museum, Baltimore; Mint Museum of Art Uptown, Charlotte. 2013."
+        },
+        {
+            "ExhTitle": "The American Artist as Painter and Draftsman",
+            "ExhibBeginDate": "2001-10-20",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "October 20, 2001-December 30, 2001",
+            "ExhibEndDate": "2001-12-30",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 2160,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The American Artist as Painter and Draftsman. The Walters Art Museum, Baltimore. 2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\D\u00fcsseldorf\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1453070,
+            "GeographyTerm": "D\u00fcsseldorf",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "006 47",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.783
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37379,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1547_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1547_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1547_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1547_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1547_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19747,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1547_Fnt_BW_C41.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1547_Fnt_BW_C41.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1547_Fnt_BW_C41.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1547_Fnt_BW_C41.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1547_Fnt_BW_C41.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] Front bottom: Bringing in the Boar's Head.; [Signature and date] R.C.W. 1845; [Inscription] In pencil on reverse: Dear Frank - Don't expect me to [missing edge of sheet] I wil not be able R.C.W.",
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5474,
+        "LocationString": null
+    },
+    "ObjectID": 11624,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1547",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters [date and mode of acquisition unknown, previously included in William T. Walters album \"Original Designs by American Artists,\" WAM 11.1]; Henry Walters, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-10-19T22:00:00.27",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11624",
+    "SortNumber": "    37  1547                                            ",
+    "Style": null,
+    "Title": "Bringing in the Boar's Head"
+}

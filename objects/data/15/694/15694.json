@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1976",
+    "Culture": "Flemish",
+    "DateBeginYear": 1200,
+    "DateEndYear": 1299,
+    "DateText": "13th century",
+    "Description": "This bas-relief engraved plaque depicts an evangelist seated within an arcade. It was part of the 13th-century redecoration of the 11th-century \"Saint Amandus Shrine\" (Walters 53.9). It was separated from the shrine until the Walters Art Museum purchased the plaque in 1976. It is now mounted on the roof with the three other evangelist panels.",
+    "Dimensions": "4 x 5 3/16 in. (10.2 x 13.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Benedictus Pater Europae 480-1980",
+            "ExhibBeginDate": "1980-10-20",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 20, 1980-January 4, 1981",
+            "ExhibEndDate": "1981-01-04",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2890,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Benedictus Pater Europae 480-1980. Kunsthal Sint-Pietersabdij, Ghent. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5440,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_53.148_Fnt_BW_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_53.148_Fnt_BW_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_53.148_Fnt_BW_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_53.148_Fnt_BW_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_53.148_Fnt_BW_H76.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "copper with gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 15694,
+    "ObjectName": "plaques",
+    "ObjectNumber": "53.148",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Edmond de Bruyn, Brussels, prior to 1933; Louis Jakobs von Merlen, Antwerp, 1949, by gift; Victor Jakobs van Merlen, Brussels, 1964, by inheritence; Walters Art Museum, 1976, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:35.13",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15694",
+    "SortNumber": "    53   148                                            ",
+    "Style": "Gothic",
+    "Title": "Reliquary Plaque of an Evangelist"
+}

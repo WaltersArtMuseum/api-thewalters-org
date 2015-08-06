@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Muhammad Mirak ibn Mir Muhammad al-Husayni al-Ustadi",
+            "CreatorID": 7994,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Firdawsi (Persian, died 411-416 AH/AD 1020-1025)",
+            "CreatorID": 7768,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1618,
+    "DateEndYear": 1619,
+    "DateText": "1028 AH/AD 1618-1619",
+    "Description": "This folio from Walters manuscript W.602 contains the 2nd of 2 colophons in Arabic. This one is at the end of part 1 and gives the title of the work, the scribe's name, and the date of copying.",
+    "Dimensions": "H: 14 3/8 x W: 9 1/4 in. (36.5 x 23.5 cm)",
+    "Dynasty": "Qajar Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33795,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.602.334a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.602.334a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.602.334a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.602.334a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.602.334a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] tammat al-mujallad al-\u016bl\u00e1 [sic] min Kit\u0101b Sh\u0101hn\u0101mah /1/ hak\u012bm Firdaws\u012b T\u016bs\u012b tayyaba thar\u0101hu /2/ f\u012b al-shuh\u016br sanat 1027 katabahu al-'abd al-r\u0101j\u012b /3/ Muhammad M\u012brak ibn M\u012br Muhammad al-Husayn\u012b /4/ al-Ust\u0101d\u012b /5/ 'af\u00e1 'anhu /6/ m (= tamma) /7/",
+    "Keywords": "Islamic; Persian; Qajar; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Afghanistan; History; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83515,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.602.334A",
+    "OnView": 0,
+    "Period": "Qajar",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83515",
+    "SortNumber": "W        602  334A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

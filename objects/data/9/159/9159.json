@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jan Boeckhorst (Flemish, 1605-1668) (?)",
+            "CreatorID": 15390,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Style of Anthony van Dyck (Flemish, 1599-1641)",
+            "CreatorID": 6861,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1638,
+    "DateEndYear": 1662,
+    "DateText": "ca. 1650",
+    "Description": "This \"portrait\" is of Mary Magdalene, meditating on a skull.  \r\n\r\nAfter the deaths of Peter Paul Rubens (1640) and Anthony van Dyck (1641), there remained several fine history painters in Antwerp such as Boeckhorst.\r\n",
+    "Dimensions": "25 1/2 x 19 3/8 in. (64.8 x 49.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421717,
+            "GeographyTerm": "Antwerpen",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "004 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421717,
+            "GeographyTerm": "Antwerpen",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "004 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4043,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.372_Fnt_TR_T04III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.372_Fnt_TR_T04III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.372_Fnt_TR_T04III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.372_Fnt_TR_T04III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.372_Fnt_TR_T04III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "woman; female; skull; hair; Mary Magdalen",
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4509,
+        "LocationString": null
+    },
+    "ObjectID": 9159,
+    "ObjectName": "paintings;portraits",
+    "ObjectNumber": "37.372",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.38",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9159",
+    "SortNumber": "    37   372                                            ",
+    "Style": null,
+    "Title": "Mary Magdalene"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "`Uthman ibn Mansur",
+            "CreatorID": 16707,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Kemalpasazade (died 940 AH/AD1533)",
+            "CreatorID": 15706,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1558,
+    "DateEndYear": 1558,
+    "DateText": "966 AH/AD 1558",
+    "Description": "This page from Walters manuscript W.584 bears the bequest (waqf) seal of the Vizier al-Shahid 'Ali Pasha, dated 1130 AH/AD 1717, beneath which is the original shelf mark 191.",
+    "Dimensions": "H: 8 1/4 x W: 5 1/8 in. (21 x 13 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31655,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.584.1a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.584.1a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.584.1a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.584.1a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.584.1a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Ottoman; Turkish; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Manuscript; Turkey; History; Scripture",
+    "Medium": "ink and pigments on laid European paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 82743,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.584.1A",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "'Ali [date and mode of acquisition unknown] [Ex libiris (min kutub) on fol. 1a]; Vizier al-Shahid 'Ali Pasha, 1130 AH/AD 1717 [mode of acquisition unknown] [waqf seal on fol. 1a with the original shelf mark, 191, beneath. Same impression on fols. 1b, 2a, 156b];  Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/82743",
+    "SortNumber": "W        584    1A                                      ",
+    "Style": null,
+    "Title": "Page with Stamp and Shelf Mark"
+}

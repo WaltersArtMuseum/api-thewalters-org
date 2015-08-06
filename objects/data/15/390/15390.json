@@ -1,0 +1,142 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -663,
+    "DateEndYear": -332,
+    "DateText": "663-332 BC",
+    "Description": null,
+    "Dimensions": "H: 1 5/8 x W: 2 1/4 x D: 15/16 in. (4.1 x 5.7 x 2.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31074,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1381_3Qtr_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1381_3Qtr_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1381_3Qtr_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1381_3Qtr_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1381_3Qtr_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31077,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1381_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1381_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1381_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1381_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1381_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 31078,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1381_LftSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1381_LftSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1381_LftSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1381_LftSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1381_LftSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 31075,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1381_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1381_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1381_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1381_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1381_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 31079,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1381_RtSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1381_RtSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1381_RtSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1381_RtSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1381_RtSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 31080,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1381_Top_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1381_Top_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1381_Top_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1381_Top_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1381_Top_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 31076,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1381_Bot_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1381_Bot_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1381_Bot_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1381_Bot_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1381_Bot_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "steatite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1909,
+        "LocationString": null
+    },
+    "ObjectID": 15390,
+    "ObjectName": "containers",
+    "ObjectNumber": "48.1381",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-02-16T14:53:00.53",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15390",
+    "SortNumber": "    48  1381                                            ",
+    "Style": null,
+    "Title": "Cosmetic Container with Round Receptacles and Inscriptions"
+}

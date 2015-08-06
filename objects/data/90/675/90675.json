@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": null,
+    "DateBeginYear": 1200,
+    "DateEndYear": 1225,
+    "DateText": "1200-1225",
+    "Description": null,
+    "Dimensions": "8 9/16 x 6 5/16 in. (21.8 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47242,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.24.5v_Fp_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.24.5v_Fp_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.24.5v_Fp_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.24.5v_Fp_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.24.5v_Fp_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45658,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.24.5v_Fp_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.24.5v_Fp_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.24.5v_Fp_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.24.5v_Fp_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.24.5v_Fp_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "astronomy; planets; eclipses",
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90675,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.24.5V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "[Suffrage to Saint Catherine suggests early female ownership];  Saint-Andr\u00e9 at Rami\u00e9res, late 13th century [additions in calendar confirm use at Carthusian priory of Saint-Andr\u00e9 at Rami\u00e9res (transferred to the Carthusian Order from the Benedictine in 1268)];  Henri-Auguste Br\u00f6lemann, Lyon, last decade of 18th century-first half of 19th [mode of acquisition unknown] [heraldic bookplate with motto 'VIGILENTIA ET PRUDENTIA' and blue-bordered ticket in lower left corner of front pastedown, inscribed 'A 188 / uuc'];  Madame Etienne Mallet, great-granddaughter of H. A. Br\u00f6lemann [date and mode of acquisition unknown];  Madame Etienne Mallet Sale, Sotheby's, London, 5 May 1926, lot 187;  Leo S. Olschki, 1926, by purchase [inv. no. '42510 / c. f'];  Henry Walters, Baltimore, 1927, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90675",
+    "SortNumber": "W         24    5V                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagram of Lunar and Solar Eclipse"
+}

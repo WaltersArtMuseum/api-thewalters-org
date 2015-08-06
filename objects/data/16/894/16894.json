@@ -1,0 +1,88 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Wedgwood and Bentley",
+            "CreatorID": 6870,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "Josiah Wedgwood (English, 1730-1795)",
+            "CreatorID": 4325,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Messrs. M. W. and E. F. Furman, 1974",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1800,
+    "DateText": "late 18th century",
+    "Description": null,
+    "Dimensions": "H: 2 11/16 x W: 2 3/16 in. (6.9 x 5.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4802,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2387_Fnt_BW_H75.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2387_Fnt_BW_H75.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2387_Fnt_BW_H75.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2387_Fnt_BW_H75.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2387_Fnt_BW_H75.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Name] Obverse: Addison ; [Maker's mark] Reverse: Wedgwood & Bentley",
+    "Keywords": null,
+    "Medium": "black basalt ware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 840,
+        "LocationString": null
+    },
+    "ObjectID": 16894,
+    "ObjectName": "plaques; cameos",
+    "ObjectNumber": "48.2387",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "M. William Furman & Edward F. Furman, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, May 1974, by gift.",
+    "PublicAccessDate": "2009-06-09T14:13:29.583",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16894",
+    "SortNumber": "    48  2387                                            ",
+    "Style": "English",
+    "Title": "Cameo of Addison"
+}

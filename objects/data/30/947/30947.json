@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": "This small box is decorated with molded designs of phoenixes and peonies.",
+    "Dimensions": "H: 2 1/16 in. (5.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exposition Universelle",
+            "ExhibBeginDate": "1878-05-05",
+            "ExhibBeginYear": 1878,
+            "ExhibDisplayDate": "May 5, 1878-November 10, 1878",
+            "ExhibEndDate": "1878-11-10",
+            "ExhibEndYear": 1878,
+            "ExhibitionID": 2381,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exposition Universelle. Paris. 1878."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8607,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.405_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.405_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.405_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.405_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.405_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8606,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.405_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.405_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.405_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.405_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.405_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "small oval Banko seal",
+    "Keywords": null,
+    "Medium": "porcelain with enamels over the biscuit",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2062,
+        "LocationString": null
+    },
+    "ObjectID": 30947,
+    "ObjectName": "boxes",
+    "ObjectNumber": "49.405",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30947",
+    "SortNumber": "    49   405                                            ",
+    "Style": "Banko ware, Kochi-style",
+    "Title": "Incense Box"
+}

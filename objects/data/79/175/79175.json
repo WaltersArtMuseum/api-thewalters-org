@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Prosper M\u00e9rim\u00e9e (French, 1803-1870)",
+            "CreatorID": 16439,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the Joseph F. McCrindle Collection, 2009",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": "Sketches of a reclining horse, a horse's hoof, and a woman.",
+    "Dimensions": "H: 5 1/8 x W: 7 1/4 in. (13.02 x 18.42 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18451,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2797_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2797_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2797_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2797_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2797_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 18450,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2797_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2797_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2797_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2797_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2797_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] Ce dessin original execut\u00e9 \u00e0 la plume et representant Madame de Stokoska - Polonaise et amie du Poete est de P. Merimee Il \u2026   de collection de sa niece, Mademoiselle Merimee",
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6372,
+        "LocationString": null
+    },
+    "ObjectID": 79175,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2797",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Joseph F. McCrindle (1923-2008), New York, #A0678; Joseph F. McCrindle Foundation, New York, 2008, by bequest; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-06-15T11:21:40.817",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79175",
+    "SortNumber": "    37  2797                                            ",
+    "Style": null,
+    "Title": "A Horse and a Woman"
+}

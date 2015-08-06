@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1993",
+    "Culture": "Flemish",
+    "DateBeginYear": 1480,
+    "DateEndYear": 1500,
+    "DateText": "1480-1500",
+    "Description": "Lead badges such as this one were purchased by pilgrims as mementos of holy sites they had visited.  Originally there were loops at top and bottom for the pilgrim to sew the badges onto a hat or cloak.  This example represents Saint Adrian.\r\n\r\nSaint Adrian holds in his left hand a sword and a banner, inscribed with his name: S. ADRIANUS.  In his right hand, he holds an upended hammer on an anvil.  These tools refer to the martyrdom of the saint, a 3rd-century Roman officer who, upon conversion to Christianity, was placed upon an anvil and broken by hammer blows.  He stands on a lion, symbol of courage, and of Flanders, where this badge was made to commemorate the relic of Saint Adrian enshrined at Geraardsbergen.",
+    "Dimensions": "H: 3 7/16 x W: 1 5/8 x D: 3/8 in. (8.8 x 4.2 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Treasures of Heaven",
+            "ExhibBeginDate": "2010-10-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "October 17, 2010-October 9, 2011",
+            "ExhibEndDate": "2011-10-09",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures of Heaven. The Cleveland Museum of Art, Cleveland; The Walters Art Museum, Baltimore; The British Museum, London. 2010-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Oost-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421795,
+            "GeographyTerm": "Geraardsbergen",
+            "Latitude": "50 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.783,
+            "Longitude": "003 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33865,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_55.102_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_55.102_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_55.102_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_55.102_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_55.102_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "Cast inscription on scroll reads: S ADRIANUS; [Transcription] S[ANCTUS] ADRIANUS; Saint Adrian.",
+    "Keywords": "saint",
+    "Medium": "lead",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3861,
+        "LocationString": null
+    },
+    "ObjectID": 12202,
+    "ObjectName": "plaques (brooches);badges",
+    "ObjectNumber": "55.102",
+    "OnView": 1,
+    "Period": "Late Medieval",
+    "Provenance": "Edward J. Waddell, Ltd. Gaithersburg, MD; Walters Art Museum, 1993, by purchase.",
+    "PublicAccessDate": "2011-06-21T15:17:18.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12202",
+    "SortNumber": "    55   102                                            ",
+    "Style": "Gothic",
+    "Title": "Pilgrim Badge with Saint Adrian"
+}

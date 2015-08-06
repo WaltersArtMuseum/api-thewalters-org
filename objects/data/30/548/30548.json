@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift from Doris Duke Charitable Foundation's Southeast Asian Art Collection, 2002",
+    "Culture": null,
+    "DateBeginYear": 1850,
+    "DateEndYear": 1870,
+    "DateText": "1850-1870",
+    "Description": null,
+    "Dimensions": "H: 18 1/8 x W: 14 in. (46 x 35.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36326,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.268_ATFnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.268_ATFnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.268_ATFnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.268_ATFnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.268_ATFnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "kan kuman (Royal Children Chapter)",
+    "Keywords": "Vessantara Jataka",
+    "Medium": "pigments on cloth, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 30548,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.268",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Doris Duke Charitable Foundation's Southeast Asian Art Collection [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2011-10-13T10:24:05.333",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 25979,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30548",
+    "SortNumber": "    35   268                                            ",
+    "Style": null,
+    "Title": "Vessantara Jataka, Chapter 8 (The Royal Children)"
+}

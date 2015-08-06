@@ -1,0 +1,83 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Salviati & Co. (Italian) (?)",
+            "CreatorID": 2824,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1875,
+    "DateEndYear": 1925,
+    "DateText": "late 19th-early 20th century",
+    "Description": "Vincenzo Moretti, a glassmaker for Salviati, successfully produced glass bowls in the late 1870s using the ancient technique of mosaic glass. Makers of mosaic glass cut thin slices of from long, thin rods known as canes. The slices were placed side by side on a marble slab and heated in a furnace until they fused together. The soft flat disk of fused glass was then placed over a bowl-shaped form and heated until it slumped into the desired shape.",
+    "Dimensions": "Diam: 6 13/16 in. (17.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking",
+            "ExhibBeginDate": "2007-12-01",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "December 1, 2007- November 9, 2008",
+            "ExhibEndDate": "2008-11-09",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2003,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking. The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9112,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_47.298_Int_DD_13122007.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_47.298_Int_DD_13122007.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_47.298_Int_DD_13122007.jpg",
+                "Small": "http://static.thewalters.org/images/CON_47.298_Int_DD_13122007.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_47.298_Int_DD_13122007.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5886,
+        "LocationString": null
+    },
+    "ObjectID": 26856,
+    "ObjectName": "bowls",
+    "ObjectNumber": "47.298",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-17T11:56:10.89",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26856",
+    "SortNumber": "    47   298                                            ",
+    "Style": null,
+    "Title": "Mosaic Bowl"
+}

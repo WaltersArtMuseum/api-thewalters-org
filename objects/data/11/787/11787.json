@@ -1,0 +1,118 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Sultan 'Ali",
+            "CreatorID": 16856,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic; Persian",
+    "DateBeginYear": 1493,
+    "DateEndYear": 1494,
+    "DateText": "899 AH/AD 1493-1494",
+    "Description": "Walters manuscript W.641 is an illuminated Timurid copy of a selection of poems by Nur al-Din 'Abd al-Rahman Jami (died 898 AH/AD 1492). The colophon indicates that it was copied in Herat (present-day Afghanistan) by Sultan 'Ali in 899 AH/AD 1493-1494 (fol. 70b). The manuscript opens with an illuminated incipit with an inscribed headpiece. The black leather binding, which is original to the manuscript, has a stamped central lobed oval, pendants, and cornerpieces, which are all covered with cloudband motifs.The doublures of red leather with similar design are decorated with filigree work on a blue ground. There is an erased bequest (waqf) seal and registration statement, probably belonging to the Sultan 'Uthman (reigned 1027-1031 AH/AD 1618-1622) (fol. 1a).",
+    "Dimensions": "Folio H: 6 11/16 x W: 4 1/2 in. (17 x 11.5 cm)",
+    "Dynasty": "Timurid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bindings from the Islamic World",
+            "ExhibBeginDate": "1988-05-17",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "May 17, 1988-November 20, 1988",
+            "ExhibEndDate": "1988-11-20",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2730,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bindings from the Islamic World. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23291,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.641.binding_ClsdTop_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Timurid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; New Abbasid Style; Contemporary Binding; Afghanistan; Literature -- Poetry",
+    "Medium": "ink and pigments on thick, well-polished, off-white paper covered with black leather; red doublures with blue, marbled paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2347,
+        "LocationString": null
+    },
+    "ObjectID": 11787,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.641",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Sultan 'Uthman (reigned 1027 AH/AD 1618-1031 AH/AD 1622) (?) [date and mode of acquisition unknown] [erased waqf-seal and waqf-registration statement probably belonging to the Sultan on folio 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 80051,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80129,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82840,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90218,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/11787",
+    "SortNumber": "W        641                                            ",
+    "Style": null,
+    "Title": "Selection of Poems"
+}

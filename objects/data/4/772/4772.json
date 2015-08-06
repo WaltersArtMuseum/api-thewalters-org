@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean Joseph de Vasselot (French, 1840-1904)",
+            "CreatorID": 3641,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 25 1/2 in. (64.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salon, Paris, 1886",
+            "ExhibBeginDate": "1886",
+            "ExhibBeginYear": 1886,
+            "ExhibDisplayDate": "1886",
+            "ExhibEndDate": "1886",
+            "ExhibEndYear": 1886,
+            "ExhibitionID": 2312,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Salon, Paris, 1886. Mus\u00e9e du Louvre, Paris. 1886."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56766,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.681_Fnt_BW_218.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.681_Fnt_BW_218.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.681_Fnt_BW_218.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.681_Fnt_BW_218.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.681_Fnt_BW_218.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] On base: J. J. Rousseau, no. 2; [Signature] On base: A. Vasselot",
+    "Keywords": null,
+    "Medium": "cast bronze with thin varnish patina",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6021,
+        "LocationString": null
+    },
+    "ObjectID": 4772,
+    "ObjectName": "statues",
+    "ObjectNumber": "54.681",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-02-19T01:00:01.457",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4772",
+    "SortNumber": "    54   681                                            ",
+    "Style": null,
+    "Title": "Jean-Jacques Rousseau"
+}

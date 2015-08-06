@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antonio Zanchi (Italian, 1631-1722)",
+            "CreatorID": 5383,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1694,
+    "DateEndYear": 1700,
+    "DateText": "1694-1700",
+    "Description": "For more information on this portrait, please see Federico Zeri's 1976 catalogue no. 370, pp. 488-489.",
+    "Dimensions": "Painted surface H: 28 3/4 x W: 22 9/16 in. (73 x 57.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37002,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.555_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.555_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.555_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.555_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.555_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47883,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.555_XR_1970.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.555_XR_1970.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.555_XR_1970.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.555_XR_1970.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.555_XR_1970.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Number] On stretcher in pencil: G. Lazzarini No. 46; [Transcription] On paper label: Mr. England",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3361,
+        "LocationString": null
+    },
+    "ObjectID": 37598,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.555",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Mr. England (?) [date and mode of acquisition unknown] [name on label]; William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37598",
+    "SortNumber": "    37   555                                            ",
+    "Style": null,
+    "Title": "Portrait of Doge Silvestro Valier"
+}

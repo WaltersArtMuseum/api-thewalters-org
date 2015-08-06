@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "H: 1 1/16 in. (2.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10404,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.333_Fnt_BW_2736.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.333_Fnt_BW_2736.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.333_Fnt_BW_2736.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.333_Fnt_BW_2736.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.333_Fnt_BW_2736.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta with white slip and pink paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1688,
+        "LocationString": null
+    },
+    "ObjectID": 7021,
+    "ObjectName": "figurines; fragments",
+    "ObjectNumber": "48.333",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7021",
+    "SortNumber": "    48   333                                            ",
+    "Style": null,
+    "Title": "Head of a Woman with Cap"
+}

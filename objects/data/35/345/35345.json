@@ -1,0 +1,100 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After a model by Simon-Louis Boizot (French, 1743-1809)",
+            "CreatorID": 3855,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1830,
+    "DateEndYear": 1848,
+    "DateText": "1830-1848 (?)",
+    "Description": "This piece was modeled by Boizot before being put into production at the S\u00e8vres factory. It perhaps dates from the time of the July Monarchy (between 1830 and 1848). A similar piece can be found in the Mus\u00e9e de l'Arm\u00e9e in Paris [inv. Db 216].",
+    "Dimensions": "H: 7 15/16 in. (20.16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47302,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1001_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1001_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1001_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1001_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1001_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46404,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1001_48.1002_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1001_48.1002_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1001_48.1002_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1001_48.1002_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1001_48.1002_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Napoleon",
+    "Medium": "porcelain socles with platinum and gilding on a Swedish, brown porphry base",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2138,
+        "LocationString": null
+    },
+    "ObjectID": 35345,
+    "ObjectName": "portrait busts",
+    "ObjectNumber": "48.1001",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35345",
+    "SortNumber": "    48  1001                                            ",
+    "Style": null,
+    "Title": "Portrait of the Young Napoleon"
+}

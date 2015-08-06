@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jules-Ferdinand Jacquemart (French, 1837-1880)",
+            "CreatorID": 5504,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1881",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "11 7/16 x 7 13/16 in. (29 x 19.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "Premier Exposition, Soci\u00e9t\u00e9 d'Aquarellistes Fran\u00e7ais",
+            "ExhibBeginDate": "1879",
+            "ExhibBeginYear": 1879,
+            "ExhibDisplayDate": "1879",
+            "ExhibEndDate": "1879",
+            "ExhibEndYear": 1879,
+            "ExhibitionID": 2453,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Premier Exposition, Soci\u00e9t\u00e9 d'Aquarellistes Fran\u00e7ais. Societ\u00e9 d'Aquarellistes Fran\u00e7ais, Paris. 1879."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 421,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2423_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2423_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2423_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2423_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2423_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"J.J.\" in ink, lower left; \"Vente Jacquemart\", pink stamp, lower right; \"41\" in graphite in center of stamp",
+    "Keywords": "house; plant; landscape; architectural; landscape",
+    "Medium": "iron gall ink and pen with corrections in white gouache on beige, medium-weight, slightly textured, wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2254,
+        "LocationString": null
+    },
+    "ObjectID": 20506,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2423",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Jules Jacquemart Sale, H\u00f4tel Drouot, Paris, April 4-8, 1881, lot 32; William T. Walters, Baltimore, 1881, by purchase [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T14:19:07.287",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20506",
+    "SortNumber": "    37  2423                                            ",
+    "Style": null,
+    "Title": "Les Platanes en Hiver, Route de Nice"
+}

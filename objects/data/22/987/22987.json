@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1788,
+    "DateEndYear": 1812,
+    "DateText": "ca. 1800",
+    "Description": "This is an example of Hirado ware.",
+    "Dimensions": "1 5/8 x 2 1/16 in. (4.2 x 5.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20968,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.344_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.344_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.344_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.344_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.344_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 20969,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.344_TopBot_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.344_TopBot_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.344_TopBot_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.344_TopBot_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.344_TopBot_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue and overglaze iron modeled in the round",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1715,
+        "LocationString": null
+    },
+    "ObjectID": 22987,
+    "ObjectName": "incense container;kogo",
+    "ObjectNumber": "49.344",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.34",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22987",
+    "SortNumber": "    49   344                                            ",
+    "Style": "Hirado ware",
+    "Title": "Incense Container (\"Kogo\") in the Form of a Mouse"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Cypriote",
+            "CreatorID": 6485,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1973",
+    "Culture": null,
+    "DateBeginYear": -800,
+    "DateEndYear": -701,
+    "DateText": "8th century BC",
+    "Description": null,
+    "Dimensions": "H: 10 5/8 in. (27 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1486285,
+            "GeographyTerm": "K\u00edpros",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "033 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 33.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62582,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.2335_Fnt_BW_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.2335_Fnt_BW_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.2335_Fnt_BW_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.2335_Fnt_BW_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.2335_Fnt_BW_H73.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1670,
+        "LocationString": null
+    },
+    "ObjectID": 11274,
+    "ObjectName": "amphorae; vases",
+    "ObjectNumber": "48.2335",
+    "OnView": 0,
+    "Period": "Bichrome IV",
+    "Provenance": "William H. Smith, Alexandria, Virginia [date and mode of acquisition unknown]; Walters Art Museum, 1973, by purchase.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11274",
+    "SortNumber": "    48  2335                                            ",
+    "Style": null,
+    "Title": "Amphora with Geometric Design"
+}

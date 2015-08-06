@@ -1,0 +1,136 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Sculptor"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1650,
+    "DateText": "1600-1650",
+    "Description": "This figure is from a \"family\" of three figures thought to have been made for a physician so that his patients could point to what hurt. In the 1600s, people did not take their clothes off for a doctor.",
+    "Dimensions": "12 3/16 in. (31 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Schwaben\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450864,
+            "GeographyTerm": "Augsburg",
+            "Latitude": "48 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.35,
+            "Longitude": "010 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41949,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.318_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.318_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.318_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.318_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.318_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 5603,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.318_Fnt_BW_H69.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.318_Fnt_BW_H69.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.318_Fnt_BW_H69.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.318_Fnt_BW_H69.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.318_Fnt_BW_H69.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 41947,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.318_3QtrRt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.318_3QtrRt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.318_3QtrRt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.318_3QtrRt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.318_3QtrRt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 41948,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.318_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.318_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.318_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.318_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.318_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 41946,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.318_3QtrLft_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.318_3QtrLft_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.318_3QtrLft_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.318_3QtrLft_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.318_3QtrLft_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Chamber of Wonders",
+        "LocationID": 4426,
+        "LocationString": null
+    },
+    "ObjectID": 16386,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.318",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "SanGiorgi, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:00.033",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 38517,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/16386",
+    "SortNumber": "    54   318                                            ",
+    "Style": null,
+    "Title": "Anatomical Figure of a Man"
+}

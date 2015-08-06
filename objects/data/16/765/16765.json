@@ -1,0 +1,118 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Yoshie Shinomoto, 1992",
+    "Culture": null,
+    "DateBeginYear": 1890,
+    "DateEndYear": 1910,
+    "DateText": "1890-1910",
+    "Description": "At the top of the painting is the Buddha and his two disciples Moggallana and Sariputta. The lower section of the banners depicts Vessantara and his family leaving the palace and attendants paying respect to them.",
+    "Dimensions": "H: 117 11/16 x W: 36 1/4 in. (299 x 92 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46168,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_35.185_TopBot_DD_2013_merged.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_35.185_TopBot_DD_2013_merged.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_35.185_TopBot_DD_2013_merged.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_35.185_TopBot_DD_2013_merged.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_35.185_TopBot_DD_2013_merged.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45197,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.185_Top_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.185_Top_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.185_Top_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.185_Top_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.185_Top_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 45195,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.185_Bot_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.185_Bot_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.185_Bot_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.185_Bot_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.185_Bot_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 45198,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.185_TopCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.185_TopCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.185_TopCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.185_TopCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.185_TopCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 10
+        },
+        {
+            "ID": 45196,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.185_BotCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.185_BotCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.185_BotCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.185_BotCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.185_BotCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 11
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Buddha With Disciples (Standing Buddha)\r\nVessantara Jataka",
+    "Medium": "paint on cotton",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2979,
+        "LocationString": null
+    },
+    "ObjectID": 16765,
+    "ObjectName": "banners; paintings",
+    "ObjectNumber": "35.185",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Yoshie Shinomoto, Monkton, Maryland [date and mode of acquisition unknown]; Walters Art Museum, 1992, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16765",
+    "SortNumber": "    35   185                                            ",
+    "Style": null,
+    "Title": "The Buddha with his disciples Sariputta and Moggalana"
+}

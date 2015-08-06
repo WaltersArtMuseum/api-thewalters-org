@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1897",
+    "Culture": "Islamic",
+    "DateBeginYear": 1107,
+    "DateEndYear": 1200,
+    "DateText": "6th century AH/AD 12th century",
+    "Description": null,
+    "Dimensions": "H: 13 9/16 x W: 8 1/16 in. (34.5 x 20.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28905,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.557.104b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.557.104b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.557.104b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.557.104b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.557.104b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Book; Codex; Illumination; Illustration; Manuscript; New Abbasid Style; Iran",
+    "Medium": "ink and pigments on laid paper with chain lines that appear to be grouped in twos",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 1766,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.557.104B",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sultan 'Uthman Khan ibn Mustaf\u00e1 Khan (reigned 1168 AH/AD 1754-1171 AH/AD 1757) [date and mode of acquisition unknown] [Erased seal of Sultan 'Uthman Khan ibn Mustaf\u00e1 Khan and a waqf inscription by Ibrahim Hanif and his seal (fol. 1a)]; Henry Walters, Baltimore, 1897 [mode of acquisition unknown] [Inscription in pencil: H(enry) W(alters) May 1897 direct from Constantinople (front flyleaf ia)]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1766",
+    "SortNumber": "W        557  104B                                      ",
+    "Style": null,
+    "Title": "Leaf from Qur'an"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Byzantine",
+    "DateBeginYear": 400,
+    "DateEndYear": 599,
+    "DateText": "5th-6th century",
+    "Description": "Small weights like this one were used with a scale for weighing light, valuable objects like coins and jewelry.  To fight widespread corruption, bronze weights were controlled by the government, with the value engraved directly onto the square.",
+    "Dimensions": "H: 9/16 in. (1.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39162,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.56_Fnt_BW_5919.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.56_Fnt_BW_5919.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.56_Fnt_BW_5919.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.56_Fnt_BW_5919.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.56_Fnt_BW_5919.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze inlaid with silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3810,
+        "LocationString": null
+    },
+    "ObjectID": 33103,
+    "ObjectName": "weights",
+    "ObjectNumber": "54.56",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "Maurice Nahman, Cairo, by purchase;  Henry Walters, Baltimore, 1930, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33103",
+    "SortNumber": "    54    56                                            ",
+    "Style": null,
+    "Title": "Flat Weight"
+}

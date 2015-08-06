@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nazca",
+            "CreatorID": 31447,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Nasca",
+    "DateBeginYear": 1,
+    "DateEndYear": 700,
+    "DateText": "AD 1-700",
+    "Description": null,
+    "Dimensions": "H: 4 1/8 x W: 6 1/2 in. (10.5 x 16.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19201,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2855_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2855_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2855_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2855_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2855_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5580,
+        "LocationString": null
+    },
+    "ObjectID": 79415,
+    "ObjectName": "bowls",
+    "ObjectNumber": "48.2855",
+    "OnView": 0,
+    "Period": "Early Intermediate",
+    "Provenance": "Jack Lenor Larsen, New York [date and mode of acquisition unknown]; Private collection, 1989 [mode of acquisition unknown]; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-28T09:17:53.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79415",
+    "SortNumber": "    48  2855                                            ",
+    "Style": "Proto-Nazca",
+    "Title": "Bowl with Janus Heads"
+}

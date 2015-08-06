@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 816,
+    "DateEndYear": 900,
+    "DateText": "3rd century AH/AD 9th century",
+    "Description": "Walters manuscript W.553, a horizontal-format manuscript on parchment, is an illuminated fragment of the Qur'an containing portions of chapters 4 (Surat al-nisa'), 6 (Surat al-an'am), 7 (Surat al-a'raf), and 10 (Surat Yunus). The fragment probably dates to the 3rd century AH/AD 9th. The text is written in an Early Abbasid (Kufic) script in dark brown ink and vocalized with red and green dots. Verse markers in the shape of a stylized letter ha' and rosettes indicate groups of 5 and 10 verses. The text is framed by later red, blue, and gold framing lines and a polychrome and gold floral border. The black blind-tooled leather binding with central lobed, pointed oval and pendants is attributable to the 13th century AH/AD 19th.",
+    "Dimensions": "Folio H: 6 5/16 x W: 9 7/16 in. (16 x 24 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        },
+        {
+            "ExhTitle": "Manuscript Rotation: 11/2014-2/2015",
+            "ExhibBeginDate": "2014-11-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "November 26, 2014 - February 22, 2015",
+            "ExhibEndDate": "2015-02-22",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3284,
+            "LocationID": 3929,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Rotation: 11/2014-2/2015. 2014-2015."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544950,
+            "GeographyTerm": "Middle East",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23284,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.553.binding_ClsdTop_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.553.binding_ClsdTop_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.553.binding_ClsdTop_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.553.binding_ClsdTop_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.553.binding_ClsdTop_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Abbasid; Arabic; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Koran; Manuscript; Ornament; Qur`an; Scripture; Central Arab Lands (Near East); Kufic;  Early Abbasid script",
+    "Medium": "ink and pigments on parchment covered in black leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Art",
+        "LocationID": 3924,
+        "LocationString": null
+    },
+    "ObjectID": 3124,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.553",
+    "OnView": 1,
+    "Period": "Abbasid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 27441,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36410,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80027,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80121,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/3124",
+    "SortNumber": "W        553                                            ",
+    "Style": null,
+    "Title": "Qur'an"
+}

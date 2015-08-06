@@ -1,0 +1,119 @@
+{
+    "Classification": "Coins & Medals",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -335,
+    "DateEndYear": -330,
+    "DateText": "335-330 BC",
+    "Description": null,
+    "Dimensions": "13/16 in. (2.06 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bedazzled: 5,000 Years of Jewelry from the Walters Art Museum",
+            "ExhibBeginDate": "2006-09-16",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "September 16, 2006-January 4, 2009",
+            "ExhibEndDate": "2009-01-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1954,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bedazzled: 5,000 Years of Jewelry from the Walters Art Museum. Frist Center for the Visual Arts, Nashville; The John and Mable Ringling Museum of Art, Sarasota; The Walters Art Museum, Baltimore. 2006-2009."
+        },
+        {
+            "ExhTitle": "Things With Wings: Mythological Figures in Ancient Greek Art",
+            "ExhibBeginDate": "2009-05-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "May 15, 2009-July 19, 2009",
+            "ExhibEndDate": "2009-07-19",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Things With Wings: Mythological Figures in Ancient Greek Art. Ward Museum, Salisbury. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8926,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_59.519_Obv_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_59.519_Obv_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_59.519_Obv_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_59.519_Obv_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_59.519_Obv_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8927,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_59.519_Rev_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_59.519_Rev_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_59.519_Rev_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_59.519_Rev_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_59.519_Rev_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 54801,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_59.519_Obv_BW_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_59.519_Obv_BW_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_59.519_Obv_BW_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_59.519_Obv_BW_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_59.519_Obv_BW_C81.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4586,
+        "LocationString": null
+    },
+    "ObjectID": 22103,
+    "ObjectName": "coins",
+    "ObjectNumber": "59.519",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:41.283",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22103",
+    "SortNumber": "    59   519                                            ",
+    "Style": null,
+    "Title": "Athena"
+}

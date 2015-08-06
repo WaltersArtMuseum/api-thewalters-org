@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "George Inness (American, 1825-1894)",
+            "CreatorID": 5999,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. James M. Myers, 2005",
+    "Culture": null,
+    "DateBeginYear": 1867,
+    "DateEndYear": 1880,
+    "DateText": "1867/1880",
+    "Description": "\"Visionary Landscape,\" is a fragment of Inness' monumental painting \"The New Jerusalem.\" It was renamed after the artist re-worked the canvas following a serious accident that occurred in Madison Square Garden on April 20, 1880. The original large painting had been lent to an exhibition in the newly built entertainment center, only to be damaged severely when a wall and tower fell in on the gallery killing three people. Recent scholarship has shown that the original painting, thought to have been lost for over 120 years, appears to have been divided by the artist into smaller pieces, which he repaired and repainted removing the religious references. The largest surviving piece of the canvas is now titled \"The Valley of the Olives\" and is also owned by the Walters (see WAM 37.112).",
+    "Dimensions": "H: 26 1/4 x W: 16 in. (66.68 x 40.64 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jerusalem Saved! Inness and the Spiritual Landscape",
+            "ExhibBeginDate": "2011-08-25",
+            "ExhibBeginYear": 2011,
+            "ExhibDisplayDate": "August 25, 2011-May 13, 2012",
+            "ExhibEndDate": "2012-05-13",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 2281,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Jerusalem Saved! Inness and the Spiritual Landscape. Krannert Art Museum, Champaign. 2011-2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51935,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2775_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2775_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2775_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2775_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2775_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 51936,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2775_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2775_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2775_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2775_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2775_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 51934,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2775_BackCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2775_BackCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2775_BackCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2775_BackCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2775_BackCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3313,
+        "LocationString": null
+    },
+    "ObjectID": 33174,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2775",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Alan A. Gruskin. Sotheby's Sale, New York, December 3 1992, lot 47; Mr. and Mrs. James M. Myers, December 3, 1992; given to Walters Art Museum, 2005.",
+    "PublicAccessDate": "2014-03-21T01:00:02.497",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33174",
+    "SortNumber": "    37  2775                                            ",
+    "Style": null,
+    "Title": "Visionary Landscape"
+}

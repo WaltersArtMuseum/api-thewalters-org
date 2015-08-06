@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1896",
+    "Culture": null,
+    "DateBeginYear": 1763,
+    "DateEndYear": 1812,
+    "DateText": "ca. 1775-1800",
+    "Description": "This is an example of Hirado ware.",
+    "Dimensions": "3 1/2 in. (8.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Hirado Porcelain",
+            "ExhibBeginDate": "1980-11-06",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "November 6, 1980-January 30, 1981",
+            "ExhibEndDate": "1981-01-30",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2675,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Hirado Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20956,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1747_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1747_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1747_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1747_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1747_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 20957,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1747_Side_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1747_Side_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1747_Side_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1747_Side_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1747_Side_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pierced porcelain with transparent glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1715,
+        "LocationString": null
+    },
+    "ObjectID": 33393,
+    "ObjectName": "incense burner;koro",
+    "ObjectNumber": "49.1747",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Tokugawa family [mon inside medallions];  William T. / Henry Walters Collection, Baltimore, prior to 1896 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.857",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33393",
+    "SortNumber": "    49  1747                                            ",
+    "Style": "Hirado ware",
+    "Title": "Incense Burner (\"Koro\") with Tokugawa Family Crest (\"Aoi mon\")"
+}

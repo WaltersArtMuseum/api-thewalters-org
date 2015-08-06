@@ -1,0 +1,97 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Meissen Porcelain Manufactory (German, active 1710-present)",
+            "CreatorID": 3100,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "Johann Joachim K\u00e4ndler (German, 1706-1775)",
+            "CreatorID": 2136,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": 1733,
+    "DateEndYear": 1740,
+    "DateText": "1733-1740",
+    "Description": "\"The Allegory of Smell\" is originally from a series of statuettes representing the personification of the five senses.\r\n\r\nThese statuettes exhibit the masterly sculptural quality of Meissen porcelain between 1733 and 1775 when J. J. K\u00e4ndler served as a chief modeler.",
+    "Dimensions": "11 5/16 in. (28.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11319,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.931_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.931_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.931_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.931_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.931_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gilt on hard-paste porcelain with glaze and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 4302,
+        "LocationString": null
+    },
+    "ObjectID": 25756,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "48.931",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "King Collection; Jacques Seligmann, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:24:49.687",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 6559,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 10875,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/25756",
+    "SortNumber": "    48   931                                            ",
+    "Style": null,
+    "Title": "Allegory of Smell"
+}

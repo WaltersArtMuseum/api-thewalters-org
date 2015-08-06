@@ -1,0 +1,155 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": "Egyptian",
+    "DateBeginYear": -747,
+    "DateEndYear": -664,
+    "DateText": "ca. 747-664 BCE",
+    "Description": "Amun was one of the most important deities in ancient Egypt. He was worshiped at Thebes (in southern Egypt) from the beginning of the Middle Kingdom (2046 BC). The Egyptians considered him to be \"King of the Gods\" and divine father of the pharaoh. He was also worshiped in Nubia and was the principal god of the Kushite empire (in present-day Sudan).\r\n\r\nThe style of the figure clarifies that it was made when the Kushites ruled both Egypt and Nubia. The god wears his characteristic feather-crown combined with the solar disk of the sun-god Re. The attributes he would originally have held were probably the symbols for prosperity (\"was\") and life (\"ankh\").\r\n",
+    "Dimensions": "H: 19 1/8 \u00d7 W: 4 1/8 \u00d7 D: 5 5/16 in. (48.5 \u00d7 10.5 \u00d7 13.5 cm); H with Base: 21 1/16 \u00d7 W: 4 1/8 \u00d7 D: 7 1/8 in. (53.5 \u00d7 10.5 \u00d7 18.1 cm); Base H: 2 1/16 \u00d7 W:4 1/8 \u00d7 D: 7 1/8 in. (5.3 \u00d7 10.4 \u00d7 18.1 cm)\r\n",
+    "Dynasty": "25th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Egypt\u2019s Mysterious Book of the Faiyum",
+            "ExhibBeginDate": "2013-10-06",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 06, 2013-January 05, 2015",
+            "ExhibEndDate": "2014-01-05",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3193,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "Egypt\u2019s Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2014."
+        },
+        {
+            "ExhTitle": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth)",
+            "ExhibBeginDate": "2014-09-12",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "Friday, September 12, 2014 - Sunday, November 01, 2015",
+            "ExhibEndDate": "2015-11-01",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3240,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth). Roemer- und Pelizaeus- Museum, Hildesheim; Kunsthalle Leoben, Leoben. 2014-2015."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Qina\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544582,
+            "GeographyTerm": "Al Karnak",
+            "Latitude": "25 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 25.716,
+            "Longitude": "032 39",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.65
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8739,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.413_3QtrRt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.413_3QtrRt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.413_3QtrRt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.413_3QtrRt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.413_3QtrRt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8741,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.413_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.413_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.413_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.413_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.413_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8738,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.413_3QtrLft_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.413_3QtrLft_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.413_3QtrLft_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.413_3QtrLft_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.413_3QtrLft_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 8742,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.413_Lft_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.413_Lft_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.413_Lft_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.413_Lft_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.413_Lft_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 8740,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.413_Back_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.413_Back_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.413_Back_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.413_Back_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.413_Back_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 8743,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.413_Rt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.413_Rt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.413_Rt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.413_Rt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.413_Rt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze alloy, remains of gilding and glass inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Out On Exhibition Loan",
+        "LocationID": 3499,
+        "LocationString": null
+    },
+    "ObjectID": 32904,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.413",
+    "OnView": 1,
+    "Period": "Late Period, 25th dynasty",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.393",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32904",
+    "SortNumber": "    54   413                                            ",
+    "Style": "Kushitic",
+    "Title": "Statue of Amun-Re"
+}

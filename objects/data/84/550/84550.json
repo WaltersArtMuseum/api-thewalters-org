@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles Meunier (French, 1865 - 1940)",
+            "CreatorID": 20957,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Gift of Ms. Jane Ridder, 1974",
+    "Culture": null,
+    "DateBeginYear": 1886,
+    "DateEndYear": 1886,
+    "DateText": "1886",
+    "Description": "This work was woven in silk, using the Jacquard loom method of punch cards. Approximately 106,000 cards per leaf were used in this highly complex application. This extremely rare volume, which is the only successful example of an entirely woven book, is often regarded as the first book produced by a computer, since Jacquard's process is viewed as an early precursor to the computer. The printed silk was mounted on paper pages and then bound.",
+    "Dimensions": "H: 6 11/16 \u00d7 W: 5 5/8 \u00d7 D: 1 1/16 in. (16.99 \u00d7 14.29 \u00d7 2.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bookbindings from the Gilded Age",
+            "ExhibBeginDate": "2013-10-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 26, 2013-May 18, 2014",
+            "ExhibEndDate": "2014-05-18",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3254,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Bookbindings from the Gilded Age. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Rh\u00f4ne-Alpes\\departments\\Rh\u00f4ne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1430803,
+            "GeographyTerm": "Lyon",
+            "Latitude": "45 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.766,
+            "Longitude": "004 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52721,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.123_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.123_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.123_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.123_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.123_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52720,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.123_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.123_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.123_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.123_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.123_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52719,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.123_LowerCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.123_LowerCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.123_LowerCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.123_LowerCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.123_LowerCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "woven silk pages bound between boards covered with navy morocco goatskin, gold, silver, metal clasps, and embossed gilt fore edges",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5417,
+        "LocationString": null
+    },
+    "ObjectID": 84550,
+    "ObjectName": "rare books; books",
+    "ObjectNumber": "92.123",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": null,
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84550",
+    "SortNumber": "    92   123                                            ",
+    "Style": null,
+    "Title": "Livre de Pri\u00e8res. Tiss\u00e9 d'apr\u00e8s les enluminures des manuscrits du XIVe au XVIe si\u00e8cle"
+}

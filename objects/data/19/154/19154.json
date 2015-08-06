@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1238,
+    "DateEndYear": 1262,
+    "DateText": "ca. 1250-1350",
+    "Description": "This Persian decorative wall tile is included here to show the Islamic origins of the lustered metallic sheen and intricate, stylized floral and animal motifs in Hispano-Moresque pottery.",
+    "Dimensions": "4 13/16 in. (12.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Markazi\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507904,
+            "GeographyTerm": "Arak",
+            "Latitude": "34 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.83,
+            "Longitude": "049 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 49.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6787,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1281_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1281_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1281_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1281_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1281_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35097,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1281_Fnt_NG_246.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1281_Fnt_NG_246.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1281_Fnt_NG_246.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1281_Fnt_NG_246.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1281_Fnt_NG_246.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "fritware with tin glaze and luster decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4785,
+        "LocationString": null
+    },
+    "ObjectID": 19154,
+    "ObjectName": "tiles",
+    "ObjectNumber": "48.1281",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.13",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19154",
+    "SortNumber": "    48  1281                                            ",
+    "Style": null,
+    "Title": "Islamic Wall Tile"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1926",
+    "Culture": null,
+    "DateBeginYear": -600,
+    "DateEndYear": 200,
+    "DateText": "6th century BC- AD 2nd century",
+    "Description": null,
+    "Dimensions": "H: 3 9/16 x W: 1 3/8 x D: 7/8 in. (9 x 3.6 x 2.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62596,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.424_Fnt_BW_H44.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.424_Fnt_BW_H44.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.424_Fnt_BW_H44.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.424_Fnt_BW_H44.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.424_Fnt_BW_H44.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1492,
+        "LocationString": null
+    },
+    "ObjectID": 13709,
+    "ObjectName": "figurines",
+    "ObjectNumber": "48.424",
+    "OnView": 0,
+    "Period": "Late Period-Greco-Roman",
+    "Provenance": "Sambon [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1926 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13709",
+    "SortNumber": "    48   424                                            ",
+    "Style": null,
+    "Title": "Man Carrying Lamb"
+}

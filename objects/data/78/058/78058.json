@@ -1,0 +1,155 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase",
+    "Culture": null,
+    "DateBeginYear": 1507,
+    "DateEndYear": 1507,
+    "DateText": "1507",
+    "Description": null,
+    "Dimensions": "H: 16 5/8 x W: 11 11/16 in. (42.3 x 29.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heavenly Bodies",
+            "ExhibBeginDate": "1988-07-26",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "July 26, 1988-October 9, 1988",
+            "ExhibEndDate": "1988-10-09",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heavenly Bodies. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "The Bible Before Luther",
+            "ExhibBeginDate": "1992-10-06",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "October 6, 1992-January 10, 1993",
+            "ExhibEndDate": "1993-01-10",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 88,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Bible Before Luther. The Walters Art Gallery, Baltimore. 1992-1993."
+        },
+        {
+            "ExhTitle": "Manuscript Sleuthing: Discoveries of a Curator",
+            "ExhibBeginDate": "1995-02-15",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 15, 1995-May 21, 1995",
+            "ExhibEndDate": "1995-05-21",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 174,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Sleuthing: Discoveries of a Curator. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1419772,
+            "GeographyTerm": "\u00d6sterreich",
+            "Latitude": "47 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.333,
+            "Longitude": "013 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Cesk\u00e1 Republika\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448473,
+            "GeographyTerm": "Cechy",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40396,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.805.6V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.805.6V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.805.6V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.805.6V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.805.6V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 40395,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.805.6V_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.805.6V_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.805.6V_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.805.6V_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.805.6V_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11307,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.805.6V_OpnRev_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.805.6V_OpnRev_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.805.6V_OpnRev_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.805.6V_OpnRev_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.805.6V_OpnRev_TR.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Colophon; Illumination; Manuscript; Miniature; Walters Art Museum; Gothic; Original binding; Binding; Historiated initial; Scripture",
+    "Medium": "ink and pigments on cream-colored parchment of medium thickness",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78058,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.805.6V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Made for monastic use, probably Cistercian or Carthusian, in Bohemia (?) finished on February 2, 1507; Unknown monastic owner, 18th century [\"Nr. 78\" written on front pastedown]; Sale, Sotheby's, London, November 9, 1931, [lot 216, to Marks (?)]; E. Dawson, Los Angeles [date and mode of acquisition unknown]; Otto Ege, Cleveland, 1932, by purchase; Sale, Sotheby's London, December 11, 1984, no. 54; Walters Art Museum, 1984, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78058",
+    "SortNumber": "W        805    6V                                      ",
+    "Style": null,
+    "Title": "Creation of the world and Eve"
+}

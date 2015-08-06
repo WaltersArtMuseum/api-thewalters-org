@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jan van Goyen (Dutch, 1596-1656)",
+            "CreatorID": 3797,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1643,
+    "DateEndYear": 1643,
+    "DateText": "1643",
+    "Description": "Van Goyen traveled extensively to find scenic vistas for his landscapes. This one shows the remnants of the medieval castle and a section of the walls of the city Nijmegen, on the Waal River in the eastern Netherlands. Against this imposing historic backdrop, the artist introduced a detail from rural life: a ferryboat carrying travelers and farmers with their cows to market.\r\n\r\nThe beauty of van Goyen's landscapes lies in his handling of simple visual effects, here the reflections of the sky and foliage in the water, versus the unreflective surfaces of the buildings and earth. The overcast sky is typically Dutch; the resulting cool light brings out his orchestration of tonal distinctions.\r\n",
+    "Dimensions": "16 1/4 x 23 1/8 in. (41.3 x 58.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "World of Wonder",
+            "ExhibBeginDate": "1971-11-08",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "November 8, 1971-January 31, 1972",
+            "ExhibEndDate": "1972-01-31",
+            "ExhibEndYear": 1972,
+            "ExhibitionID": 1994,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "World of Wonder. The Walters Art Gallery, Baltimore. 1971-1972."
+        },
+        {
+            "ExhTitle": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters",
+            "ExhibBeginDate": "1981-11-01",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "November 1, 1981-February 1, 1982",
+            "ExhibEndDate": "1982-02-01",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2517,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters. The Walters Art Gallery, Baltimore. 1981-1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Zuid-Holland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473609,
+            "GeographyTerm": "Leiden",
+            "Latitude": "52 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.166,
+            "Longitude": "004 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Zuid-Holland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473610,
+            "GeographyTerm": "s Gravenhage",
+            "Latitude": "52 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.83,
+            "Longitude": "004 16",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.266
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Gelderland\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1473229,
+            "GeographyTerm": "Nijmegen",
+            "Latitude": "51 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.833,
+            "Longitude": "005 52",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.866
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41401,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.375_Fnt_TR_T86II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.375_Fnt_TR_T86II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.375_Fnt_TR_T86II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.375_Fnt_TR_T86II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.375_Fnt_TR_T86II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "VG",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: 17th-Century Dutch Cabinet Rooms",
+        "LocationID": 4388,
+        "LocationString": null
+    },
+    "ObjectID": 35625,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.375",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome, no. 659; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.38",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35625",
+    "SortNumber": "    37   375                                            ",
+    "Style": null,
+    "Title": "The Medieval Fortress at Nijmegen"
+}

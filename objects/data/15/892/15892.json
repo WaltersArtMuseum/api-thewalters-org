@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Niccolo da Bologna",
+            "CreatorID": 8497,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1350,
+    "DateEndYear": 1400,
+    "DateText": "2nd half 14th century",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "An Exhibition of Italian Panels and Manuscripts from the Thirteenth and Fourteenth Centuries in Honor of Richard Offner",
+            "ExhibBeginDate": "1965-04-09",
+            "ExhibBeginYear": 1965,
+            "ExhibDisplayDate": "April 9, 1965- June 6, 1965",
+            "ExhibEndDate": "1965-06-06",
+            "ExhibEndYear": 1965,
+            "ExhibitionID": 135,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "An Exhibition of Italian Panels and Manuscripts from the Thirteenth and Fourteenth Centuries in Honor of Richard Offner. Wadsworth Atheneum Museum of Art, Hartford. 1965."
+        },
+        {
+            "ExhTitle": "Pages from Medieval and Renaissance Illuminated Manuscripts from the 10th to the Early 15th Centuries",
+            "ExhibBeginDate": "1963-04-24",
+            "ExhibBeginYear": 1963,
+            "ExhibDisplayDate": "April 24, 1963-June 8, 1963",
+            "ExhibEndDate": "1963-06-08",
+            "ExhibEndYear": 1963,
+            "ExhibitionID": 2433,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Pages from Medieval and Renaissance Illuminated Manuscripts from the 10th to the Early 15th Centuries. University Art Gallery, University of California Berkeley, Berkeley. 1963."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3011,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.752B_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.752B_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.752B_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.752B_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.752B_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6432,
+        "LocationString": null
+    },
+    "ObjectID": 15892,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.752.B",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Olschki;  Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15892",
+    "SortNumber": "W        752B                                           ",
+    "Style": "Gothic",
+    "Title": "Initial D with Pentecost"
+}

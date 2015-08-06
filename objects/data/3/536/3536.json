@@ -1,0 +1,134 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dioscorides Pedanius, of Anazarbos",
+            "CreatorID": 7876,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Yuhana bin al-Batriq",
+            "CreatorID": 7877,
+            "Gender": null,
+            "Role": "Translator"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1952",
+    "Culture": "Islamic",
+    "DateBeginYear": 1201,
+    "DateEndYear": 1300,
+    "DateText": "7th century AH/AD 13th century",
+    "Description": "Walters W.750 consists of 4 consecutive leaves (numbered fols. 237-241) from an illustrated manuscript of the Arabic version of De materia medica by Dioscorides, copied in the 7th century AH/AD 13th in Iran. Pedanius Dioscorides wrote his treatise on medicinal plants in the AD 1st century. It was translated into Syriac and then Arabic in Baghdad in the 3rd century AH/AD 9th. De materia medica by Dioscorides was one of the earliest scientific manuscripts to be translated from Greek to Arabic. The Walters' leaves illustrate 5 plants: wild cucumber, mezereon (spurge-olive), and three varieties of thymelaea (spurge-laurel).",
+    "Dimensions": "H: 11 5/8 x W: 7 7/8 in. (29.5 x 20 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42581,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.750D.B_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.750D.B_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.750D.B_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.750D.B_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.750D.B_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Illustration; Manuscript; Iran; Science -- Medicine",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 3536,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.750",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Eustache de Lorey, France [date and mode of acquisition unknown]; Walters Art Museum, 1952, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 6532,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6758,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10757,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37018,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84296,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84297,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84298,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84299,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/3536",
+    "SortNumber": "W        750                                            ",
+    "Style": null,
+    "Title": "Four Leaves from the Arabic Version of Dioscorides' De materia medica"
+}

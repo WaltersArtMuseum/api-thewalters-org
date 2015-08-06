@@ -1,0 +1,131 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -325,
+    "DateEndYear": -250,
+    "DateText": "late 4th-early 3rd century BC",
+    "Description": "This dwarf-like, protective deity was very popular in ancient Egypt; amulets in the shape of this god were particularly popular from the Third Intermediate period. The Greek name Pataikos comes from a passage in the writings of Herodotus (ca. 5th century BC), who used this term to describe a Phoenician protective dwarf-like image. The Egyptian Pataikos is a special manifestation of the creator god Ptah and the dwarf-like appearance symbolizes his magical power.\r\n\r\nThis head belongs to an unusual variant of Pataikos, representing him with a snake in his mouth which winds its way up to his ears. The god has a scarab on his head. The fragment once belonged to a group of figures standing back to back.",
+    "Dimensions": "H: 13/16 x W: 1/2 x D: 11/16 in. (2.1 x 1.2 x 1.7 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Daily Magic in Ancient Egypt",
+            "ExhibBeginDate": "2006-12-02",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "December 2, 2006-November 25, 2007",
+            "ExhibEndDate": "2007-11-25",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Daily Magic in Ancient Egypt. The Walters Art Museum, Baltimore. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22000,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1612_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1612_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1612_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1612_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1612_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22001,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1612_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1612_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1612_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1612_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1612_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22002,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1612_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1612_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1612_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1612_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1612_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 21999,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1612_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1612_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1612_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1612_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1612_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22003,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1612_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1612_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1612_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1612_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1612_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with pale green glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 18052,
+    "ObjectName": "pendants; amulets; figurines",
+    "ObjectNumber": "48.1612",
+    "OnView": 0,
+    "Period": "early Greco-Roman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-17T15:10:01.847",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18052",
+    "SortNumber": "    48  1612                                            ",
+    "Style": null,
+    "Title": "Head of Pataikos with Scarab"
+}

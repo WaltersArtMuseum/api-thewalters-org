@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1958",
+    "Culture": null,
+    "DateBeginYear": -637,
+    "DateEndYear": -600,
+    "DateText": "ca. 625-600 BC",
+    "Description": "An \"oinochoe\" was used for serving wine. This piece's style is usually termed \"Camirus,\" after a site on the island of Rhodes where many examples have been found, but they were actually made in the Greek cities of southern Asia Minor. The horizontal rows of decoration filled with wild goats and floral motifs reflect influence from the civilizations of the ancient Near East. The curving contours and combination of outlined shapes and solid black masses characterize this style, distinguishing it from the angular silhouettes of the pottery from the preceding Geometric period.",
+    "Dimensions": "H: 13 1/2 x Diam: 9 in. (34.3 x 22.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking",
+            "ExhibBeginDate": "2007-12-01",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "December 1, 2007- November 9, 2008",
+            "ExhibEndDate": "2008-11-09",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2003,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking. The Walters Art Museum, Baltimore. 2007-2008."
+        },
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8446,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2108_3Qtr_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2108_3Qtr_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2108_3Qtr_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2108_3Qtr_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2108_3Qtr_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8447,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2108_Back_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2108_Back_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2108_Back_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2108_Back_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2108_Back_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8449,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2108_Det_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2108_Det_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2108_Det_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2108_Det_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2108_Det_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "goat; lotus",
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3644,
+        "LocationString": null
+    },
+    "ObjectID": 21177,
+    "ObjectName": "oinochoi",
+    "ObjectNumber": "48.2108",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "William Randolph Hearst Easte Sale, San Simeon, 1958, no. 5494; Walters Art Museum, 1958, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.203",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21177",
+    "SortNumber": "    48  2108                                            ",
+    "Style": "Archaic",
+    "Title": "Oinochoe in the Camirus, or \"Wild Goat\" Style"
+}

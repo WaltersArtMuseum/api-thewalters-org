@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Gavarni (French, 1804-1866)",
+            "CreatorID": 7208,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1870",
+    "Culture": null,
+    "DateBeginYear": 1866,
+    "DateEndYear": 1866,
+    "DateText": "1866",
+    "Description": null,
+    "Dimensions": "H: 12 5/8 x W: 8 13/16 in. (32.1 x 22.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Gavarni",
+            "ExhibBeginDate": "1993-03-31",
+            "ExhibBeginYear": 1993,
+            "ExhibDisplayDate": "March 31, 1993-August 22, 1993",
+            "ExhibEndDate": "1993-08-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 195,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Gavarni. The Walters Art Gallery, Baltimore. 1993."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55104,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1463_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1463_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1463_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1463_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1463_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 55103,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1463_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1463_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1463_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1463_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1463_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 207,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1463_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1463_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1463_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1463_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1463_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "man; toy; allegory",
+    "Medium": "graphite and ink wash on cream, thick, slightly textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2218,
+        "LocationString": null
+    },
+    "ObjectID": 28389,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1463",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1870, by purchase [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.003",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28389",
+    "SortNumber": "    37  1463                                            ",
+    "Style": null,
+    "Title": "The Twelve Months: January"
+}

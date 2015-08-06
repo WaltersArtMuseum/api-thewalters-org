@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Francesco Francia (Italian, ca. 1450-1517)",
+            "CreatorID": 17191,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1508,
+    "DateEndYear": 1510,
+    "DateText": "1508-1510",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 132, p. 199.",
+    "Dimensions": "Painted surface H: 22 15/16 x W: 18 5/16 x D: 9/16 in. (58.2 x 46.5 x 1.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439897,
+            "GeographyTerm": "Emilia",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29710,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1066_Fnt_BW_H63.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1066_Fnt_BW_H63.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1066_Fnt_BW_H63.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1066_Fnt_BW_H63.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1066_Fnt_BW_H63.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] On scroll held by John the Baptist: .EDDE AGNVS | DEI | ECCE QVI. TO [LLIT PECCATA MVNDI].",
+    "Keywords": null,
+    "Medium": "paint on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3252,
+        "LocationString": null
+    },
+    "ObjectID": 22734,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.1066",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22734",
+    "SortNumber": "    37  1066                                            ",
+    "Style": null,
+    "Title": "The Annunciation with St. Jerome and St. John the Baptist"
+}

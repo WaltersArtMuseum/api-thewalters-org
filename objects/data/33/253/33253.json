@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bonifazio de' Pitati (Italian, 1487-1553)",
+            "CreatorID": 4131,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1897-1899",
+    "Culture": null,
+    "DateBeginYear": 1540,
+    "DateEndYear": 1549,
+    "DateText": "1540-1549",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 274, p. 401.",
+    "Dimensions": "H with added fabric: 44 1/8 x W: 66 7/8 in. (112 x 169.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4246,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.579_Fnt_SL_C80.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.579_Fnt_SL_C80.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.579_Fnt_SL_C80.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.579_Fnt_SL_C80.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.579_Fnt_SL_C80.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46889,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.579_XR_1982.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.579_XR_1982.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.579_XR_1982.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.579_XR_1982.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.579_XR_1982.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3280,
+        "LocationString": null
+    },
+    "ObjectID": 33253,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.579",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Palazzo Giustiniani, Venice [date and mode of acquisition unknown] [according to 1909 Walters catalogue]; Henry Walters, Baltimore, between 1897 and 1899 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-23T10:08:17.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33253",
+    "SortNumber": "    37   579                                            ",
+    "Style": null,
+    "Title": "Madonna and Child with Saints"
+}

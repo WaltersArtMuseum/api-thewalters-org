@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pierre-\u00c9douard Fr\u00e8re (French, 1819-1886)",
+            "CreatorID": 4366,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, before 1878",
+    "Culture": null,
+    "DateBeginYear": 1859,
+    "DateEndYear": 1859,
+    "DateText": "1859",
+    "Description": "A young girl stands in a larder drinking milk directly from a pitcher. Light from a window at the right illuminates the interior, revealing various utensils, including a rack of pewter spoons hanging on the back wall, a shelf of dishes, a cupboard, a wooden dairy bucket, and several strainers. The floor is laid in earthenware hexagonal tiles.",
+    "Dimensions": "H: 10 5/8 x W: 8 1/4 in. (27 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41144,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.22_Fnt_TR_T87II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.22_Fnt_TR_T87II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.22_Fnt_TR_T87II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.22_Fnt_TR_T87II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.22_Fnt_TR_T87II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 391,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.22_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.22_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.22_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.22_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.22_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left in black paint: Ed. Fr\u00e9re; [Date] Lower left in black paint: 59",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3316,
+        "LocationString": null
+    },
+    "ObjectID": 23039,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.22",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, prior to 1878 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23039",
+    "SortNumber": "    37    22                                            ",
+    "Style": null,
+    "Title": "Helping Herself"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, S & A.P. Fund, 1955",
+    "Culture": null,
+    "DateBeginYear": 1240,
+    "DateEndYear": 1260,
+    "DateText": "mid 13th century",
+    "Description": null,
+    "Dimensions": "H: 12 15/16 \u00d7 W: 7 11/16 in. (32.8 \u00d7 19.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\\u00d6sterreich\\states\\Nieder\u00f6sterreich\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1420319,
+            "GeographyTerm": "Seitenstetten",
+            "Latitude": "48 03",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.5,
+            "Longitude": "014 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.666
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45862,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.756.R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.756.R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.756.R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.756.R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.756.R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Historiated initial; Illumination; Manuscript; Musical notation; Painting; Walters Art Museum; Liturgy",
+    "Medium": "ink and pigments on medium weight, cream colored parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90748,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.756.R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Originally part of a gradual, South Germany or Seitenstetten region of Austria, mid-13th century; Page re-used as a book wrapper, Germany (?), 17th century [titled and dated on recto in large black letters: GeldtRegister / Anno / 1624 / Biss Anno / 1625];  L'Art Ancien, Zurich, before 1955; Walters Art Museum, December 1955, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90748",
+    "SortNumber": "W        756R                                           ",
+    "Style": "Romanesque",
+    "Title": "Leaf from a Sacramentary"
+}

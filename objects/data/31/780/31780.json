@@ -1,0 +1,94 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Coptic",
+    "DateBeginYear": 500,
+    "DateEndYear": 699,
+    "DateText": "6th-7th century",
+    "Description": "Carved in the round and embellished with reliefs showing a woman and a bird, this wooden object comprises a narrow bottle that once contained mascara or another similar substance. Other comparable pieces are known from Late Antique Egypt.",
+    "Dimensions": "H: 10 5/8 in. (27 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44405,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_61.124_Fnt_BW_H78.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_61.124_Fnt_BW_H78.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_61.124_Fnt_BW_H78.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_61.124_Fnt_BW_H78.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_61.124_Fnt_BW_H78.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 44404,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_61.124_Back_BW_H78.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_61.124_Back_BW_H78.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_61.124_Back_BW_H78.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_61.124_Back_BW_H78.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_61.124_Back_BW_H78.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 44406,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_61.124_Side_BW_H78.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_61.124_Side_BW_H78.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_61.124_Side_BW_H78.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_61.124_Side_BW_H78.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_61.124_Side_BW_H78.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 884,
+        "LocationString": null
+    },
+    "ObjectID": 31780,
+    "ObjectName": "containers",
+    "ObjectNumber": "61.124",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Giovannia Dattari, Cairo, by purchase; Sale, H\u00f4tel Drouot, Paris, June 17, 1912, lot 566; Henry Walters, Baltimore, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-12-12T22:00:00.493",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31780",
+    "SortNumber": "    61   124                                            ",
+    "Style": null,
+    "Title": "Cosmetics Container"
+}

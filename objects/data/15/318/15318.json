@@ -1,0 +1,119 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Persian",
+            "CreatorID": 3496,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": "Islamic",
+    "DateBeginYear": 1301,
+    "DateEndYear": 1400,
+    "DateText": "14th century",
+    "Description": "This round box has a dome-shaped cover attached with chains on two sides, fastening in the front. Around the body is a broad band containing a thuluth inscription of blessings for the sultan. Persian verses decorate the cover along with arabesque patterns.",
+    "Dimensions": "H: 3 7/16 x Diam: 3 11/16 in. (8.8 x 9.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Art of Persia",
+            "ExhibBeginDate": "1966-10-28",
+            "ExhibBeginYear": 1966,
+            "ExhibDisplayDate": "October 28, 1966-January 14, 1967",
+            "ExhibEndDate": "1967-01-14",
+            "ExhibEndYear": 1967,
+            "ExhibitionID": 709,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Art of Persia. Ithaca College Museum of Art, Ithaca. 1966-1967."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1508011,
+            "GeographyTerm": "Fars",
+            "Latitude": "29 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23925,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.516_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.516_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.516_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.516_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.516_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23924,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.516_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.516_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.516_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.516_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.516_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 23926,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.516_Top_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.516_Top_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.516_Top_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.516_Top_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.516_Top_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "brass, silver, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 485,
+        "LocationString": null
+    },
+    "ObjectID": 15318,
+    "ObjectName": "boxes",
+    "ObjectNumber": "54.516",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1922, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-11-25T12:27:18.843",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15318",
+    "SortNumber": "    54   516                                            ",
+    "Style": null,
+    "Title": "Round Box"
+}

@@ -1,0 +1,167 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pacino di Bonaguida (Italian, active 1302-before 1340)",
+            "CreatorID": 5108,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Gift of the Dr. Francis D. Murnaghan Fund, 1973",
+    "Culture": null,
+    "DateBeginYear": 1323,
+    "DateEndYear": 1327,
+    "DateText": "1323-1327",
+    "Description": "For more information on this dossal altarpiece, please see Zeri catalogue number 3, pp. 6-7.",
+    "Dimensions": "Painted surface H at left and right sides: 18 7/8 x W: 62 11/16 x D: 11/16 in. (47.9 x 159.2 x 1.8 cm); Painted surface H at central gable: 24 1/2 in. (62.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Florence at the Dawn of the Renaissance: Painting and Illumination, 1300-1350",
+            "ExhibBeginDate": "2012-11-13",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "November 13, 2012-June 16, 2013",
+            "ExhibEndDate": "2013-06-16",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3220,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Florence at the Dawn of the Renaissance: Painting and Illumination, 1300-1350. J. Paul Getty Museum, Los Angeles. 2012-2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9062,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2494_Fnt_NF_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2494_Fnt_NF_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2494_Fnt_NF_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2494_Fnt_NF_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2494_Fnt_NF_H76.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9058,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2494_DetA_NF_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2494_DetA_NF_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2494_DetA_NF_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2494_DetA_NF_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2494_DetA_NF_H76.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9059,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2494_DetB_NF_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2494_DetB_NF_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2494_DetB_NF_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2494_DetB_NF_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2494_DetB_NF_H76.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 10828,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2494_CntrDet_NF_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2494_CntrDet_NF_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2494_CntrDet_NF_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2494_CntrDet_NF_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2494_CntrDet_NF_H76.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 9060,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2494_DetC_NF_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2494_DetC_NF_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2494_DetC_NF_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2494_DetC_NF_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2494_DetC_NF_H76.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 9061,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2494_DetD_NF_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2494_DetD_NF_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2494_DetD_NF_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2494_DetD_NF_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2494_DetD_NF_H76.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Transcription] The name of each saint, left to right: S. NCOLAUS; S. LAURETI; S IACOP; S. F[R]CISC.",
+    "Keywords": "The Virgin Mary; St. Lawrence; St. Nicholas of Bari; St. James the Great; St. Francis of Assisi",
+    "Medium": "tempera on wood (silver fir)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 16467,
+    "ObjectName": "altarpieces",
+    "ObjectNumber": "37.2494",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Private collection, Ireland; Justice James A. Murnaghan, Dublin, ca. 1930; Dr. Francis Murnaghan Fund, 1973 [mode of acquisition unknown]; Walters Art Museum, 1973, by gift.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16467",
+    "SortNumber": "    37  2494                                            ",
+    "Style": "Gothic",
+    "Title": "Madonna and Child with Saints"
+}

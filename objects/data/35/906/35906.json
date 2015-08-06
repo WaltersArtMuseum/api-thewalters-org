@@ -1,0 +1,178 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Egyptian",
+    "DateBeginYear": -676,
+    "DateEndYear": -350,
+    "DateText": "ca. 664-350 BC",
+    "Description": "Cats were popular in Egypt and were associated with the goddess Bastet. This seated cat with its tail curled forward has golden earrings, a golden scarab inlaid on the forehead, and a necklace with a pendant in low relief. The pendant displays a standing goddess with the double-crown nursing the young Harpokrates.",
+    "Dimensions": "7 3/16 x 3 3/8 x 5 11/16 in. (18.3 x 8.5 x 14.4 cm);\r\nmount: 2 11/16 x 3 11/16 x 6 7/16 in. (6.9 x 9.4 x 16.3 cm)",
+    "Dynasty": "26th-30th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52953,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52947,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_3QtrLft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_3QtrLft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_3QtrLft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_3QtrLft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_3QtrLft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52946,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403 Lft__DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403 Lft__DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403 Lft__DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403 Lft__DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403 Lft__DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 52949,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 52954,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_Rt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_Rt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_Rt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_Rt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_Rt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 52948,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_3QtrRt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_3QtrRt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_3QtrRt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_3QtrRt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_3QtrRt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 52950,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_DetA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_DetA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_DetA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_DetA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_DetA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 52951,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_DetB_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_DetB_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_DetB_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_DetB_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_DetB_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 52952,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.403_DetC_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.403_DetC_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.403_DetC_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.403_DetC_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.403_DetC_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        },
+        {
+            "ID": 7257,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.403_3Qtr_TR_II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.403_3Qtr_TR_II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.403_3Qtr_TR_II.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.403_3Qtr_TR_II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.403_3Qtr_TR_II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, gold, glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3766,
+        "LocationString": null
+    },
+    "ObjectID": 35906,
+    "ObjectName": "sculpture; statuettes",
+    "ObjectNumber": "54.403",
+    "OnView": 1,
+    "Period": "Late Period",
+    "Provenance": "William Forman Collection; Major Alexander Henry Browne (nephew and heir of William Forman), 1869, by bequest; Sale, Sotheby's, London, June 1899; Dikran Kelekian, New York and Paris, by purchase; Henry Walters, Baltimore, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.377",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35906",
+    "SortNumber": "    54   403                                            ",
+    "Style": null,
+    "Title": "Statue of a Seated Cat"
+}

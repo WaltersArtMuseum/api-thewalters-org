@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1513,
+    "DateEndYear": 1537,
+    "DateText": "ca. 1525",
+    "Description": "This dish is painted in gold lustre and in blue with a scale-pattern around the rim. In the center is the left profile bust of an unidentified Roman Emperor wearing a laurel wreath and facing a scroll inscribed: \"HOM.PRE/PON.IT.E.DvS.DSPNIT\" (Man proposes, God disposes). The back has a greenish-yellow glaze with a double X in the center scratched through the glaze.",
+    "Dimensions": "2 15/16 x 15 9/16 in. (7.5 x 39.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "I, Claudius: Art in the Age of Julio-Claudians",
+            "ExhibBeginDate": "1977-12-07",
+            "ExhibBeginYear": 1977,
+            "ExhibDisplayDate": "December 7, 1977-January 22, 1978",
+            "ExhibEndDate": "1978-01-22",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2506,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "I, Claudius: Art in the Age of Julio-Claudians. The Walters Art Gallery, Baltimore. 1977-1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437433,
+            "GeographyTerm": "Deruta",
+            "Latitude": "42 59",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.983,
+            "Longitude": "012 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23016,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1321_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1321_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1321_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1321_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1321_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] On a scroll on the front: HOM.PRE/PON.IT.E.DvS.DSPNIT; [Translation] On a scroll on the front: Man proposes, God disposes; [Inscription] On the back sctratched through the glaze: XX",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1816,
+        "LocationString": null
+    },
+    "ObjectID": 19655,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.1321",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-29T13:41:05.817",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19655",
+    "SortNumber": "    48  1321                                            ",
+    "Style": null,
+    "Title": "Dish with a Roman Emperor in Profile"
+}

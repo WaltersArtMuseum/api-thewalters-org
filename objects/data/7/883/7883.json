@@ -1,0 +1,91 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2002",
+    "Culture": "Islamic",
+    "DateBeginYear": 1738,
+    "DateEndYear": 1762,
+    "DateText": "ca. 1163 AH/AD 1750",
+    "Description": "This single leaf, Walters W.904, shows a gathering of pleasure-seeking men outside a pavilion, where a number of women sit. The painting, which dates to the middle of the 12th century AH/AD 18th, was executed in northern India, possibly Lucknow. Some of the awaiting women drink wine while others attend to the hookahs. In the right corner, a man in yellow dress sits with betel quids, watching two men embroiled in a dispute, one with a dagger drawn. A second pair, at the far end and close to the pavilion, seems also to be enraged enough to draw blood. The rest wait in anticipation, smoking and conversing.",
+    "Dimensions": "H: 13 1/8 x W: 9 7/8 in. (33.3 x 25.1 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\Uttar Pradesh\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507079,
+            "GeographyTerm": "Lucknow",
+            "Latitude": "26 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 26.833,
+            "Longitude": "080 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 80.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34150,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.904.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.904.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.904.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.904.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.904.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 34147,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.904_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.904_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.904_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.904_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.904_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illustration; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6442,
+        "LocationString": null
+    },
+    "ObjectID": 7883,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.904",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83786,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83787,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/7883",
+    "SortNumber": "W        904                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Pleasure Pavilion"
+}

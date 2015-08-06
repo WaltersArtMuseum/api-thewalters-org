@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Antoine-Fran\u00e7ois Callet (French, 1741-1823)",
+            "CreatorID": 3345,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 53 15/16 x W: 39 in. (137 x 99 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Ruins of Rome",
+            "ExhibBeginDate": "1960",
+            "ExhibBeginYear": 1960,
+            "ExhibDisplayDate": "1960-1961",
+            "ExhibEndDate": "1961",
+            "ExhibEndYear": 1961,
+            "ExhibitionID": 2260,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Ruins of Rome. The Detroit Institute of Arts, Detroit; University of Pennsylvania Museum, Philadelphia. 1960-1961."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46773,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.245_Fnt_BW_H45.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.245_Fnt_BW_H45.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.245_Fnt_BW_H45.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.245_Fnt_BW_H45.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.245_Fnt_BW_H45.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Cardinals; clergy; male portraits",
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3356,
+        "LocationString": null
+    },
+    "ObjectID": 27942,
+    "ObjectName": "paintings; oil paintings",
+    "ObjectNumber": "37.245",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27942",
+    "SortNumber": "    37   245                                            ",
+    "Style": null,
+    "Title": "Portrait of Cardinal Fran\u00e7ois Joachim de Pierre de Bernis"
+}

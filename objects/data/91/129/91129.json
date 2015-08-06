@@ -1,0 +1,106 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Francesco di Antonio del Chierico (Italian, 1433-1484)",
+            "CreatorID": 7915,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1470,
+    "DateEndYear": 1480,
+    "DateText": "1470-1480",
+    "Description": null,
+    "Dimensions": "Folio H: 6 5/16 x W: 4 5/16 in. (16 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Oost-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421794,
+            "GeographyTerm": "Gent",
+            "Latitude": "51 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.33,
+            "Longitude": "003 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.7
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\West-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421893,
+            "GeographyTerm": "Brugge",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49536,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.352.16R_Fp_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.352.16R_Fp_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.352.16R_Fp_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.352.16R_Fp_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.352.16R_Fp_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 49537,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.352.16R_FpCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.352.16R_FpCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.352.16R_FpCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.352.16R_FpCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.352.16R_FpCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Italy; Florence; Christianity; humanism; Renaissance",
+    "Medium": "ink, tempera paint and gold leaf on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 91129,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.352.16R",
+    "OnView": 0,
+    "Period": "early Renaissance",
+    "Provenance": "Benedictine monastery of San Michele di Passignano near Perugia [coat of arms]; L\u00e9on Gruel and Engelmann; Henry Walters Baltimore, Baltimore, by purchase [bookplate no. 56]; Walters Art Museum, 1931, by bequest. \r\n",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91129",
+    "SortNumber": "W        352   16R                                      ",
+    "Style": "Early Renaissance",
+    "Title": "Leaf from Conjuratio malignorum spirituum in corporibus hominum existium"
+}

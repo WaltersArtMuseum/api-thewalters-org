@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jacques de Poindre (Flemish, ca. 1527-ca. 1572)",
+            "CreatorID": 2129,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1905",
+    "Culture": null,
+    "DateBeginYear": 1563,
+    "DateEndYear": 1563,
+    "DateText": "1563",
+    "Description": "In 1543, Nicholas \u00e0 Spira (1510-1568) was elected abbot of the abbey of the Norbertine Order at Grimbergen in the southern Netherlands.  In 1566, the abbey, like many Catholic churches and institutions in the Netherlands, was set on fire by bands of Protestant reformers bent on purging the land of idolatrous images. However, the altarpiece survived until the anticlerical campaigns of the 1790s that swept through much of western Europe with the reverberations of the French Revolution.  The altarpiece was apparently dismantled then, probably in order to separate the portraits from the central panel, which was very likely destroyed.",
+    "Dimensions": "34 x 23 5/8 in. (86.4 x 60 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salute to Belgium",
+            "ExhibBeginDate": "1980-06-22",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "June 22, 1980-September 7, 1980",
+            "ExhibEndDate": "1980-09-07",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2674,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salute to Belgium. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions (general)\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1422045,
+            "GeographyTerm": "Brabant",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421725,
+            "GeographyTerm": "Mechelen",
+            "Latitude": "51 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.33,
+            "Longitude": "004 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4009,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.258_Fnt_TR_T87II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.258_Fnt_TR_T87II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.258_Fnt_TR_T87II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.258_Fnt_TR_T87II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.258_Fnt_TR_T87II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "Signed at the left: (J)ABOBVS (D)EPUNDER FECIT; Inscribed and dated to the left: SPIRTVM RECTV INSPIRA / ANNO ETATIS SUE 53 / ANNO 1563",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4509,
+        "LocationString": null
+    },
+    "ObjectID": 11636,
+    "ObjectName": "paintings;portraits",
+    "ObjectNumber": "37.258",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Abbey of Grimbergen, Brabant, 1563-late 18th century; de Malherbe Collection, Valenciennes; Sale, October 17-18, 1883, no. 46; Comte Jacques de B\u00e9raudi\u00e8re, Paris; Sale, Cabinet Foucart, October 10-12, 1898, no. 65; de Somz\u00e9e Collection; Sale, Brussels, May 24, 1904, no. 565; Henry Walters, Baltimore, ca. 1905 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.283",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11636",
+    "SortNumber": "    37   258                                            ",
+    "Style": null,
+    "Title": "Portrait of Abbot Nicholas \u00e0 Spira"
+}

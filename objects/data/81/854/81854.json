@@ -1,0 +1,142 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1572,
+    "DateEndYear": 1572,
+    "DateText": "980 AH/AD 1572",
+    "Description": "Walters manuscript W.619 is bound in an original leather binding (with a flap). The binding has dentelle-style decorated boards and doublures of brown leather with gold-painted filigree work on a multi-colored ground of blue, green, red, and black.",
+    "Dimensions": "Folio H: 12 5/8 x W: 8 7/16 in. (32.0 x 21.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33813,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33814,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD_UBI.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD_UBI.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD_UBI.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD_UBI.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD_UBI.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33811,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619.binding_BotExt_DD_LBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619.binding_BotExt_DD_LBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619.binding_BotExt_DD_LBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619.binding_BotExt_DD_LBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619.binding_BotExt_DD_LBO.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33812,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619.binding_BotInt_DD_LBI.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619.binding_BotInt_DD_LBI.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619.binding_BotInt_DD_LBI.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619.binding_BotInt_DD_LBI.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619.binding_BotInt_DD_LBI.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 34326,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619.binding_BotIntOpn_DD_flapopen.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619.binding_BotIntOpn_DD_flapopen.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619.binding_BotIntOpn_DD_flapopen.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619.binding_BotIntOpn_DD_flapopen.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619.binding_BotIntOpn_DD_flapopen.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 34327,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        },
+        {
+            "ID": 34329,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.619.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 11
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Original Binding; Iran; Literature -- Poetry; Literature -- Prose",
+    "Medium": "boards covered with leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81854,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.619.binding",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81854",
+    "SortNumber": "W        619binding                                     ",
+    "Style": null,
+    "Title": "Binding from Two Works of Sa`di: The Rose Garden (Gulistan) and The Orchard (Bustan)"
+}

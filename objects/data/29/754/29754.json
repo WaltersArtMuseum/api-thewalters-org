@@ -1,0 +1,88 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan (?)",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman (?)",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902 (?)",
+    "Culture": null,
+    "DateBeginYear": -300,
+    "DateEndYear": -1,
+    "DateText": "3rd-1st century BC",
+    "Description": null,
+    "Dimensions": "H: 2 1/8 in. (5.4 cm)\r\nOverall1: 2 3/4 in. (7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38741,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.1083_Lft_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.1083_Lft_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.1083_Lft_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.1083_Lft_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.1083_Lft_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 411,
+        "LocationString": null
+    },
+    "ObjectID": 29754,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.1083",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome (?); Henry Walters, Baltimore, 1902 (?), by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-04-23T22:00:00.967",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29754",
+    "SortNumber": "    54  1083                                            ",
+    "Style": null,
+    "Title": "Priest with Rayed Headdress"
+}

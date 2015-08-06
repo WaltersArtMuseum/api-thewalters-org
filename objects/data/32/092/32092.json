@@ -1,0 +1,95 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1941",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -401,
+    "DateText": "5th century BC",
+    "Description": "Boat-shaped earrings originated in Anatolia as early as the 2nd millennium BC. This one is decorated with filigree.",
+    "Dimensions": "5/8 x 1/2 x 3/16 in. (1.6 x 1.3 x 0.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Pandora's Box: Women in Classical Greece",
+            "ExhibBeginDate": "1995-11-05",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "November  5, 1995-June 23, 1996",
+            "ExhibEndDate": "1996-06-23",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 941,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Pandora's Box: Women in Classical Greece. The Walters Art Gallery, Baltimore; Dallas Museum of Art, Dallas; Antikenmuseum Basel und Sammlung Ludwig, Basel. 1995-1996."
+        },
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7061,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_57.1626_Prof_TR_T95III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_57.1626_Prof_TR_T95III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_57.1626_Prof_TR_T95III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_57.1626_Prof_TR_T95III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_57.1626_Prof_TR_T95III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Treasury",
+        "LocationID": 3651,
+        "LocationString": null
+    },
+    "ObjectID": 32092,
+    "ObjectName": "earrings",
+    "ObjectNumber": "57.1626",
+    "OnView": 1,
+    "Period": "Classical",
+    "Provenance": "Henry Walters, New York, by purchase; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:41.097",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32092",
+    "SortNumber": "    57  1626                                            ",
+    "Style": null,
+    "Title": "Gold Boat Earring"
+}

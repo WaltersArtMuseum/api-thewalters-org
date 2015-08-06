@@ -1,0 +1,94 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -401,
+    "DateText": "5th century BC",
+    "Description": null,
+    "Dimensions": "L: 2 9/16 in. (6.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54635,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1487_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1487_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1487_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1487_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1487_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 54634,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1487_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1487_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1487_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1487_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1487_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 56286,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.1487_Rt_BW_8299.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.1487_Rt_BW_8299.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.1487_Rt_BW_8299.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.1487_Rt_BW_8299.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.1487_Rt_BW_8299.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3646,
+        "LocationString": null
+    },
+    "ObjectID": 38603,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.1487",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-22T01:00:01.853",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38603",
+    "SortNumber": "    54  1487                                            ",
+    "Style": "Archaic",
+    "Title": "Running Doe"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alfred Jacob Miller (American, 1810-1874)",
+            "CreatorID": 4486,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. Frances W. Haussner, 1976",
+    "Culture": null,
+    "DateBeginYear": 1810,
+    "DateEndYear": 1874,
+    "DateText": "1810-1874",
+    "Description": null,
+    "Dimensions": "H: 15 13/16 x W: 13 3/16 in. (40.2 x 33.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51913,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2526_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2526_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2526_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2526_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2526_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 51914,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2526_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2526_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2526_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2526_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2526_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3313,
+        "LocationString": null
+    },
+    "ObjectID": 32977,
+    "ObjectName": "paintings; portraits",
+    "ObjectNumber": "37.2526",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mrs. Frances W. Haussner, Baltimore; Walters Art Museum, 1976, by gift.",
+    "PublicAccessDate": "2008-09-25T17:14:36.55",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32977",
+    "SortNumber": "    37  2526                                            ",
+    "Style": null,
+    "Title": "George Washington at Mount Vernon"
+}

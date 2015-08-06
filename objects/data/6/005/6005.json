@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean-Auguste-Dominique Ingres (French, 1780-1867)",
+            "CreatorID": 4535,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1822,
+    "DateEndYear": 1822,
+    "DateText": "1822",
+    "Description": "Ingres was deeply inspired by ancient Greek and Roman art as well by Italian painting of the High Renaissance. Although he spent much of his career in Rome, he resided in Florence from 1820 to 1824, where he painted this copy of Titian's \"Venus of Urbino\" (1538), from the collection at the Pitti Palace. \"The Venus of Urbino\" had inspired generations of artists. Ingres's version is the same size as the original. He intended it to serve as a model for his close friend, the sculptor Lorenzo Bartolini (1777-1850), who was creating a sculpture based on the same subject.",
+    "Dimensions": "H: 45 11/16 x W: 66 1/8 in. (116 x 168 cm); Framed H: 59 1/2 x W: 80 1/2 x D: 5 1/4 in. (151.1 x 204.5 x 13.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ingres, 1780-1867",
+            "ExhibBeginDate": "2006-02-24",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 24, 2006-May 15, 2006",
+            "ExhibEndDate": "2006-05-15",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2228,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Ingres, 1780-1867. Mus\u00e9e du Louvre, Paris. 2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3992,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.2392_Fnt_TR_T83IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.2392_Fnt_TR_T83IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.2392_Fnt_TR_T83IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.2392_Fnt_TR_T83IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.2392_Fnt_TR_T83IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Ingres, d'apres le Titien, Florence, 1822,\" signed at lower left in printed letters",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 6005,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.2392",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.487",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6005",
+    "SortNumber": "    37  2392                                            ",
+    "Style": null,
+    "Title": "Reclining Venus"
+}

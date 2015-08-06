@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired before 1931",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1550,
+    "DateText": "1st half 16th century",
+    "Description": "This is a double-sided panel painting. On the obverse is St. Jerome shown in full-lenght, holding a writing instrument and paper; on the reverse is a pope, shown in full-length, holding an open book.",
+    "Dimensions": "H: 38 3/4 x W: 15 3/16 in. (98.5 x 38.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37192,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.702a_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.702a_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.702a_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.702a_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.702a_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37193,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.702b_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.702b_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.702b_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.702b_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.702b_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "saints; popes; writing; books",
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3390,
+        "LocationString": null
+    },
+    "ObjectID": 38409,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.702",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-22T00:30:00.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38409",
+    "SortNumber": "    37   702                                            ",
+    "Style": null,
+    "Title": "St. Jerome and a Pope"
+}

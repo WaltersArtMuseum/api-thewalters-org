@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iwamoto Konkan (Japanese, 1744-1801)",
+            "CreatorID": 5392,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1744,
+    "DateEndYear": 1801,
+    "DateText": "1744-1801",
+    "Description": "This fuchi shows the blade of a halberd with a dragon head decoration at its base. This halberd is the weapon of the 2nd-century Chinese general Kanyu (Ch. Guan Yu [Kuan Yu]). A fan of feathers (\"hauchiwa\") is on the back. Kanyu is depicted on the matching kashira, Walters 51.945.",
+    "Dimensions": "1 7/16 in. (3.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15446,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.944_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.944_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.944_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.944_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.944_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15445,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.944_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.944_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.944_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.944_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.944_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15447,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.944_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.944_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.944_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.944_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.944_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u5ca9\u672c\u6606\u5bdb; [Translation]  Iwamoto Konkan (kao)",
+    "Keywords": "Kanyu; dragon; halberd",
+    "Medium": "shibuichi, gold, copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 498,
+        "LocationString": null
+    },
+    "ObjectID": 23289,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.944",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-14T09:55:23.43",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 22412,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/23289",
+    "SortNumber": "    51   944                                            ",
+    "Style": null,
+    "Title": "Fuchi with Halberd with Dragon's Head"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "School of Hans Holbein, the elder",
+            "CreatorID": 8524,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Leonhard Wagner",
+            "CreatorID": 31600,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1945",
+    "Culture": null,
+    "DateBeginYear": 1504,
+    "DateEndYear": 1528,
+    "DateText": "1516",
+    "Description": "This manuscript fragment provides valuable clues about the prayer book of which it was once a part. The colophon on the verso of the image records that the manuscript was written at the Monastery of SS. Ulrich and Afra in Augsburg, Germany, in 1516 by the prolific scribe Leonhard Wirstlin, known also as Leonhard Wagner. The image on the recto, a simple but expressive drawing of the crucified Christ, may be connected to another important figure from the time, as it is believed to be the work of an artist from the circle of Hans Holbein the Elder. A painted floral border, now missing its accompanying text, has traditionally been paired with the intact leaf and is presumed to have come from the same manuscript. Although the illuminations are striking, the main leaf was originally purchased by the Walters not for its art but for its script: it provides an excellent example of what is referred to as Augsburg Maximilian script, which has interesting parallels in printed works of the same period.",
+    "Dimensions": "Folio H: 5 3/8 \u00d7 W: 4 5/16 in. (13.7 \u00d7 10.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Schwaben\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450864,
+            "GeographyTerm": "Augsburg",
+            "Latitude": "48 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.35,
+            "Longitude": "010 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.9
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Schwaben\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450864,
+            "GeographyTerm": "Augsburg",
+            "Latitude": "48 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.35,
+            "Longitude": "010 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53719,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.732.W.732AR_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.732.W.732AR_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.732.W.732AR_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.732.W.732AR_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.732.W.732AR_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Colophon; Drawing; Illumination; Manuscript; Miniature; Walters Art Museum; Devotion",
+    "Medium": "ink and pigments on medium-weight, heavily worn parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6433,
+        "LocationString": null
+    },
+    "ObjectID": 27245,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.732",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Ed. Schultze, Munich, before 1901 [mode of acquisition unknown]; Schultze Sale, Munich, February 7-15, 1901; Fred Werther, Baltimore, before 1945 [mode of acquisition unknown]; Walters Art Museum, 1945, by purchase.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27245",
+    "SortNumber": "W        732                                            ",
+    "Style": null,
+    "Title": "Single Leaf and Fragment with Crucifixion and Colophon"
+}

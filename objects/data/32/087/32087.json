@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pedro Gonzales Berruguete (Spanish, died ca. 1504)",
+            "CreatorID": 2889,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1450,
+    "DateEndYear": 1500,
+    "DateText": "2nd half 15th century",
+    "Description": null,
+    "Dimensions": "H: 14 5/8 x W: 10 7/16 in. (37.1 x 26.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1443213,
+            "GeographyTerm": "Espa\u00f1a",
+            "Latitude": "40 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.0,
+            "Longitude": "004 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -4.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29736,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.745_Fnt_BW_H65.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.745_Fnt_BW_H65.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.745_Fnt_BW_H65.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.745_Fnt_BW_H65.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.745_Fnt_BW_H65.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47112,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.745_XR_1963.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.745_XR_1963.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.745_XR_1963.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.745_XR_1963.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.745_XR_1963.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3373,
+        "LocationString": null
+    },
+    "ObjectID": 32087,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.745",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-11-11T16:03:26.667",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32087",
+    "SortNumber": "    37   745                                            ",
+    "Style": null,
+    "Title": "Virgin and Child"
+}

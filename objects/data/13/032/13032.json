@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French (?)",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, between 1903 and 1909",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This small painting, a rather free copy of Watteau's \"F\u00eates V\u00e9nitiennes,\" of 1716-18, in the National Gallery of Scotland, Edinburgh, has traditionally been identified as a work of N. Diaz. It differs from the original painting principally in the pose of the fountain statue in the background. Since Watteau's picture left France in 1777, when it was acquired by Allan Ramsay at the Random de Boisset Sale, the copyist, were he French, would have been obliged to work from an engraving or from a painted replica. The \"F\u00eates V\u00e9nitiennes,\" was copied by Cr\u00e9py the Younger in an edition for the dealer, Gersaint, in 1725, and it was engraved in reverse in 1732 by Laurent Cars for Jean de Jullienne, the owner.\r\n\r\nThe question of authorship for this copy is complicated by the nature of the painting's ground: a circular piece of canvas mounted on strips of fabric with additional cloth added in the spandrels. Upon examination the painted surface of the central patch and that of the spandrels do not appear contemporaneous. Furthermore, the name in the lower left corner does not conform orthographically to Diaz's usual signatures.\r\n\r\nAlthough Diaz was a prolific painter who occasionally treated rococo themes, there does not appear to be sufficient evidence to confirm the attribution of this painting to Diaz.",
+    "Dimensions": "H: 7 1/2 x W: 7 1/2 in. (19 x 19 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45386,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.177_Fnt_BW_H54.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.177_Fnt_BW_H54.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.177_Fnt_BW_H54.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.177_Fnt_BW_H54.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.177_Fnt_BW_H54.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46765,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.177_XR_1977.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.177_XR_1977.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.177_XR_1977.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.177_XR_1977.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.177_XR_1977.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: N. Diaz",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3315,
+        "LocationString": null
+    },
+    "ObjectID": 13032,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.177",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, between 1903 and 1909 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13032",
+    "SortNumber": "    37   177                                            ",
+    "Style": null,
+    "Title": "F\u00eate Galante"
+}

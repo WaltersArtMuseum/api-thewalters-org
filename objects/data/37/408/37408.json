@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Lorenzo Monaco (Italian, ca. 1370-1425)",
+            "CreatorID": 4455,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1370,
+    "DateEndYear": 1425,
+    "DateText": "1370-1425",
+    "Description": "For more information on this painting, please see Zeri catalogue number 15, pp. 25-26.",
+    "Dimensions": "Panel H: 42 3/16 x W: 20 3/4 x D: 1 1/8 in. (107.1 x 52.7 x 2.8 cm); Painted surface H: 32 3/8 x W: 18 7/8 in. (82.3 x 48 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55750,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.645_Fnt_BW_H62.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.645_Fnt_BW_H62.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.645_Fnt_BW_H62.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.645_Fnt_BW_H62.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.645_Fnt_BW_H62.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3242,
+        "LocationString": null
+    },
+    "ObjectID": 37408,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.645",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 50, as Giotto]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37408",
+    "SortNumber": "    37   645                                            ",
+    "Style": null,
+    "Title": "Madonna and Child with Saints and Angels"
+}

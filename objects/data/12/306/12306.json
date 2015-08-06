@@ -1,0 +1,119 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1968",
+    "Culture": null,
+    "DateBeginYear": -3012,
+    "DateEndYear": -2988,
+    "DateText": "ca. 3000 BC",
+    "Description": "In Mesopotamia, small animal figurines were worn as amulets and also offered in temples as gifts to the gods. Pendants worn on the body served as talismans to ward off evil and to increase the wearer's power. Each of the animals here had a special meaning, and some were directly linked to a deity.",
+    "Dimensions": "L: 1 1/4 in. (3.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522050,
+            "GeographyTerm": "Mesopotamia",
+            "Latitude": "34 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.0,
+            "Longitude": "044 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 35479,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_42.1454_RtSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_42.1454_RtSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_42.1454_RtSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_42.1454_RtSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_42.1454_RtSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35478,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_42.1454_LftSide_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_42.1454_LftSide_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_42.1454_LftSide_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_42.1454_LftSide_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_42.1454_LftSide_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 31747,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_42.1454_Fnt_BW_H69.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_42.1454_Fnt_BW_H69.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_42.1454_Fnt_BW_H69.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_42.1454_Fnt_BW_H69.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_42.1454_Fnt_BW_H69.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 42030,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_42.1452-42.1454-1457_42.1460_42.1462-1463_Fnt_TR_C79I.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_42.1452-42.1454-1457_42.1460_42.1462-1463_Fnt_TR_C79I.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_42.1452-42.1454-1457_42.1460_42.1462-1463_Fnt_TR_C79I.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_42.1452-42.1454-1457_42.1460_42.1462-1463_Fnt_TR_C79I.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_42.1452-42.1454-1457_42.1460_42.1462-1463_Fnt_TR_C79I.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "bird",
+    "Medium": "red stone",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3727,
+        "LocationString": null
+    },
+    "ObjectID": 12306,
+    "ObjectName": "pendants; amulets",
+    "ObjectNumber": "42.1454",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Sale, Sotheby and Co., London, November 26, 1968, lot 20; Walters Art Museum, 1968, by purchase.",
+    "PublicAccessDate": "2011-04-01T11:04:12.873",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12306",
+    "SortNumber": "    42  1454                                            ",
+    "Style": null,
+    "Title": "Bird"
+}

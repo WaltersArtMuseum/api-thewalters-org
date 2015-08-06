@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pope Gregory I (Italian, ca. 540-604)",
+            "CreatorID": 7701,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1468,
+    "DateEndYear": 1492,
+    "DateText": "ca. 1480",
+    "Description": null,
+    "Dimensions": "12 1/8 x 8 9/16 in. (30.8 x 21.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2879,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.338.258R_OpnObv_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.338.258R_OpnObv_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.338.258R_OpnObv_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.338.258R_OpnObv_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.338.258R_OpnObv_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and red, green and blue-colored gold leaf on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 37056,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.338.258R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Ferdinand of Aragon (?);  Battista Pandolfini (banker to Ferdinand of Aragon), 1481, by exchange (pledge for loan to finance the war against the Turks) [item 125 of the pledge is the first part of a Moralia, not identified by DeMarinis in libraries of Spain, Vienna, or Paris (See T. Demarinis II, 187-92 for text of 1481 pledge] (?);  L. S. Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase [invoice no. 35784];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37056",
+    "SortNumber": "W        338  258R                                      ",
+    "Style": null,
+    "Title": "Leaf from Moralia in Job"
+}

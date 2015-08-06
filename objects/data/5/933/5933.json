@@ -1,0 +1,113 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Formerly attributed to Joseph Mallord William Turner (English, 1775-1851)",
+            "CreatorID": 2991,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 40 1/4 x W: 50 5/16 in. (102.3 x 127.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Themes and Variations in Painting and Sculpture",
+            "ExhibBeginDate": "1948-04-15",
+            "ExhibBeginYear": 1948,
+            "ExhibDisplayDate": "April 15, 1948-May 23, 1948",
+            "ExhibEndDate": "1948-05-23",
+            "ExhibEndYear": 1948,
+            "ExhibitionID": 2270,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Themes and Variations in Painting and Sculpture. Baltimore Museum of Art, Baltimore. 1948."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24589,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.32_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.32_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.32_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.32_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.32_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47730,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.32_XR_1952.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.32_XR_1952.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.32_XR_1952.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.32_XR_1952.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.32_XR_1952.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "seascape; water; fishing",
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3342,
+        "LocationString": null
+    },
+    "ObjectID": 5933,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.32",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mr. Greg, Manchester, England [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1903, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-09-07T22:00:00.497",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5933",
+    "SortNumber": "    37    32                                            ",
+    "Style": null,
+    "Title": "St. Michael's Mount, Cornwall"
+}

@@ -1,0 +1,103 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francis Hopkinson Smith (American, 1838-1915)",
+            "CreatorID": 3649,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Oliver H. Perry, 1976",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": "Smith was born on St. Paul Street, Baltimore. He trained initially as an engineer but later taught himself to paint in watercolors. He traveled extensively, producing watercolors which were reproduced in deluxe \"travel books,\" such as \"Gondola Days\" (1897) and \"The Venice of To-Day\" (1897) as well as various magazines. He was also the author of many popular books.\r\n\r\nThe Walters Art Museum owns several studies related to this work.\r\n",
+    "Dimensions": "H: 12 5/16 x W: 18 1/2 in. (31.2 x 47 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50197,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2583_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2583_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2583_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2583_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2583_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56478,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2583_Fnt_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2583_Fnt_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2583_Fnt_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2583_Fnt_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2583_Fnt_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] Incised, lower left: FHS 2",
+    "Keywords": null,
+    "Medium": "oil on board",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1797,
+        "LocationString": null
+    },
+    "ObjectID": 5478,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2583",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Ownded by Mr. and Mrs. Oliver H. Perry, Baltimore; given to Walters Art Museum, 1976.",
+    "PublicAccessDate": "2014-02-13T01:00:01.54",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 21248,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 21942,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/5478",
+    "SortNumber": "    37  2583                                            ",
+    "Style": null,
+    "Title": "Scene of a Regatta, Venice"
+}

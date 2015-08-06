@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": null,
+    "DateBeginYear": -1352,
+    "DateEndYear": -1328,
+    "DateText": "ca. 1340 BC",
+    "Description": "This knob belonged to a chest and was used to fasten it. The inscription shows the two divine names of Aten, the sun god of Amarna, in cartouches, and the names of King Akhenaten. The line below the cartouches contains the wish for eternal life.",
+    "Dimensions": "1 7/16 x 2 1/16 in. (3.6 x 5.2 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Faience: The Colors of the Heavens",
+            "ExhibBeginDate": "2003-05-17",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "May 17, 2003-June 30, 2004",
+            "ExhibEndDate": "2004-06-30",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 10,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Faience: The Colors of the Heavens. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51543,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.404_Fnt_BW_T98.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.404_Fnt_BW_T98.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.404_Fnt_BW_T98.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.404_Fnt_BW_T98.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.404_Fnt_BW_T98.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1906,
+        "LocationString": null
+    },
+    "ObjectID": 9743,
+    "ObjectName": "furniture; knobs",
+    "ObjectNumber": "48.404",
+    "OnView": 0,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9743",
+    "SortNumber": "    48   404                                            ",
+    "Style": null,
+    "Title": "Furniture Knob with Name of King"
+}

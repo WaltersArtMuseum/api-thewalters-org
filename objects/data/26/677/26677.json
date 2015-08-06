@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ralph Albert Blakelock (American, 1845-1919)",
+            "CreatorID": 5940,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1860,
+    "DateEndYear": 1919,
+    "DateText": "1860-1919",
+    "Description": "Largely self-taught, Blakelock exhibited in the National Academy of Design. However, in 1891 he suffered his first nervous breakdown and from 1899 was committed to a psychiatric hospital. However, around this time his works began to find favor with collectors and in 1916, with his paintings fetching large sums, Blakelock was made an Academician.",
+    "Dimensions": "H: 13 7/16 x W: 21 1/16 in. (34.2 x 53.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50631,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.300_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.300_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.300_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.300_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.300_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 50630,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.300_BackCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.300_BackCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.300_BackCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.300_BackCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.300_BackCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 37352,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.300_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.300_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.300_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.300_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.300_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: Blakelock",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3396,
+        "LocationString": null
+    },
+    "ObjectID": 26677,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.300",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1916, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26677",
+    "SortNumber": "    37   300                                            ",
+    "Style": null,
+    "Title": "Landscape With Cascades"
+}

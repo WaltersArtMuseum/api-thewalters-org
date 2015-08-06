@@ -1,0 +1,100 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Coptic",
+            "CreatorID": 6833,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1962",
+    "Culture": "Coptic",
+    "DateBeginYear": 600,
+    "DateEndYear": 699,
+    "DateText": "7th century",
+    "Description": "This ivory relief depicts a boar hunt scene.  Two winged genii hover above a victorious emperor hunter.  Beneath the horse one can see the rear legs of the hunted boar.   The relief has been badly broken and subsequently repaired.  There are two holes in the relief, evidence that it was originally mounted on a piece of furniture or an architectural structure.  \r\n\r\nThis piece also strongly demonstrates the relationship betwen ivories and textiles from late classical and Coptic Egypt.  Two tapestries, now at the Textile Museum, in Washington DC, and at the Cleveland Museum of Art, contain images and details nearly identical to the ivory relief.",
+    "Dimensions": "H: 5 1/8 x W: 4 15/16 in. (13 x 12.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54350,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_71.1144_Fnt_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_71.1144_Fnt_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_71.1144_Fnt_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_71.1144_Fnt_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_71.1144_Fnt_TR.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 40025,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_71.1144_Fnt_BW_H62.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_71.1144_Fnt_BW_H62.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_71.1144_Fnt_BW_H62.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_71.1144_Fnt_BW_H62.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_71.1144_Fnt_BW_H62.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 885,
+        "LocationString": null
+    },
+    "ObjectID": 30169,
+    "ObjectName": "panels (surface components)",
+    "ObjectNumber": "71.1144",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Adolph Loewi, Venice and Los Angeles [likely acquired from Luzern Sale, see Ars Antiqua,1959], by purchase; Walters Art Museum, 1962, by purchase.",
+    "PublicAccessDate": "2012-06-25T22:00:00.363",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30169",
+    "SortNumber": "    71  1144                                            ",
+    "Style": null,
+    "Title": "Victorious Emperor"
+}

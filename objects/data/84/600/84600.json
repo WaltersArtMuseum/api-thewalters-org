@@ -1,0 +1,125 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Gaspard Migeot",
+            "CreatorID": 21265,
+            "Gender": null,
+            "Role": "Printer"
+        },
+        {
+            "ConcatDisplayName": "Daniel Elzevir (1626-1680)",
+            "CreatorID": 21264,
+            "Gender": null,
+            "Role": "Printer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1931",
+    "Culture": null,
+    "DateBeginYear": 1668,
+    "DateEndYear": 1668,
+    "DateText": "1668",
+    "Description": "This book is the original 17th-century fanfare binding from which the Catalogue of an Exhibition Illustrative of the Text of Shakespeare's Plays (Walters 92.1269) was copied. Only some differences in the coloring of the leathers and the lack of clasps on the copy distinguish the two. The gold tooling was achieved by laying gold leaf over the leather and pressing heated brass tools into the surface, leaving the design behind in gold.",
+    "Dimensions": "H: 6 5/16 \u00d7 W: 3 3/4 \u00d7 D: 1 3/8 in. (16.03 \u00d7 9.53 \u00d7 3.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bookbindings from the Gilded Age",
+            "ExhibBeginDate": "2013-10-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 26, 2013-May 18, 2014",
+            "ExhibEndDate": "2014-05-18",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3254,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Bookbindings from the Gilded Age. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Provence-Alpes-C\u00f4te d'Azur\\departments\\Var\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1429860,
+            "GeographyTerm": "Mons",
+            "Latitude": "43 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.683,
+            "Longitude": "006 32",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.533
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Provence-Alpes-C\u00f4te d'Azur\\departments\\Var\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1429860,
+            "GeographyTerm": "Mons",
+            "Latitude": "43 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.683,
+            "Longitude": "006 32",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.533
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52737,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.182_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.182_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.182_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.182_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.182_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52736,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.182_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.182_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.182_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.182_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.182_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52735,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.182_LowerCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.182_LowerCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.182_LowerCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.182_LowerCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.182_LowerCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper bound between boards covered with parchment, goatskin, gold, and iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2438,
+        "LocationString": null
+    },
+    "ObjectID": 84600,
+    "ObjectName": "rare books; books",
+    "ObjectNumber": "92.182",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Henry Walters, Baltimore, before 1931; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84600",
+    "SortNumber": "    92   182                                            ",
+    "Style": null,
+    "Title": "Le Nouveau Testament de Nostre Seigneur Jesus Christ"
+}

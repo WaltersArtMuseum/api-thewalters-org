@@ -1,0 +1,173 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Saint John Climacus (Syrian, 579-649)",
+            "CreatorID": 7288,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Master of the Revelations of Saint Bridget of Siena",
+            "CreatorID": 7289,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1375,
+    "DateEndYear": 1400,
+    "DateText": "late 14th century",
+    "Description": null,
+    "Dimensions": "9 1/2 x 6 9/16 in. (24.2 x 16.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47452,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.157.10V_Fp_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.157.10V_Fp_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.157.10V_Fp_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.157.10V_Fp_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.157.10V_Fp_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 2539,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.157.10V_OpnRev_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.157.10V_OpnRev_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.157.10V_OpnRev_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.157.10V_OpnRev_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.157.10V_OpnRev_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 47448,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.157.10V_DetA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.157.10V_DetA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.157.10V_DetA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.157.10V_DetA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.157.10V_DetA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 47449,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.157.10V_DetB_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.157.10V_DetB_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.157.10V_DetB_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.157.10V_DetB_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.157.10V_DetB_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 47450,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.157.10V_DetC_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.157.10V_DetC_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.157.10V_DetC_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.157.10V_DetC_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.157.10V_DetC_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 47451,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.157.10V_DetD_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.157.10V_DetD_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.157.10V_DetD_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.157.10V_DetD_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.157.10V_DetD_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 47453,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.157.10V_FpCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.157.10V_FpCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.157.10V_FpCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.157.10V_FpCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.157.10V_FpCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 9603,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.157.10V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Nicolo da Martino; Howell Wills [date and mode of acquisition unknown]; Sale, London, July 11, 1894, no. 482; Quaritch, July 11, 1894, by purchase; L. S. Olschki [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase [inv. no. 35190, from the same library as W.291, (Walters Olim #) A.III.67]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9603",
+    "SortNumber": "W        157   10V                                      ",
+    "Style": "Gothic",
+    "Title": "Panel Miniature with the Monk John Climacus"
+}

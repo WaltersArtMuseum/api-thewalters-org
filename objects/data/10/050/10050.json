@@ -1,0 +1,119 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Assyrian",
+            "CreatorID": 2071,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": -859,
+    "DateEndYear": -824,
+    "DateText": "859-824 BC",
+    "Description": "During the Assyrian period (900-609 BC), royal artists frequently depicted major military conquests. This bronze fragment, along with Walters 54.2335B, originally belonged to a 21 foot high wooden gate of a temple at Balawat, just northeast of the capital, Nimrud. Together with nearly 265 feet of narrative strips from the same gate now in the British Museum, they illustrate in intricate detail the numerous military campaigns of King Shalmaneser III.\r\n\r\nIn this fragment, Syrian porters in long robes and conical hats carry tribute to the Assyrian camp. They bring items for which Syria was famous: wine in skin bags; trays, possibly bearing ivory tusks; and heavy rolls of wool, probably dyed purple. The inscription at the top labels these as gifts from the coastal Phoenician cities of Tyre and Sidon.",
+    "Dimensions": "H: 3 15/16 x W: 11 x D: 3/16 in. (10 x 28 x 0.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Assyria to Iberia: Crossing Continents at the Dawn of the Classical Age",
+            "ExhibBeginDate": "2014-09-15",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "Monday, September 15, 2014 - Sunday, January 04, 2015",
+            "ExhibEndDate": "2015-01-04",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3236,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "From Assyria to Iberia: Crossing Continents at the Dawn of the Classical Age. The Metropolitan Museum of Art, New York. 2014-2015."
+        },
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489407,
+            "GeographyTerm": "Ninawa",
+            "Latitude": "36 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.166,
+            "Longitude": "042 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 42.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56825,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2335A_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2335A_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2335A_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2335A_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2335A_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56824,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2335A_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2335A_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2335A_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2335A_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2335A_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 5548,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.2335A_Fnt_BW_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.2335A_Fnt_BW_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.2335A_Fnt_BW_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.2335A_Fnt_BW_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.2335A_Fnt_BW_H49.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Inscription] labels objects as gifts from the coastal Phoenician cities of Tyre and Sidon",
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6611,
+        "LocationString": null
+    },
+    "ObjectID": 10050,
+    "ObjectName": "reliefs",
+    "ObjectNumber": "54.2335A",
+    "OnView": 0,
+    "Period": "Neo-Assyrian",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Sale, Brummer Auction, New York, 1949, Part II, p. 19, no. 85; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": "Shalmaneser III (859-824 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10050",
+    "SortNumber": "    54  2335A                                           ",
+    "Style": null,
+    "Title": "Fragment of Band from a Gate"
+}

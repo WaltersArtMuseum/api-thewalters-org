@@ -1,0 +1,87 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tsunahiro (Japanese)",
+            "CreatorID": 3515,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1578,
+    "DateEndYear": 1899,
+    "DateText": "Blade: ca. 1590; Scabbard: 19th century",
+    "Description": null,
+    "Dimensions": "mounted tanto blade: 11 1/8 in. (28.3 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490965,
+            "GeographyTerm": "Kanagawa-ken",
+            "Latitude": "35 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.5,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16350,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1213_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1213_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1213_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1213_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1213_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 16349,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1213_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1213_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1213_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1213_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1213_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Tsunahiro",
+    "Keywords": null,
+    "Medium": "dark brown lacquer, silver foil, copper alloy, gold, gilded copper, silver alloy, wood\r\n",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2177,
+        "LocationString": null
+    },
+    "ObjectID": 36726,
+    "ObjectName": "dagger;tanto blade;menuki;kozuka;saya;tsuka",
+    "ObjectNumber": "51.1213",
+    "OnView": 0,
+    "Period": "Momoyama",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.45",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79332,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/36726",
+    "SortNumber": "    51  1213                                            ",
+    "Style": null,
+    "Title": "Dagger with Wisteria and Puppies"
+}

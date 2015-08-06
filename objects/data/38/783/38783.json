@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1870,
+    "DateEndYear": 1899,
+    "DateText": "late 19th century",
+    "Description": "This is an example of Satsuma ware.",
+    "Dimensions": "2 3/8 in. (6.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Harborplace Pratt Street Pavilion Special Display",
+            "ExhibBeginDate": "1984-04-27",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "April 27, 1984-May 15, 1984",
+            "ExhibEndDate": "1984-05-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2955,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Harborplace Pratt Street Pavilion Special Display. Harborplace, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5271,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.716_Fnt_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.716_Fnt_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.716_Fnt_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.716_Fnt_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.716_Fnt_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": null,
+    "Medium": "white earthenware with overglaze enamels and copper alloy with gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2086,
+        "LocationString": null
+    },
+    "ObjectID": 38783,
+    "ObjectName": "censers",
+    "ObjectNumber": "49.716",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.403",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38783",
+    "SortNumber": "    49   716                                            ",
+    "Style": "Satsuma ware",
+    "Title": "Tripod Censer"
+}

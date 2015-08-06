@@ -1,0 +1,155 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": null,
+    "DateBeginYear": -4012,
+    "DateEndYear": -3500,
+    "DateText": "ca. 4000-3500 BC",
+    "Description": "This small figure displays a standing hippopotamus. Figures such as this may have been votives.",
+    "Dimensions": "H: 15/16 x W: 9/16 x D: 1 5/8 in. (2.35 x 1.47 x 4.13 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ivory: The Sumptuous Art",
+            "ExhibBeginDate": "1983-10-14",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "October 14, 1983-January 15, 1984",
+            "ExhibEndDate": "1984-01-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 215,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ivory: The Sumptuous Art. The Walters Art Gallery, Baltimore. 1983-1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7527,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_71.528_3Qtr_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_71.528_3Qtr_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_71.528_3Qtr_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_71.528_3Qtr_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_71.528_3Qtr_TR.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22870,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_71.528_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_71.528_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_71.528_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_71.528_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_71.528_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22868,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_71.528_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_71.528_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_71.528_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_71.528_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_71.528_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22869,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_71.528_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_71.528_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_71.528_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_71.528_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_71.528_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22866,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_71.528_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_71.528_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_71.528_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_71.528_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_71.528_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 22871,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_71.528_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_71.528_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_71.528_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_71.528_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_71.528_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 22867,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_71.528_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_71.528_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_71.528_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_71.528_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_71.528_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "hippopotamus ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3766,
+        "LocationString": null
+    },
+    "ObjectID": 8226,
+    "ObjectName": "figurines",
+    "ObjectNumber": "71.528",
+    "OnView": 1,
+    "Period": "Predynastic (Naqada I)",
+    "Provenance": "MacGregor Collection [date and mode of acquisition unknown] [lot 708]; Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:41.347",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8226",
+    "SortNumber": "    71   528                                            ",
+    "Style": "Naqada I",
+    "Title": "Hippopotamus"
+}

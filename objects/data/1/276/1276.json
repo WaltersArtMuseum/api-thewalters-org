@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Andrei Dionis'evich Denisov (Russian, 1674 - 1730)",
+            "CreatorID": 33505,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Simeon Denisov (Russian, 1682 - 1741)",
+            "CreatorID": 33504,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Museum purchase, 2005",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1825,
+    "DateText": "ca. 1800",
+    "Description": "This manuscript was made around 1800 by an often persecuted group of Russian Christians, the Old Believers. Because this group frequently had its books confiscated and was denied the use of printing presses, its members continued to write important books such as this one by hand. This text chronicles and illustrates the story of a group of monks at the Solovetsky Monastery who opposed Nikons controversial reforms and endured a siege for eight years (1668-1676) before they were finally betrayed. Most of the monks were killed, though some escaped, and many went to the Vyg region, where the author of this book, Simeon Denisov (1682-1741), was a leader in the Old Believer community.",
+    "Dimensions": "Folio H: 7 5/16 \u00d7 W: 5 7/8 in. (18.5 \u00d7 15 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Russia",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Russia",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46154,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.916.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.916.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.916.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.916.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.916.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Illumination; Manuscript; Watermark; Miniature; Original binding; Painting; Theology; History",
+    "Medium": "ink and pigments on an array of different types of paper ranging from thin to very thick bound between wooden boards covered with varnished leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2393,
+        "LocationString": null
+    },
+    "ObjectID": 1276,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.916",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sam Fogg Rare Books and Manuscripts [date and mode of acquisition unknown]; The Walters Art Museum, 2005, by purchase.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1276",
+    "SortNumber": "W        916                                            ",
+    "Style": null,
+    "Title": "Fathers of the Solovetsky Monastery and Their Sufferings"
+}

@@ -1,0 +1,113 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Berto di Giovanni di Marco (Italian, ca. 1475-1529) (?)",
+            "CreatorID": 15487,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Style of Perugino (Italian, ca. 1450-1523)",
+            "CreatorID": 3286,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1522,
+    "DateText": "ca. 1500-1510",
+    "Description": "Saint Francis (ca. 1182-1226) was the patron saint and founder of the Franciscan Order. Late in life he had a vision, which left him with wounds in hands and feet like those of the crucified Christ. Here, he is depicted holding a book and a cross-staff and wearing the brown habit of the Franciscan order. The saint promoted an austere and pious way of life, and his bare feet testify to his ideal of poverty. The letters \"C G\" and the coat of arms refer to the unidentified patron of the altarpiece.\r\n\r\nA follower of Perugino, Berto worked in the sweet and simple style of that artist. \r\n\r\nFor more information on this piece, please see Federico Zeri's 1976 catalogue no. 116, p. 177.\r\n",
+    "Dimensions": "Painted surface H: 26 15/16 x W: 16 7/8 in. (68.5 x 42.8 cm); Panel H: 30 5/16 x W: 20 1/4 x D: 1 in. (77 x 51.5 x 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437412,
+            "GeographyTerm": "Perugia",
+            "Latitude": "43 08",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.133,
+            "Longitude": "012 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.366
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437412,
+            "GeographyTerm": "Perugia",
+            "Latitude": "43 08",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.133,
+            "Longitude": "012 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4250,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.640_Fnt_SL_C80.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.640_Fnt_SL_C80.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.640_Fnt_SL_C80.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.640_Fnt_SL_C80.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.640_Fnt_SL_C80.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47825,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.640_XR_1965.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.640_XR_1965.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.640_XR_1965.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.640_XR_1965.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.640_XR_1965.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Inscription] C G",
+    "Keywords": null,
+    "Medium": "tempera and gilt on wood panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 15th-Century Italian Art",
+        "LocationID": 4581,
+        "LocationString": null
+    },
+    "ObjectID": 27655,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.640",
+    "OnView": 1,
+    "Period": "early Renaissance",
+    "Provenance": "Pinacoteca, Perugia; Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 181; 1897 catalogue: no. 332, as Eusebio di San Giorgio]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27655",
+    "SortNumber": "    37   640                                            ",
+    "Style": null,
+    "Title": "Saint Francis of Assisi"
+}

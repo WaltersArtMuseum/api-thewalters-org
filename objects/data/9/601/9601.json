@@ -1,0 +1,104 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Zahir al-Din Muhammad Babur (1483-1530)",
+            "CreatorID": 7547,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "In this folio from Walters manuscript W.596, Babur and his warriors are depicted visiting the Hindu temple Gurh Kattri (Kur Katri) in Bigram.",
+    "Dimensions": "H: 12 5/8 x W: 8 1/4 in. (32 x 21 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Art of the Book in India",
+            "ExhibBeginDate": "1982-04-16",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "April 16, 1982-August 1, 1982",
+            "ExhibEndDate": "1982-08-01",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2916,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Art of the Book in India. British Library, London. 1982."
+        },
+        {
+            "ExhTitle": "Yoga: The Art of Transformation",
+            "ExhibBeginDate": "2013-10-19",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 19, 2013-January 26, 2014",
+            "ExhibEndDate": "2014-01-26",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3144,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Yoga: The Art of Transformation. Arthur M. Sackler Gallery, Smithsonian Institution., Washington, D.C.; Asian Art Museum, San Francisco; The Cleveland Museum of Art, Cleveland. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20923,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.596.22B_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.596.22B_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.596.22B_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.596.22B_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.596.22B_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Persian; Timurid; Book; Calligraphy; Codex; Illustration; Manuscript; Miniature; India; Central Asia; History",
+    "Medium": "ink and pigments on re-margined paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 9601,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.596.22B",
+    "OnView": 0,
+    "Period": "Mughal; Timurid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 19311,
+            "RelationType": "See Also, Double Leaf"
+        },
+        {
+            "ObjectID": 91088,
+            "RelationType": "See Also, Double Leaf"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9601",
+    "SortNumber": "W        596   22B                                      ",
+    "Style": null,
+    "Title": "Babur and His Warriors Visiting a Hindu Temple"
+}

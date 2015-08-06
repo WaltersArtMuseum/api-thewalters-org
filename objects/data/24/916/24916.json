@@ -1,0 +1,131 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "German",
+    "DateBeginYear": 1350,
+    "DateEndYear": 1375,
+    "DateText": "1350-1375",
+    "Description": "Scenes of the Virgin and Child (left) and the Crucifixion (right) are framed by crisp, architectural gables ornamented with pierced, three-lobed rosettes.  The delicacy of the carving has led scholars to attribute this diptych to the Berlin Master, who worked in Cologne but whose most famous ivory triptych is now in Berlin.  The Berlin Master's figures are characterized by a gentle, S-curved sway, elegant drapery, and serene expressions.\r\n",
+    "Dimensions": "5 9/16 x 7 5/16 x 7/16 in. (14.2 x 18.6 x 1.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ivory: The Sumptuous Art",
+            "ExhibBeginDate": "1983-10-14",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "October 14, 1983-January 15, 1984",
+            "ExhibEndDate": "1984-01-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 215,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ivory: The Sumptuous Art. The Walters Art Gallery, Baltimore. 1983-1984."
+        },
+        {
+            "ExhTitle": "Images in Ivory: Precious Objects of the Gothic Age",
+            "ExhibBeginDate": "1997-03-09",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "March 9, 1997-August 31, 1997",
+            "ExhibEndDate": "1997-08-31",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 961,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Images in Ivory: Precious Objects of the Gothic Age. The Detroit Institute of Arts, Detroit; The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\K\u00f6ln\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1453463,
+            "GeographyTerm": "K\u00f6ln",
+            "Latitude": "50 56",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.933,
+            "Longitude": "006 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11254,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_71.214A-71.214B_Fnt_TR_T96III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_71.214A-71.214B_Fnt_TR_T96III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_71.214A-71.214B_Fnt_TR_T96III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_71.214A-71.214B_Fnt_TR_T96III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_71.214A-71.214B_Fnt_TR_T96III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11253,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_71.214A_Fnt_TR_T96III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_71.214A_Fnt_TR_T96III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_71.214A_Fnt_TR_T96III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_71.214A_Fnt_TR_T96III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_71.214A_Fnt_TR_T96III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11255,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_71.214B_Fnt_TR_T96III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_71.214B_Fnt_TR_T96III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_71.214B_Fnt_TR_T96III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_71.214B_Fnt_TR_T96III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_71.214B_Fnt_TR_T96III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 36034,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_71.214_PcAB_NG_3645.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_71.214_PcAB_NG_3645.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_71.214_PcAB_NG_3645.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_71.214_PcAB_NG_3645.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_71.214_PcAB_NG_3645.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3871,
+        "LocationString": null
+    },
+    "ObjectID": 24916,
+    "ObjectName": "diptychs;ivories",
+    "ObjectNumber": "71.214",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.753",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24916",
+    "SortNumber": "    71   214                                            ",
+    "Style": "Gothic",
+    "Title": "Diptych with the Virgin and Child, and the Crucifixion"
+}

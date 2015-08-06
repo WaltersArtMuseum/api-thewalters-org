@@ -1,0 +1,125 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Appert Fr\u00e8res (French, active ca. 19th century)",
+            "CreatorID": 15537,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "Eug\u00e8ne Rousseau (French, 1827-1891)",
+            "CreatorID": 4874,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1878,
+    "DateEndYear": 1884,
+    "DateText": "1878-84",
+    "Description": "Rousseau is regarded as a major pioneer in the renewal of French glass design during the 19th century. In this example, a Japanese lady wearing a kimono and carrying a fan is posed against an oval doorway.\r\n",
+    "Dimensions": "9 1/16 in. (23 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Le Japonisme",
+            "ExhibBeginDate": "1988-05-17",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "May 17, 1988-December 11, 1988",
+            "ExhibEndDate": "1988-12-11",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 3023,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Le Japonisme. Galeries nationales du Grand Palais, Paris; Musee National d' Art Occidental, Tokyo. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427724,
+            "GeographyTerm": "Clichy",
+            "Latitude": "48 54",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.9,
+            "Longitude": "002 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.316
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427724,
+            "GeographyTerm": "Clichy",
+            "Latitude": "48 54",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.9,
+            "Longitude": "002 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6766,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_47.380_SideA_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_47.380_SideA_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_47.380_SideA_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_47.380_SideA_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_47.380_SideA_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4639,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_47.378-380_Fnt_BW_C82.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_47.378-380_Fnt_BW_C82.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_47.378-380_Fnt_BW_C82.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_47.378-380_Fnt_BW_C82.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_47.378-380_Fnt_BW_C82.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "layered lass, lacquer, red enamel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1719,
+        "LocationString": null
+    },
+    "ObjectID": 6204,
+    "ObjectName": "vases",
+    "ObjectNumber": "47.380",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.817",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6204",
+    "SortNumber": "    47   380                                            ",
+    "Style": "Japonism",
+    "Title": "Vase Showing a Japanese Lady"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1512,
+    "DateText": "ca. 1500",
+    "Description": null,
+    "Dimensions": "H: 10 1/16 x W: 6 1/2 in. (25.5 x 16.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11781,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.294.67V-68R_OpnGp_TR_T98III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.294.67V-68R_OpnGp_TR_T98III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.294.67V-68R_OpnGp_TR_T98III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.294.67V-68R_OpnGp_TR_T98III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.294.67V-68R_OpnGp_TR_T98III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78369,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.294.68R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": null,
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78369",
+    "SortNumber": "W        294   68R                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Hours"
+}

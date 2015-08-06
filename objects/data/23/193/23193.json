@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Caspar Johann Nepomuk Scheuren (German, 1810 - 1887)",
+            "CreatorID": 32902,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1852,
+    "DateEndYear": 1852,
+    "DateText": "1852",
+    "Description": "Caspar Scheuren was a professor at the D\u00fcsseldorf Academy from 1855, where, as a student, he had earlier studied with Carl Friedrich Lessing and Johann Wilhelm Schirmer. Travels as a student informed his romantic landscapes, which often recall the work of Caspar David Friedrich (1774-1840).",
+    "Dimensions": "H: 4 3/4 x W: 5 1/4 in. (12 x 13.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19276,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1393_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1393_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1393_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1393_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1393_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signed and dated] C. Scheuren. 1852.",
+    "Keywords": null,
+    "Medium": "pen and ink and wash on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 23193,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1393",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by bequest; Walters Art Museum, 1931, by besquest.",
+    "PublicAccessDate": "2012-12-14T22:00:00.527",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23193",
+    "SortNumber": "    37  1393                                            ",
+    "Style": "Romanticism",
+    "Title": "Mountain Scene"
+}

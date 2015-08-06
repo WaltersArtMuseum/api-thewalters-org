@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of Walters 185",
+            "CreatorID": 7854,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Johannes de Malborch",
+            "CreatorID": 7853,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1425,
+    "DateText": "1st quarter 15th century",
+    "Description": null,
+    "Dimensions": "H: 4 15/16 x W: 3 3/4 in. (12.6 x 9.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41374,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.185.14V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.185.14V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.185.14V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.185.14V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.185.14V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on thin, well-finished cream-colored parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 35821,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.185.14V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Produced for unidentified patrons in the early 15th century who were originally represented flanking the full-page miniature of the Crucifixion (fol. 72v) but later painted over (calendar for the Use of Utrecht, localizing the place of production of the book); Franchoise de Doffinnes, Monchy Breton near St. Omer, 16th century [ownership note dated 1584, fol. 283v; additional notes regarding the Doffinnes family from 1520-1637, fols. 278v-279v, 283r]; Gruel and Engelmann, Paris, [collection no. 1018], before 1909 [mode of acquisition unknown]; Librairie Theophile Belin, Paris, 1909 [Catalog Manuscrits avec miniature..., pp. 5-7, no.4] [mode of acquisition unknown]; Henry Walters, Baltimore, by 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35821",
+    "SortNumber": "W        185   14V                                      ",
+    "Style": "International Gothic",
+    "Title": "Betrayal"
+}

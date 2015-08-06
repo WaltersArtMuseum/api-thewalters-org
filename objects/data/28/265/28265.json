@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Filippo Mazzola (Italian, ca. 1460-1505)",
+            "CreatorID": 6272,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1916",
+    "Culture": null,
+    "DateBeginYear": 1491,
+    "DateEndYear": 1504,
+    "DateText": "1491-1504",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 185, pp. 274-275.",
+    "Dimensions": "Painted surface H: 26 5/16 x W: 36 1/16 x D: 1/2 in. (66.8 x 91.6 x 1.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Parma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439688,
+            "GeographyTerm": "Parma",
+            "Latitude": "44 48",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.8,
+            "Longitude": "010 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28596,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1056_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1056_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1056_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1056_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1056_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47924,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1056_XR_1962.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1056_XR_1962.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1056_XR_1962.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1056_XR_1962.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1056_XR_1962.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3363,
+        "LocationString": null
+    },
+    "ObjectID": 28265,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.1056",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1916 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28265",
+    "SortNumber": "    37  1056                                            ",
+    "Style": null,
+    "Title": "The Dead Christ Supported by Angels"
+}

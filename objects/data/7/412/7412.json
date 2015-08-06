@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Egyptian",
+    "DateBeginYear": -392,
+    "DateEndYear": -250,
+    "DateText": "ca. 380-250 BCE",
+    "Description": "The sistrum is a musical rattling instrument that was popular in the cult of the goddess Hathor. Called a \"seshsehet\" in Egyptian, the name imitates the swishing sound the small metal disks made when the instrument was shaken. Priestesses and royal women participating in rituals and ceremonies at temples and shrines played the sistrum. \r\n\r\nThe face of the goddess Hathor is depicted with cow ears on the handle of the rattle. \r\n",
+    "Dimensions": "H: 14 5/16 in. (36.3 cm)",
+    "Dynasty": "30th-early Ptolemaic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Egypt\u2019s Mysterious Book of the Faiyum",
+            "ExhibBeginDate": "2013-10-06",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 06, 2013-January 05, 2015",
+            "ExhibEndDate": "2014-01-05",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3193,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "Egypt\u2019s Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8657,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1207_3Qtr_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1207_3Qtr_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1207_3Qtr_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1207_3Qtr_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1207_3Qtr_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8658,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1207_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1207_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1207_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1207_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1207_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "sistrum; rattle; bronze; goddess; Hathor; musician; ceremony; music; ritual",
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3744,
+        "LocationString": null
+    },
+    "ObjectID": 7412,
+    "ObjectName": "sistra",
+    "ObjectNumber": "54.1207",
+    "OnView": 1,
+    "Period": "Late Period (30th dynasty)-early Ptolemaic Period",
+    "Provenance": "Maurice Nahman, Cairo and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.\r\n\r\n",
+    "PublicAccessDate": "2008-09-25T17:13:40.61",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7412",
+    "SortNumber": "    54  1207                                            ",
+    "Style": null,
+    "Title": "Sistrum"
+}

@@ -1,0 +1,100 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Toshitsugu (Japanese, active ca. 19th century)",
+            "CreatorID": 16532,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1308,
+    "DateEndYear": 1332,
+    "DateText": "ca. 1320",
+    "Description": "The tanto blade, from the early 14th century, is inscribed with the Sanskrit character presenting the Buddhist deity Fud\u00f4 My\u00f4-\u00f4. It is mounted in a 19th-century scabbard decorated with butterflies on lacquer and metalwork depicting peonies. Some of the metal fittings are signed \"Toshitsugu.\"",
+    "Dimensions": "L: 16 15/16 in. (43 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Nature of Loyalty: Japanese Warrior Prints of the Nineteenth Century",
+            "ExhibBeginDate": "1989-03-02",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "March 2, 1989-April 30, 1989",
+            "ExhibEndDate": "1989-04-30",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 880,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Nature of Loyalty: Japanese Warrior Prints of the Nineteenth Century. The Walters Art Gallery, Baltimore. 1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5325,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.1237_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.1237_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.1237_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.1237_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.1237_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] On blade: Fudo Myo-o; [Signature] On kozuka and kogai: Toshitsugu; [Signature] On scabbard: Akimasa (?)",
+    "Keywords": null,
+    "Medium": "dark brown lacquer, silver, gold, steel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 36531,
+    "ObjectName": "daggers",
+    "ObjectNumber": "51.1237",
+    "OnView": 0,
+    "Period": "Kamakura",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-09T14:17:09.55",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3596,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79607,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79608,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79609,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/36531",
+    "SortNumber": "    51  1237                                            ",
+    "Style": null,
+    "Title": "Dagger in Scabbard with Butterflies and Peonies"
+}

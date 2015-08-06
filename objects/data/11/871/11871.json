@@ -1,0 +1,155 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Naples Painter (Greek, active ca. 450 BC-ca. 420 BC)",
+            "CreatorID": 2919,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -452,
+    "DateEndYear": -428,
+    "DateText": "ca. 440 BC",
+    "Description": "Here, a \"symposium,\" or men's drinking party, is under way. Entertainment at such events was provided by \"hetairai,\" or female prostitutes, who also served as musicians and dancers. Reclining on dining couches are two bearded men and an unbearded youth, who tilts his head back to listen to the girl before him playing the double flutes.",
+    "Dimensions": "15 3/8 x 13 7/8 in. (39 x 35.2 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "D\u00e9j\u00e0 Vu? Recurrence",
+            "ExhibBeginDate": "2007-09-19",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "September 19, 2007-January 20, 2008",
+            "ExhibEndDate": "2008-01-20",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2816,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "D\u00e9j\u00e0 Vu? Recurrence. The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Perif\u00e9reia Protevo\u00fasis\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431408,
+            "GeographyTerm": "Ath\u00ednai",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "023 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6584,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.67_SideA_TR_T94IA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.67_SideA_TR_T94IA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.67_SideA_TR_T94IA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.67_SideA_TR_T94IA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.67_SideA_TR_T94IA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4936,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.67_SideB_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.67_SideB_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.67_SideB_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.67_SideB_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.67_SideB_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 47861,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.67_Det_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.67_Det_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.67_Det_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.67_Det_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.67_Det_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 47862,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.67_Lft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.67_Lft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.67_Lft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.67_Lft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.67_Lft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 47863,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.67_Rt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.67_Rt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.67_Rt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.67_Rt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.67_Rt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 47864,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.67_SideA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.67_SideA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.67_SideA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.67_SideA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.67_SideA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        },
+        {
+            "ID": 47865,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.67_SideB_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.67_SideB_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.67_SideB_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.67_SideB_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.67_SideB_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 10
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3662,
+        "LocationString": null
+    },
+    "ObjectID": 11871,
+    "ObjectName": "column kraters",
+    "ObjectNumber": "48.67",
+    "OnView": 1,
+    "Period": "Classical",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [cat. no. 176]; Henry Walters, Baltimore, 1902; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.877",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11871",
+    "SortNumber": "    48    67                                            ",
+    "Style": "Attic",
+    "Title": "Red-Figure Column Krater"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Morandini (Italian, 1544-1597)",
+            "CreatorID": 2718,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Copy after Agnolo Bronzino (Italian, 1503-1572)",
+            "CreatorID": 8184,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1580,
+    "DateEndYear": 1600,
+    "DateText": "1580-1590",
+    "Description": "This biblical scene shows the feast given by Joseph in honor of his brothers during their visit to Egypt (Genesis 43). The bothers, who are Isrealites, do not know that Joseph, their \"Egyptian\" host, is actually their brother. Joseph is pictured on the right, seated by himself, since an Egyptian was not permitted to eat with a Isrealite.\r\n\tThis painting is derived from a design by Bronzino for a tapestry dated 1549. Originally intended for the Palazzo Vecchio in Florence, the tapestry is currently in the Palazzo Quirinale in Rome. Morandini was called \"il Poppi\" after his birthplace, a village near Florence. He was a pupil of Giorgi Vasari and collaborated with his master in the decoration of the Palazzo Vecchio around 1570.\r\n",
+    "Dimensions": "Painted surface H: 23 7/8 x W: 21 5/8 x D: 1 7/16 in. (60.6 x 55 x 3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 26319,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1063_Fnt_BW_H66.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1063_Fnt_BW_H66.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1063_Fnt_BW_H66.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1063_Fnt_BW_H66.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1063_Fnt_BW_H66.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47869,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1063_XR_1965.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1063_XR_1965.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1063_XR_1965.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1063_XR_1965.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1063_XR_1965.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4630,
+        "LocationString": null
+    },
+    "ObjectID": 12898,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1063",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 129; 1897 catalogue: no. 125, as Giorgio Vasari]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12898",
+    "SortNumber": "    37  1063                                            ",
+    "Style": null,
+    "Title": "The Feast Given by Joseph for His Brothers"
+}

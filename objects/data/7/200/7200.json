@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine Daniel Prudhomme (Dutch, 1745-ca. 1826)",
+            "CreatorID": 5086,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 8 3/4 x W: 11 5/16 in. (22.2 x 28.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "To Arrest the Ravages of Time: Caring for Art at the Walters",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 721,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "To Arrest the Ravages of Time: Caring for Art at the Walters. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45361,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.618_Fnt_BW_T92.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.618_Fnt_BW_T92.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.618_Fnt_BW_T92.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.618_Fnt_BW_T92.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.618_Fnt_BW_T92.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3265,
+        "LocationString": null
+    },
+    "ObjectID": 7200,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.618",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-01-24T22:00:01.35",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7200",
+    "SortNumber": "    37   618                                            ",
+    "Style": null,
+    "Title": "Scene in a Tavern Yard"
+}

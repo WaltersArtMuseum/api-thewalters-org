@@ -1,0 +1,118 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -332,
+    "DateText": "664-332 BC",
+    "Description": "This pendant shows the head of a lion on one side, and the head of a bull with a sun disk on the other side. It may have been a variation of amulets which displays two combined lions who represents the horizon. This variation adds the idea of the holy Apis bull who was particularly worshipped in the Late and Greco-Roman Periods.",
+    "Dimensions": "H: 3/8 x W: 3/4 x D: 1/16 in. (0.96 x 1.9 x 0.2 cm)",
+    "Dynasty": "26th-30th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22455,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1747_SideA_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1747_SideA_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1747_SideA_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1747_SideA_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1747_SideA_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22456,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1747_SideB_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1747_SideB_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1747_SideB_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1747_SideB_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1747_SideB_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22458,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1747_VwA_DD_RS2009_cow.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1747_VwA_DD_RS2009_cow.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1747_VwA_DD_RS2009_cow.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1747_VwA_DD_RS2009_cow.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1747_VwA_DD_RS2009_cow.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22459,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1747_VwB_DD_RS2009_lion.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1747_VwB_DD_RS2009_lion.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1747_VwB_DD_RS2009_lion.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1747_VwB_DD_RS2009_lion.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1747_VwB_DD_RS2009_lion.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22457,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1747_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1747_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1747_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1747_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1747_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with green glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 5134,
+    "ObjectName": "pendants; amulets; amulet-pendants",
+    "ObjectNumber": "48.1747",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-02T10:54:24.44",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5134",
+    "SortNumber": "    48  1747                                            ",
+    "Style": null,
+    "Title": "Combined Fore-parts of Lion/Apis Bull"
+}

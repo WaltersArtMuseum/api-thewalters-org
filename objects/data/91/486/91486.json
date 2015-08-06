@@ -1,0 +1,166 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Christian; German",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "This binding is not orginal to its manuscript, but rather it was created and added to the manuscript in the 16th century in Flanders.",
+    "Dimensions": "H: 5 1/16 \u00d7 W: 3 13/16 in. (12.9 \u00d7 9.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52650,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-1_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-1_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-1_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-1_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-1_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52651,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-2_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-2_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-2_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-2_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-2_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52517,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-3_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-3_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-3_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-3_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-3_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 52518,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-4_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-4_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-4_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-4_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-4_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 52519,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-5_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-5_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-5_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-5_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-5_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 52520,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-6_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-6_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-6_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-6_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-6_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 52521,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-7_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-7_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-7_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-7_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-7_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 52522,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.binding-8_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.binding-8_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.binding-8_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.binding-8_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.binding-8_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "beech boards covered in brown calf leather, blind-tooled Renaissance motifs with corner and edges of binding restored, one sixteenth-century brass clasp remaining and red, white and blue parchment Turk head fore-edge markers",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 91486,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.111.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "[Made for Franciscan use in Cologne, late thirteenth century, Ripuarisch dialect points to Cologne region]; Augustinian nuns of St. Cecilia, Cologne, late 15th or 16th century; Susanna Koull, 17th century; L.S. Olschki [date and mode of acquisition unknown]; Henry Walters, by purchase [L.S. Olschiki, no. 24][date of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-11-26T01:00:00.213",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91486",
+    "SortNumber": "W        111binding                                     ",
+    "Style": null,
+    "Title": "Binding from Franciscan Liturgical Psalter"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antonio Solario (Italian, active 1502-1514)",
+            "CreatorID": 2339,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1909",
+    "Culture": null,
+    "DateBeginYear": 1499,
+    "DateEndYear": 1523,
+    "DateText": "ca. 1511",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 184, pp. 273-274.",
+    "Dimensions": "Painted surface H including modern additions: 29 1/2 x W: 40 1/16 in. (75 x 101.7 cm); Surviving panel H: 28 1/8 x W: 37 5/16 x Approx. D excluding cradle: 7/16 in. (71.5 x 94.7 x 1.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Lost and Found: The Secrets of Archimedes",
+            "ExhibBeginDate": "2011-10-16",
+            "ExhibBeginYear": 2011,
+            "ExhibDisplayDate": "October 16, 2011-January 01, 2012",
+            "ExhibEndDate": "2012-01-01",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3061,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Lost and Found: The Secrets of Archimedes. The Walters Art Museum, Baltimore. 2011-2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11139,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.502_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.502_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.502_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.502_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.502_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on wood panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 21135,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.502",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1909 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21135",
+    "SortNumber": "    37   502                                            ",
+    "Style": null,
+    "Title": "The Holy Family with the Young St. John the Baptist and St. Elizabeth"
+}

@@ -1,0 +1,142 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Marmitta (Italian, born ca. 1460)",
+            "CreatorID": 7576,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Antonio Pietro Sallando",
+            "CreatorID": 7575,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1493,
+    "DateEndYear": 1517,
+    "DateText": "ca. 1505",
+    "Description": null,
+    "Dimensions": "folio: 6 1/2 x 4 5/8 in. (16.5 x 11.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Renaissance Books and Manuscripts of the Humanist Age",
+            "ExhibBeginDate": "1994-11-03",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 3, 1994-February 12, 1995",
+            "ExhibEndDate": "1995-02-12",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 163,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Renaissance Books and Manuscripts of the Humanist Age. The Walters Art Gallery, Baltimore. 1994-1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14263,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.469.48V_RevDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.469.48V_RevDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.469.48V_RevDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.469.48V_RevDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.469.48V_RevDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2326,
+        "LocationString": null
+    },
+    "ObjectID": 16832,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.469",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Costanzo Bentivoglio and Elena Rangoni, Bologna prior to October 29, 1500 or Bianca Bentivoglio and Niccolo Rangoni, Modena, early 16th century [the arms of the Rangoni and Bentivoglio are visible on fol. 13r];  Marquess Bianca Rangoni, early 18th century [mode of acquisition unknown] [fol. 13r inscription in bottom margin];  Alphonse Giroux [date and mode of acquisition unknown]; Sale;  Leon Gruel [date of acquisition unknown], by purchase;  Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 406,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3188,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14155,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22000,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34703,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37324,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38196,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/16832",
+    "SortNumber": "W        469                                            ",
+    "Style": null,
+    "Title": "Rangoni Bentivoglio Book of Hours"
+}

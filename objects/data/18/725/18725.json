@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian (?)",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Furman Hebb, 1991",
+    "Culture": null,
+    "DateBeginYear": 1870,
+    "DateEndYear": 1870,
+    "DateText": "1870",
+    "Description": null,
+    "Dimensions": "H: 7 7/8 x W: 6 5/16 in. (20 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23704,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.176_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.176_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.176_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.176_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.176_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on mica",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2427,
+        "LocationString": null
+    },
+    "ObjectID": 18725,
+    "ObjectName": "albums; paintings",
+    "ObjectNumber": "35.176",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Furman Hebb, New York [date and mode of acquisition unknown]; Walters Art Museum, 1991, by gift.",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 80520,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80522,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80523,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80524,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80525,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80526,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80527,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80528,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80529,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80530,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80531,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80521,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/18725",
+    "SortNumber": "    35   176                                            ",
+    "Style": null,
+    "Title": "Bound Collection of 20 Miniatures Depicting Village Life"
+}

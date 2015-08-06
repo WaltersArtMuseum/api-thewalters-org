@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Armenian",
+            "CreatorID": 6300,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Armenian",
+    "DateBeginYear": 1666,
+    "DateEndYear": 1666,
+    "DateText": "1666",
+    "Description": "This manuscript was executed in 1115 of the Armenian era [1666 CE], and the scribe, Mikayel son of Bargham, identifies himself in a brief colophon on fol. 126r. Mikayel was a prominent scribe and artist active in second half of the 17th century. Close to two dozen manuscripts are associated with his name. The style of the miniatures and marginal illustrations in this manuscript is quite distinct from Mikayels own. It has been suggested that Mikayel copied the text and an associate, perhaps Mkrtum of New Julfa or Mkrtitch Djahenkal, who both worked in the city of Tokat, painted the images. Two folios of the manuscript are precisely dated (fol. 20r, April 24; fol. 200v, June 25), so we can observe the speed at which the scribe worked, about 90 folios per month. Another inscription on fol. 254r shows that the manuscript was later dedicated at the Church of St. Stephen.",
+    "Dimensions": "Folio H: 7 3/4 \u00d7 W: 5 1/2 in. (19.7 \u00d7 14 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The History of Bookbinding 525-1950 A.D.",
+            "ExhibBeginDate": "1957-11-12",
+            "ExhibBeginYear": 1957,
+            "ExhibDisplayDate": "November 12, 1957-January 12, 1958",
+            "ExhibEndDate": "1958-01-12",
+            "ExhibEndYear": 1958,
+            "ExhibitionID": 664,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The History of Bookbinding 525-1950 A.D.. Baltimore Museum of Art, Baltimore. 1957-1958."
+        },
+        {
+            "ExhTitle": "Treasures in Heaven: Armenian Manuscript Illumination",
+            "ExhibBeginDate": "1988-02-02",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "February 2, 1988-April 17, 1988",
+            "ExhibEndDate": "1988-04-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2707,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures in Heaven: Armenian Manuscript Illumination. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Karadeniz kiyisi\\provinces\\Tokat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1502658,
+            "GeographyTerm": "Tokat",
+            "Latitude": "40 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.316,
+            "Longitude": "036 34",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.566
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53737,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.544.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.544.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.544.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.544.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.544.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Binding; Book; Colophon; Illumination; Manuscript; Miniature; Ornament; Walters Art Museum",
+    "Medium": "ink and pigments on cream color paper covered with brown goatskin; silk embroidered headbands",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2393,
+        "LocationString": null
+    },
+    "ObjectID": 1385,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.544",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Written by the scribe Mik'ay\u0113l, 1115 (=A.D. 1666) [see colophon fol. 126r]; Church of St. Stephen, Tokat, Armenia [on deposit as a memorial for Khan Sult'an, his father T'at'os, his mother Ghimat', his brother T'oros, and his sons Sahak' and Abraham (see notice on fol. 254r)]; Henry Walters, Baltimore, 1926 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81502,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/1385",
+    "SortNumber": "W        544                                            ",
+    "Style": null,
+    "Title": "Gospels"
+}

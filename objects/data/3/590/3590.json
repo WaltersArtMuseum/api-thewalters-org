@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Miss Laura F. Delano, 1972",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1850,
+    "DateText": "1800-1850",
+    "Description": null,
+    "Dimensions": "H: 17 5/16 x W: 30 3/16 in. (44 x 76.6 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\Guangdong\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1485523,
+            "GeographyTerm": "Guangzhou",
+            "Latitude": "23 08",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.133,
+            "Longitude": "113 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 113.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9986,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_H73.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9987,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_T91.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_T91.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_T91.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_T91.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_35.111_Fnt_NF_T91.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On wood of stretcher: D D Forbes / from cousin  Sarah Church / April 15th, 1920",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1798,
+        "LocationString": null
+    },
+    "ObjectID": 3590,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "35.111",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sarah Church (?) [date and mode of acquisition unknown] [name on stretcher]; D. D. Forbes (?), April 15th, 1920, by gift [name on stretcher]; Laura F. Delano [date and mode of acquisition unknown]; Walters Art Museum, 1972, by bequest.",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3590",
+    "SortNumber": "    35   111                                            ",
+    "Style": null,
+    "Title": "View of the Hongs of Canton"
+}

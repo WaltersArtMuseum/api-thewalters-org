@@ -1,0 +1,136 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1412,
+    "DateEndYear": 1412,
+    "DateText": "1412",
+    "Description": null,
+    "Dimensions": "H: 8 7/16 x W: 6 1/4 in. (21.5 x 15.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        },
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "To Hell and Back: Medieval Images of the Afterworld",
+            "ExhibBeginDate": "1995-08-16",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "August 16, 1995-November 12, 1995",
+            "ExhibEndDate": "1995-11-12",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 120,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "To Hell and Back: Medieval Images of the Afterworld. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Haute-Normandie\\departments\\Seine-Maritime, D\u00e9partement de la\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1426683,
+            "GeographyTerm": "Rouen",
+            "Latitude": "49 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.433,
+            "Longitude": "001 05",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.83
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41726,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.300_Det_TR_Fol3R_T87II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.300_Det_TR_Fol3R_T87II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.300_Det_TR_Fol3R_T87II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.300_Det_TR_Fol3R_T87II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.300_Det_TR_Fol3R_T87II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint and gold, bound in brownish red morocco",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2317,
+        "LocationString": null
+    },
+    "ObjectID": 1989,
+    "ObjectName": "breviaries; manuscripts",
+    "ObjectNumber": "W.300",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Leon Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, after 1894, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-20T22:00:00.917",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81319,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/1989",
+    "SortNumber": "W        300                                            ",
+    "Style": null,
+    "Title": "Breviary"
+}

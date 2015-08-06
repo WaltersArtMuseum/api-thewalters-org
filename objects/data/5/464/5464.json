@@ -1,0 +1,107 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": -262,
+    "DateEndYear": -88,
+    "DateText": "ca. 250-100 BC",
+    "Description": "This lavishly decorated vessel depicts the abundant vegetation of the Dionysian realm. The elaborate sculptural decoration was formed by repouss\u00e9 (a technique in which metal is impressed from the rear to form a raised design) and incision; the neck was turned on a lathe; and details were gilded. Ceramic versions of such vessels were mass-produced.",
+    "Dimensions": "2 11/16 x 3 3/16 in. (6.8 x 8.1 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        },
+        {
+            "ExhTitle": "Silver for the Gods: Eight Hundred Years of Greek and Roman Silver",
+            "ExhibBeginDate": "1977-10-08",
+            "ExhibBeginYear": 1977,
+            "ExhibDisplayDate": "October 8, 1977-April 2, 1978",
+            "ExhibEndDate": "1978-04-02",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2838,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Silver for the Gods: Eight Hundred Years of Greek and Roman Silver. Toledo Museum of Art, Toledo; The Nelson-Atkins Museum of Art, Kansas City; Kimbell Art Museum, Fort Worth. 1977-1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Macedonia\\departments\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1432074,
+            "GeographyTerm": "Kav\u00e1lla",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7208,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_57.911_Prof_TR_T88III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_57.911_Prof_TR_T88III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_57.911_Prof_TR_T88III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_57.911_Prof_TR_T88III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_57.911_Prof_TR_T88III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45666,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.911_Bot_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.911_Bot_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.911_Bot_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.911_Bot_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.911_Bot_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "repouss\u00e9 and incised silver with traces of gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3674,
+        "LocationString": null
+    },
+    "ObjectID": 5464,
+    "ObjectName": "vessels",
+    "ObjectNumber": "57.911",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Found at Cavalla, Thrace; Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.97",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5464",
+    "SortNumber": "    57   911                                            ",
+    "Style": null,
+    "Title": "Vessel with Leaf Ornament"
+}

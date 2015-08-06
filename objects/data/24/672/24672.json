@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Stanislas Louis Bernier (French, 1845-1919)",
+            "CreatorID": 4221,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1892 (?)",
+    "Culture": null,
+    "DateBeginYear": 1891,
+    "DateEndYear": 1891,
+    "DateText": "1891",
+    "Description": null,
+    "Dimensions": "27 15/16 x 20 1/16 in. (71 x 51 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Wild Kingdom of Antoine-Louis Barye, 1795-1875",
+            "ExhibBeginDate": "1994-11-04",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 4, 1994-December 9, 1994",
+            "ExhibEndDate": "1994-12-09",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 872,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Wild Kingdom of Antoine-Louis Barye, 1795-1875. Wildenstein & Company, New York. 1994."
+        },
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 377,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1976_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1976_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1976_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1976_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1976_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Dress\u00e9 par l'architecte soussign\u00e9/Paris 1891-92/Louis Bernier,\" lower right",
+    "Keywords": "artist; monument; architectural; historical; architectural",
+    "Medium": "watercolor on board",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2270,
+        "LocationString": null
+    },
+    "ObjectID": 24672,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1976",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1892 (?), [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.393",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24672",
+    "SortNumber": "    37  1976                                            ",
+    "Style": null,
+    "Title": "Project for a Monument to Barye, Paris"
+}

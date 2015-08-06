@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sumerian",
+            "CreatorID": 4252,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": -2106,
+    "DateEndYear": -2035,
+    "DateText": "ca. 2094-2047 BC",
+    "Description": "This is one of the largest clay tablets to survive from the Neo-Sumerian period. The 24 columns of writing on the back and front record the names of nearly 20,000 temple workers from the Umma area. It dates to the 37th year of the reign of Shulgi, a king of the 3rd Dynasty at Ur. During this period, Ur controlled much of Mesopotamia by means of a highly centralized bureaucratic system. Large schools of scribes oversaw the training of select young men in the skills of reading and writing the Sumerian language, which contained over 500 signs representing entire words (logographs) and individual syllables.",
+    "Dimensions": "H: 12 3/16 x W: 12 x D: 1 15/16 in. (31 x 30.5 x 5 cm)",
+    "Dynasty": "3rd Dynasty of Ur",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Dhi Qar\\deserted settlements\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489370,
+            "GeographyTerm": "Tell Jokha",
+            "Latitude": "31 38",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.633,
+            "Longitude": "045 52",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 45.866
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32563,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1767_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1767_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1767_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1767_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1767_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "baked clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3729,
+        "LocationString": null
+    },
+    "ObjectID": 29941,
+    "ObjectName": "tablets",
+    "ObjectNumber": "48.1767",
+    "OnView": 1,
+    "Period": "Neo-Sumerian, Ur III",
+    "Provenance": "Dikran Kelekian, Paris and New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": "Shulgi (ca. 2094-2047)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29941",
+    "SortNumber": "    48  1767                                            ",
+    "Style": null,
+    "Title": "Record of Temple Workers"
+}

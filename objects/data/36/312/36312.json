@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 870,
+    "DateEndYear": 900,
+    "DateText": "late 3rd century AH/AD 9th century",
+    "Description": null,
+    "Dimensions": "H: 6 7/8 x W: 10 13/16 in. (17.5 x 27.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum",
+            "ExhibBeginDate": "2007-02-03",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 3, 2007-April 29, 2007",
+            "ExhibEndDate": "2007-04-29",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 186,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum. The Walters Art Museum, Baltimore. 2007."
+        },
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544950,
+            "GeographyTerm": "Middle East",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31161,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.554.65a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.554.65a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.554.65a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.554.65a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.554.65a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Abbasid; Arabic; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Koran; Manuscript; Qur`an; Central Arab Lands (Near East); Kufic; Early Abbasid script",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 36312,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.554.65A",
+    "OnView": 0,
+    "Period": "Abbasid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36312",
+    "SortNumber": "W        554   65A                                      ",
+    "Style": null,
+    "Title": "Leaf from Qur'an"
+}

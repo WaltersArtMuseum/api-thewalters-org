@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1730,
+    "DateEndYear": 1750,
+    "DateText": "1730-1750",
+    "Description": "The figures featured on this vase are from a European engraving.",
+    "Dimensions": "5 5/8 in. (14.29 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Imperial Chinese Treasures from the Walters Collection",
+            "ExhibBeginDate": null,
+            "ExhibBeginYear": 0,
+            "ExhibDisplayDate": null,
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 3172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": null
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56138,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.1451_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.1451_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.1451_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.1451_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.1451_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "original mark destroyed",
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1713,
+        "LocationString": null
+    },
+    "ObjectID": 7793,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1451",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7793",
+    "SortNumber": "    49  1451                                            ",
+    "Style": null,
+    "Title": "Double Vase with European Figures"
+}

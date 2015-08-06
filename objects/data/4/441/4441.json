@@ -1,0 +1,95 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1000,
+    "DateEndYear": 1099,
+    "DateText": "11th century",
+    "Description": null,
+    "Dimensions": "H: 1 3/8 x W: 1 7/16 in. (3.5 x 3.7 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38193,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_41.65_Fnt_BW_H46.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_41.65_Fnt_BW_H46.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_41.65_Fnt_BW_H46.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_41.65_Fnt_BW_H46.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_41.65_Fnt_BW_H46.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "steatite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 885,
+        "LocationString": null
+    },
+    "ObjectID": 4441,
+    "ObjectName": "icons; reliefs",
+    "ObjectNumber": "41.65",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Dikran Kelekian, Constantinople and Paris, by purchase; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-03-19T22:00:00.913",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4441",
+    "SortNumber": "    41    65                                            ",
+    "Style": null,
+    "Title": "Fragment of an icon with saints"
+}

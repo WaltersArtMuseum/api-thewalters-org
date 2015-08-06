@@ -1,0 +1,79 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Douglas Gordon [formerly part of the Walters Collection], 1942",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1000,
+    "DateEndYear": 1099,
+    "DateText": "11th century",
+    "Description": "In the Middle Ages, letters were usually rolled in a scroll and tied with a cord. Lead seals like the present one originally held these cords together so that they could not be tempered with. The versified inscription here identifies the owner of the seal (and the author of the piece of correspondence to which it was attached) as one Michael Boilas, sebastos (an honorific title). The obverse carries an image of his namesake and heavenly protector, the Archangel Michael. Cf. Walters 55.95 and 55.96.",
+    "Dimensions": "1 7/16 in. (3.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501900,
+            "GeographyTerm": "Akdeniz kiyisi",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40428,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_55.65_Fnt_BW_H42.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_55.65_Fnt_BW_H42.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_55.65_Fnt_BW_H42.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_55.65_Fnt_BW_H42.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_55.65_Fnt_BW_H42.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "lead",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 888,
+        "LocationString": null
+    },
+    "ObjectID": 19482,
+    "ObjectName": "seals",
+    "ObjectNumber": "55.65",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, New York, [date of acquisition unknown] by purchase; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Joseph Brummer, New York, by purchase; Douglas Gordon, Baltimore, by purchase; Walters Art Museum, 1942, by gift.",
+    "PublicAccessDate": "2012-07-10T22:00:00.41",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 34853,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 35868,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/19482",
+    "SortNumber": "    55    65                                            ",
+    "Style": null,
+    "Title": "Seal of the Sebastos Michael Boilas"
+}

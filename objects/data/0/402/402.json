@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 618,
+    "DateEndYear": 906,
+    "DateText": "618-906",
+    "Description": null,
+    "Dimensions": "10 3/8 in. (26.3 cm)",
+    "Dynasty": "Tang [T'ang] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6895,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2332_Fnt_SL_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2332_Fnt_SL_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2332_Fnt_SL_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2332_Fnt_SL_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2332_Fnt_SL_T84.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45172,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_49.2332_Fnt_BW_2205.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_49.2332_Fnt_BW_2205.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_49.2332_Fnt_BW_2205.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_49.2332_Fnt_BW_2205.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_49.2332_Fnt_BW_2205.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1616,
+        "LocationString": null
+    },
+    "ObjectID": 402,
+    "ObjectName": "figurines",
+    "ObjectNumber": "49.2332",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.12",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/402",
+    "SortNumber": "    49  2332                                            ",
+    "Style": null,
+    "Title": "Standing Woman"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of the Incredulity of Saint Thomas (Italian, active 16th century)",
+            "CreatorID": 3843,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1505,
+    "DateEndYear": 1525,
+    "DateText": "1505-1525",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 180, pp. 267-268.",
+    "Dimensions": "Painted surface H: 33 7/16 x W: 41 7/8 x D excluding cradle: 13/16 in. (85 x 106.3 x 2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41519,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.592_Fnt_TR_T98II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.592_Fnt_TR_T98II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.592_Fnt_TR_T98II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.592_Fnt_TR_T98II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.592_Fnt_TR_T98II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 29662,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.592_Fnt_BW_H65.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.592_Fnt_BW_H65.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.592_Fnt_BW_H65.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.592_Fnt_BW_H65.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.592_Fnt_BW_H65.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3262,
+        "LocationString": null
+    },
+    "ObjectID": 26947,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.592",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 72, as Vittore Carpaccio; 1897 catalogue: no. 382, as Giovanni Bellini]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26947",
+    "SortNumber": "    37   592                                            ",
+    "Style": null,
+    "Title": "The Holy Family with the Young St. John the Baptist, St. John the Evangelist, and a Donor"
+}

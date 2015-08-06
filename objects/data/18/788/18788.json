@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Andrew John Henry Way (American, 1826-1888)",
+            "CreatorID": 4196,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. Jesse M. Goldstein, 1981",
+    "Culture": null,
+    "DateBeginYear": 1870,
+    "DateEndYear": 1879,
+    "DateText": "1870s",
+    "Description": "Way was a Baltimore painter who began his career as a portraitist; but, on the advice of the influential D\u00fcsseldorf artist Emanuel Leutze (known for his famous work, \"Washington Crossing the Delaware,\" in the Metropolitan Museum of Art, New York), he turned to still lifes, specializing in such subjects as bunches of grapes and oysters. In WAM 37.1887 he depicts a bunch of grapes grown at the Walters' family country-house just outside Baltimore.",
+    "Dimensions": "H: 20 1/16 x W: 14 1/8 in. (51 x 35.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Long-term Loan to Mayor's Office",
+            "ExhibBeginDate": "2000-03-07",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "March 7, 2000-January 12, 2007",
+            "ExhibEndDate": "2007-01-12",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 522,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Long-term Loan to Mayor's Office. Office of Promotion and the Arts, Baltimore. 2000-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47359,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2591_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2591_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2591_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2591_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2591_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48637,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2591_Fnt_BW_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2591_Fnt_BW_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2591_Fnt_BW_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2591_Fnt_BW_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2591_Fnt_BW_C81.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: AJH Way",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3306,
+        "LocationString": null
+    },
+    "ObjectID": 18788,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2591",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mrs. Jesse M. Goldstein, Philadelphia; given to Walters Art Museum, 1981.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18788",
+    "SortNumber": "    37  2591                                            ",
+    "Style": null,
+    "Title": "Bunch of Grapes"
+}

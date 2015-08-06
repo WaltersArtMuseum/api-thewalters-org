@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Pao Feng-pao",
+            "CreatorID": 17978,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chao Y\u00fc",
+            "CreatorID": 4427,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "A lady stands at a table while two children try to guess the number of fingers both extended simultaneously.",
+    "Dimensions": "H: 24 15/16 x W: 10 1/8 in. (63.4 x 25.7 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4375,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_35.24_Fnt_BW_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_35.24_Fnt_BW_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_35.24_Fnt_BW_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_35.24_Fnt_BW_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_35.24_Fnt_BW_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] At top; [Inscription] At bottom; [Seal] At bottom",
+    "Keywords": null,
+    "Medium": "ink and color on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2410,
+        "LocationString": null
+    },
+    "ObjectID": 11420,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.24",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 160]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-23T10:08:17.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11420",
+    "SortNumber": "    35    24                                            ",
+    "Style": null,
+    "Title": "Playing \"Guess the Fist\""
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": "Russian",
+    "DateBeginYear": 1588,
+    "DateEndYear": 1612,
+    "DateText": "ca. 1600",
+    "Description": "This majestic painting was created for a large iconostasis, a screen separating the altar sanctuary from the nave in Orthodox churches. Here, Abraham and Sarah sacrifice a calf to honor their guests, who reveal themselves as angels (Genesis 18:1-10). Christian theologians interpreted the three angels as Old Testament precursors of the Father, Son, and Holy Spirit, so the icon is inscribed \"The Holy Trinity\". The meal that the angels bless mirrors the sacrament of the Lord's Supper celebrated behind the iconostasis during the Divine Liturgy.",
+    "Dimensions": "60 1/2 x 50 1/8 in. (153.6 x 127.3 cm)",
+    "Dynasty": "House of Romanov",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century",
+            "ExhibBeginDate": "1959-11-09",
+            "ExhibBeginYear": 1959,
+            "ExhibDisplayDate": "November 9, 1959-January 3, 1960",
+            "ExhibEndDate": "1960-01-03",
+            "ExhibEndYear": 1960,
+            "ExhibitionID": 69,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century. The Walters Art Gallery, Baltimore. 1959-1960."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Rossiya\\republics\\Rossiya\\oblasts\\Yaroslavskaya Oblast'\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1517128,
+            "GeographyTerm": "Yaroslavl",
+            "Latitude": "57 34",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 57.566,
+            "Longitude": "039 52",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.866
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3924,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.1185_Fnt_TR_T04.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.1185_Fnt_TR_T04.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.1185_Fnt_TR_T04.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.1185_Fnt_TR_T04.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.1185_Fnt_TR_T04.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3819,
+        "LocationString": null
+    },
+    "ObjectID": 4308,
+    "ObjectName": "paintings;icons",
+    "ObjectNumber": "37.1185",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris, by purchase;  Henry Walters, Baltimore, 1922, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4308",
+    "SortNumber": "    37  1185                                            ",
+    "Style": null,
+    "Title": "Hospitality of Abraham"
+}

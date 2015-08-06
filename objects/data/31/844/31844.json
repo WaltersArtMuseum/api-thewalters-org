@@ -1,0 +1,112 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Sheng Maoye (Chinese, 1594-1640)",
+            "CreatorID": 17957,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "Inscribed in the upper right corner of this painting is a line taken from a poem by the 9th-century classical Chinese writer Zhang Hu. From the poem \"Keeping the Temple in Hangzhou,\" the painter of this landscape wrote:\r\n\r\n\"A long drought in the mountains, no moisture from the overcast clouds\"\r\n\r\nHe follows this with the date \"Summer, 5th month, 1610\" and the name \"Sheng Maoye.\" This is likely a copy of a work by Sheng Maoye done on the theme of Zhang's poem and may have been painted during the 18th century.\r\n",
+    "Dimensions": "H: 42 1/4 x W: 20 13/16 in. (107.3 x 52.8 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23543,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.13_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.13_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.13_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.13_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.13_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23542,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.13_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.13_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.13_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.13_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.13_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 23544,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.13_Mrk_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.13_Mrk_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.13_Mrk_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.13_Mrk_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.13_Mrk_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] Spurious signature of Sheng Maoye (1594-1640); [Translation] Upper right corner: A long drought in the mountains, no moisture from the overcast clouds; [Date] Upper right corner: Summer, 5th month, 1610; [Seal] At top",
+    "Keywords": null,
+    "Medium": "ink and color on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2411,
+        "LocationString": null
+    },
+    "ObjectID": 31844,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.13",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 126]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-10-30T13:25:15.48",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31844",
+    "SortNumber": "    35    13                                            ",
+    "Style": null,
+    "Title": "Hangzhou Landscape"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dutch",
+            "CreatorID": 6227,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1450,
+    "DateEndYear": 1500,
+    "DateText": "2nd half 15th century",
+    "Description": "This small psalter was made in Utrecht, Netherlands in the second half of the fifteenth century. The parchment is of fine quality, and the simplicity of its illumination, consisting of eight large foliate initials marking the ferial divisions of the Psalms, is appropriately restrained. References to St. Dominic in the calendar and litany indicate it was for Dominican use.",
+    "Dimensions": "Folio H: 4 7/16 \u00d7 W: 2 13/16 in. (11.2 \u00d7 7.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52532,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.198_Fnt_DD_2013.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.198_Fnt_DD_2013.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.198_Fnt_DD_2013.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.198_Fnt_DD_2013.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.198_Fnt_DD_2013.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Manuscript; Illumination; Devotion; Geomancy",
+    "Medium": "ink and pigments on well-finished, cream-colored parchment of medium thickness bound by paste-board covered with marbleized brown calf with thin gold decoration around border of covers, and gold decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2313,
+        "LocationString": null
+    },
+    "ObjectID": 12091,
+    "ObjectName": "psalters; illuminated manuscripts",
+    "ObjectNumber": "W.198",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Utrecht, Netherlands, ca. 1455-1500 [1]. Acquired by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] must postdate 1455 due to inclusion of Vincent Ferrar in calendar, made for Dominican use indicated by double invocation for Dominic in litany and suffrages",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 92032,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92033,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92034,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92035,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92036,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92037,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92038,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92039,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92040,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/12091",
+    "SortNumber": "W        198                                            ",
+    "Style": null,
+    "Title": "Dominican Psalter"
+}

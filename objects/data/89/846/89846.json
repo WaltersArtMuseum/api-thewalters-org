@@ -1,0 +1,125 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "The Grolier Club",
+            "CreatorID": 12799,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "L\u00e9on Gruel (French, 1841-1923)",
+            "CreatorID": 104,
+            "Gender": "male",
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1931",
+    "Culture": null,
+    "DateBeginYear": 1916,
+    "DateEndYear": 1916,
+    "DateText": "1916",
+    "Description": "This intricate style of binding from the 16th and 17th centuries, composed of a central oval surrounded by dense gold tooling, is known as the \"fanfare\" style. The binding, created by L\u00e9on Gruel, is an exact copy of the binding of Le Nouveau Testament de Nostre Seigneur Jesus Christ (Walters 92.182). Gruel was proficient at binding in antiquarian styles, but he also branched out in modern directions.",
+    "Dimensions": "H: 9 3/16 \u00d7 W: 6 3/16 \u00d7 D: 1 in. (23.34 \u00d7 15.72 \u00d7 2.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bookbindings from the Gilded Age",
+            "ExhibBeginDate": "2013-10-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 26, 2013-May 18, 2014",
+            "ExhibEndDate": "2014-05-18",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3254,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Bookbindings from the Gilded Age. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52731,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1269_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1269_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1269_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1269_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1269_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52730,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1269_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1269_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1269_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1269_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1269_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52729,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1269_LowerCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1269_LowerCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1269_LowerCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1269_LowerCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1269_LowerCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper bound between boards covered with goatskin and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5401,
+        "LocationString": null
+    },
+    "ObjectID": 89846,
+    "ObjectName": "rare books; books",
+    "ObjectNumber": "92.1269",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Henry Walters, Baltimore, before 1931; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/89846",
+    "SortNumber": "    92  1269                                            ",
+    "Style": null,
+    "Title": "Catalogue of an Exhibition of the Text of Shakespeare's Plays"
+}

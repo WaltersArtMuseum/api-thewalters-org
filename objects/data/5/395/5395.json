@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tommaso de Simone (Italian, active 2nd half 19th century)",
+            "CreatorID": 4185,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Anne Gordon Boyce Baldwin (Mrs. Ludlow Baldwin) in memory of Mrs. Anne Gordon Johnston and Miss Mary Gordon Thom, 1979",
+    "Culture": null,
+    "DateBeginYear": 1857,
+    "DateEndYear": 1857,
+    "DateText": "1857",
+    "Description": "Two American frigates are shown becalmed in the Bay of Naples. In the background rises Mount Vesuvius. \r\n\r\nIn its direct approach this ship-portrait, presumably of the U.S. frigate \"Congress,\" is characteristic of works executed in both oil and gouache by numerous Neapolitan artists for foreign visitors in the 19th century.",
+    "Dimensions": "H: 18 1/4 x W: 25 3/4 in. (46.4 x 65.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Recent Accessions",
+            "ExhibBeginDate": "1981-02-15",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "February 15, 1981-March 22, 1981",
+            "ExhibEndDate": "1981-03-22",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2676,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Recent Accessions. The Walters Art Gallery, Baltimore. 1981."
+        },
+        {
+            "ExhTitle": "Harborplace Light Street Pavilion Special Display",
+            "ExhibBeginDate": "1981-08-10",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "August 10, 1981-January 1982",
+            "ExhibEndDate": "1982-01",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2909,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Harborplace Light Street Pavilion Special Display. Harborplace, Baltimore. 1981-1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48634,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2567_Fnt_BW_C79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2567_Fnt_BW_C79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2567_Fnt_BW_C79.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2567_Fnt_BW_C79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2567_Fnt_BW_C79.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: Tom. so De Simone 1857",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3335,
+        "LocationString": null
+    },
+    "ObjectID": 5395,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2567",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Clintonia Wright, wife of Lieutenant May [date and mode of acquisition unknown]; Anne Gordon Boyce Baldwin, by inheritance [passed down four generations from Clintonia Wright]; Walters Art Museum, April 1979, by gift.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 11686,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/5395",
+    "SortNumber": "    37  2567                                            ",
+    "Style": null,
+    "Title": "The Frigate Congress in the Bay of Naples"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Carlo Antonio Grue (Italian, 1655-1723)",
+            "CreatorID": 2193,
+            "Gender": "male",
+            "Role": "Workshop"
+        },
+        {
+            "ConcatDisplayName": "Carlo Antonio Grue (Italian, 1655-1723)",
+            "CreatorID": 2193,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1655,
+    "DateEndYear": 1705,
+    "DateText": "ca. 1680",
+    "Description": "This plate is typical of the kind produced by Carlo Antonio Grue and his workshop during the late 17th century, with floral scrolling borders surrounding a central scene, here, a fantastic image of knights fighting bears. The early 16th-century armor and the character of the composition suggest that the scene is derived from a German Renaissance print and probably meant as a romantic fantasy of medieval chivalry.",
+    "Dimensions": "1 11/16 x 15/16 in. (4.3 x 2.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Abruzzi\\provinces\\Teramo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440029,
+            "GeographyTerm": "Castelli",
+            "Latitude": "42 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.5,
+            "Longitude": "013 43",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.716
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Abruzzi\\provinces\\Teramo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440029,
+            "GeographyTerm": "Castelli",
+            "Latitude": "42 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.5,
+            "Longitude": "013 43",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.716
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4697,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1752_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1752_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1752_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1752_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1752_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica) and gold luster",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4789,
+        "LocationString": null
+    },
+    "ObjectID": 18449,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.1752",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.77",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18449",
+    "SortNumber": "    48  1752                                            ",
+    "Style": null,
+    "Title": "Plate with Two Knights Fighting Bears"
+}

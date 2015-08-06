@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bartolomeo di Tommaso da Foligno (Italian, born 1408/11, died before 1454)",
+            "CreatorID": 2109,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1438,
+    "DateEndYear": 1462,
+    "DateText": "ca. 1450",
+    "Description": "For more information on this panel, please see Federico Zeri's 1976 catalogue no. 98, p. 154.",
+    "Dimensions": "Painted surface H: 7 11/16 x W: 30 1/16 in. (19.5 x 76.4 cm); Panel H including modern strips: 8 9/16 x W: 30 1/4 x D excluding cradle: 7/16 in. (21.8 x 76.9 x 1.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437338,
+            "GeographyTerm": "Umbria",
+            "Latitude": "43 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.0,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37172,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.712_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.712_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.712_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.712_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.712_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47827,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.712_XR_1962.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.712_XR_1962.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.712_XR_1962.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.712_XR_1962.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.712_XR_1962.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3249,
+        "LocationString": null
+    },
+    "ObjectID": 23449,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.712",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 62, as Tuscan School]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23449",
+    "SortNumber": "    37   712                                            ",
+    "Style": null,
+    "Title": "The Dead Christ, the Virgin and St. John the Evangelist"
+}

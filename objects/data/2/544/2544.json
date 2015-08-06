@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1662,
+    "DateEndYear": 1900,
+    "DateText": "1662-1900",
+    "Description": null,
+    "Dimensions": "H: 19 15/16 in. (50.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5168,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1901_Fnt_BW_T91.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1901_Fnt_BW_T91.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1901_Fnt_BW_T91.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1901_Fnt_BW_T91.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1901_Fnt_BW_T91.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with transmutation glaze decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4528,
+        "LocationString": null
+    },
+    "ObjectID": 2544,
+    "ObjectName": "figurines",
+    "ObjectNumber": "49.1901",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-09T14:13:42.8",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2544",
+    "SortNumber": "    49  1901                                            ",
+    "Style": null,
+    "Title": "Fu-Lion with Cub"
+}

@@ -1,0 +1,131 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Lukas of Cyprus",
+            "CreatorID": 31598,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1594,
+    "DateEndYear": 1596,
+    "DateText": "1594-1596",
+    "Description": null,
+    "Dimensions": "H: 15 1/2 x W: 10 5/8 in. (39.4 x 27 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "The Cross and the Crescent: Books from the Ottoman Age",
+            "ExhibBeginDate": "2003-03-01",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "March 1, 2003-May 18, 2003",
+            "ExhibEndDate": "2003-05-18",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 112,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Cross and the Crescent: Books from the Ottoman Age. The Walters Art Museum, Baltimore. 2003."
+        },
+        {
+            "ExhTitle": "A Millennium of Christianity: Russian Art from The Walters Art Gallery",
+            "ExhibBeginDate": "1988-12-15",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "December 15, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 563,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Millennium of Christianity: Russian Art from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Rossiya\\republics\\Rossiya\\autonomous cities\\Moskva\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1510725,
+            "GeographyTerm": "Moskva",
+            "Latitude": "55 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 55.75,
+            "Longitude": "037 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.7
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Rom\u00e2nia\\counties\\Buzau\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1442691,
+            "GeographyTerm": "Buzau",
+            "Latitude": "45 09",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.15,
+            "Longitude": "026 49",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 26.816
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38491,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.535.159R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.535.159R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.535.159R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.535.159R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.535.159R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Colophon; Illumination; Illustration; Manuscript; Ornament; Painting; Walters Art Museum; Watermark; Original binding; Binding; Scripture; Liturgy",
+    "Medium": "ink and pigments on folded in folio",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 20256,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.535.159R",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Church of the Holy Sepulchre, Jerusalem, ca. 1598, by gift; L\u00e9on Gruel, Paris, by purchase; Henry Walters, Baltimore, purchased from Gruel before 1931; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20256",
+    "SortNumber": "W        535  159R                                      ",
+    "Style": "Byzantine",
+    "Title": "Ornamented headpiece and initial letter \"Pi\" with Herod's feast"
+}

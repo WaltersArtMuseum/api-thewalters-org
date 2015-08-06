@@ -1,0 +1,143 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Emporion Painter (Greek, active ca. 500 BC) (?)",
+            "CreatorID": 6976,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -512,
+    "DateEndYear": -488,
+    "DateText": "ca. 500 BC",
+    "Description": "The scene on this black-figure lekythos (a container for oil) depicts an assemblage of four Theban men before the sphinx, pondering her riddle. The Sphinx sits on a column, while two of the men facing her sit on folding stools and two stand upright.",
+    "Dimensions": "H: 10 3/16 x Diam: 3 5/16 in. (25.8 x 8.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heroes: Mortals and Myths in Ancient Greece",
+            "ExhibBeginDate": "2009-10-11",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "October 11, 2009-January 2, 2011",
+            "ExhibEndDate": "2011-01-02",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2089,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heroes: Mortals and Myths in Ancient Greece. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville; San Diego Museum Of Art, San Diego; Alexander S. Onassis Public Benefit Foundation (USA), New York. 2009-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12050,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.238_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.238_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.238_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.238_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.238_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12052,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.238_Lft_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.238_Lft_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.238_Lft_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.238_Lft_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.238_Lft_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12054,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.238_Rt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.238_Rt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.238_Rt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.238_Rt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.238_Rt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 12051,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.238_FntDet_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.238_FntDet_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.238_FntDet_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.238_FntDet_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.238_FntDet_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 12053,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.238_LftDet_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.238_LftDet_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.238_LftDet_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.238_LftDet_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.238_LftDet_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 12055,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.238_RtDet_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.238_RtDet_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.238_RtDet_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.238_RtDet_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.238_RtDet_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6572,
+        "LocationString": null
+    },
+    "ObjectID": 7886,
+    "ObjectName": "lekythoi; vases",
+    "ObjectNumber": "48.238",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-03-04T12:53:18.91",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7886",
+    "SortNumber": "    48   238                                            ",
+    "Style": "Attic",
+    "Title": "The Sphinx on a Pedestal"
+}

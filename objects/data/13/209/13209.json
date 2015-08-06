@@ -1,0 +1,108 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Maria II Della Rovere, Duke of Urbino (Italian, 1548-1631)",
+            "CreatorID": 8327,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1585,
+    "DateEndYear": 1585,
+    "DateText": "1585",
+    "Description": null,
+    "Dimensions": "9 1/16 x 7 1/16 in. (23 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438820,
+            "GeographyTerm": "Pesaro",
+            "Latitude": "43 54",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.9,
+            "Longitude": "012 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2984,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.481_ClsdFnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment bound between red Morocco with silver gilt strapwork and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2324,
+        "LocationString": null
+    },
+    "ObjectID": 13209,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.481",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Francesco Maria II, Duke of Urbino [made for]; Ferdinando Ongania, Venice [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 8281,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21004,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78134,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/13209",
+    "SortNumber": "W        481                                            ",
+    "Style": null,
+    "Title": "Dogale of Francesco della Rovere Mamiami"
+}

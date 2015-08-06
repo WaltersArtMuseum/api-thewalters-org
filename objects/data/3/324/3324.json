@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco da Montereale (Italian, active 1508-1549)",
+            "CreatorID": 7195,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1915",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1524,
+    "DateText": "1500-1524",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 123, pp. 187-188.",
+    "Dimensions": "Painted surface max. H: 33 1/4 x Max. W: 19 1/8 x D: 1 3/16 in. (84.4 x 48.5 x 3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439905,
+            "GeographyTerm": "Abruzzi",
+            "Latitude": "42 15",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.25,
+            "Longitude": "013 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29275,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.514_Fnt_BW_H74.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.514_Fnt_BW_H74.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.514_Fnt_BW_H74.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.514_Fnt_BW_H74.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.514_Fnt_BW_H74.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31884,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.514_Fnt_NG_H54_infrared.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.514_Fnt_NG_H54_infrared.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.514_Fnt_NG_H54_infrared.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.514_Fnt_NG_H54_infrared.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.514_Fnt_NG_H54_infrared.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On scroll held by the angels: GLORIA. IN. EXCELSIS. DEO ET INTERA. PAX.",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3252,
+        "LocationString": null
+    },
+    "ObjectID": 3324,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.514",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Bernard Berenson (?) [date and mode of acquisition unknown]; Henry Walters, Baltimore, ca. 1915 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3324",
+    "SortNumber": "    37   514                                            ",
+    "Style": null,
+    "Title": "The Nativity"
+}

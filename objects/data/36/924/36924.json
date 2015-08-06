@@ -1,0 +1,107 @@
+{
+    "Classification": "Enamels",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1906",
+    "Culture": "French",
+    "DateBeginYear": 1200,
+    "DateEndYear": 1299,
+    "DateText": "13th century",
+    "Description": "This elaborate, enameled plaque was once attached to the cover of a Gospel book or a lectionary, a manuscript containing passages from the four Gospels arranged to be read throughout the year. At the center, Christ is flanked by the Virgin and St. John. Adam's skull, below, symbolizes the salvation of mankind through Christ's crucifixion on Golgotha, the reputed site of Adam's grave.",
+    "Dimensions": "12 7/16 x 8 1/4 x 1 in. (31.6 x 20.9 x 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The History of Bookbinding 525-1950 A.D.",
+            "ExhibBeginDate": "1957-11-12",
+            "ExhibBeginYear": 1957,
+            "ExhibDisplayDate": "November 12, 1957-January 12, 1958",
+            "ExhibEndDate": "1958-01-12",
+            "ExhibEndYear": 1958,
+            "ExhibitionID": 664,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The History of Bookbinding 525-1950 A.D.. Baltimore Museum of Art, Baltimore. 1957-1958."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Songs of Glory: Medieval Art from 900-1500",
+            "ExhibBeginDate": "1985-01-21",
+            "ExhibBeginYear": 1985,
+            "ExhibDisplayDate": "January 21, 1985-April 29, 1985",
+            "ExhibEndDate": "1985-04-29",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2963,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Songs of Glory: Medieval Art from 900-1500. Oklahoma Museum of Art, Oklahoma City. 1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Limousin\\departments\\Haute-Vienne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423931,
+            "GeographyTerm": "Limoges",
+            "Latitude": "45 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.833,
+            "Longitude": "001 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8379,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_44.82_Fnt_DD_T07-2.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_44.82_Fnt_DD_T07-2.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_44.82_Fnt_DD_T07-2.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_44.82_Fnt_DD_T07-2.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_44.82_Fnt_DD_T07-2.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "Text in gilded copper on cross above Christ's head: I H S/ X P~S; [Transcription] IH[ESU]S CHR[ISTU]S; [Translation] Jesus Christ.  In this inscription, the titulus (the long horizontal mark indicating an abbreviation) has an unusual placement between the P and the S to abbreviate the initials XPS for Christ.",
+    "Keywords": null,
+    "Medium": "champlev\u00e9 enamel on copper with gilding and gem stones",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3866,
+        "LocationString": null
+    },
+    "ObjectID": 36924,
+    "ObjectName": "plaques",
+    "ObjectNumber": "44.82",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Fr\u00e9d\u00e9ric Spitzer, Paris, by purchase; Sale, Paul Chevallier and Charles Mannheim, Paris, April 17, 1893, no. 256; L\u00e9guillon, Paris, by purchase; Sale,\r\nH\u00f4tel Drouot, Paris, December 9, 1895, no. 7; Heinrich Wencke, Hamburg, by purchase; Sale, J. M. Heberle, Cologne, October 27, 1898, no. 130; Dimitri Schevitch, Madrid, by purchase; Sale, Galerie George Petit, Paris, April 4, 1906, no. 183; Jacques Seligmann, Paris, by purchase; Henry Walters, Baltimore, May 16, 1906, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.753",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36924",
+    "SortNumber": "    44    82                                            ",
+    "Style": "Gothic",
+    "Title": "Book Cover Plaque"
+}

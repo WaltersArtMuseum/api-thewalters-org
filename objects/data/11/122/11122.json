@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hendrik Frans de Cort (Flemish, 1742-1810)",
+            "CreatorID": 6504,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Petrus Johannes van Regemorter (Flemish, 1755-1830)",
+            "CreatorID": 5515,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1750,
+    "DateEndYear": 1800,
+    "DateText": "2nd half 18th century",
+    "Description": null,
+    "Dimensions": "H: 18 x W: 24 in. (45.7 x 61 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421717,
+            "GeographyTerm": "Antwerpen",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "004 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421717,
+            "GeographyTerm": "Antwerpen",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "004 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29738,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.785_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.785_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.785_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.785_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.785_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature, unclear] box on right: P Van R......Ao 177 (6?)",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3301,
+        "LocationString": null
+    },
+    "ObjectID": 11122,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.785",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-11-11T16:03:26.667",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11122",
+    "SortNumber": "    37   785                                            ",
+    "Style": null,
+    "Title": "Village Scene on a River"
+}

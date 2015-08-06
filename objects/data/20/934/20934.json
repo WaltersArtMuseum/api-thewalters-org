@@ -1,0 +1,149 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German (?)",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Flemish (?)",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1893",
+    "Culture": null,
+    "DateBeginYear": 1520,
+    "DateEndYear": 1540,
+    "DateText": "1520-1540",
+    "Description": "The figures of Adam and Eve were carved separately and then set into the base. They are derived from Albrecht D\u00fcrer's enormously influential and often-copied engraving.  D\u00fcrer himself based his representations of the first man, whom the Old Testament describes as made \"in the image of God,\" on a then-famous antique statue of the Olympian god most known for his beauty, Apollo.\r\nThe carver was probably not aware of the classical source for D\u00fcrer's Adam; he certainly made the proportions chunkier. In general, wood carvers were little influenced by the aesthetic norms of classical sculpture.",
+    "Dimensions": "4 5/16 x 3 11/16 in. (11 x 9.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Durers Verwandlung in der Skulptur zwischen Renaissance und Barock",
+            "ExhibBeginDate": "1981-10-31",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "October 31, 1981-January 17, 1982",
+            "ExhibEndDate": "1982-01-17",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2911,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Durers Verwandlung in der Skulptur zwischen Renaissance und Barock. Staedtische Galerie Liebieghaus, Frankfurt am Main. 1981-1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49926,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.156_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.156_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.156_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.156_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.156_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 5898,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_61.156_Fnt_BW_H53.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_61.156_Fnt_BW_H53.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_61.156_Fnt_BW_H53.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_61.156_Fnt_BW_H53.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_61.156_Fnt_BW_H53.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 49925,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.156_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.156_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.156_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.156_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.156_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "carved boxwood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4512,
+        "LocationString": null
+    },
+    "ObjectID": 20934,
+    "ObjectName": "figurines",
+    "ObjectNumber": "61.156",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "[Paris]; Henry Walters, Baltimore, 1893 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:00.427",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20934",
+    "SortNumber": "    61   156                                            ",
+    "Style": null,
+    "Title": "The Temptation of Adam and Eve"
+}
