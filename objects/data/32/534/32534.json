@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "15th century",
+    "Description": "This piece is perhaps from a chandelier.",
+    "Dimensions": "H: 7 1/16 in. (18 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38748,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.503_Fnt_BW_H56.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.503_Fnt_BW_H56.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.503_Fnt_BW_H56.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.503_Fnt_BW_H56.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.503_Fnt_BW_H56.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast and chiselled yellow bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 529,
+        "LocationString": null
+    },
+    "ObjectID": 32534,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.503",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-04-23T22:00:00.967",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32534",
+    "SortNumber": "    54   503                                            ",
+    "Style": "Gothic",
+    "Title": "Angel Holding the Sudarium of Veronica"
+}

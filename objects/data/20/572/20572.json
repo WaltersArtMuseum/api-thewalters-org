@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1897",
+    "Culture": null,
+    "DateBeginYear": 1736,
+    "DateEndYear": 1772,
+    "DateText": "1736-ca. 1760",
+    "Description": "This is an example of \"famille rose\" porcelain.",
+    "Dimensions": "11 3/8 in. (28.9 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Imperial Chinese Treasures from the Walters Collection",
+            "ExhibBeginDate": null,
+            "ExhibBeginYear": 0,
+            "ExhibDisplayDate": null,
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 3172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Imperial Chinese Treasures from the Walters Collection. 0."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6610,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.2012_SideA_TR_T90III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.2012_SideA_TR_T90III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.2012_SideA_TR_T90III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.2012_SideA_TR_T90III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.2012_SideA_TR_T90III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 6611,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.2012_SideB_TR_T90IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.2012_SideB_TR_T90IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.2012_SideB_TR_T90IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.2012_SideB_TR_T90IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.2012_SideB_TR_T90IV.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "reign mark of Qianlong [Ch'ien-lung] (1735-1795)",
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1925,
+        "LocationString": null
+    },
+    "ObjectID": 20572,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2012",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1897 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.95",
+    "Reign": "Qianlong [Ch'ien-lung] (1735-1795)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20572",
+    "SortNumber": "    49  2012                                            ",
+    "Style": "famille rose",
+    "Title": "Vase with Flowers of the Four Seasons"
+}

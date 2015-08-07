@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": "Greek",
+    "DateBeginYear": -342,
+    "DateEndYear": -88,
+    "DateText": "ca. 330-100 BC",
+    "Description": "Made in ancient Amisos (present-day Samsun) along the Black Sea coast of Asia Minor, the relief is a rare example of a multi-figured terracotta group and may well have been inspired by a work in another medium. The child on the right mimics the pose of the famous statue of the \"Weary Heracles\" (Archaeological Museum, Naples, Italy).",
+    "Dimensions": "3 15/16 x 5 3/4 x 2 in. (10 x 14.7 x 5.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        },
+        {
+            "ExhTitle": "The Coroplast's Art: Greek Terracottas of the Hellenistic World",
+            "ExhibBeginDate": "1990-09-22",
+            "ExhibBeginYear": 1990,
+            "ExhibDisplayDate": "September 22, 1990-March 15, 1991",
+            "ExhibEndDate": "1991-03-15",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 2993,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Coroplast's Art: Greek Terracottas of the Hellenistic World. The College Art Gallery, The College at New Paltz/SUNY, New Paltz. 1990-1991."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Karadeniz kiyisi\\provinces\\Samsun\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1502639,
+            "GeographyTerm": "Samsun",
+            "Latitude": "41 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.283,
+            "Longitude": "036 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57418,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 57417,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1714_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1714_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1714_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1714_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1714_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8414,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1714_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3681,
+        "LocationString": null
+    },
+    "ObjectID": 3321,
+    "ObjectName": "figurine",
+    "ObjectNumber": "48.1714",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "[Found in Samsun, 1912]; Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.143",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3321",
+    "SortNumber": "    48  1714                                            ",
+    "Style": null,
+    "Title": "Three People Watching a Cock Fight"
+}

@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hironao",
+            "CreatorID": 4870,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1867,
+    "DateText": "18th-19th century",
+    "Description": "The prow of a rowboat is shown between reeds on the right. At the left is a heron in flight. This is part of a set with Walters 51.929.",
+    "Dimensions": "L: 1 9/16 in. (3.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15417,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.928_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.928_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.928_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.928_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.928_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15416,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.928_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.928_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.928_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.928_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.928_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15418,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.928_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.928_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.928_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.928_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.928_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u5f18\u76f4; [Translation] Hironao (kao); [Number] In pencil: 793",
+    "Keywords": "bird; heron; boat; plant; reed",
+    "Medium": "shibuichi, gold, yamagane (?)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 498,
+        "LocationString": null
+    },
+    "ObjectID": 649,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.928",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 29441,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/649",
+    "SortNumber": "    51   928                                            ",
+    "Style": null,
+    "Title": "Fuchi with Heron, Boat and Reeds"
+}

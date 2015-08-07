@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1013,
+    "DateEndYear": 1050,
+    "DateText": "ca. 1025-1050",
+    "Description": "At the left, Micah is about to be pushed over a cliff at the order of King Jotham of Judah (ruled probably 740-736 BCE). At the right, two men have laid the prophet's dead body into a stone coffin. The elder one is raising his veiled hands to his chin as a sign of mourning.",
+    "Dimensions": "11 11/16 x 9 5/16 in. (29.7 x 23.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37603,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.521.36R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.521.36R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.521.36R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.521.36R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.521.36R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11512,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.521.36R_OpnObv_TR_II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.521.36R_OpnObv_TR_II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.521.36R_OpnObv_TR_II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.521.36R_OpnObv_TR_II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.521.36R_OpnObv_TR_II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Theology",
+    "Medium": "ink and pigments on very high quality parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 6905,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.521.36R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Greek Patriarchal Library of Alexandria, cod. 33 [date and mode of acquisition unknown]; L\u00e9on Gruel (?), Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6905",
+    "SortNumber": "W        521   36R                                      ",
+    "Style": "Byzantine",
+    "Title": "Death and Burial of the Prophet Micah"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kato Gosuke IV (Japanese, 1839-1905)",
+            "CreatorID": 2435,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1839,
+    "DateEndYear": 1900,
+    "DateText": "mid-late 19th century",
+    "Description": null,
+    "Dimensions": "H: 4 1/4 in. (10.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491375,
+            "GeographyTerm": "Gifu-ken",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "137 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 137.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8626,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.969_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.969_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.969_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.969_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.969_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8625,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.969_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.969_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.969_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.969_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.969_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] nihon mino-kuni kato gosuke tsukuru; [Translation] Made by Kato Gosuke in Mino province, Japan",
+    "Keywords": "animal; insect; butterfly; plant; vine",
+    "Medium": "porcelain with cobalt (copperplate transfer?) decoration under clear glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2048,
+        "LocationString": null
+    },
+    "ObjectID": 19877,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.969",
+    "OnView": 0,
+    "Period": "Edo; Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19877",
+    "SortNumber": "    49   969                                            ",
+    "Style": "Mino ware",
+    "Title": "Small Vase with Butterflies and Vines"
+}

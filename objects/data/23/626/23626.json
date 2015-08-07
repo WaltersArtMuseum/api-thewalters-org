@@ -1,0 +1,119 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "American Art-Union",
+            "CreatorID": 32773,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "After painting by Richard Caton Woodville (American, 1825-1855)",
+            "CreatorID": 2112,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Alfred Jones (1819-1900)",
+            "CreatorID": 32762,
+            "Gender": null,
+            "Role": "Engraver"
+        }
+    ],
+    "CreditLine": "Acquired by Walters Art Museum, before 1972",
+    "Culture": null,
+    "DateBeginYear": 1851,
+    "DateEndYear": 1853,
+    "DateText": "engraved 1851, issued 1853",
+    "Description": "This is an engraving of a painting by Richard Caton Woodville titled War News from Mexico. The original painting is in the collection of the Crystal Bridges Museum of American Art.",
+    "Dimensions": "Primary support H: 25 1/2 x W: 20 3/8 in. (64.8 x 51.7 cm); Image H: 20 5/8 x W: 18 9/16 in. (52.4 x 47.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "New Eyes on America: The Genius of Richard Caton Woodville",
+            "ExhibBeginDate": "2013-03-10",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "March 10, 2013 -  November 03, 2013",
+            "ExhibEndDate": "2013-11-03",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2834,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "New Eyes on America: The Genius of Richard Caton Woodville. The Walters Art Museum, Baltimore; Mint Museum of Art Uptown, Charlotte. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\New York\\counties\\Kings\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 815394,
+            "GeographyTerm": "New York",
+            "Latitude": "40 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.7,
+            "Longitude": "074 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -74.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23012,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_93.146_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_93.146_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_93.146_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_93.146_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_93.146_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3298,
+        "LocationString": null
+    },
+    "ObjectID": 23626,
+    "ObjectName": "prints; engravings",
+    "ObjectNumber": "93.146",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Walters Art Museum, before 1972.",
+    "PublicAccessDate": "2014-03-26T01:00:01.14",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23626",
+    "SortNumber": "    93   146                                            ",
+    "Style": null,
+    "Title": "Mexican News"
+}

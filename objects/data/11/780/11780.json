@@ -1,0 +1,125 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Korean (?)",
+            "CreatorID": 2851,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese (?)",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 800,
+    "DateEndYear": 899,
+    "DateText": "9th century",
+    "Description": null,
+    "Dimensions": "5 3/8 in. (13.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Like the Taste of Good Rice: Art from Korea",
+            "ExhibBeginDate": "1993-08-01",
+            "ExhibBeginYear": 1993,
+            "ExhibDisplayDate": "August 1, 1993-September 12, 1993",
+            "ExhibEndDate": "1993-09-12",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 821,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Like the Taste of Good Rice: Art from Korea. The Walters Art Gallery, Baltimore. 1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1508537,
+            "GeographyTerm": "Taehan Min'guk",
+            "Latitude": "37 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.0,
+            "Longitude": "127 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 127.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1508537,
+            "GeographyTerm": "Taehan Min'guk",
+            "Latitude": "37 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.0,
+            "Longitude": "127 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 127.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11670,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_49.1929_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_49.1929_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_49.1929_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_49.1929_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_49.1929_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stoneware with ash glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5728,
+        "LocationString": null
+    },
+    "ObjectID": 11780,
+    "ObjectName": "tea bowls",
+    "ObjectNumber": "49.1929",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-10-27T16:59:10.957",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11780",
+    "SortNumber": "    49  1929                                            ",
+    "Style": null,
+    "Title": "Tea Bowl"
+}

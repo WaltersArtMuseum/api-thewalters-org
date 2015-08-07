@@ -1,0 +1,107 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1917",
+    "Culture": "Byzantine",
+    "DateBeginYear": 400,
+    "DateEndYear": 599,
+    "DateText": "5th-6th century",
+    "Description": "The intaglio is set in gold.",
+    "Dimensions": "H: 1 9/16 x W: 1 in. (4 x 2.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        },
+        {
+            "ExhTitle": "Russian Enamels",
+            "ExhibBeginDate": "1996-11-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "November 17, 1996-February 23, 1997",
+            "ExhibEndDate": "1997-02-23",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 956,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Enamels. The Walters Art Gallery, Baltimore. 1996-1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Halab\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1499745,
+            "GeographyTerm": "Halab",
+            "Latitude": "36 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.233,
+            "Longitude": "037 10",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.166
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40514,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_57.623_Fnt_BW_7288.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_57.623_Fnt_BW_7288.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_57.623_Fnt_BW_7288.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_57.623_Fnt_BW_7288.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_57.623_Fnt_BW_7288.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold, sard, pearls",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 816,
+        "LocationString": null
+    },
+    "ObjectID": 1318,
+    "ObjectName": "earrings; intaglios",
+    "ObjectNumber": "57.623",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Dikran Kelekian, New York and Paris, by purchase; Henry Walters, Baltimore, 1917, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-07-12T22:00:00.94",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1318",
+    "SortNumber": "    57   623                                            ",
+    "Style": null,
+    "Title": "Earring with Heracles Giving Drink to a Goat"
+}

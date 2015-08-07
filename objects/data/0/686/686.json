@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Andrea Riccio (Italian, 1470-1532) (?)",
+            "CreatorID": 2199,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1550,
+    "DateText": "1st half 16th century",
+    "Description": null,
+    "Dimensions": "H: 3 9/16 x W: 6 1/4 in. (9.1 x 15.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Mannerists",
+            "ExhibBeginDate": "1963-02-26",
+            "ExhibBeginYear": 1963,
+            "ExhibDisplayDate": "February 26, 1963-March 1965",
+            "ExhibEndDate": "1965-03",
+            "ExhibEndYear": 1965,
+            "ExhibitionID": 2166,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Mannerists. Fort Wayne Art Museum, Indiana, Fort Wayne; Allen Memorial Art Museum, Oberlin. 1963-1965."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5605,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.37_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.37_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.37_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.37_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.37_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, originally plated with silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 455,
+        "LocationString": null
+    },
+    "ObjectID": 686,
+    "ObjectName": "lamps",
+    "ObjectNumber": "54.37",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-07-30T15:42:29.03",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/686",
+    "SortNumber": "    54    37                                            ",
+    "Style": null,
+    "Title": "Silenus Straddles a Wine-Skin"
+}

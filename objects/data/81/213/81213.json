@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "'Ali Quli ibn Qadr ibn Nur[...] Barrak (?) (Iranian)",
+            "CreatorID": 15731,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1559,
+    "DateEndYear": 1559,
+    "DateText": "966 AH/AD 1559",
+    "Description": "This folio from Walters manuscript W.630 contains a colophon in Arabic and Persian giving the name of the scribe and the date of copying.",
+    "Dimensions": "H: 10 1/4 x W: 6 1/8 in. (26 x 15.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31399,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.630.187a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.630.187a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.630.187a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.630.187a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.630.187a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration]  tammat al-kit\u0101b bi-'awn All\u0101h al-Malik al-Wahh\u0101b dar tar\u012bkh 18 /1/ shahr Sha'b\u0101n al-Mu'azzzam sanah 966 'al\u00e1 yad al-faq\u012br al-haq\u012br ad'af /2/ 'ib\u0101d [A]ll\u0101h il\u00e1 rahmat All\u0101h 'Al\u012b Qul\u012b bn Qadr bn N\u016br... (?) Barr\u0101k (?) /3/ ghar\u012bq-i rahmat-i kas\u012b b\u0101d kih k\u0101tib r\u0101 bih al-hamd\u012b kunad y\u0101d /4/ tammat /5/ alif (=All\u0101h) m\u012bm (=Muhammad) /6/ 'ayn (='Al\u012b) /7/",
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Contemporary Binding; Iran; Fortune-telling; Literature -- Poetry",
+    "Medium": "ink and pigments on cream-colored laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81213,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.630.187A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Sultan 'Uthman Khan (?) [date and mode of acquisition unknown] [erased waqf seal and statement signed by [Ibrahim] Hanif, inspector of awqaf and the shelfmarks 3815 and 3795 (crossed out) on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81213",
+    "SortNumber": "W        630  187A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

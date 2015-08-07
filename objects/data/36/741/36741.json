@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -401,
+    "DateText": "5th century BC",
+    "Description": "This fragment displays the head and shoulder of a woman in Ionic dress.",
+    "Dimensions": "H: 3 9/16 x W: 2 15/16 in. (9 x 7.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5003,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.87_Fnt_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.87_Fnt_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.87_Fnt_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.87_Fnt_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.87_Fnt_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1688,
+        "LocationString": null
+    },
+    "ObjectID": 36741,
+    "ObjectName": "loutrophoros; vases; fragments",
+    "ObjectNumber": "48.87",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Arthur Sambon, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36741",
+    "SortNumber": "    48    87                                            ",
+    "Style": "Attic",
+    "Title": "Red-Figure Vase Fragment"
+}

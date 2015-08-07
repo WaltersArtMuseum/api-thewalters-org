@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1899",
+    "Culture": null,
+    "DateBeginYear": 1675,
+    "DateEndYear": 1725,
+    "DateText": "1675-1725",
+    "Description": "This is an example of \"famille noire\" porcelain.",
+    "Dimensions": "19 7/16 in. (49.3 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5119,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1552_VwC_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1552_VwC_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1552_VwC_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1552_VwC_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1552_VwC_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1924,
+        "LocationString": null
+    },
+    "ObjectID": 23099,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1552",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1899 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.717",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23099",
+    "SortNumber": "    49  1552                                            ",
+    "Style": "famille noire",
+    "Title": "One of a Pair of Vases"
+}

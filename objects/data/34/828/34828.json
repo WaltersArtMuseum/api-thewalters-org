@@ -1,0 +1,176 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pope Gregory I (Italian, ca. 540-604)",
+            "CreatorID": 7701,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1468,
+    "DateEndYear": 1492,
+    "DateText": "ca. 1480",
+    "Description": null,
+    "Dimensions": "folio: 12 1/8 x 8 9/16 in. (30.8 x 21.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Papacy and the Arts",
+            "ExhibBeginDate": "1995-10-05",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "October 5, 1995-November 9, 1995",
+            "ExhibEndDate": "1995-11-09",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 302,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Papacy and the Arts. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Renaissance Books and Manuscripts of the Humanist Age",
+            "ExhibBeginDate": "1994-11-03",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 3, 1994-February 12, 1995",
+            "ExhibEndDate": "1995-02-12",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 163,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Renaissance Books and Manuscripts of the Humanist Age. The Walters Art Gallery, Baltimore. 1994-1995."
+        },
+        {
+            "ExhTitle": "The Illuminated Initial",
+            "ExhibBeginDate": "1991-10-08",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "October 8, 1991-January 5, 1992",
+            "ExhibEndDate": "1992-01-05",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Illuminated Initial. The Walters Art Gallery, Baltimore. 1991-1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2884,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment bound with embossed brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2316,
+        "LocationString": null
+    },
+    "ObjectID": 34828,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.338",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Ferdinand of Aragon (?);  Battista Pandolfini (banker to Ferdinand of Aragon), 1481, by exchange (pledge for loan to finance the war against the Turks) [item 125 of the pledge is the first part of a Moralia, not identified by DeMarinis in libraries of Spain, Vienna, or Paris (See T. Demarinis II, 187-92 for text of 1481 pledge] (?);  L. S. Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase [invoice no. 35784];  Walters Art Museum, 1931, by bequest.\r\n\r\n",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3025,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7800,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14421,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22814,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 23881,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24691,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36238,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36444,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36572,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37056,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78132,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/34828",
+    "SortNumber": "W        338                                            ",
+    "Style": null,
+    "Title": "Moralia in Job"
+}

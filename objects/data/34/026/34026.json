@@ -1,0 +1,137 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian () (?)",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Flemish (?)",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1538,
+    "DateEndYear": 1612,
+    "DateText": "ca. 1550-1600",
+    "Description": null,
+    "Dimensions": "7 13/16 in. (19.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "World of Wonder",
+            "ExhibBeginDate": "1971-11-08",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "November 8, 1971-January 31, 1972",
+            "ExhibEndDate": "1972-01-31",
+            "ExhibEndYear": 1972,
+            "ExhibitionID": 1994,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "World of Wonder. The Walters Art Gallery, Baltimore. 1971-1972."
+        },
+        {
+            "ExhTitle": "Children of Mercury: The Education of Artists in the Sixteenth and Seventeenth Centuries",
+            "ExhibBeginDate": "1984-02-20",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "February 20, 1984-April 3, 1984",
+            "ExhibEndDate": "1984-04-03",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2949,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Children of Mercury: The Education of Artists in the Sixteenth and Seventeenth Centuries. Brown University, Bell Gallery, List Art Center, Providence. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5648,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.76_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.76_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.76_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.76_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.76_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4247,
+        "LocationString": null
+    },
+    "ObjectID": 34026,
+    "ObjectName": "statuettes;figurines;bronzes",
+    "ObjectNumber": "54.76",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.99",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34026",
+    "SortNumber": "    54    76                                            ",
+    "Style": null,
+    "Title": "Anatomical Figure of a Man"
+}

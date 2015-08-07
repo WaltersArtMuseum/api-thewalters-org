@@ -1,0 +1,130 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": -300,
+    "DateEndYear": -1,
+    "DateText": "3rd-1st century BC",
+    "Description": "The reclining lion has a raised head and a closed mouth. His left front paw rests on top of his right front paw. His tail is curved around the right side of his hip. The bottom of the figurine has two round holes which were used to fix the figure on top of a base of a staff.",
+    "Dimensions": "H: 11/16 x W: 1 1/2 x D: 5/8 in. (1.8 x 3.84 x 1.6 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22178,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1650_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1650_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1650_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1650_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1650_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22179,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1650_FntDetA_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1650_FntDetA_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1650_FntDetA_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1650_FntDetA_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1650_FntDetA_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22176,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1650_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1650_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1650_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1650_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1650_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22180,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1650_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1650_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1650_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1650_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1650_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22181,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1650_Top3Qtr_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1650_Top3Qtr_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1650_Top3Qtr_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1650_Top3Qtr_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1650_Top3Qtr_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 22177,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1650_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1650_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1650_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1650_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1650_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic (?)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 3996,
+    "ObjectName": "figurines",
+    "ObjectNumber": "48.1650",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-02T10:54:24.44",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3996",
+    "SortNumber": "    48  1650                                            ",
+    "Style": null,
+    "Title": "Reclining Lion"
+}

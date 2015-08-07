@@ -1,0 +1,88 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "John Flaxman (English, 1755-1826)",
+            "CreatorID": 3234,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Josiah Wedgwood (English, 1730-1795)",
+            "CreatorID": 4325,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Miss Elisabeth Gilman",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1800,
+    "DateText": "late 18th century",
+    "Description": "This medallion shows Apollo flanked with a lyre on a column to his left and a high altar or tripod for sacrifice on his right.",
+    "Dimensions": "H: 1 15/16 in. (5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468740,
+            "GeographyTerm": "Staffordshire",
+            "Latitude": "52 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.883,
+            "Longitude": "002 02",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.33
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468740,
+            "GeographyTerm": "Staffordshire",
+            "Latitude": "52 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.883,
+            "Longitude": "002 02",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.33
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44997,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1973_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1973_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1973_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1973_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1973_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Maker's mark] Wedgwood",
+    "Keywords": "Apollo; Tripode; lyre",
+    "Medium": "jasperware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 840,
+        "LocationString": null
+    },
+    "ObjectID": 21626,
+    "ObjectName": "medallions",
+    "ObjectNumber": "48.1973",
+    "OnView": 0,
+    "Period": "Neoclassical",
+    "Provenance": "Miss Elisabeth Gilman, before March 1948 [mode of acquisition unknown]; Walters Art Museum, 1948, by gift.",
+    "PublicAccessDate": "2013-01-17T16:50:17.983",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21626",
+    "SortNumber": "    48  1973                                            ",
+    "Style": "Neo-classical",
+    "Title": "Medallion with Apollo"
+}

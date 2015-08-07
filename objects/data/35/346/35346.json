@@ -1,0 +1,107 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -665,
+    "DateEndYear": -342,
+    "DateText": "665-342 BC",
+    "Description": "Naturalistic scarabs, which exhibit a beetle-formed underside instead of a flat bottom with additional motifs, became popular in the late Third Intermediate and Late periods. They were attached to the mummy bandages and were part of the amulet set. There are two varieties of such scarabs: red carnelian and blue-green faience scarabs. It is likely that the blue-green scarabs focus only on the renewal aspect, while the red carnelian scarabs were related to the sun rise/set aspect and gave special protection at the critical transition phase.",
+    "Dimensions": "H: 1/2 x W: 13/16 x L: 1 in. (1.2 x 2 x 2.5 cm)",
+    "Dynasty": "26th-30th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Daily Magic in Ancient Egypt",
+            "ExhibBeginDate": "2006-12-02",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "December 2, 2006-November 25, 2007",
+            "ExhibEndDate": "2007-11-25",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Daily Magic in Ancient Egypt. The Walters Art Museum, Baltimore. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20085,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.366_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.366_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.366_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.366_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.366_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 20087,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.366_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.366_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.366_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.366_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.366_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 20086,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.366_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.366_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.366_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.366_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.366_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with green glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1909,
+        "LocationString": null
+    },
+    "ObjectID": 35346,
+    "ObjectName": "scarabs; amulets",
+    "ObjectNumber": "42.366",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-11T09:35:05.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35346",
+    "SortNumber": "    42   366                                            ",
+    "Style": null,
+    "Title": "Naturalistic Scarab"
+}

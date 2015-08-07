@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 15 1/4 x W: 11 1/4 in. (38.7 x 28.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31951,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.621_Fnt_NG_744.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.621_Fnt_NG_744.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.621_Fnt_NG_744.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.621_Fnt_NG_744.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.621_Fnt_NG_744.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 18503,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.621",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-01T12:01:45.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18503",
+    "SortNumber": "    37   621                                            ",
+    "Style": null,
+    "Title": "Heads of Two Female Saints"
+}

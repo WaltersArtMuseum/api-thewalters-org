@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Shodo-sho (Japanese)",
+            "CreatorID": 7053,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Guanxiu (Chinese, 832-912)",
+            "CreatorID": 18143,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1851,
+    "DateEndYear": 1851,
+    "DateText": "1851",
+    "Description": null,
+    "Dimensions": "H: 13 x W: 8 3/4 in. (33 x 22.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23048,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_35.167.2_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_35.167.2_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_35.167.2_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_35.167.2_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_35.167.2_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and colors on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2429,
+        "LocationString": null
+    },
+    "ObjectID": 36538,
+    "ObjectName": "albums; folios (leaves); paintings",
+    "ObjectNumber": "35.167.2",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest (?) [accessioned 1991].",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36538",
+    "SortNumber": "    35   167    2                                       ",
+    "Style": null,
+    "Title": "Leaf from Album Depicting the Sixteen Lohans (Arhats)"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chim\u00fa",
+            "CreatorID": 8561,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Chim\u00fa",
+    "DateBeginYear": 1100,
+    "DateEndYear": 1550,
+    "DateText": "1100-1550",
+    "Description": null,
+    "Dimensions": "H: 7 x W: 4 7/8 in. (17.8 x 12.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19104,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2854_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2854_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2854_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2854_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2854_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19105,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2854_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2854_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2854_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2854_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2854_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5583,
+        "LocationString": null
+    },
+    "ObjectID": 79414,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2854",
+    "OnView": 0,
+    "Period": "Late Intermediate-Late Horizon",
+    "Provenance": "Jack Lenor Larsen, New York [date and mode of acquisition unknown]; Private collection, 1989 [mode of acquisition unknown]; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-15T08:29:11.193",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79414",
+    "SortNumber": "    48  2854                                            ",
+    "Style": null,
+    "Title": "Stirrup Vessel"
+}

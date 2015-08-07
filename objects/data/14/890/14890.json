@@ -1,0 +1,131 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eusebius of Caesarea, Bishop of Caesarea (ca. 260-ca. 340)",
+            "CreatorID": 8611,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1080,
+    "DateEndYear": 1100,
+    "DateText": "late 11th century",
+    "Description": "This Gospel book was likely created in the capital of the Byzantine Empire, Constantinople, in the eleventh century. The manuscript is remarkable on account of its exceptionally small size, as well as the high quality of its script and miniatures. Its extensive image cycle includes six full-page miniatures, four half-page miniatures, four historiated initials, and marginalia.",
+    "Dimensions": "Overall H: 4 3/16 x W: 3 7/16 x D: 2 1/16 in. (10.7 x 8.7 x 5.2 cm); Folio H: 3 7/8 \u00d7 W: 2 5/8 in. (9.9 \u00d7 6.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminating the Word: Gospel Books in the Middle Ages",
+            "ExhibBeginDate": "2004-07-10",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "July 10, 2004-October 3, 2004",
+            "ExhibEndDate": "2004-10-03",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2012,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminating the Word: Gospel Books in the Middle Ages. The Walters Art Museum, Baltimore. 2004."
+        },
+        {
+            "ExhTitle": "Byzantine Gold: Illumination in Greek Manuscripts",
+            "ExhibBeginDate": "1986-07-15",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "July 15, 1986- September 21, 1986",
+            "ExhibEndDate": "1986-09-21",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2016,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Byzantine Gold: Illumination in Greek Manuscripts. The Walters Art Gallery, Baltimore. 1986."
+        },
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "Illuminated Greek Manuscripts from American Collections; An Exhibition in Honor of Kurt Weitzmann",
+            "ExhibBeginDate": "1973-04-14",
+            "ExhibBeginYear": 1973,
+            "ExhibDisplayDate": "April 14, 1973-May 20, 1973",
+            "ExhibEndDate": "1973-05-20",
+            "ExhibEndYear": 1973,
+            "ExhibitionID": 57,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Greek Manuscripts from American Collections; An Exhibition in Honor of Kurt Weitzmann. Princeton University Art Museum, Princeton. 1973."
+        },
+        {
+            "ExhTitle": "Shrunken Treasures: Miniaturization in Books and Art",
+            "ExhibBeginDate": "2009-08-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "August 15, 2009-November 8, 2009",
+            "ExhibEndDate": "2009-11-08",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2128,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Shrunken Treasures: Miniaturization in Books and Art. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53813,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.522.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.522.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.522.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.522.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.522.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Illumination; Manuscript; Miniature; Headpiece; Historiated initial; Scripture",
+    "Medium": "ink and pigments on lightweight, smooth, high quality parchment bound between wooden boards covered with green velvet with a bronze clasp",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2371,
+        "LocationString": null
+    },
+    "ObjectID": 14890,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.522",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14890",
+    "SortNumber": "W        522                                            ",
+    "Style": "Byzantine",
+    "Title": "Gospel Book"
+}

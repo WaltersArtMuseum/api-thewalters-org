@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Felix Octavius Carr Darley (American, 1822-1888)",
+            "CreatorID": 6799,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1878,
+    "DateEndYear": 1878,
+    "DateText": "Before 1878",
+    "Description": "Darley was primarily known as an illustrator in the 19th century. He worked for \"Harper's Monthly\" and numerous famous authors of the day, including James Fenimore Cooper, Charles Dickens, Nathaniel Hawthorne, Washington Irving, Henry Wadsworth Longfellow, and Harriet Beecher Stowe. In the 1840s he signed a contract with Edgar Allan Poe to work on his journal the \"Stylus.\" The project never materialized, but he did provide illustrations to Poe's short story \"The Gold Bug.\" Darley is known to have produced lithographs of Native Americans; this may be a study for one of these prints.",
+    "Dimensions": "H: 10 7/8 x W: 15 3/16 in. (27.6 x 38.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "American Drawings from the Walters Art Gallery",
+            "ExhibBeginDate": "1987-02-24",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "February 24, 1987-April 5, 1987",
+            "ExhibEndDate": "1987-04-05",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 2703,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "American Drawings from the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1987."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53545,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.915_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.915_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.915_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.915_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.915_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53544,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.915_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.915_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.915_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.915_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.915_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36812,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.915_Fnt_BW_T83.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.915_Fnt_BW_T83.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.915_Fnt_BW_T83.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.915_Fnt_BW_T83.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.915_Fnt_BW_T83.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: F.O.C. Darley. fecit",
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2216,
+        "LocationString": null
+    },
+    "ObjectID": 36370,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.915",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest",
+    "PublicAccessDate": "2011-12-02T00:30:01.053",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36370",
+    "SortNumber": "    37   915                                            ",
+    "Style": null,
+    "Title": "Indians on the Trail"
+}

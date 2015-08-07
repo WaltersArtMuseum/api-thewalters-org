@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        },
+        {
+            "ConcatDisplayName": "After Carlo Maratti (Italian, 1625-1713)",
+            "CreatorID": 17646,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1655,
+    "DateEndYear": 1665,
+    "DateText": "1655-1665",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 327, pp. 453-454.",
+    "Dimensions": "Painted surface H: 13 3/8 x W: 9 3/16 in. (34 x 23.3 cm); Stretcher H: 14 3/16 x W: 9 5/8 in. (36.1 x 24.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46780,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.276_Fnt_BW_H74.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.276_Fnt_BW_H74.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.276_Fnt_BW_H74.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.276_Fnt_BW_H74.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.276_Fnt_BW_H74.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3290,
+        "LocationString": null
+    },
+    "ObjectID": 34691,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.276",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 670, as Honthorst]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34691",
+    "SortNumber": "    37   276                                            ",
+    "Style": null,
+    "Title": "The Nativity"
+}

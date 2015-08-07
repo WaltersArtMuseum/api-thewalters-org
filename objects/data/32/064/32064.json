@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Seifu Yohei III (Japanese, 1851-1914)",
+            "CreatorID": 2868,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1903,
+    "DateEndYear": 1927,
+    "DateText": "ca. 1914",
+    "Description": null,
+    "Dimensions": "15 3/4 in. (40 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Master Potters of Japan",
+            "ExhibBeginDate": "1984-04-03",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "April 3, 1984-June 17, 1984",
+            "ExhibEndDate": "1984-06-17",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 753,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Master Potters of Japan. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11666,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_49.1633_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_49.1633_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_49.1633_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_49.1633_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_49.1633_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35116,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.1633_Fnt_NG_3309.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.1633_Fnt_NG_3309.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.1633_Fnt_NG_3309.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.1633_Fnt_NG_3309.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.1633_Fnt_NG_3309.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "plant; flower; chrysanthemum",
+    "Medium": "porcelain with underglaze blue and yellow",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1497,
+        "LocationString": null
+    },
+    "ObjectID": 32064,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1633",
+    "OnView": 0,
+    "Period": "Taisho",
+    "Provenance": "The Panama-Pacific International Exposition, San Francisco;  Henry Walters, Baltimore, 1915, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-10-27T16:42:08.163",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32064",
+    "SortNumber": "    49  1633                                            ",
+    "Style": null,
+    "Title": "Vase with Blue and Yellow Chrysanthemums"
+}

@@ -1,0 +1,113 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Muhammad ibn Ahmad `Assar Tabrizi (died 1382)",
+            "CreatorID": 8016,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.645, this illuminated and illustrated Safavid manuscript, executed in Safavid Iran in the 10th century AH/AD 16th, contains two poetical works: Yusuf va Zulaykha by Nur al-Din Jami (died 898 AH/AD 1492) and Mihr va Mushtari by Muhammad ibn Ahmad \"Assar Tabrizi (died 784 AH/AD 1382). The 2 texts can be read side by side on the same page, either written horizontally or obliquely. There are 4 paintings illustrating the text (fols. 58b, 91a, 159a, and 180b). The brown leather binding with dentelle-style decoration in multi-colored filigree work may date to the 10th century AH/AD 16th, although it is unlikely to be original to the manuscript.",
+    "Dimensions": "Folio H: 10 5/8 x W: 6 11/16 in. (27 x 17 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33828,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.645_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.645_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.645_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.645_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.645_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Illumination; Illustration; Manuscript; Iran Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2342,
+        "LocationString": null
+    },
+    "ObjectID": 26887,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.645",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "'Abduhu Muhammad Kazim [date and mode of acquisition unknown] [oval seal on fol. 113b]; 'Ismat Zinat Sultan, 1249 AH/AD 1833 (?) [mode of acquisition unknown] [square seal dated 12(?)49 AH/AD 1833 on fol. 114a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83819,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83820,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83821,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83822,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83823,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83824,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26887",
+    "SortNumber": "W        645                                            ",
+    "Style": null,
+    "Title": "Two Poetical Works: Yusuf and Zulaykha and Mihr and Mushtari"
+}

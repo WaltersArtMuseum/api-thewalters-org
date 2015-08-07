@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Austrian",
+            "CreatorID": 6521,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Honorius of Autun (ca. 1080-ca. 1156)",
+            "CreatorID": 5388,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1150,
+    "DateEndYear": 1175,
+    "DateText": "3rd quarter 12th century",
+    "Description": null,
+    "Dimensions": "10 7/16 x 7 1/16 in. (26.5 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\\u00d6sterreich\\states\\Ober\u00f6sterreich\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1420522,
+            "GeographyTerm": "Lambach",
+            "Latitude": "48 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.1,
+            "Longitude": "013 52",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.866
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\\u00d6sterreich\\states\\Ober\u00f6sterreich\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1420522,
+            "GeographyTerm": "Lambach",
+            "Latitude": "48 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.1,
+            "Longitude": "013 52",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.866
+        }
+    ],
+    "Images": [
+        {
+            "ID": 43720,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.29.103v_Fp_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.29.103v_Fp_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.29.103v_Fp_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.29.103v_Fp_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.29.103v_Fp_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 13615,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.29.103V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Lambach library [numbered B.67 on upper board, 94 and LXXXXIV, and 184 on spine];  Jacques Rosenthal [cat. 90, 1928, no. 144] [date and mode of acquisition unknown];  Gruel [no. 1369, bookplate on front pastedown] [date and mode of acquisition unknown];  Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13615",
+    "SortNumber": "W         29  103V                                      ",
+    "Style": "Romanesque",
+    "Title": "Leaf from Expositio in cantica canticorum; Sigillum sanctae Mariae; Neocosmus"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sumerian",
+            "CreatorID": 4252,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1929",
+    "Culture": null,
+    "DateBeginYear": -1934,
+    "DateEndYear": -1924,
+    "DateText": "1934-1924 BC",
+    "Description": "The inscription on this clay cone features the name of Lipit Ishtar, king of Isin.",
+    "Dimensions": "H: 4 13/16 in. (12.2 cm)",
+    "Dynasty": "1st Dynasty of Isin",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489259,
+            "GeographyTerm": "Al-\u2018Iraq",
+            "Latitude": "33 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.0,
+            "Longitude": "044 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32554,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1458_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1458_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1458_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1458_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1458_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5621,
+        "LocationString": null
+    },
+    "ObjectID": 498,
+    "ObjectName": "nails; cones",
+    "ObjectNumber": "48.1458",
+    "OnView": 0,
+    "Period": "early Old Babylonian",
+    "Provenance": "Edgar J. Banks [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": "Lipit Ishtar (1934-1924 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/498",
+    "SortNumber": "    48  1458                                            ",
+    "Style": null,
+    "Title": "Lipit Ishtar Cone"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greco-Roman",
+            "CreatorID": 2185,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 100,
+    "DateText": "AD 1st century",
+    "Description": null,
+    "Dimensions": "H: 7 3/16 in. (18.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58516,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.741_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.741_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.741_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.741_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.741_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 436,
+        "LocationString": null
+    },
+    "ObjectID": 35216,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.741",
+    "OnView": 0,
+    "Period": "late Hellenistic",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35216",
+    "SortNumber": "    54   741                                            ",
+    "Style": "late Hellenistic",
+    "Title": "Dionysus Pouring from a Rhyton"
+}

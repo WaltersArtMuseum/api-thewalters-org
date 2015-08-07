@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Partial museum purchase with funds provided by the S. & A.P. Fund, 1956 and partial gift of Mr. Robert E. Hecht, Jr., 1957",
+    "Culture": "Byzantine",
+    "DateBeginYear": 900,
+    "DateEndYear": 999,
+    "DateText": "10th century",
+    "Description": "Saint Arethas was an Ethiopian soldier who was murdered in 523 because of his Christian faith. He is depicted here in Byzantine court dress, holding a cross as a sign of his martyrdom. The tile is one among three in the Walters Art Museum that have the same size and contain identical busts of male saints: the other two show Saint Basil (inv. 48.2086.17) and Saint Panteleimon (inv. 48.2086.4). This series probably formed a frieze on a church wall or altar screen.",
+    "Dimensions": "6 11/16 x 6 5/8 x 5/16 in. (17 x 16.8 x 0.9 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Byzantium, 330-1453",
+            "ExhibBeginDate": "2008-10-25",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "October 25, 2008-March 22, 2008",
+            "ExhibEndDate": "2008-03-22",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 1977,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Byzantium, 330-1453. Royal Academy of Arts, London. 2008."
+        },
+        {
+            "ExhTitle": "The Glory of Byzantium",
+            "ExhibBeginDate": "1997-03-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "March 11, 1997-July 6, 1997",
+            "ExhibEndDate": "1997-07-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 889,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Glory of Byzantium. The Metropolitan Museum of Art, New York. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10035,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2086.2_Fnt_TR_T02IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2086.2_Fnt_TR_T02IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2086.2_Fnt_TR_T02IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2086.2_Fnt_TR_T02IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2086.2_Fnt_TR_T02IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "architecture; revetment",
+    "Medium": "ceramic with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3836,
+        "LocationString": null
+    },
+    "ObjectID": 2890,
+    "ObjectName": "ceramic tiles;icons",
+    "ObjectNumber": "48.2086.2",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Nikos Avgheris, Istanbul, ca. 1950, by purchase; Robert E. Hecht, Ruxton, Maryland, 1956, by purchase; Walters Art Museum, 1956, by purchase.\r\n",
+    "PublicAccessDate": "2008-09-25T17:15:34.91",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2890",
+    "SortNumber": "    48  2086    2                                       ",
+    "Style": null,
+    "Title": "Saint Arethas"
+}

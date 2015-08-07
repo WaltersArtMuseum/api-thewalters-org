@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1238,
+    "DateEndYear": 1262,
+    "DateText": "ca. 1250",
+    "Description": "This page from Walters manuscript W.106 depicts two scenes from the life of Joseph.  Top image: Joseph rose from disaster to rule Egypt under Pharaoh. His brothers came seeking grain. Joseph had their sacks filled, but had a cup placed in the sack of Benjamin, the youngest of the brothers. \r\n\r\nBottom image: The brothers brought Jacob to Joseph, who went to meet him in Goshen. And Joseph fell on his father's neck and wept. And the elderly Jacob said to Joseph, \"Now let me die, since I have seen your face and know that you are still alive.\"",
+    "Dimensions": "H: 5 3/16 x W: 3 3/4 in. (13.2 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Oxfordshire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468718,
+            "GeographyTerm": "Oxford",
+            "Latitude": "51 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.766,
+            "Longitude": "001 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31338,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.106.16r_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.106.16r_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.106.16r_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.106.16r_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.106.16r_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] Top image reads: Joseph's cup is found in Benjamin's bag; [Transliteration] la cupe ioseph est trove en le sac beniamin. \r\n\r\n[Translation] Bottom image reads: The sons of Jacob brought Jacob to Joseph in Egypt; [Transliteration] le filz iacob unt amene iacob en egypte a ioseph.",
+    "Keywords": "Art; Book; Christian; Illumination; Manuscript; Painting",
+    "Medium": "ink and pigment on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 6043,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.106.16R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "L\u00e9on Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, June 6, 1903, by purchase [see The Diaries of George Lucas]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6043",
+    "SortNumber": "W        106   16R                                      ",
+    "Style": null,
+    "Title": "Top: Joseph's Cup found in Benjamin's Sack (Genesis 44:12)"
+}

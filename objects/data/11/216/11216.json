@@ -1,0 +1,111 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Otsuki Mitsuoki (Japanese, 1766-1834)",
+            "CreatorID": 5018,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1766,
+    "DateEndYear": 1834,
+    "DateText": "1766-1834",
+    "Description": "This fuchi is decorated with a flowering plum tree branch. It is part of a set with Walters 51.1073.",
+    "Dimensions": "L: 1 7/16 in. (3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Osaka\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492832,
+            "GeographyTerm": "Osaka",
+            "Latitude": "34 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.666,
+            "Longitude": "135 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18782,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1072_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1072_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1072_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1072_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1072_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 18781,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1072_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1072_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1072_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1072_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1072_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 18783,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1072_Mrk_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1072_Mrk_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1072_Mrk_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1072_Mrk_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1072_Mrk_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u6708\u5149\u8208; [Translation] \u00d4tsuki Mitsuoki; [Number] In pencil: 819 7",
+    "Keywords": "plant; tree; plum",
+    "Medium": "shibuichi, gold, silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 11216,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1072",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 22363,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/11216",
+    "SortNumber": "    51  1072                                            ",
+    "Style": "Otsuki School",
+    "Title": "Fuchi with Plum Branch"
+}

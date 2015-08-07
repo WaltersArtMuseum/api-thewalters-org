@@ -1,0 +1,119 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eusebius of Caesarea, Bishop of Caesarea (ca. 260-ca. 340)",
+            "CreatorID": 8611,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1070,
+    "DateEndYear": 1100,
+    "DateText": "late 11th century",
+    "Description": "This eleventh-century Gospel Book is of great importance for art historians due to the style of its miniatures, which suggest that it may have been produced in Antioch on the Orontes. The city was a major Byzantine center before its fall to the Seljuks in 1084, but very little of its artistic production survives. Unfortunately, the fragile condition of the manuscript and its binding makes full imaging impossible at this time, so only the exterior could be digitized. Although the volume contains the continuous text of the Gospels, its size is quite large, and it may have been used for public liturgical readings in church, much like a Gospel lectionary.",
+    "Dimensions": "Overall H: 13 1/2 x W: 10 1/4 in. (34.3 x 26 cm); Folio H: 13 9/16 \u00d7 W: 9 5/8 in. (34.5 \u00d7 24.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Book and the Author: Portraits of the Evangelists in Eastern and Western Manuscripts",
+            "ExhibBeginDate": "1990-10-09",
+            "ExhibBeginYear": 1990,
+            "ExhibDisplayDate": "October 9, 1990-January 6, 1991",
+            "ExhibEndDate": "1991-01-06",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 31,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book and the Author: Portraits of the Evangelists in Eastern and Western Manuscripts. The Walters Art Gallery, Baltimore. 1990-1991."
+        },
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "In Remembrance of Creation: Evolution of Art and Scholarship in the Medieval and Renaissance Bible",
+            "ExhibBeginDate": "1968-05-04",
+            "ExhibBeginYear": 1968,
+            "ExhibDisplayDate": "May 4, 1968-June 11, 1968",
+            "ExhibEndDate": "1968-06-11",
+            "ExhibEndYear": 1968,
+            "ExhibitionID": 30,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "In Remembrance of Creation: Evolution of Art and Scholarship in the Medieval and Renaissance Bible. Brandeis University Library, Waltham. 1968."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Akdeniz kiyisi\\provinces\\Hatay Ili\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1502059,
+            "GeographyTerm": "Antioch",
+            "Latitude": "36 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.233,
+            "Longitude": "036 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.116
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53819,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.532.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.532.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.532.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.532.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.532.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Illustration; Manuscript; Scripture",
+    "Medium": "ink and pigments on heavyweight parchment bound between squared flush-grooved wooden boards covered with blind-tooled brown goatskin and recovered with red velvet and traces of metal attachments",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2384,
+        "LocationString": null
+    },
+    "ObjectID": 28163,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.532",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Church of the Holy Sepulchre, Jerusalem, 1541-42, by gift; Patriarch Damianus, Damascus, 1918 (?) [mode of acquisition unknown]; Henry Walters, Paris, after 1918 (?), by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28163",
+    "SortNumber": "W        532                                            ",
+    "Style": null,
+    "Title": "Gospel Book"
+}

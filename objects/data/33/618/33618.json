@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Piermatteo d'Amelia (Italian, ca. 1450-1508)",
+            "CreatorID": 6543,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1490,
+    "DateEndYear": 1495,
+    "DateText": "1490-1495",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 104, p. 163.",
+    "Dimensions": "Painted surface H: 25 9/16 x W: 17 15/16 x D: 13/16 in. (65 x 45.5 x 2.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29061,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.477_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.477_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.477_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.477_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.477_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3253,
+        "LocationString": null
+    },
+    "ObjectID": 33618,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.477",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Bernard Berenson [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1911 [mode of acquisition unknown [through Berenson]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-04-01T11:04:12.873",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33618",
+    "SortNumber": "    37   477                                            ",
+    "Style": null,
+    "Title": "Madonna and Child with Two Seraphim"
+}

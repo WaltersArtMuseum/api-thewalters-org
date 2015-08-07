@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Attributed to Riza 'Abbasi (Persian, ca. 1565-1635)",
+            "CreatorID": 6741,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This painting, Walters manuscript leaf W.689, is spuriously attributed to Riza-'i 'Abbasi (died 1044 AH/AD 1634) and depicts a lady with a fan.",
+    "Dimensions": "H: 8 1/16 x W: 3 15/16 in. (20.5 x 10 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible",
+            "ExhibBeginDate": "2002-10-27",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "October 27, 2002-December 29, 2002",
+            "ExhibEndDate": "2002-12-29",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2339,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible. The Walters Art Museum, Baltimore; Academy Art Museum, Easton; Princeton University Art Museum, Princeton; The Mitchell Gallery, Annapolis; Williams College Museum of Art, Williamstown. 2002."
+        },
+        {
+            "ExhTitle": "Art of Persia",
+            "ExhibBeginDate": "1966-10-28",
+            "ExhibBeginYear": 1966,
+            "ExhibDisplayDate": "October 28, 1966-January 14, 1967",
+            "ExhibEndDate": "1967-01-14",
+            "ExhibEndYear": 1967,
+            "ExhibitionID": 709,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Art of Persia. Ithaca College Museum of Art, Ithaca. 1966-1967."
+        },
+        {
+            "ExhTitle": "Painting in Iran, Sixteenth to Seventeenth Centuries",
+            "ExhibBeginDate": "1992-04",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "April 1992-July 10, 1992",
+            "ExhibEndDate": "1992-07-10",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 3084,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Painting in Iran, Sixteenth to Seventeenth Centuries. The Walters Art Gallery, Baltimore. 1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34241,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.689_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.689_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.689_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.689_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.689_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Illustration; Miniature; Painting; Iran",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6430,
+        "LocationString": null
+    },
+    "ObjectID": 8791,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.689",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83812,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8791",
+    "SortNumber": "W        689                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Lady with a Fan"
+}

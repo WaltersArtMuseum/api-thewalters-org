@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "German; Christian",
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "13th century",
+    "Description": null,
+    "Dimensions": "H: 20.9 x W: 14.7 cm",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Unterfranken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1450688,
+            "GeographyTerm": "W\u00fcrzburg",
+            "Latitude": "49 48",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.8,
+            "Longitude": "009 56",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.933
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55282,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.16.2V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.16.2V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.16.2V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.16.2V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.16.2V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Gothic; Manuscript; Walters Art Museum; Original binding; Devotion",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 91608,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.16.2V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by L\u00e9on Gruel, Paris, late nineteenth or early twentieth century; purchased by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2013-11-23T01:00:03.05",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91608",
+    "SortNumber": "W         16    2V                                      ",
+    "Style": null,
+    "Title": "Capital R"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": null,
+    "DateBeginYear": -125,
+    "DateEndYear": -75,
+    "DateText": "late 2nd-early 1st century BC",
+    "Description": null,
+    "Dimensions": "W: 11/16 in. (1.7 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Serapis: The Creation of a God",
+            "ExhibBeginDate": "2002-04-02",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 2, 2002-November 17, 2002",
+            "ExhibEndDate": "2002-11-17",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 309,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Serapis: The Creation of a God. The Walters Art Museum, Baltimore. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62498,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_42.185_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_42.185_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_42.185_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_42.185_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_42.185_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "carnelian",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 838,
+        "LocationString": null
+    },
+    "ObjectID": 24991,
+    "ObjectName": "intaglios",
+    "ObjectNumber": "42.185",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Henry Walters, Baltimore, 1913 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24991",
+    "SortNumber": "    42   185                                            ",
+    "Style": null,
+    "Title": "Intaglio with Isis and Serapis"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Miniatures",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Isaac Oliver I (English, ca. 1565-1617)",
+            "CreatorID": 6582,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1588,
+    "DateEndYear": 1612,
+    "DateText": "ca. 1600",
+    "Description": null,
+    "Dimensions": "H: 2 7/16 x W: 2 5/16 in. (6.2 x 5.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Small Northern European Portraits from The Walters Art Gallery, Baltimore",
+            "ExhibBeginDate": "2000-09-17",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "September 17, 2000-December 19, 2000",
+            "ExhibEndDate": "2000-12-19",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 74,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Small Northern European Portraits from The Walters Art Gallery, Baltimore. National Gallery of Art, Washington. 2000."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48870,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_38.161_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_38.161_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_38.161_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_38.161_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_38.161_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46656,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_38.161_Fnt_BW_3285.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_38.161_Fnt_BW_3285.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_38.161_Fnt_BW_3285.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_38.161_Fnt_BW_3285.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_38.161_Fnt_BW_3285.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48869,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_38.161_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_38.161_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_38.161_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_38.161_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_38.161_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Inscription] Engraved on back: Engraved on back: Lady Anne Bacon by Nicholas Hilliard",
+    "Keywords": null,
+    "Medium": "opaque watercolor and gilding on vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2372,
+        "LocationString": null
+    },
+    "ObjectID": 37236,
+    "ObjectName": "miniatures (paintings); portraits",
+    "ObjectNumber": "38.161",
+    "OnView": 0,
+    "Period": "17th century",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37236",
+    "SortNumber": "    38   161                                            ",
+    "Style": null,
+    "Title": "Lady Anne Bacon"
+}

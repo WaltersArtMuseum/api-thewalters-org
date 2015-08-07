@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -332,
+    "DateText": "664-332 BC",
+    "Description": null,
+    "Dimensions": "H: 10 1/16 in. (25.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al-Jizah\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544370,
+            "GeographyTerm": "Mit Rahina",
+            "Latitude": "29 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.85,
+            "Longitude": "031 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19402,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.402_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.402_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.402_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.402_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.402_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] \r\nfront: Coming forth of (Imhotep?) who gives \r\nright: life (pa-Hor-Shen?), son of Pa-Ameny,\r\nrear: born of Pay-(hr.f neter?), made of the\r\nleft: house mistress Sha-her",
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 402,
+        "LocationString": null
+    },
+    "ObjectID": 40274,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.402",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40274",
+    "SortNumber": "    54   402                                            ",
+    "Style": null,
+    "Title": "Seated Imhotep"
+}

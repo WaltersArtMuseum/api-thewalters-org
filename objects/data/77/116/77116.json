@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Dora Wheeler Keith (American, 1857 - 1940)",
+            "CreatorID": 33650,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Louis Prang (American, 1824 - 1909)",
+            "CreatorID": 15739,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1881,
+    "DateEndYear": 1881,
+    "DateText": "1881",
+    "Description": "In the 1880s the print firm of Louis Prang was famous for its commercially successful Christmas cards. In 1881 Prang held his third competition to design a holiday card. The first prize went to Dora Wheeler. Titled \"The Light of the World\" the design in its printed form bears the words \"Good Tidings of Great Joy!\" above the head of Mary.",
+    "Dimensions": "H: 6 7/8 x W: 8 7/8 in. (17.46 x 22.54 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53394,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.2579_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.2579_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.2579_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.2579_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.2579_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53393,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.2579_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.2579_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.2579_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.2579_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.2579_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "graphite, gouache on cardboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1420,
+        "LocationString": null
+    },
+    "ObjectID": 77116,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2579",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Likely acquired by William T. Walters, Baltimore, between 1881 and ca. 1890; inherited by Henry Walters, Baltimore, 1894; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-03-26T01:00:01.14",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77116",
+    "SortNumber": "    37  2579                                            ",
+    "Style": null,
+    "Title": "The Light of the World"
+}

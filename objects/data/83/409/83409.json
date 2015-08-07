@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Zayn al-'Abidin bin ar-Rahman al-Jami (active ca. 1512)",
+            "CreatorID": 15729,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1512,
+    "DateEndYear": 1512,
+    "DateText": "Sha'ban 918 AH/AD 1512",
+    "Description": "This folio from Walters mansucript W.628 contains a colophon in Arabic that gives the name of the scribe and the date of copying.",
+    "Dimensions": "H: 8 7/16 x W: 5 5/16 in. (21.5 x 13.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33249,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.628.156b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.628.156b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.628.156b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.628.156b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.628.156b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] tamma al-kit\u0101b bi-'awn al-Malik al-Wahh\u0101b 'al\u00e1 yad al-'abd al-faq\u012br /1/ Zayn al-'\u0100bid\u012bn ibn 'Abd al-Rahman al-J\u0101m\u012b t\u0101ba All\u0101h 'alayhi wa-ghafara lahu /2/ wa-liw\u0101lidayhi f\u012b Sha'b\u0101n al-mu'azzam al-mu'anazzim /3/ f\u012b shuh\u016br sanat tham\u0101n 'ashar /4/ wa-tis'imi<'>ah hijriyah /5/ m (= tamma) /6/",
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Sufism; Literature -- Poetry",
+    "Medium": "ink and pigments on brown laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83409,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.628.156B",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown] [Ex libris on upper board inside]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83409",
+    "SortNumber": "W        628  156B                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

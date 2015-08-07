@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Vittore Crivelli (Italian, ca. 1444-ca. 1501)",
+            "CreatorID": 4258,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1478,
+    "DateEndYear": 1502,
+    "DateText": "ca. 1490",
+    "Description": "For more information on these panels, please see Federico Zeri's 1976 catalogue no. 164, pp. 243-245.",
+    "Dimensions": "St. Benedict painted surface H: 48 9/16 x W: 15 1/2 x Approx. D excluding cradle: 3/8 in. (123.4 x 39.4 x 1 cm); St. John painted surface H: 48 1/2 x W: 15 5/8 x D excluding cradle: 1/2 in. (123.2 x 39.7 x 1.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41534,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.709_Fnt_TR_T97II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.709_Fnt_TR_T97II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.709_Fnt_TR_T97II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.709_Fnt_TR_T97II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.709_Fnt_TR_T97II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37194,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.709A_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.709A_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.709A_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.709A_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.709A_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 37195,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.709B_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.709B_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.709B_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.709B_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.709B_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 27786,
+    "ObjectName": "panel paintings; polyptychs",
+    "ObjectNumber": "37.709",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 68-69; 1897 catalogue: no. 46, as Verrocchio]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27786",
+    "SortNumber": "    37   709                                            ",
+    "Style": null,
+    "Title": "St. Benedict, St. John the Baptist"
+}

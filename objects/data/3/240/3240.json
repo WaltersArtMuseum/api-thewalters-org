@@ -1,0 +1,101 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Toyohara Kunichika (Japanese, 1835-1900)",
+            "CreatorID": 6301,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Morimoto Junsaburo",
+            "CreatorID": 15008,
+            "Gender": null,
+            "Role": "Publisher"
+        }
+    ],
+    "CreditLine": "Bequest of Robert S. Shaull, 1990",
+    "Culture": null,
+    "DateBeginYear": 1864,
+    "DateEndYear": 1889,
+    "DateText": "ca. 1876-89",
+    "Description": "Abe Sadato, at center, has suddenly thrown off his disguise and revealed his true nature: his wild and disheveled character is conveyed by a wig with hair standing permanently on end. In this famous scene, Sadato is reunited with his wife Sodehagi and his brother Muneto (who is shown on the left), the only remaining members of a family that had been almost completely wiped out nine years previously. The culprit, Yoshiie, whom they have vowed to kill, is shown on the right.",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490374,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490374,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50531,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.341_Fnt_BW_T92.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.341_Fnt_BW_T92.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.341_Fnt_BW_T92.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.341_Fnt_BW_T92.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.341_Fnt_BW_T92.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Toyohara Kunichika ga",
+    "Keywords": "Kabuki; Kawarazaki Gonnosuke VII; Ichikawa Danjuro IX; Bando Kakitsu; Ichimura Uzaemon XIV; Nakamura Sojuro II; actor; revenge; Kunichika",
+    "Medium": "mulberry paper, pigments",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5309,
+        "LocationString": null
+    },
+    "ObjectID": 3240,
+    "ObjectName": "woodblock prints",
+    "ObjectNumber": "95.341",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Robert S. Shaull [date and mode of acquisition unknown]; Walters Art Museum, 1990, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79287,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79288,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79289,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/3240",
+    "SortNumber": "    95   341                                            ",
+    "Style": "Utagawa School",
+    "Title": "Adachigahara sandanme"
+}

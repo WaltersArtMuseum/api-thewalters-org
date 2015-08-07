@@ -1,0 +1,143 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Prosper Marilhat (French, 1811-1847)",
+            "CreatorID": 5112,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1902",
+    "Culture": null,
+    "DateBeginYear": 1811,
+    "DateEndYear": 1847,
+    "DateText": "19th century",
+    "Description": "Marilhat participated in a scientific expedition to Greece, Syria, Palestine, and Egypt in 1831. He remained in Cairo for two years, until he was forced by ill health to return to Paris. For the remainder of his career, Marilhat, popularly known as \"The Egyptian,\" continued to produce paintings of Near Eastern subjects. Though they were admired for their exotic quality, his paintings, with their precise delineation of forms, remained essentially neoclassical in style.",
+    "Dimensions": "H: 22 1/16 x W: 18 1/2 in. (56 x 47 cm); Framed H: 32 1/2 x W: 29 in. (82.55 x 73.66 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Romantic Circle",
+            "ExhibBeginDate": "1952",
+            "ExhibBeginYear": 1952,
+            "ExhibDisplayDate": "1952",
+            "ExhibEndDate": "1952",
+            "ExhibEndYear": 1952,
+            "ExhibitionID": 2305,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Romantic Circle. Wadsworth Atheneum Museum of Art, Hartford. 1952."
+        },
+        {
+            "ExhTitle": "A Baltimorean in Paris: George A. Lucas, 1860-1909",
+            "ExhibBeginDate": "1979-01-29",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "January 29, 1979-March 11, 1979",
+            "ExhibEndDate": "1979-03-11",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 484,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Baltimorean in Paris: George A. Lucas, 1860-1909. The Walters Art Gallery, Baltimore. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Urban\\governorates\\Al-Qahirah\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543869,
+            "GeographyTerm": "Al-Qahirah",
+            "Latitude": "30 03",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.5,
+            "Longitude": "031 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24654,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.96_Fnt_BW_H78.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.96_Fnt_BW_H78.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.96_Fnt_BW_H78.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.96_Fnt_BW_H78.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.96_Fnt_BW_H78.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        },
+        {
+            "ID": 38664,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.96_ATBackCc_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.96_ATBackCc_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.96_ATBackCc_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.96_ATBackCc_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.96_ATBackCc_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 38665,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.96_ATFnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.96_ATFnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.96_ATFnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.96_ATFnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.96_ATFnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 3
+        },
+        {
+            "ID": 38666,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.96_ATFntCc_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.96_ATFntCc_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.96_ATFntCc_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.96_ATFntCc_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.96_ATFntCc_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: P. MARILHAT",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3375,
+        "LocationString": null
+    },
+    "ObjectID": 3111,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.96",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Montaignac, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-22T11:29:39.117",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3111",
+    "SortNumber": "    37    96                                            ",
+    "Style": "Neoclassical",
+    "Title": "Landscape with Mosque"
+}

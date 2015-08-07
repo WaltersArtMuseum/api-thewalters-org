@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tony Golz (German, 19th century)",
+            "CreatorID": 6960,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "The artist has recorded a scene of carousing students.",
+    "Dimensions": "H: 8 1/16 x W: 6 1/8 in. (20.5 x 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Medley of German Drawings",
+            "ExhibBeginDate": "1996-04-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "April 17, 1996-September 1, 1996",
+            "ExhibEndDate": "1996-09-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2179,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medley of German Drawings. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48003,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1240_Fnt_BW_T83.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1240_Fnt_BW_T83.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1240_Fnt_BW_T83.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1240_Fnt_BW_T83.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1240_Fnt_BW_T83.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: Tony Golz",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2275,
+        "LocationString": null
+    },
+    "ObjectID": 34913,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1240",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34913",
+    "SortNumber": "    37  1240                                            ",
+    "Style": null,
+    "Title": "Students Drinking"
+}

@@ -1,0 +1,97 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian (?)",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Persian (?)",
+            "CreatorID": 3496,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": 1101,
+    "DateEndYear": 1200,
+    "DateText": "12th century",
+    "Description": "The outside is inlayed with a frieze of blessings in nashki script, and the inside depicts a horseman fighting with an eagle. Seated figures appear along the rim.\r\n\r\nThe nashki script shows beautifully developed human-headed writing. [For more on anthropomorphic letters see Adolf Grohmann, \"Anthropomorphic and Zoomorphic Letters in the History of Arabic Writing,\" Bull. de l'institut d'Egypte, 1958, p. 117-122.]",
+    "Dimensions": "H: 11/16 x Diam: 3 11/16 in. (1.7 x 9.4 cm)",
+    "Dynasty": "Seljuk Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55805,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.515_Fnt_BW_C39.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.515_Fnt_BW_C39.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.515_Fnt_BW_C39.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.515_Fnt_BW_C39.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.515_Fnt_BW_C39.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze with silver inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 459,
+        "LocationString": null
+    },
+    "ObjectID": 20982,
+    "ObjectName": "covers",
+    "ObjectNumber": "54.515",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown] [from the Hamadan Treasure]; Henry Walters, Baltimore, January 6, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 27211,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 40304,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/20982",
+    "SortNumber": "    54   515                                            ",
+    "Style": null,
+    "Title": "Round Cover, Probably for a Box"
+}

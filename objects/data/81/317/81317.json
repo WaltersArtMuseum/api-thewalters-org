@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1288,
+    "DateEndYear": 1325,
+    "DateText": "ca. 1300-1325",
+    "Description": "The artist has populated the busy margins of this page with an array of entertaining figures. In the top margin, two bizarre creatures, half-man and half-beast, joust for our amusement. Jousting was an honorable and dangerous sport, but here the artist disregards these serious aspects in favor of a lighthearted parody. In the side margin, a juggler performs tricks, sending a golden plate high into the air and preparing to catch it again with his sticks.",
+    "Dimensions": "H: 6 7/8 x W: 5 1/16 in. (17.5 x 12.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Nord-Pas-de-Calais\\departments\\Pas-de-Calais\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1424216,
+            "GeographyTerm": "Arras",
+            "Latitude": "50 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.283,
+            "Longitude": "002 46",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.766
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27372,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_W.104.5V_DetB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_W.104.5V_DetB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_W.104.5V_DetB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_W.104.5V_DetB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_W.104.5V_DetB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27371,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_W.104.5V_DetA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_W.104.5V_DetA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_W.104.5V_DetA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_W.104.5V_DetA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_W.104.5V_DetA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81317,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.104.5V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, after 1894, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81317",
+    "SortNumber": "W        104    5V                                      ",
+    "Style": "Gothic",
+    "Title": "Jousting and Juggling"
+}

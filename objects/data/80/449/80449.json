@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Maya",
+            "CreatorID": 4619,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Promised gift of John Bourne",
+    "Culture": "Maya",
+    "DateBeginYear": 550,
+    "DateEndYear": 850,
+    "DateText": "AD 550-850",
+    "Description": null,
+    "Dimensions": "H: 4 3/8 x Diam: 5 3/8 in. (11.11 x 13.72 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608942,
+            "GeographyTerm": "M\u00e9xico",
+            "Latitude": "23 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -102.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608249,
+            "GeographyTerm": "Guatemala",
+            "Latitude": "15 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.5,
+            "Longitude": "090 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -90.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27623,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.294_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.294_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.294_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.294_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.294_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "burnished earthenware, traces of stucco and post-fire paint (red and green)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5539,
+        "LocationString": null
+    },
+    "ObjectID": 80449,
+    "ObjectName": "vessels",
+    "ObjectNumber": "TL.2009.20.294",
+    "OnView": 0,
+    "Period": "Late Classic",
+    "Provenance": "John G. Bourne [date and mode of acquisition unknown].",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80449",
+    "SortNumber": "TL      2009   20  294                                  ",
+    "Style": null,
+    "Title": "Vessel"
+}

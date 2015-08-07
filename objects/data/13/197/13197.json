@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ichinomiya Nagatsune (Japanese, 1722-1787)",
+            "CreatorID": 3803,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1770,
+    "DateEndYear": 1787,
+    "DateText": "1770-1787",
+    "Description": "This fuchi shows a man in a row boat with his paddle in the water. It is part of a set with Walters 51.925.",
+    "Dimensions": "1 7/16 in. (3.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15409,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.924_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.924_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.924_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.924_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.924_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15408,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.924_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.924_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.924_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.924_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.924_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15410,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.924_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.924_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.924_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.924_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.924_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u8d8a\u524d\u5927\u63be\u6e90\u9577\u5e38; [Translation] Echizen no daij\u00f4 Minamoto Nagatsune (kao)",
+    "Keywords": "genre; boat; fisherman",
+    "Medium": "shibuichi, copper, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 498,
+        "LocationString": null
+    },
+    "ObjectID": 13197,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.924",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-14T09:53:43.96",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 19279,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/13197",
+    "SortNumber": "    51   924                                            ",
+    "Style": null,
+    "Title": "Fuchi with Man Paddling a Boat"
+}

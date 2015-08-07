@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Barbara Longhi (Italian, 1552-ca. 1638)",
+            "CreatorID": 5338,
+            "Gender": "female",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1552,
+    "DateEndYear": 1638,
+    "DateText": "1552-1638",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 267, pp. 392-393.",
+    "Dimensions": "H: 16 3/4 x W: 13 9/16 in. (42.5 x 34.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439896,
+            "GeographyTerm": "Romagna",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19155,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1068_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1068_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1068_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1068_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1068_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47177,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1068_XR_1970.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1068_XR_1970.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1068_XR_1970.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1068_XR_1970.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1068_XR_1970.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas mounted on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3239,
+        "LocationString": null
+    },
+    "ObjectID": 11457,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.1068",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 192; 1897 catalogue: no. 247, as Luca Longhi]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11457",
+    "SortNumber": "    37  1068                                            ",
+    "Style": null,
+    "Title": "Madonna Adoring the Child"
+}

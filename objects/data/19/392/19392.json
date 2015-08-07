@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eiraku Wazen (Japanese, 1821-1896)",
+            "CreatorID": 6579,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1878",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "The exterior is decorated with stylized phoenixes and peonies. The interior displays bats around the rim, and calligraphy which refers to the sea of good fortunes and the mountains of longevity; things associated with birthday wishes and congratulations.",
+    "Dimensions": "H: 2 7/16 x Diam: 4 3/4 in. (6.2 x 12 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exposition Universelle",
+            "ExhibBeginDate": "1878-05-05",
+            "ExhibBeginYear": 1878,
+            "ExhibDisplayDate": "May 5, 1878-November 10, 1878",
+            "ExhibEndDate": "1878-11-10",
+            "ExhibEndYear": 1878,
+            "ExhibitionID": 2381,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exposition Universelle. Paris. 1878."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8615,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.608_Int_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.608_Int_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.608_Int_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.608_Int_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.608_Int_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8617,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.608_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.608_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.608_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.608_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.608_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8614,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.608_Det_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.608_Det_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.608_Det_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.608_Det_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.608_Det_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 8616,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.608_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.608_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.608_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.608_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.608_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "Kahin Shiryu",
+    "Keywords": null,
+    "Medium": "porcelain with underglaze cobalt and overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2051,
+        "LocationString": null
+    },
+    "ObjectID": 19392,
+    "ObjectName": "tea bowls; chawan",
+    "ObjectNumber": "49.608",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Exposition Universelle, Paris, 1878; William T. Walters, Baltimore, 1878, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19392",
+    "SortNumber": "    49   608                                            ",
+    "Style": "\"kinrande\" ware-style, Kyoto ware",
+    "Title": "Tea Bowl"
+}

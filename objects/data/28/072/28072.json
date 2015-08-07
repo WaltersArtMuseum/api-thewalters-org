@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hamano Sh\u00f4zui (Japanese, 1696-1769)",
+            "CreatorID": 6114,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1696,
+    "DateEndYear": 1769,
+    "DateText": "1696-1769",
+    "Description": "The fuchi is carved to look like the rim of a fisherman's basket. A rod and fly are on the side of the basket. Because this is paired with a rice bale, it is a reference to the god of good fortune, Ebisu. The rice bale is on the kashira Walters 51.999.",
+    "Dimensions": "L: 1 7/16 in. (3.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19573,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.998_SideA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.998_SideA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.998_SideA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.998_SideA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.998_SideA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19574,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.998_SideB_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.998_SideB_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.998_SideB_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.998_SideB_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.998_SideB_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19572,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.998_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.998_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.998_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.998_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.998_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u653f\u96a8; [Translation] Sh\u00f4zui",
+    "Keywords": "Ebisu",
+    "Medium": "shibuichi  with red lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 28072,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.998",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 29317,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/28072",
+    "SortNumber": "    51   998                                            ",
+    "Style": "Hamano School",
+    "Title": "Fuchi with Eibsu's Fishing Basket"
+}

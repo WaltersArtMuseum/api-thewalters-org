@@ -1,0 +1,228 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Benedetto Bordon (Italian, 1450-1530)",
+            "CreatorID": 7983,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1468,
+    "DateEndYear": 1492,
+    "DateText": "ca. 1480",
+    "Description": null,
+    "Dimensions": "folio: 8 7/8 x 6 5/16 in. (22.5 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Leonardo's Last Supper: Before and After",
+            "ExhibBeginDate": "1983-12-18",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "December 18, 1983-March 4, 1984",
+            "ExhibEndDate": "1984-03-04",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2947,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Leonardo's Last Supper: Before and After. National Gallery of Art, Washington. 1983-1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14260,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.333.100R_ObvDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.333.100R_ObvDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.333.100R_ObvDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.333.100R_ObvDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.333.100R_ObvDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2317,
+        "LocationString": null
+    },
+    "ObjectID": 9199,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.333",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L. S. Olschki;  Henry Walters, Baltimore [date of acquisition unknown], by purchase [inv. no. 30790];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 2404,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3883,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5190,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5223,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5332,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5470,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6900,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7056,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 9475,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10717,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11453,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11671,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 13402,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 13809,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14447,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 15183,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 17876,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 18916,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19587,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20278,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20915,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21687,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 23703,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24536,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24877,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 32872,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 33035,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34270,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36532,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36695,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37027,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 40076,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 40140,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9199",
+    "SortNumber": "W        333                                            ",
+    "Style": null,
+    "Title": "Breviary"
+}

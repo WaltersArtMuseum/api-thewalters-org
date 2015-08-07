@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tibetan",
+            "CreatorID": 6868,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2001",
+    "Culture": null,
+    "DateBeginYear": 1200,
+    "DateEndYear": 1299,
+    "DateText": "13th century",
+    "Description": null,
+    "Dimensions": "H: 9 3/8 x W: 27 1/4 in. (23.81 x 69.22 cm); Framed H: 12 3/4 x W: 33 3/8 x  D: 2 1/4 in. (32.39 x 84.77 x 5.72 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated: The Art of Sacred Books",
+            "ExhibBeginDate": "2012-04-06",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "April 06, 2012-September 03, 2012",
+            "ExhibEndDate": "2012-09-03",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3085,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Illuminated: The Art of Sacred Books. Rubin Museum of Art, New York. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\autonomous regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1476133,
+            "GeographyTerm": "Xizang Zizhiqu",
+            "Latitude": "29 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.0,
+            "Longitude": "088 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 88.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37321,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.856.2_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.856.2_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.856.2_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.856.2_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.856.2_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 13411,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.856.2_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.856.2_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.856.2_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.856.2_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.856.2_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "Buddhist text, Tib.",
+    "Keywords": null,
+    "Medium": "ink and paint on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6369,
+        "LocationString": null
+    },
+    "ObjectID": 13475,
+    "ObjectName": "pages",
+    "ObjectNumber": "W.856.2",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2001, by gift.",
+    "PublicAccessDate": "2008-09-25T17:09:36.323",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13475",
+    "SortNumber": "W        856    2                                       ",
+    "Style": null,
+    "Title": "Manjushri and a Bodhisattva with Donors"
+}

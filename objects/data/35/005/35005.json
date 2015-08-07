@@ -1,0 +1,141 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ahmed 'Ata Tayyarzade (died 1294 AH/AD 1877)",
+            "CreatorID": 19239,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Saker Muhammed (active 1271 AH/AD 1854-1855)",
+            "CreatorID": 19240,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1854,
+    "DateEndYear": 1855,
+    "DateText": "1271 AH/AD 1854-1855",
+    "Description": "Walters manuscript W.661 is an illustrated Ottoman copy of a Turkish work on the training and care of warhorses (Tuhfat \u00fcl-farisin fi ahval-i huyul il-mucahidin) by Ahmed 'Ata Tayyarzade (died 1294 AH/AD 1877). The text was written in Ruq`ah script by Saker Muhammed in 1271 AH/AD 1854-1855. The main text is preceded by a detailed table of contents (fols. 1b-3a), and on fol. 3b it states that the work was dedicated to Sultan Abd\u00fclmecid (reigned 1255 AH/AD 1839-1277 AH/AD 1861). There are 30 illustrations of horses at the end of the manuscript.",
+    "Dimensions": "Folio H: 8 7/16 x W: 6 1/8 in. (21.5 x 15.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33406,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.661.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.661.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.661.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.661.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.661.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Book; Codex; Illustration; Manuscript; Contemporary Binding; Turkey; Science",
+    "Medium": "ink and pigments on buff European wove paper covered with green leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2347,
+        "LocationString": null
+    },
+    "ObjectID": 35005,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.661",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": "Sultan Abd\u00fclmecid (1255 AH/AD 1839-1277 AH/AD 1861)",
+    "RelatedObjects": [
+        {
+            "ObjectID": 83273,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83274,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83275,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83276,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83277,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83278,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83279,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83280,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83281,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83282,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83283,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83284,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83285,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35005",
+    "SortNumber": "W        661                                            ",
+    "Style": null,
+    "Title": "Book on Horses"
+}

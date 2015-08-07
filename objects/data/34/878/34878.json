@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 2000",
+    "Culture": "Byzantine",
+    "DateBeginYear": 501,
+    "DateEndYear": 700,
+    "DateText": "6th-7th century",
+    "Description": "This rare and beautifully preserved flask is one of the first to depict St. Sergios on horseback, surrounded by the inscription: \"Blessing of the Lord of Saint Sergios.\" The cult of this 3rd-century saint reached its height of popularity in the 6th century, at the site of his martyrdom in Sergiopolis (in northern Syria).",
+    "Dimensions": "H: 2 1/8 x W: 1 1/2 x D: 5/8 in. (5.4 x 3.81 x 1.59 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Treasures of Heaven",
+            "ExhibBeginDate": "2010-10-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "October 17, 2010-October 9, 2011",
+            "ExhibEndDate": "2011-10-09",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures of Heaven. The Cleveland Museum of Art, Cleveland; The Walters Art Museum, Baltimore; The British Museum, London. 2010-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Ar-Raqqah\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499880,
+            "GeographyTerm": "Ar-Rusafah",
+            "Latitude": "35 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.866,
+            "Longitude": "036 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.883
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1499705,
+            "GeographyTerm": "Suriyah",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "038 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 38.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12700,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_55.105_SideA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_55.105_SideA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_55.105_SideA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_55.105_SideA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_55.105_SideA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12701,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_55.105_SideB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_55.105_SideB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_55.105_SideB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_55.105_SideB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_55.105_SideB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On both sides: + \u0395\u1f50\u03bb\u03bf\u03b3\u1f77\u03b1 \u039a(\u03c5\u03c1\u1f77\u03bf)\u03c5 \u03c4\u03bf\u1fe6 \u1f01\u03b3\u1f77\u03bf\u03c5 \u03a3\u03b5\u03c1\u03b3\u1f77\u03bf\u03c5; [Translation] + Blessing of the Lord from [the sanctuary] of Saint Sergius",
+    "Keywords": null,
+    "Medium": "tin-lead alloy",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3802,
+        "LocationString": null
+    },
+    "ObjectID": 34878,
+    "ObjectName": "flasks; ampullae",
+    "ObjectNumber": "55.105",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "Private collection, Haddad [date and mode of acquisition unknown]; Antiquarium, Ltd. Fine Ancient Art Gallery, New York, by purchase [date of acquisition unknown]; Walters Art Museum, 2000, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:35.317",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34878",
+    "SortNumber": "    55   105                                            ",
+    "Style": null,
+    "Title": "Pilgrim Flask of Saint Sergios"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master Jean de Maul\u00e9on (French, active ca. 1525)",
+            "CreatorID": 2398,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1512,
+    "DateEndYear": 1536,
+    "DateText": "ca. 1524",
+    "Description": null,
+    "Dimensions": "H: 6 11/16 x W: 3 15/16 in. (17 x 10 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11510,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.449.2R_OpnRev_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.449.2R_OpnRev_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.449.2R_OpnRev_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.449.2R_OpnRev_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.449.2R_OpnRev_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11614,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11792,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.449.1V-2R_OpnGp_TR_T01III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.449.1V-2R_OpnGp_TR_T01III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.449.1V-2R_OpnGp_TR_T01III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.449.1V-2R_OpnGp_TR_T01III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.449.1V-2R_OpnGp_TR_T01III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 11793,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.449.2R_OpnObv_TR_T01III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78095,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.449.2R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Bishop Jean II de Maul\u00e9on, ca. 1523, by commission; Gruel and Engelmann [no. 140] [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78095",
+    "SortNumber": "W        449    2R                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Hours"
+}

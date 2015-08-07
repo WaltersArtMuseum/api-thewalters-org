@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1829,
+    "DateText": "late 1820s",
+    "Description": "The artist has instilled a sense of vitality in the lioness, suggesting that he may have drawn this sketch while she was still alive. In addition to showing half her head, he also included views of the undersides of her paw as well as an image of an owl.",
+    "Dimensions": "7 7/8 x 4 13/16 in. (20 x 12.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Untamed: The Art of Antoine-Louis Barye",
+            "ExhibBeginDate": "2007-02-11",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 11, 2007-April 13, 2008",
+            "ExhibEndDate": "2008-04-13",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 1956,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Untamed: The Art of Antoine-Louis Barye. The Walters Art Museum, Baltimore; Philbrook Museum of Art, Tulsa; The Henry Morrison Flagler Museum, Palm Beach. 2007-2008."
+        },
+        {
+            "ExhTitle": "The Wild Kingdom of Antoine-Louis Barye, 1795-1875",
+            "ExhibBeginDate": "1994-11-04",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 4, 1994-December 9, 1994",
+            "ExhibEndDate": "1994-12-09",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 872,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Wild Kingdom of Antoine-Louis Barye, 1795-1875. Wildenstein & Company, New York. 1994."
+        },
+        {
+            "ExhTitle": "Barye: Contrasting Viewpoints",
+            "ExhibBeginDate": "1975",
+            "ExhibBeginYear": 1975,
+            "ExhibDisplayDate": "1975",
+            "ExhibEndDate": null,
+            "ExhibEndYear": 1975,
+            "ExhibitionID": 2370,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Barye: Contrasting Viewpoints. Baltimore Museum of Art, Baltimore. 1975."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 388,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2132_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2132_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2132_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2132_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2132_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] \"t\u00eate de lionne\" (and) \"pattes de lionne;\" [Translation] head of lion (and) paws of lion.",
+    "Keywords": "lion; head; owl; animal",
+    "Medium": "graphite on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2281,
+        "LocationString": null
+    },
+    "ObjectID": 11141,
+    "ObjectName": "sketches;drawings;leaf",
+    "ObjectNumber": "37.2132",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mme Vildieu-Barye; Fabius Fr\u00e8res, Paris; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:36.423",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11141",
+    "SortNumber": "    37  2132                                            ",
+    "Style": null,
+    "Title": "Studies of a Lion's Head and Paw, an Owl, Etc."
+}

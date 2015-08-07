@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Arashi Tanemune (Japanese, active 19th century)",
+            "CreatorID": 2141,
+            "Gender": "male",
+            "Role": "Potter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1896",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "17 1/2 in. (44.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Master Potters of Japan",
+            "ExhibBeginDate": "1984-04-03",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "April 3, 1984-June 17, 1984",
+            "ExhibEndDate": "1984-06-17",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 753,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Master Potters of Japan. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kyushu-chiho\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493533,
+            "GeographyTerm": "Fukuoka",
+            "Latitude": "33 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.75,
+            "Longitude": "130 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 130.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56141,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.1848_Fnt_BW_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.1848_Fnt_BW_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.1848_Fnt_BW_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.1848_Fnt_BW_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.1848_Fnt_BW_T84.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Attribution] Takatori in Chikusen (written in pencil on base with arrow to seal); [Seal] Taka; [Signature] Arashi Tanemune",
+    "Keywords": "Buddhism; Rakan",
+    "Medium": "ash-glazed stoneware with overglaze painting in clay slip",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2037,
+        "LocationString": null
+    },
+    "ObjectID": 12430,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1848",
+    "OnView": 0,
+    "Period": "Edo; Meiji",
+    "Provenance": "Henry Walters, Baltimore, before 1896 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12430",
+    "SortNumber": "    49  1848                                            ",
+    "Style": null,
+    "Title": "Temple Vase with Three Buddhist Saints"
+}

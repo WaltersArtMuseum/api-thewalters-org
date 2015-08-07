@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1929",
+    "Culture": null,
+    "DateBeginYear": 1101,
+    "DateEndYear": 1300,
+    "DateText": "12th-13th century",
+    "Description": null,
+    "Dimensions": "4 3/16 x 4 5/16 in. (10.6 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Islamic Insights",
+            "ExhibBeginDate": "1980-03-15",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "March 15, 1980-May 25, 1980",
+            "ExhibEndDate": "1980-05-25",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 548,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Islamic Insights. Katonah Gallery, Katonah. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Esfahan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507777,
+            "GeographyTerm": "Kashan",
+            "Latitude": "33 59",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.983,
+            "Longitude": "051 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 51.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4681,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1234_Fnt_BW_H65.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1234_Fnt_BW_H65.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1234_Fnt_BW_H65.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1234_Fnt_BW_H65.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1234_Fnt_BW_H65.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "fritware with \"mina'i\" enameled decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Art",
+        "LocationID": 6692,
+        "LocationString": null
+    },
+    "ObjectID": 14975,
+    "ObjectName": "goblets",
+    "ObjectNumber": "48.1234",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1929, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.13",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14975",
+    "SortNumber": "    48  1234                                            ",
+    "Style": null,
+    "Title": "Fritware Beaker with a Seated Person"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Shih Jui (Chinese)",
+            "CreatorID": 4062,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1450,
+    "DateText": "1400-1450",
+    "Description": null,
+    "Dimensions": "H: 58 5/8 x W: 25 1/2 in. (148.9 x 64.7 cm); Overall H: 113 1/2 x W: 32 1/4 in. (288.29 x 81.92 cm)",
+    "Dynasty": "Ming [Ming] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22953,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.10_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.10_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.10_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.10_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.10_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22951,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.10_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.10_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.10_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.10_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.10_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22952,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.10_DetB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.10_DetB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.10_DetB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.10_DetB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.10_DetB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22954,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.10_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.10_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.10_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.10_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.10_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2413,
+        "LocationString": null
+    },
+    "ObjectID": 8020,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.10",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 111]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8020",
+    "SortNumber": "    35    10                                            ",
+    "Style": null,
+    "Title": "Blue and Green Landscape"
+}

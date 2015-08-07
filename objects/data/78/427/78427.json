@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Remojadas",
+            "CreatorID": 31443,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2008",
+    "Culture": "Remojadas",
+    "DateBeginYear": 600,
+    "DateEndYear": 900,
+    "DateText": "AD 600-900",
+    "Description": null,
+    "Dimensions": "H: 6 x W: 4 1/8 x D: 3 1/2 in. (15.2 x 10.5 x 8.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 611507,
+            "GeographyTerm": "Veracruz",
+            "Latitude": "19 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 19.333,
+            "Longitude": "096 40",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -96.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15285,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2807_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2807_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2807_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2807_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2807_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15286,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2807_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2807_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2807_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2807_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2807_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic buffware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5528,
+        "LocationString": null
+    },
+    "ObjectID": 78427,
+    "ObjectName": "figures",
+    "ObjectNumber": "48.2807",
+    "OnView": 0,
+    "Period": "Late Classic",
+    "Provenance": "Robert and Marianne Huber, Dixon, Tennessee (?) [date and mode of acquisition unknown]; D. Daniel Michel, Chicago, active ca. 1950s-70s [date and mode of acquisition unknown]; Ancient Art of the New World, New York [date and mode of acquisition unknown]; Private collection, January 1991 [mode of acquisition unknown]; Walters Art Museum, 2008, by gift.",
+    "PublicAccessDate": "2009-04-22T16:07:23.8",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78427",
+    "SortNumber": "    48  2807                                            ",
+    "Style": "Remojadas",
+    "Title": "Seated Nude Male Smiling Figure with Upraised Arms"
+}

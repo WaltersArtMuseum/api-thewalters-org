@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the William R. Hearst Foundation, 1957",
+    "Culture": null,
+    "DateBeginYear": 1290,
+    "DateEndYear": 1290,
+    "DateText": "1290",
+    "Description": null,
+    "Dimensions": "18 15/16 x 13 5/8 in. (48.1 x 34.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Music in Manuscripts",
+            "ExhibBeginDate": "1996-08-22",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "August 22, 1996-January 5, 1997",
+            "ExhibEndDate": "1997-01-05",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 106,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Music in Manuscripts. The Walters Art Gallery, Baltimore. 1996-1997."
+        },
+        {
+            "ExhTitle": "Making Music in Medieval Manuscripts",
+            "ExhibBeginDate": "1988-10-18",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "October 18, 1988-January 8, 1989",
+            "ExhibEndDate": "1989-01-08",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 109,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Making Music in Medieval Manuscripts. The Walters Art Gallery, Baltimore. 1988-1989."
+        },
+        {
+            "ExhTitle": "O Sing Unto the Lord a New Song: Music Manuscripts from the Middle Ages",
+            "ExhibBeginDate": "1987-01-20",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "January 20, 1987-April 5, 1987",
+            "ExhibEndDate": "1987-04-05",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 100,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "O Sing Unto the Lord a New Song: Music Manuscripts from the Middle Ages. The Walters Art Gallery, Baltimore. 1987."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Wallonie\\provinces\\Hainaut, Province de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421582,
+            "GeographyTerm": "Cambron-Casteau",
+            "Latitude": "50 35",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.583,
+            "Longitude": "003 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 13431,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.760.173R_DetA_TR_T87III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.760.173R_DetA_TR_T87III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.760.173R_DetA_TR_T87III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.760.173R_DetA_TR_T87III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.760.173R_DetA_TR_T87III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78126,
+    "ObjectName": "antiphonaries; folios (leaves); illuminated manuscripts",
+    "ObjectNumber": "W.760.173R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "William R. Hearst Foundation [date and mode of acquisition unknown]; Walters Art Museum, 1957, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78126",
+    "SortNumber": "W        760  173R                                      ",
+    "Style": null,
+    "Title": "Leaf from Antiphonary for Abbess of Sainte-Marie of Beaupre"
+}

@@ -1,0 +1,91 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1916",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1510,
+    "DateText": "1500-1510",
+    "Description": "For more information on these panels, please see Federico Zeri's 1976 catalogue no. 175, pp. 261-263.",
+    "Dimensions": "St. Peter painted surface H: 52 9/16 x W: 15 7/8 x Approx. D: 1 in. (133.5 x 40.4 x 2.6 cm); St. John the Baptist painted surface H: 52 3/4 x W: 16 5/16 x D: 1 1/8 in. (134 x 41.5 x 2.8 cm); St. Roch painted surface H: 52 5/8 x W: 16 7/16 x Approx. D: 1 in. (133.7 x 41.7 x 2.6 cm); St. James the Great painted surface H: 52 13/16 x W: 16 7/16 x Approx. D: 1 in. (134.2 x 41.7 x 2.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46808,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.508_ViewA_BW_H74.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.508_ViewA_BW_H74.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.508_ViewA_BW_H74.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.508_ViewA_BW_H74.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.508_ViewA_BW_H74.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 46809,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.508_ViewB_BW_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.508_ViewB_BW_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.508_ViewB_BW_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.508_ViewB_BW_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.508_ViewB_BW_H73.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Transcription] At bottom of St. Peter panel: S. PETRUS; [Transcription] On scroll of St. John panel: ECCE AGN[US] DEI QUI; [Transcription] At bottom of St. John panel: S. JOHANNES BAPTISTA; [Transcription] At bottom fo St. Roch panel: S. ROCHUS; [Transcription] At bottom fo St. James panel: S. JACOBUS MAIOR; [Number] On paper label on reverse of each panel; [Number] On paper label on reverse of St. Roch panel: 3377/11",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 76664,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.508",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1916 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 21319,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 76660,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/76664",
+    "SortNumber": "    37   508                                            ",
+    "Style": null,
+    "Title": "Four Panels: St. Peter, St. John the Baptist, St. Roch, St. James the Greater"
+}

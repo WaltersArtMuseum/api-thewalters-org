@@ -1,0 +1,137 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan (?)",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Greek (?)",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902 (?)",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -301,
+    "DateText": "4th century BC",
+    "Description": null,
+    "Dimensions": "L: 11 in. (28 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Arts of Man",
+            "ExhibBeginDate": "1962-10-06",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 6, 1962-December 31, 1962",
+            "ExhibEndDate": "1962-12-31",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 796,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Arts of Man. Dallas Museum of Art, Dallas. 1962."
+        },
+        {
+            "ExhTitle": "Designed for Use: Ancient Industrial Arts",
+            "ExhibBeginDate": "1983-07-26",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "July 26, 1983-September 11, 1983",
+            "ExhibEndDate": "1983-09-11",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2189,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Designed for Use: Ancient Industrial Arts. The Walters Art Gallery, Baltimore. 1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57930,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.169_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.169_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.169_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.169_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.169_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 438,
+        "LocationString": null
+    },
+    "ObjectID": 27227,
+    "ObjectName": "scrapers",
+    "ObjectNumber": "54.169",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] (?); Henry Walters, Baltimore, 1902 (?), by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27227",
+    "SortNumber": "    54   169                                            ",
+    "Style": null,
+    "Title": "Strigil"
+}

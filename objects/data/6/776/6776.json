@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Spanish",
+            "CreatorID": 6242,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1958\r\n",
+    "Culture": "Valencian",
+    "DateBeginYear": 1490,
+    "DateEndYear": 1550,
+    "DateText": "1490-1550",
+    "Description": "Lions are often depicted on ceiling tiles of this kind, but the stylized frontal view of the animal's head here is quite unusual and was probably influenced by similar images on glazed ceramic dishes. The piece once belonged to the newspaper magnate William Randolph Hearst (1863-1951). Nothing is known about its earlier provenance. Most comparable examples of known origin come from the town of Paterna, evidently the principal center of socarrat production.",
+    "Dimensions": "H: 13 7/8 x W: 17 1/8 x D: 1 in. (35.3 x 43.5 x 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2008-02-27",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "February 27, 2008-January 4, 2009",
+            "ExhibEndDate": "2009-01-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1957,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Museum of Biblical Art, New York; Colby College Museum of Art, Waterville; Joslyn Art Museum, Omaha. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\Valencia\\provinces\\Valencia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1444692,
+            "GeographyTerm": "Paterna",
+            "Latitude": "39 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.5,
+            "Longitude": "000 27",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.45
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\Valencia\\provinces\\Valencia\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1444694,
+            "GeographyTerm": "Valencia",
+            "Latitude": "39 29",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.483,
+            "Longitude": "000 24",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.4
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6552,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2106.5_Fnt_UK_T88III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2106.5_Fnt_UK_T88III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2106.5_Fnt_UK_T88III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2106.5_Fnt_UK_T88III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2106.5_Fnt_UK_T88III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39092,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2106.5_Fnt_BW_H59.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2106.5_Fnt_BW_H59.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2106.5_Fnt_BW_H59.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2106.5_Fnt_BW_H59.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2106.5_Fnt_BW_H59.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with glaze and black paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1615,
+        "LocationString": null
+    },
+    "ObjectID": 6776,
+    "ObjectName": "ceiling tiles; soccarat",
+    "ObjectNumber": "48.2106.5",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "William R. Hearst, San Simeon, California, ca. 1930, by purchase; Hearst estate, 1951, by bequest, inv. 2597, lot s/b 569, no. 28; Walters Art Museum, 1958, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:59.783",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6776",
+    "SortNumber": "    48  2106    5                                       ",
+    "Style": "Gothic",
+    "Title": "Ceiling Tile (socarrat) with a Lion's Head"
+}

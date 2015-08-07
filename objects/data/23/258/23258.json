@@ -1,0 +1,95 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1450,
+    "DateEndYear": -1185,
+    "DateText": "1450-1185 BC",
+    "Description": "The inlay depicts the falcon with an elaborate feather decor. The legs are missing and the original crown was probably made as an independent inlay.",
+    "Dimensions": "H: 1 x W: 3/4 x D: 3/16 in. (2.5 x 1.9 x 0.4 cm)",
+    "Dynasty": "18th-19th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth)",
+            "ExhibBeginDate": "2014-09-12",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "Friday, September 12, 2014 - Sunday, November 01, 2015",
+            "ExhibEndDate": "2015-11-01",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3240,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth). Roemer- und Pelizaeus- Museum, Hildesheim; Kunsthalle Leoben, Leoben. 2014-2015."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42523,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.546_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.546_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.546_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.546_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.546_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 42522,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.546_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.546_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.546_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.546_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.546_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "lapis lazuli",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Out On Exhibition Loan",
+        "LocationID": 3499,
+        "LocationString": null
+    },
+    "ObjectID": 23258,
+    "ObjectName": "figurines; inlay",
+    "ObjectNumber": "42.546",
+    "OnView": 1,
+    "Period": "New Kingdom",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23258",
+    "SortNumber": "    42   546                                            ",
+    "Style": null,
+    "Title": "Hawk; Falcon"
+}

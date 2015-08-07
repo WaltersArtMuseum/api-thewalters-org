@@ -1,0 +1,75 @@
+{
+    "Classification": "Stained & Painted Glass",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1910",
+    "Culture": "French",
+    "DateBeginYear": 1200,
+    "DateEndYear": 1223,
+    "DateText": "1200-1223",
+    "Description": "This panel, a pair with Walters 46.41, was once part of a larger program of decoration at the cathedral in Soissons that was paid for by King Philippe August of France (r. 1180-1223). It shows Habbakuk seated and dressed in an Antique robe. He holds a scroll, a common feature in medieval depictions of prophets.\r\n\r\nThis window was probably placed below figures of the apostles, visually demonstrating the Christian belief that the New Testament relied on and superseded the foundation of the Old Testament.",
+    "Dimensions": "H: 154 5/8 \u00d7 W: 60 5/8 in. (392.75 \u00d7 153.99 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Picardie\\departments\\Aisne\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1428951,
+            "GeographyTerm": "Soissons",
+            "Latitude": "49 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.383,
+            "Longitude": "003 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31535,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS2_46.40_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS2_46.40_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS2_46.40_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS2_46.40_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS2_46.40_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] Painted in the arch above the figure: [H]ABACUC PROPHETA;  [Translation] Prophet Habbakuk;  [Transcription] Heavily restored, fragmentary and abbreviated text painted on the band at neck level of the figure: EP./SCV;  [Transcription] Painted on the scroll: EVAN[GELIUM] SECUND[UM] MATHEUM;  [Translation] The Gospel according to Matthew",
+    "Keywords": "Habakkuk; prophets",
+    "Medium": "paint on stained glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: 15th-Century Art of Northern Europe",
+        "LocationID": 3941,
+        "LocationString": null
+    },
+    "ObjectID": 17462,
+    "ObjectName": "stained glass; windows",
+    "ObjectNumber": "46.40",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Raoul Heilbronner, Paris;  Henry Walters, Baltimore, 1910, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.88",
+    "Reign": "Philip Augustus (AD 1180-1223)",
+    "RelatedObjects": [
+        {
+            "ObjectID": 11623,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/17462",
+    "SortNumber": "    46    40                                            ",
+    "Style": "Gothic",
+    "Title": "Stained Glass Window with the Prophet Habbakuk"
+}

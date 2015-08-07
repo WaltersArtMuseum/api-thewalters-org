@@ -1,0 +1,82 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Anatolian",
+            "CreatorID": 2190,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Hittite",
+    "DateBeginYear": -1600,
+    "DateEndYear": -1400,
+    "DateText": "1600-1400 BC",
+    "Description": "The Hittites, whose empire rivaled that of Egypt in the 14th and 13th centuries BC, used beautifully sculpted stamp seals with writing on the bezel. Here, a central field of Hittite hieroglyphs is surrounded by others, whose meaning is uncertain. Each hieroglyph, including a seated figure, a tree, and a snake, is a richly detailed image in its own right.",
+    "Dimensions": "H: 1 1/2 x Diam: 1 1/4 in. (3.8 x 3.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62499,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 62500,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H69.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H69.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H69.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H69.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_42.352_Fnt_BW_H69.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "hematite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3729,
+        "LocationString": null
+    },
+    "ObjectID": 16132,
+    "ObjectName": "seals",
+    "ObjectNumber": "42.352",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16132",
+    "SortNumber": "    42   352                                            ",
+    "Style": null,
+    "Title": "Stamp Seal"
+}

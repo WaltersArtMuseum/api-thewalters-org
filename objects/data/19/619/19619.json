@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Lukas of Cyprus",
+            "CreatorID": 31598,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1594,
+    "DateEndYear": 1596,
+    "DateText": "1594-1596",
+    "Description": null,
+    "Dimensions": "H: 15 1/2 x W: 10 5/8 in. (39.4 x 27 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Rossiya\\republics\\Rossiya\\autonomous cities\\Moskva\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1510725,
+            "GeographyTerm": "Moskva",
+            "Latitude": "55 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 55.75,
+            "Longitude": "037 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.7
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Rom\u00e2nia\\counties\\Buzau\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1442691,
+            "GeographyTerm": "Buzau",
+            "Latitude": "45 09",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.15,
+            "Longitude": "026 49",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 26.816
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38507,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.535.226V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.535.226V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.535.226V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.535.226V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.535.226V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Colophon; Illumination; Illustration; Manuscript; Ornament; Painting; Walters Art Museum; Watermark; Original binding; Binding; Scripture; Liturgy",
+    "Medium": "ink and pigments on folded in folio",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 19619,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.535.226V",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Church of the Holy Sepulchre, Jerusalem, ca. 1598, by gift; L\u00e9on Gruel, Paris, by purchase; Henry Walters, Baltimore, purchased from Gruel before 1931; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19619",
+    "SortNumber": "W        535  226V                                      ",
+    "Style": "Byzantine",
+    "Title": "Christ and the ruler seeking eternal life"
+}

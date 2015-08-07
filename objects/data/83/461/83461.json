@@ -1,0 +1,69 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Anonymous",
+            "CreatorID": 17248,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": "This binding from Walters manuscript W.588 is not original to the manuscript. It is composed of re-backed brown leather (with no flap).",
+    "Dimensions": "Folio H: 9 13/16 x W: 4 15/16 in. (25 x 12.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 32993,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.588.binding_BotExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.588.binding_BotExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.588.binding_BotExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.588.binding_BotExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.588.binding_BotExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32994,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.588.binding_TopExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.588.binding_TopExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.588.binding_TopExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.588.binding_TopExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.588.binding_TopExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Book; Codex; Colophon; Manuscript; Iran; Science -- Medicine",
+    "Medium": "re-backed brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83461,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.588.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Muhammad Sadiq [date and mode of acquisition unknown] [ownership statement on fol. 1a]; Muhammad Shafi' al-Tabib [date and mode of acquisition unknown] [ownership statement and seal on fol. 1a]; 'Abd Allah Malti al-Tabib [date and mode of acquisition unknown] [private seal on fol. 1b]; 'Abbas Wasim, [1]144 AH [mode of acquisition unknown] [ownership statement and seal dated [1]144 AH on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83461",
+    "SortNumber": "W        588binding                                     ",
+    "Style": null,
+    "Title": "Binding from Commentary on an Abridgment of the Canon of Medicine"
+}

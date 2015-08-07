@@ -1,0 +1,111 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Takase Eiju (Japanese, ca. 1775-1800)",
+            "CreatorID": 6627,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1763,
+    "DateEndYear": 1812,
+    "DateText": "ca. 1775-1800",
+    "Description": "Three yamabushi monks are depicted meeting on a mountain pass. They wear the distinctive yamabushi clothing, including a small hat and a sash with pom-poms around their necks. They carry wicker packs and walking sticks. Yamabushi lived in the mountain where they practiced a religious tradition that mixed elements of Shintoism and Buddhism. This is part of a set with Walters 51.1129.",
+    "Dimensions": "L: 1 7/16 in. (3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490882,
+            "GeographyTerm": "Mito",
+            "Latitude": "36 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.366,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16187,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1128_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1128_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1128_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1128_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1128_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 16186,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1128_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1128_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1128_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1128_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1128_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 16188,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1128_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1128_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1128_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1128_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1128_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u98a8\u67f3\u8ed2\u3000\u9ad8\u702c\u69ae\u58fd; [Translation] F\u00fbry\u00fbken Takase Eiju (kao); [Number] In pencil: 791",
+    "Keywords": "Buddhism; yamabushi",
+    "Medium": "silver, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 2022,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1128",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 15157,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/2022",
+    "SortNumber": "    51  1128                                            ",
+    "Style": null,
+    "Title": "Fuchi with Yamabushi Monks in the Mountains"
+}

@@ -1,0 +1,100 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Attributed to Workshop of Casa Pirota (Italian)",
+            "CreatorID": 15489,
+            "Gender": null,
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1513,
+    "DateEndYear": 1542,
+    "DateText": "ca. 1525-1530",
+    "Description": "A popular decorative technique in Faenza was called \"berettino;\" these wares have a light or dark blue tin-glaze base coat with white and other color decoration. This \"berettino\" dish, painted with a wide decorative band surrounding a medallion with a Roman profile, survives in many versions. The Walters' plate is inscribed \"Chasio,\" perhaps in reference to Gaius Cassius Longinus, one of Julius Caesar's assassins. The profile was probably taken from an ancient coin or medal.",
+    "Dimensions": "2 1/4 x 9 1/2 in. (5.7 x 24.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Ravenna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439774,
+            "GeographyTerm": "Faenza",
+            "Latitude": "44 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.283,
+            "Longitude": "011 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.883
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Ravenna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439774,
+            "GeographyTerm": "Faenza",
+            "Latitude": "44 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.283,
+            "Longitude": "011 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23013,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1317_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1317_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1317_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1317_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1317_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46407,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1317_Bot_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1317_Bot_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1317_Bot_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1317_Bot_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1317_Bot_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Maker's Mark] In the center of the back, between the foot ring, a small dark blue spiral",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4793,
+        "LocationString": null
+    },
+    "ObjectID": 23895,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.1317",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Private collection, Florence [no. 119]; Sangiorgi, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-29T13:41:05.817",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23895",
+    "SortNumber": "    48  1317                                            ",
+    "Style": null,
+    "Title": "Dish with Roman Profile Head"
+}

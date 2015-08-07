@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nepalese",
+            "CreatorID": 15526,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Yoshie Shinomoto, 1992",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1800,
+    "DateText": "16th-18th century",
+    "Description": "This piece is made of three individual paintings of Buddhas framed together (Walters 35.193.1, 35.193.2, 35.193.3).",
+    "Dimensions": "H: 12 x W: 6 7/8 in. (30.5 x 17.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1496397,
+            "GeographyTerm": "Nepal",
+            "Latitude": "28 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 28.0,
+            "Longitude": "084 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 84.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57401,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.193_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.193_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.193_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.193_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.193_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 57405,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.193_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.193_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.193_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.193_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.193_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "opaque watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 16742,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "35.193",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Yoshie Shinomoto, Monkton, Maryland [date and mode of acquisition unknown]; Walters Art Museum, 1992, by gift.",
+    "PublicAccessDate": "2014-02-27T01:00:01.493",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 17432,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 37464,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 40683,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/16742",
+    "SortNumber": "    35   193                                            ",
+    "Style": null,
+    "Title": "Three Cosmic Buddhas"
+}

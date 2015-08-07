@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912 (?)",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": null,
+    "Dimensions": "H with base: 5 1/2 in. (14 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58495,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.594_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.594_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.594_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.594_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.594_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze, Egyptian wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 411,
+        "LocationString": null
+    },
+    "ObjectID": 304,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.594",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "Dattari Collection Sale, 1912, cat. no. 447; Henry Walters, Baltimore, 1912 (?), by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/304",
+    "SortNumber": "    54   594                                            ",
+    "Style": "Hellenistic",
+    "Title": "Stag"
+}

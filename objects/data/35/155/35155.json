@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Elisabetta Sirani (Italian, 1638-1665) (?)",
+            "CreatorID": 3958,
+            "Gender": "female",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Follower of Guido Reni (Italian, 1575-1642)",
+            "CreatorID": 1913,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1929",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": "This painting repeats, almost exactly, the composition of a smaller canvas attributed to Guido Reni that was in the collection of the dukes of Leuchtenberg in Munich and in St. Petersburg around the middle of the 19th century. As the Leuchtenberg painting is now missing and known only from an engraving, it is difficult to ascertain whether it was Reni's original or a copy. The Walters' painting appears to be by a close follower. Federico Zeri, in his 1976 catalogue of the Walters' Italian paintings (no. 357), suggested an attribution to Elisabetta Sirani. The painting was acquired by Henry Walters before 1929; no further provenance is known.\r\n\r\nFor more information on this painting, please see Federico Zeri's 1976 catalogue no. 357, pp. 476-477.",
+    "Dimensions": "Painted surface H: 22 3/8 x W: 28 3/8 in. (56.9 x 72 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24566,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.491_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.491_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.491_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.491_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.491_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3292,
+        "LocationString": null
+    },
+    "ObjectID": 35155,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.491",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Henry Walters, Baltimore, prior to 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-12-15T09:49:58.31",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35155",
+    "SortNumber": "    37   491                                            ",
+    "Style": null,
+    "Title": "Cupid with a Bow"
+}

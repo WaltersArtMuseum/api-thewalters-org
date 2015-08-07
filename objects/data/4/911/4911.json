@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alphonse de Neuville (French, 1835-1885)",
+            "CreatorID": 2861,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, ca. 1878",
+    "Culture": null,
+    "DateBeginYear": 1877,
+    "DateEndYear": 1877,
+    "DateText": "1877",
+    "Description": "The scene is a French town in the Jura region, near the Swiss border. As a bugler sounds the alarm, French troops (Algerian riflemen and members of the Garde Mobile) rush from an inn to defend themselves from the advancing Prussians. Rather than dwelling on France's defeat in the Franco-Prussian War (1870-1871), de Neuville, a veteran of the war, specialized in works glorifying his country's heroic resistance rather than its military defeat. He took exceptional efforts to re-create the subjects factually, revisiting the battlefields and studying the weapons, uniforms, and other paraphernalia of war.\r\n",
+    "Dimensions": "H: 57 11/16 x W: 87 3/8 in. (146.5 x 222 cm); Framed H: 80 1/2 x W: 110 x D: 7 3/4 in. (204.5 x 279.4 x 19.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        },
+        {
+            "ExhTitle": "Vive la France! French Treasures from the Middle Ages to Monet",
+            "ExhibBeginDate": "1999-10-26",
+            "ExhibBeginYear": 1999,
+            "ExhibDisplayDate": "October 26, 1999-January 16, 2000",
+            "ExhibEndDate": "2000-01-16",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 316,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Vive la France! French Treasures from the Middle Ages to Monet. The Walters Art Gallery, Baltimore. 1999-2000."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Franche-Comt\u00e9\\departments\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1426432,
+            "GeographyTerm": "Jura",
+            "Latitude": "46 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.833,
+            "Longitude": "005 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 477,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.40_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.40_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.40_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.40_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.40_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 41153,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.40_FntDet_TR_C80II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.40_FntDet_TR_C80II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.40_FntDet_TR_C80II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.40_FntDet_TR_C80II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.40_FntDet_TR_C80II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: Alf. de Neuville;  [Date] Lower right: 1877",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 4028,
+        "LocationString": null
+    },
+    "ObjectID": 4911,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.40",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Goupil et Cie., Paris, prior to 1878 [mode of acquisition unknown]; William T. Walters, Baltimore, 1877-1878, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.377",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4911",
+    "SortNumber": "    37    40                                            ",
+    "Style": null,
+    "Title": "The Attack at Dawn"
+}

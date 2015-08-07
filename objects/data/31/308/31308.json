@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eug\u00e8ne Isabey (French, 1803-1886)",
+            "CreatorID": 7841,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, between 1878-1884",
+    "Culture": null,
+    "DateBeginYear": 1844,
+    "DateEndYear": 1844,
+    "DateText": "1844",
+    "Description": "In high seas, a sailboat heeling to starboard tows another boat that has lost its mast and is crowded with huddling figures and tangled rigging. A paddle-wheel steamer is visible against the horizon. The storm is passing and a ray of light is breaking through the scudding clouds at the left.",
+    "Dimensions": "H: 29 15/16 x W: 45 1/2 in. (76 x 115.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32419,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.63_Fnt_DD_T11_BT.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.63_Fnt_DD_T11_BT.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.63_Fnt_DD_T11_BT.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.63_Fnt_DD_T11_BT.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.63_Fnt_DD_T11_BT.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45954,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.63_XR_1957.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.63_XR_1957.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.63_XR_1957.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.63_XR_1957.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.63_XR_1957.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: E. Isabey; [Date] Lower left: 1844",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3367,
+        "LocationString": null
+    },
+    "ObjectID": 31308,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.63",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, between 1878-1884 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31308",
+    "SortNumber": "    37    63                                            ",
+    "Style": null,
+    "Title": "After the Storm"
+}

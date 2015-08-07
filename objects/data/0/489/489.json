@@ -1,0 +1,112 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1966",
+    "Culture": null,
+    "DateBeginYear": -1862,
+    "DateEndYear": -1750,
+    "DateText": "ca. 1850-1750 BC",
+    "Description": "This gold pendant in the shape of a Nile catfish is a simpler version to Walters 57.1072. The hollow body is made of two pieces of sheet gold formed in repouss\u00e9. The sheet gold tail and the dorsal fins of silver (of which only one remains) were inserted into the body. The lines of gills and the \"hood\" behind are softly chased. The ridge around the eye was produced by a punch. The hole in the mouth is presumably for suspension.",
+    "Dimensions": "H: 1/8 x L: 3/4 (0.29 x 1.92 x 0.01 cm)",
+    "Dynasty": "late 12th-13th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22763,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1981_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1981_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1981_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1981_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1981_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22762,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1981_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1981_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1981_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1981_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1981_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22761,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1981_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1981_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1981_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1981_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1981_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold with silver dorsal fin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 814,
+        "LocationString": null
+    },
+    "ObjectID": 489,
+    "ObjectName": "pendants; amulets; amulet-pendants",
+    "ObjectNumber": "57.1981",
+    "OnView": 0,
+    "Period": "Middle Kingdom",
+    "Provenance": "Collection of Suydam [date and mode of acquisition unknown]; John E. Kieffer, Jr., prior to 1966 [mode of acquisition unknown]; Walters Art Museum, 1966, by purchase.",
+    "PublicAccessDate": "2009-09-17T15:10:01.847",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3522,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/489",
+    "SortNumber": "    57  1981                                            ",
+    "Style": null,
+    "Title": "Nile Catfish"
+}

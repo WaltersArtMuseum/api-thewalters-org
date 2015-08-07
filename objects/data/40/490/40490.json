@@ -1,0 +1,83 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Italian",
+    "DateBeginYear": 1538,
+    "DateEndYear": 1562,
+    "DateText": "ca. 1550",
+    "Description": "The highly ornate end-supports of the table are characteristic of the late Renaissance style in Florence. Brackets resting on lions' feet frame pilasters that end in human figures supporting Ionic capitals.",
+    "Dimensions": "L: 153 9/16 x W: 54 1/8 in. (390 x 137.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 35698,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_65.75_3Qtr_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_65.75_3Qtr_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_65.75_3Qtr_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_65.75_3Qtr_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_65.75_3Qtr_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "walnut",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 6417,
+        "LocationString": null
+    },
+    "ObjectID": 40490,
+    "ObjectName": "tables",
+    "ObjectNumber": "65.75",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Payne Whitney, New York; Metro, New York; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-08-23T09:30:52.293",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40490",
+    "SortNumber": "    65    75                                            ",
+    "Style": null,
+    "Title": "Table with Pedestal Base"
+}

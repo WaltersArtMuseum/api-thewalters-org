@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Haydar al-Husayni (Persian, active ca. 1557-1558)",
+            "CreatorID": 17749,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic; Persian",
+    "DateBeginYear": 1557,
+    "DateEndYear": 1558,
+    "DateText": "965 AH/AD 1557-1558",
+    "Description": "This colophon from Walters manuscript W.642, written in Arabic, is dated 965 AH/AD 1557-1558 and gives the name of the scribe as Haydar al-Husayni. It reads as follows: katabahu al-'abd al-faqir al-mudhnib al-muhtaj il\u00e1 rahmat Allah /1/ wa-ghufranih Haydar al-Husayni ghaffara Allah lahu wa-li-man qara<'>ahu /2/ wa-nazara fihi sanat khams wa-sittin wa-tas'imi<'>ah /3/.",
+    "Dimensions": "H: 9 5/8 x W: 5 7/8 in. (24.5 x 15 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31915,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.642.112a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.642.112a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.642.112a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.642.112a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.642.112a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] katabahu al-'abd al-faq\u012br al-mudhnib al-muht\u0101j il\u00e1 rahmat All\u0101h /1/ wa-ghufr\u0101nih Haydar al-Husayn\u012b ghaffara All\u0101h lahu wa-li-man qara<'>ahu /2/ wa-nazara f\u012bhi sanat khams wa-sitt\u012bn wa-tas'imi<'>ah /3/",
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Contemporary Binding; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on cream-colored, gold-sprinkled laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 82834,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.642.112A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Unknown collection [seal erased; original shelfmark of 3934 on on tail edge of codex]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/82834",
+    "SortNumber": "W        642  112A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

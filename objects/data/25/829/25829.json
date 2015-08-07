@@ -1,0 +1,131 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "French",
+    "DateBeginYear": 1350,
+    "DateEndYear": 1365,
+    "DateText": "1350-1365",
+    "Description": "By the middle of the 14th century, the ivory workshops of Paris were creating large-scale diptychs (two hinged panels) with numerous scenes from the Passion cycle. Thirteen are found here reading from top to bottom and left to right, Christ's Entry into Jerusalem, the Washing of the Feet, the Last Supper, the Garden of Gethsemane, the Arrest of Christ, the Hanging of Judas, the Flagellation of Christ, Christ bearing the Cross to Calvary, the Crucifixion, the Deposition, Entombment, Christ appearing to Mary (Noli me tangere) and Christ's Descent into Limbo. Notably Parisian in style are the slender figures with their swayed, elegant poses and smooth drapery folds. Diptychs were used as aids in prayer by the wealthy owners who commissioned them.",
+    "Dimensions": "H: 9 13/16 x W: 9 1/8 x D: 3/8 in. (25 x 23.2 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ivory: The Sumptuous Art",
+            "ExhibBeginDate": "1983-10-14",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "October 14, 1983-January 15, 1984",
+            "ExhibEndDate": "1984-01-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 215,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ivory: The Sumptuous Art. The Walters Art Gallery, Baltimore. 1983-1984."
+        },
+        {
+            "ExhTitle": "Images in Ivory: Precious Objects of the Gothic Age",
+            "ExhibBeginDate": "1997-03-09",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "March 9, 1997-August 31, 1997",
+            "ExhibEndDate": "1997-08-31",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 961,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Images in Ivory: Precious Objects of the Gothic Age. The Detroit Institute of Arts, Detroit; The Walters Art Gallery, Baltimore. 1997."
+        },
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\Catalu\u00f1a\\provinces\\Barcelona\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1445048,
+            "GeographyTerm": "Vich",
+            "Latitude": "41 56",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.933,
+            "Longitude": "002 16",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.266
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7474,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_71.179_Opn_TR_T96III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_71.179_Opn_TR_T96III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_71.179_Opn_TR_T96III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_71.179_Opn_TR_T96III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_71.179_Opn_TR_T96III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36033,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_71.179_Fnt_NG_445.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_71.179_Fnt_NG_445.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_71.179_Fnt_NG_445.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_71.179_Fnt_NG_445.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_71.179_Fnt_NG_445.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Christianity; Christ; Apostles",
+    "Medium": "ivory with traces of paint and gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3855,
+        "LocationString": null
+    },
+    "ObjectID": 25829,
+    "ObjectName": "diptychs; ivories",
+    "ObjectNumber": "71.179",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Listed in an inventory dated 1430 of the Treasury of the Cathedral of Vich, Catalonia; Museum at Vich, Spain until 1903; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.753",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25829",
+    "SortNumber": "    71   179                                            ",
+    "Style": "Gothic",
+    "Title": "Diptych with Scenes from the Passion of Christ"
+}

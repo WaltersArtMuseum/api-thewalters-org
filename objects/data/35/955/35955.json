@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2001",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "early 11th century AH/AD 17th century",
+    "Description": "This single leaf, Walters W.873, depicts the Mughal emperor Akbar (reigned 963-1014 AH/AD 1556-1605), who continues to ride and control his elephant, which has gone into heat (must). The elephant is shown attacking a horse, whose rider has fallen beneath his steed. In turn, the horse bites the elephant's trunk. The event documents the courage and determination of the emperor, who is identified in an inscription at the top of the page in black Nasta'liq script as Muhammad Jalal al-Din Akbar Padshah. This inscription was likely written by a later viewer. The border, in yellow, black, blue, and orange, probably dates to the 13th century AH/AD 19th.",
+    "Dimensions": "H: 9 1/4 x W: 6 5/16 in. (23.5 x 16 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34259,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.873_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.873_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.873_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.873_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.873_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Illustration; Drawing; India; History",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 35955,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.873",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2001, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83808,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83809,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35955",
+    "SortNumber": "W        873                                            ",
+    "Style": null,
+    "Title": "Single Leaf of an Elephant in Must During a Hunt"
+}

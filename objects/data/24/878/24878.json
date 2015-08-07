@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1876",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": "This karatsu stoneware is decorated with ash glaze.",
+    "Dimensions": "H: 4 7/8 in. (12.38 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Centennial Exhibition Philadelphia",
+            "ExhibBeginDate": "1876-01-01",
+            "ExhibBeginYear": 1876,
+            "ExhibDisplayDate": "May 10, 1876- November 10, 1876",
+            "ExhibEndDate": "1876-11-10",
+            "ExhibEndYear": 1876,
+            "ExhibitionID": 244,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Centennial Exhibition Philadelphia. Memorial Hall, Philadelphia, Philadelphia. 1876."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8571,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.234_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.234_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.234_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.234_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.234_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stoneware with ash glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5728,
+        "LocationString": null
+    },
+    "ObjectID": 24878,
+    "ObjectName": "tea bowls",
+    "ObjectNumber": "49.234",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Centennial Exhibition, Philadelphia, 1876; Wakai Kanesaburo, Paris, 1876 [mode of acquisition unknown]; William T. Walters, Baltimore, 1876, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest. \r\n",
+    "PublicAccessDate": "2008-09-25T17:09:34.31",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24878",
+    "SortNumber": "    49   234                                            ",
+    "Style": "Karatsu ware, Early Karatsu style",
+    "Title": "Tea Ceremony Vessel"
+}

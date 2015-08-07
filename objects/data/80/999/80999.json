@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 816,
+    "DateEndYear": 900,
+    "DateText": "3rd century AH/AD 9th century",
+    "Description": "This folio from Walters manuscript W.552 contains text in Kufic script. Kufic is an angular script with a rhythmic and strongly horizontal composition of letters and words. It is named after the city of Kufa in central Iraq, despite the fact that no link between that city and the script has ever been determined. In the early centuries of Islam, this script, or \"font\", was used for writing the sacred text, the Qur'an. The red marks serve as an aid to the individual reading or writing the text.",
+    "Dimensions": "H: 5 5/16 x W: 8 1/4 in. (13.5 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544950,
+            "GeographyTerm": "Middle East",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27220,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.552.2B_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.552.2B_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.552.2B_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.552.2B_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.552.2B_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Abbasid; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Manuscript;  Prayer;  Qur`an; Central Arab Lands (Near East); Kufic; Early Abbasid script",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80999,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.552.2B",
+    "OnView": 0,
+    "Period": "Abbasid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80999",
+    "SortNumber": "W        552    2B                                      ",
+    "Style": null,
+    "Title": "Folio with Kufic Script"
+}

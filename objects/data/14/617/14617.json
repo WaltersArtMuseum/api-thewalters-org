@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1620,
+    "DateEndYear": 1650,
+    "DateText": "1620-1650",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 368, p. 486-487.",
+    "Dimensions": "Painted surface H: 34 1/2 x W: 45 1/2 in. (87.6 x 115.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439897,
+            "GeographyTerm": "Emilia",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37092,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1088_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1088_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1088_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1088_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1088_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47721,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1088_XR_1965.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1088_XR_1965.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1088_XR_1965.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1088_XR_1965.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1088_XR_1965.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Label] On stretcher is a label in Italian describing at some length the career of Gian Batta Zelotti Veronese",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3293,
+        "LocationString": null
+    },
+    "ObjectID": 14617,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1088",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 852, as Antonis Mor]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14617",
+    "SortNumber": "    37  1088                                            ",
+    "Style": null,
+    "Title": "St. Cecilia and St. Dorothy"
+}

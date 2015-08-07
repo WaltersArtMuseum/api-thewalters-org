@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nazca",
+            "CreatorID": 31447,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Nasca",
+    "DateBeginYear": 1,
+    "DateEndYear": 650,
+    "DateText": "AD 1-650",
+    "Description": null,
+    "Dimensions": "H: 6 x W: 4 1/2 in. (15.24 x 11.43 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19100,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2831_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2831_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2831_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2831_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2831_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19101,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2831_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2831_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2831_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2831_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2831_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with polychrome",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5579,
+        "LocationString": null
+    },
+    "ObjectID": 79373,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2831",
+    "OnView": 0,
+    "Period": "Early Intermediate",
+    "Provenance": "Sale, Sotheby's, New York, November 22, 1993, lot 22; Private collection, November 22, 1993, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-15T08:29:11.193",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79373",
+    "SortNumber": "    48  2831                                            ",
+    "Style": null,
+    "Title": "Effigy Vessel of a Seated Figure with Long Tunic"
+}

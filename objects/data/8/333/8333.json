@@ -1,0 +1,187 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\municipalities\\Shanghai Shi\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1477518,
+            "GeographyTerm": "Shanghai",
+            "Latitude": "31 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.1,
+            "Longitude": "121 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 121.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48722,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetA_Fnt_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetA_Fnt_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetA_Fnt_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetA_Fnt_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetA_Fnt_T86.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48723,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetB_Fnt_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetB_Fnt_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetB_Fnt_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetB_Fnt_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetB_Fnt_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48724,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetC_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetC_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetC_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetC_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetC_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 48725,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetD_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetD_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetD_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetD_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetD_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 48726,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetE_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetE_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetE_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetE_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetE_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 48727,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetF_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetF_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetF_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetF_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetF_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 48728,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetG_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetG_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetG_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetG_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetG_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 48729,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.100_DetH_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.100_DetH_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.100_DetH_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.100_DetH_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.100_DetH_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "colors on silk mounted on paper\r\nink and color on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2429,
+        "LocationString": null
+    },
+    "ObjectID": 8333,
+    "ObjectName": "albums; paintings",
+    "ObjectNumber": "35.100",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 287]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81187,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81188,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81189,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81190,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81191,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81192,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81193,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81194,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8333",
+    "SortNumber": "    35   100                                            ",
+    "Style": null,
+    "Title": "Album of 8 Paintings by Different Artists"
+}

@@ -1,0 +1,131 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Albert Bierstadt (American, 1830-1902)",
+            "CreatorID": 3363,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1857,
+    "DateEndYear": 1860,
+    "DateText": "1857-1860",
+    "Description": "The D\u00fcsseldorf-trained artist visited Naples and Capri in the summer of 1857. This drawing bears an inscription on the reverse: \"Mr. Walters with the compliments of the author.\" It was formerly housed in one of William T. Walters' many drawings albums.\r\n\r\nThe Blue Grotto on the north side of the island of Capri had become renowned as an attraction for tourists during the 19th century. Because its entrance was about three feet high it could be entered in a small rowboat. The interior of the grotto is about 39 feet high and its depth is 50 feet.\r\n",
+    "Dimensions": "H: 6 13/16 \u00d7 W: 8 13/16 in. (17.3 \u00d7 22.4 cm): Paper Support H: 13 1/4 \u00d7 W: 14 1/2 in. (33.6 \u00d7 36.8 cm); Mat H: 14 1/4 \u00d7 W: 19 1/4 in. (36.2 \u00d7 48.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "American Artists Abroad: Works from the Permanent Collection ",
+            "ExhibBeginDate": "2014-04-19",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "April 19, 2014 - June 23, 2014",
+            "ExhibEndDate": "2014-06-22",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3271,
+            "LocationID": 4051,
+            "NonWAMExhibition": false,
+            "Textblock": "American Artists Abroad: Works from the Permanent Collection . The Walters Art Museum, Baltimore. 2014."
+        },
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        },
+        {
+            "ExhTitle": "American Drawings from the Walters Art Gallery",
+            "ExhibBeginDate": "1987-02-24",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "February 24, 1987-April 5, 1987",
+            "ExhibEndDate": "1987-04-05",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 2703,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "American Drawings from the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1987."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\islands\\Capri, Isola di\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434575,
+            "GeographyTerm": "Capri",
+            "Latitude": "40 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.55,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50179,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1565_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1565_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1565_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1565_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1565_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 41493,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.1565_Fnt_TR_T92II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.1565_Fnt_TR_T92II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.1565_Fnt_TR_T92II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.1565_Fnt_TR_T92II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.1565_Fnt_TR_T92II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36810,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1565_Fnt_BW_H64.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1565_Fnt_BW_H64.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1565_Fnt_BW_H64.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1565_Fnt_BW_H64.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1565_Fnt_BW_H64.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] Front, lower left: AB; [Dedication] Reverse: Mr. Walters with the compliments of the author. Recollections of Capri; Bierstadt",
+    "Keywords": null,
+    "Medium": "oil on cardboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3323,
+        "LocationString": null
+    },
+    "ObjectID": 24607,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1565",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-01T00:30:01.037",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24607",
+    "SortNumber": "    37  1565                                            ",
+    "Style": null,
+    "Title": "The Blue Grotto, Capri"
+}

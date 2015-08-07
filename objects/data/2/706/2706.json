@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni Battista Moroni",
+            "CreatorID": 5061,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1520,
+    "DateEndYear": 1578,
+    "DateText": "1520-1578",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 297, p. 426.",
+    "Dimensions": "Painted surface and stretcher H: 44 3/16 x W: 35 7/16 in. (112.3 x 90 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lombardia\\provinces\\Brescia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438404,
+            "GeographyTerm": "Brescia",
+            "Latitude": "45 33",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.55,
+            "Longitude": "010 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29270,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.501_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.501_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.501_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.501_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.501_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46882,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.501_XR_1962.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.501_XR_1962.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.501_XR_1962.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.501_XR_1962.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.501_XR_1962.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Label] Paper label on stretcher: MORONI/743; [Inscription] On stretcher: unidentified coat of arms between the words DOGANA and ITALIANA with the word MERCI above",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3305,
+        "LocationString": null
+    },
+    "ObjectID": 2706,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.501",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "The Counts Consolati, Trento [date and mode of acquisition unknown]; Luigi Grassi, Florence [date and mode of acquisition unknown} (?); Henry Walters, Baltimore, 1911 [mode of acquisition unknown] [through Berenson]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-22T00:30:00.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2706",
+    "SortNumber": "    37   501                                            ",
+    "Style": null,
+    "Title": "Portrait of a Gentleman with a Dog"
+}

@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to the Walters Painter (Greek, active ca. 625-ca. 600 BC)",
+            "CreatorID": 8440,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -530,
+    "DateEndYear": -430,
+    "DateText": "ca. 480 BC",
+    "Description": "This \"krater\" (a vase for mixing water with wine) by the Walters Painter depicts a woman holding a spindle. A bearded man faces her, and a youth stands behind her with his right hand extended. The artist's drawing is known for stiff drapery folds, stylized hands, and prominent chins. The frieze showing a bull between two lions on the neck of the vase is rare on red-figure column \"kraters.\"",
+    "Dimensions": "H: 12 1/4 x W: 9 15/16 in. (31.1 x 25.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "D\u00e9j\u00e0 Vu? Recurrence",
+            "ExhibBeginDate": "2007-09-19",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "September 19, 2007-January 20, 2008",
+            "ExhibEndDate": "2008-01-20",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2816,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "D\u00e9j\u00e0 Vu? Recurrence. The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Perif\u00e9reia Protevo\u00fasis\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431408,
+            "GeographyTerm": "Ath\u00ednai",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "023 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32242,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.70_SideA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.70_SideA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.70_SideA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.70_SideA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.70_SideA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32243,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.70_SideB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.70_SideB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.70_SideB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.70_SideB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.70_SideB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4948,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.70_SideADet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.70_SideADet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.70_SideADet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.70_SideADet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.70_SideADet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4951,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.70_SideBDet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.70_SideBDet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.70_SideBDet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.70_SideBDet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.70_SideBDet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3661,
+        "LocationString": null
+    },
+    "ObjectID": 13932,
+    "ObjectName": "column kraters; vases",
+    "ObjectNumber": "48.70",
+    "OnView": 1,
+    "Period": "Classical",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [cat. no. 233]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.877",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13932",
+    "SortNumber": "    48    70                                            ",
+    "Style": "Attic",
+    "Title": "Red-Figure Column Krater"
+}

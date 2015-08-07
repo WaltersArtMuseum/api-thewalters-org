@@ -1,0 +1,334 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Viviano of Varese, of Thread Lane",
+            "CreatorID": 8478,
+            "Gender": null,
+            "Role": "Binder"
+        },
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "ca. 1275-1300",
+    "Description": "This Psalter, with an additional Office of the Dead, was created in the late thirteenth century in northeastern France. A large quantity of Franciscan saints in the calendar and litany, as well as marginal imagery of them, suggests that the original owner had a strong affinity for that order. The manuscript was likely begun for one patron but finished for another, given a change in scribal and artistic hands and the addition of heraldry from Psalm 109 onward. Arms for the Fieschi family, as well as a birth notice in the calendar, identify the manuscript's first owner as Leonardo dei Fieschi, a Genoese nobleman (d. 1331). Among a multitude of drolleries, the manuscript contains a number of unusual marginal vignettes depicting SS. Francis, Clare, and Elisabeth of Hungary. One image of St. Francis (fol. 139v) is heavily worn, which may be evidence of devotional touching by the manuscript's owner.",
+    "Dimensions": "Folio H: 7 1/16 \u00d7 W: 5 1/16 in. (18 \u00d7 12.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Seeing Music in Medieval Manuscripts",
+            "ExhibBeginDate": "2014-06-28",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "June 28, 2014 - October 12, 2014",
+            "ExhibEndDate": "2014-10-12",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3316,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Seeing Music in Medieval Manuscripts. 2014."
+        },
+        {
+            "ExhTitle": "Manuscript Sleuthing: Discoveries of a Curator",
+            "ExhibBeginDate": "1995-02-15",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 15, 1995-May 21, 1995",
+            "ExhibEndDate": "1995-05-21",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 174,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Sleuthing: Discoveries of a Curator. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "The Illuminated Initial",
+            "ExhibBeginDate": "1991-10-08",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "October 8, 1991-January 5, 1992",
+            "ExhibEndDate": "1992-01-05",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Illuminated Initial. The Walters Art Gallery, Baltimore. 1991-1992."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Jewish Heroes in Christian Books",
+            "ExhibBeginDate": "1986-05-06",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "May 6, 1986-July 13, 1986",
+            "ExhibEndDate": "1986-07-13",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2390,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewish Heroes in Christian Books. The Walters Art Gallery, Baltimore. 1986."
+        },
+        {
+            "ExhTitle": "The Psalms of David in the Middle Ages",
+            "ExhibBeginDate": "1996-02-22",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "February 22, 1996-May 19, 1996",
+            "ExhibEndDate": "1996-05-19",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 165,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Psalms of David in the Middle Ages. The Walters Art Gallery, Baltimore. 1996."
+        },
+        {
+            "ExhTitle": "Beasts on Parchment: Picturing Animals in Medieval Manuscripts",
+            "ExhibBeginDate": "2010-11-06",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "November 6, 2010-February 6, 2011",
+            "ExhibEndDate": "2011-02-06",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2831,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Beasts on Parchment: Picturing Animals in Medieval Manuscripts. The Walters Art Museum, Baltimore. 2010-2011."
+        },
+        {
+            "ExhTitle": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible",
+            "ExhibBeginDate": "2002-10-27",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "October 27, 2002-December 29, 2002",
+            "ExhibEndDate": "2002-12-29",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2339,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible. The Walters Art Museum, Baltimore; Academy Art Museum, Easton; Princeton University Art Museum, Princeton; The Mitchell Gallery, Annapolis; Williams College Museum of Art, Williamstown. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Liguria\\provinces\\Genova\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1437714,
+            "GeographyTerm": "Genova",
+            "Latitude": "44 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.416,
+            "Longitude": "008 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 8.95
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 64712,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000001_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000001_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000001_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000001_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000001_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 64713,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000002_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000002_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000002_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000002_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000002_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 64714,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000590_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000590_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000590_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000590_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000590_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 64715,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000591_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000591_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000591_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000591_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000591_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 64716,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000592_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000592_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000592_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000592_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000592_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 64717,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000593_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000593_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000593_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000593_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000593_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 64718,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000594_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000594_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000594_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000594_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000594_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 64719,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W45_000595_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W45_000595_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W45_000595_300.jpg",
+                "Small": "http://static.thewalters.org/images/W45_000595_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W45_000595_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Psalter-hours; Devotional; Historiated initial; Miniature; Heraldry; Illumination; Manuscript; Codex;",
+    "Medium": "ink and pigments on medium-weight parchment bound between beech boards covered with dark brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4057,
+        "LocationString": null
+    },
+    "ObjectID": 15540,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.45",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Leonardo dei Fieschi (d. 1331), Genoa, ca. 1290-1331. Acquired by L\u00e9on or Paul Gruel, Paris, ca. 1900-1910; purchased by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.\r\n\r\n\r\n",
+    "PublicAccessDate": "2014-12-11T01:00:00.343",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 1554,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6304,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 9283,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10517,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14628,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22058,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35307,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39761,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78184,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80456,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80457,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80458,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92290,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/15540",
+    "SortNumber": "W         45                                            ",
+    "Style": "Gothic",
+    "Title": "Fieschi Psalter"
+}

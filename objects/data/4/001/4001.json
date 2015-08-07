@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": "Orthodox Eastern",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 5 13/16 x W: 8 1/4 in. (14.7 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38654,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.629_Fnt_BNF_H47.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.629_Fnt_BNF_H47.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.629_Fnt_BNF_H47.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.629_Fnt_BNF_H47.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.629_Fnt_BNF_H47.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46894,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.629_XR_1998.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.629_XR_1998.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.629_XR_1998.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.629_XR_1998.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.629_XR_1998.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] He Apokalepsis [sic]: The Revelation",
+    "Keywords": "Annunciation; Saint John the Evangelist with Prochorus",
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1547,
+        "LocationString": null
+    },
+    "ObjectID": 4001,
+    "ObjectName": "icons; triptychs",
+    "ObjectNumber": "37.629",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4001",
+    "SortNumber": "    37   629                                            ",
+    "Style": "Post-Byzantine",
+    "Title": "St. John the Evangelist Dictating to Prochorus, the Annunciation"
+}

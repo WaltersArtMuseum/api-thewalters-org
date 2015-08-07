@@ -1,0 +1,88 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian (?)",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman (?)",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 299,
+    "DateText": "AD 1st-3rd century",
+    "Description": "The man holds a small shield in his right hand to protect him from attack. Recent research on skeletons of gladiators has shown that they not only needed muscular power to succeed in their profession but also put on additional weight to protect their inner organs.",
+    "Dimensions": "H: 3 3/8 in. (8.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11828,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.1517_3QTR_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.1517_3QTR_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.1517_3QTR_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.1517_3QTR_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.1517_3QTR_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 450,
+        "LocationString": null
+    },
+    "ObjectID": 5538,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.1517",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sheik of Pyramids (?); Henry Walters, Baltimore, 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-11-19T17:21:17.05",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5538",
+    "SortNumber": "    54  1517                                            ",
+    "Style": null,
+    "Title": "Gladiator or Warrior"
+}

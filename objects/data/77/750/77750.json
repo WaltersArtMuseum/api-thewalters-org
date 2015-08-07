@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Niclauss Kippell (German)",
+            "CreatorID": 6567,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1905",
+    "Culture": null,
+    "DateBeginYear": 1576,
+    "DateEndYear": 1600,
+    "DateText": "ca. 1588",
+    "Description": null,
+    "Dimensions": "H: 5 11/16 x W: 3 9/16 in. (14.5 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10207,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.477.19R_OpnObv_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.477.19R_OpnObv_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.477.19R_OpnObv_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.477.19R_OpnObv_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.477.19R_OpnObv_TR.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paper with tempera and ink",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77750,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.477.19R",
+    "OnView": 0,
+    "Period": "High Renaissance",
+    "Provenance": "Beat Hagenbach of B\u00e2le, 1608, by gift [from the artist]; L\u00e9on Gruel [date and mode of acquisition unknown]; Henry Walters, Baltimore, February 1905 or 1906 [included on shipping list with most of date removed]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77750",
+    "SortNumber": "W        477   19R                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Italian Costumes"
+}

@@ -1,0 +1,118 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1953",
+    "Culture": null,
+    "DateBeginYear": -712,
+    "DateEndYear": -688,
+    "DateText": "ca. 700 BC",
+    "Description": "Animals were popular motifs in the Geometric period. Bull figurines were common votive offerings at Olympia.",
+    "Dimensions": "H: 3 x W: 3 13/16 x D: 1 in. (7.6 x 9.7 x 2.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41034,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2379_3QtrFnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2379_3QtrFnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2379_3QtrFnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2379_3QtrFnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2379_3QtrFnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 41035,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2379_LftSide_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2379_LftSide_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2379_LftSide_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2379_LftSide_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2379_LftSide_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 41033,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2379_3QtrBack_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2379_3QtrBack_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2379_3QtrBack_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2379_3QtrBack_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2379_3QtrBack_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 41036,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2379_RtSide_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2379_RtSide_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2379_RtSide_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2379_RtSide_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2379_RtSide_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 5558,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.2379_Fnt_BW_H53.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.2379_Fnt_BW_H53.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.2379_Fnt_BW_H53.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.2379_Fnt_BW_H53.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.2379_Fnt_BW_H53.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3637,
+        "LocationString": null
+    },
+    "ObjectID": 2048,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.2379",
+    "OnView": 1,
+    "Period": "Geometric",
+    "Provenance": "Elie Borowski; Walters Art Museum, 1953, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.703",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2048",
+    "SortNumber": "    54  2379                                            ",
+    "Style": null,
+    "Title": "Geometric Statuette of a Bull"
+}

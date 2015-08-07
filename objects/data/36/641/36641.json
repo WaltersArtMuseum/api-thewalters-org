@@ -1,0 +1,130 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -401,
+    "DateText": "5th century BC",
+    "Description": null,
+    "Dimensions": "L: 2 3/8 in. (6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Calabria\\provinces\\Reggio di Calabria\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439365,
+            "GeographyTerm": "Locri Epizefiri",
+            "Latitude": "38 12",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.2,
+            "Longitude": "016 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54717,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1012_3QtrLft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1012_3QtrLft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1012_3QtrLft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1012_3QtrLft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1012_3QtrLft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 54719,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1012_Lft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1012_Lft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1012_Lft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1012_Lft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1012_Lft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 54720,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1012_Rt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1012_Rt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1012_Rt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1012_Rt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1012_Rt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 54718,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1012_3QtrRt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1012_3QtrRt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1012_3QtrRt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1012_3QtrRt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1012_3QtrRt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 11823,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.1012_Rt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.1012_Rt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.1012_Rt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.1012_Rt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.1012_Rt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3646,
+        "LocationString": null
+    },
+    "ObjectID": 36641,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.1012",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Lambros Collection [date and mode of acquisition unknown]; Jean P. Lambros and Giovanni Dattari Sale, Paris, June 17-19, 1912, lot 12; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-11-19T17:20:47.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36641",
+    "SortNumber": "    54  1012                                            ",
+    "Style": "Archaic",
+    "Title": "Wild Boar"
+}

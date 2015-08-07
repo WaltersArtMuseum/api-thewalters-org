@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Persian",
+            "CreatorID": 3496,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic; Persian",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "This binding from Walters manuscript W.644 is composed of dark brown goatskin (with a flap). The binding has panel-stamped central and border divisions with floral and vine designs, brushed with gold. The red doublures have a central lobed medallion and cornerpieces of gold filigree work over colored paper with significant loses.",
+    "Dimensions": "Folio H: 8 11/16 x W: 5 1/2 in. (22 x 14 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23278,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.644.binding_ClsdTop_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.644.binding_ClsdTop_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.644.binding_ClsdTop_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.644.binding_ClsdTop_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.644.binding_ClsdTop_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Illumination; Illustration; Manuscript; Miniature; Painting; Contemporary Binding; Iran; Literature -- Poetry",
+    "Medium": "dark brown goatskin with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80130,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.644.binding",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Papas-zadah \u2026(?), [1]311 AH/AD 1893-1894 [fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80130",
+    "SortNumber": "W        644binding                                     ",
+    "Style": null,
+    "Title": "Binding from Yusuf and Zulaykha"
+}

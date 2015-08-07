@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jos\u00e9 Villegas Cordero (Spanish, 1844-1921)",
+            "CreatorID": 7415,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1881-1884",
+    "Culture": null,
+    "DateBeginYear": 1860,
+    "DateEndYear": 1881,
+    "DateText": "Before 1881",
+    "Description": "A poultry merchant is lolling on a chicken coop against a partially stuccoed building. Beside him is another coop on which some colorful birds roost. The model appears to be the same figure as that seen at the left of \"The Slipper Merchant\" (Walters 37.105).",
+    "Dimensions": "H: 20 15/16 x W: 13 7/8 in. (53.2 x 35.2 cm); Framed H: 33 x W: 25 x D: 4 3/4 in. (83.8 x 63.5 x 12.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Fortuny and His Circle",
+            "ExhibBeginDate": "1970-03-30",
+            "ExhibBeginYear": 1970,
+            "ExhibDisplayDate": "March 30, 1970-May 15, 1970",
+            "ExhibEndDate": "1970-05-15",
+            "ExhibEndYear": 1970,
+            "ExhibitionID": 908,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Fortuny and His Circle. The Walters Art Gallery, Baltimore. 1970."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Al-Magreb\\provinces\\Tanger, Province de\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1536061,
+            "GeographyTerm": "Tanger",
+            "Latitude": "35 48",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.8,
+            "Longitude": "005 50",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -5.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24621,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.107_Fnt_BW_T83.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.107_Fnt_BW_T83.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.107_Fnt_BW_T83.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.107_Fnt_BW_T83.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.107_Fnt_BW_T83.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Upper right: Villegas; [Label] On back, label of William Schaus, Tableaux Modernes, 749 Broadway",
+    "Keywords": null,
+    "Medium": "oil on wood (mahogany) panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3325,
+        "LocationString": null
+    },
+    "ObjectID": 19983,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.107",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Everard Sale, 1881 [as \"Marchand de Volailles au Maroc\"]; William Schaus, Tableaux Modernes, New York [date and mode of acquisition unknown] [from label on reverse] (?); William T. Walters, Baltimore, between 1881 and 1884 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 34525,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/19983",
+    "SortNumber": "    37   107                                            ",
+    "Style": null,
+    "Title": "Poultry Market, Tangiers"
+}

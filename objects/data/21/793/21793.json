@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean Baptiste Le Paon (French, 1738-1785)",
+            "CreatorID": 6866,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 17 1/2 x W: 39 in. (44.45 x 99.06 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29740,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.891_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.891_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.891_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.891_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.891_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3359,
+        "LocationString": null
+    },
+    "ObjectID": 21793,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.891",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Jacques Seligmann, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, November 16, 1922, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-01T12:01:45.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21793",
+    "SortNumber": "    37   891                                            ",
+    "Style": null,
+    "Title": "Village Fair"
+}

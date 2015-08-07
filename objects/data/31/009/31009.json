@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Gavarni (French, 1804-1866)",
+            "CreatorID": 7208,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1869",
+    "Culture": null,
+    "DateBeginYear": 1855,
+    "DateEndYear": 1867,
+    "DateText": "1855-1867",
+    "Description": null,
+    "Dimensions": "9 13/16 x 7 3/8 in. (25 x 18.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery",
+            "ExhibBeginDate": "1983-03-17",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "March 17, 1983-April 24, 1983",
+            "ExhibEndDate": "1983-04-24",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 432,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54307,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1484_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1484_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1484_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1484_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1484_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 54306,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1484_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1484_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1484_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1484_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1484_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 220,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1484_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1484_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1484_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1484_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1484_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "\"Gavarni\" in red ink, lower left",
+    "Keywords": "man; literature; portrait",
+    "Medium": "iron gall ink with red ink heightened with white on brown, moderately thick, slightly textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2233,
+        "LocationString": null
+    },
+    "ObjectID": 31009,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1484",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1869, by purchase [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31009",
+    "SortNumber": "    37  1484                                            ",
+    "Style": null,
+    "Title": "Half-length Male Figure in Sixteenth-century Costume"
+}

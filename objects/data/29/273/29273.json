@@ -1,0 +1,106 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hashimoto Isshi I (Japanese, 1820-1896)",
+            "CreatorID": 3684,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1850,
+    "DateEndYear": 1871,
+    "DateText": "1850-1871",
+    "Description": "On the front of this tsuba are various autumn flowers, including chrysanthemums, maiden flower, arrowroot, and pampas grass. On the reverse is a spider in a web in the upper left. Butterflies are on the edge at the right and top.",
+    "Dimensions": "H: 1 15/16 in. (5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Edo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 13918,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.401_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.401_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.401_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.401_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.401_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 13910,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.401_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.401_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.401_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.401_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.401_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 13919,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.401_MrkA_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.401_MrkA_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.401_MrkA_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.401_MrkA_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.401_MrkA_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u6a4b\u672c  \u4e00\u81f3; [Translation] Hashimoto/Isshi (kao)",
+    "Keywords": "autumn; plant; grass; flower; animal; arachnid; spider",
+    "Medium": "shibuichi, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4113,
+        "LocationString": null
+    },
+    "ObjectID": 29273,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.401",
+    "OnView": 0,
+    "Period": "late Edo-Meiji",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisiton unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29273",
+    "SortNumber": "    51   401                                            ",
+    "Style": "Goto School",
+    "Title": "Tsuba with Autumn Grasses with Spider and Butterflies"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Akiyama Buemon",
+            "CreatorID": 14861,
+            "Gender": null,
+            "Role": "Publisher"
+        }
+    ],
+    "CreditLine": "Gift of Mr. John H. North in memory of Miss Maude Robinson, 2002",
+    "Culture": null,
+    "DateBeginYear": 1895,
+    "DateEndYear": 1895,
+    "DateText": "1895",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\Shandong\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1483724,
+            "GeographyTerm": "Weihai",
+            "Latitude": "37 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.5,
+            "Longitude": "122 04",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 122.66
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19071,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.868C_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.868C_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.868C_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.868C_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.868C_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "China; Japan; war; modern war; Sino-Japanese war; battle; sea",
+    "Medium": "pigments on mulberry paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 79685,
+    "ObjectName": "color woodcuts",
+    "ObjectNumber": "95.868C",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Miss Maude Robinson, New York [date and mode of acquisition unknown]; Mr. John H. North, Holmdel, New Jersey [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-12-06T01:00:00.213",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79685",
+    "SortNumber": "    95   868C                                           ",
+    "Style": null,
+    "Title": "Sea Battle at Weihaiwei"
+}

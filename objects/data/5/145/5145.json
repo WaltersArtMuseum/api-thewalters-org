@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -301,
+    "DateText": "4th century BC",
+    "Description": "The lid of this red-figure pyxis depicts the head, neck, and chest of a dog, to the right in profile with a collar around its neck.",
+    "Dimensions": "with lid: 2 3/16 x 2 11/16 in. (5.6 x 6.8 cm) (h. x max. diam.);\r\nat mouth: 1 15/16 x 2 1/16 in. (5 x 5.2 cm) (h. x diam.);\r\nat foot: 2 3/16 in. (5.5 cm) (diam.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4995,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.82_VwC_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.82_VwC_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.82_VwC_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.82_VwC_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.82_VwC_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4993,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.82_VwA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.82_VwA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.82_VwA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.82_VwA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.82_VwA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4994,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.82_VwB_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.82_VwB_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.82_VwB_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.82_VwB_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.82_VwB_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4996,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.82_VwD_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.82_VwD_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.82_VwD_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.82_VwD_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.82_VwD_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Translation] Graffito on bottom of base and underside of lid: NZ",
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5661,
+        "LocationString": null
+    },
+    "ObjectID": 5145,
+    "ObjectName": "pyxides",
+    "ObjectNumber": "48.82",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-20T11:00:41.27",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5145",
+    "SortNumber": "    48    82                                            ",
+    "Style": "Attic",
+    "Title": "Pyxis with Bust of a Dog"
+}

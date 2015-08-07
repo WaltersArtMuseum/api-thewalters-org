@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Johann Baptist Schmon (German, active 18th century)",
+            "CreatorID": 1968,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 7 1/2 x W: 9 1/2 in. (19 x 24.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46802,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.385_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.385_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.385_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.385_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.385_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: J.B.Schmon inv. et pinxit August",
+    "Keywords": null,
+    "Medium": "oil on copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3239,
+        "LocationString": null
+    },
+    "ObjectID": 11657,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.385",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11657",
+    "SortNumber": "    37   385                                            ",
+    "Style": null,
+    "Title": "The Thunder Storm"
+}

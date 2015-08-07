@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "L\u00e9on Gruel (French, 1841-1923)",
+            "CreatorID": 104,
+            "Gender": "male",
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Ottonian",
+    "DateBeginYear": 950,
+    "DateEndYear": 1050,
+    "DateText": "ca. 1000 with later additions",
+    "Description": null,
+    "Dimensions": "Folio H: 5 7/16 \u00d7 W: 4 5/16 in. (13.8 \u00d7 10.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Rheinland-Pfalz\\districts (national)\\Trier\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454192,
+            "GeographyTerm": "Trier",
+            "Latitude": "49 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.75,
+            "Longitude": "006 39",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.65
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55001,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.9.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.9.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.9.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.9.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.9.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Binding; Book; Caroline minuscule; Codex; Manuscript; Calligraphy; Ornament; Liturgy",
+    "Medium": "dark blue morocco covered in gold and pigments",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 91918,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.9.binding",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "L\u00e9on Gruel, Paris, early twentieth century, [mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91918",
+    "SortNumber": "W          9binding                                     ",
+    "Style": null,
+    "Title": "Binding for Lectionary"
+}

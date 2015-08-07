@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Argonaut Master",
+            "CreatorID": 2240,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1922",
+    "Culture": null,
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "15th century",
+    "Description": "A room with Gothic windows and a coffered ceiling, framed by a floral garland, sets the stage for this intimate portrayal of the Madonna and Child. Mary is wearing a rich garment, held together in the front by a brooch or clasp, studded with gemstones and pearls.\r\n\r\nFor more information on this piece, please see Zeri catalogue number 56, pp. 91-92.",
+    "Dimensions": "Painted surface H: 30 1/2 x W: 20 3/16 x Approx. D: 1 3/16 in. (77.4 x 51.2 x 3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bedazzled: 5,000 Years of Jewelry from the Walters Art Museum",
+            "ExhibBeginDate": "2006-09-16",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "September 16, 2006-January 4, 2009",
+            "ExhibEndDate": "2009-01-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1954,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bedazzled: 5,000 Years of Jewelry from the Walters Art Museum. Frist Center for the Visual Arts, Nashville; The John and Mable Ringling Museum of Art, Sarasota; The Walters Art Museum, Baltimore. 2006-2009."
+        },
+        {
+            "ExhTitle": "National Exhibition of Works of Art at Leeds",
+            "ExhibBeginDate": "1868",
+            "ExhibBeginYear": 1868,
+            "ExhibDisplayDate": "1868",
+            "ExhibEndDate": "1868",
+            "ExhibEndYear": 1868,
+            "ExhibitionID": 2225,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "National Exhibition of Works of Art at Leeds. Leeds. 1868."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28585,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.536_Fnt_BW_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.536_Fnt_BW_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.536_Fnt_BW_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.536_Fnt_BW_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.536_Fnt_BW_H73.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47822,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.536_XR_2006.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.536_XR_2006.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.536_XR_2006.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.536_XR_2006.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.536_XR_2006.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Note] Old sticker indicates the work had been shown at the National Exhibition of Works of Art, Leeds, England, 1868, but this work has been unidentified in the catalogue.",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3278,
+        "LocationString": null
+    },
+    "ObjectID": 31902,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.536",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore, prior to 1922 [mode of acqusition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-08-04T08:32:11.043",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31902",
+    "SortNumber": "    37   536                                            ",
+    "Style": null,
+    "Title": "Virgin and Child"
+}

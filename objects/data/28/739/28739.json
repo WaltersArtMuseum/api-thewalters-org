@@ -1,0 +1,105 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Meissen Porcelain Manufactory (German, active 1710-present)",
+            "CreatorID": 3100,
+            "Gender": null,
+            "Role": "Manufacturer"
+        },
+        {
+            "ConcatDisplayName": "Johann Joachim K\u00e4ndler (German, 1706-1775)",
+            "CreatorID": 2136,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": 1733,
+    "DateEndYear": 1745,
+    "DateText": "1733-1745",
+    "Description": "\"The Allegory of Hearing\" is one of a series of five figurative statuettes personifying the five senses.\r\n\r\nThese statuettes exhibit the masterly sculptural qualities of Meissen porcelain which can be attibuted to Johann Joachim K\u00e4ndler who served as master modeler between 1733 and 1775.",
+    "Dimensions": "11 1/8 in. (28.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Sachsen\\districts (national)\\Dresden\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1454744,
+            "GeographyTerm": "Meissen",
+            "Latitude": "51 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.166,
+            "Longitude": "013 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11317,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.929_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.929_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.929_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.929_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.929_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gilt on hard-paste porcelain with glaze and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 4302,
+        "LocationString": null
+    },
+    "ObjectID": 28739,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "48.929",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "King Collection; Jacques Seligmann, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:24:21.78",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 6559,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 10875,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 12133,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 25756,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/28739",
+    "SortNumber": "    48   929                                            ",
+    "Style": null,
+    "Title": "Allegory of Hearing"
+}

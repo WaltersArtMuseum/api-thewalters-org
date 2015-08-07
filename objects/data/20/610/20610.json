@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ferdinand de Braekeleer the elder (Belgian, 1792-1883)",
+            "CreatorID": 4465,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. Margaret McCauley Turk, 1959",
+    "Culture": null,
+    "DateBeginYear": 1851,
+    "DateEndYear": 1851,
+    "DateText": "1851",
+    "Description": "In this picture, which is apparently a pendant to \"The Quarrel\" (Walters 37.2372) despite the difference in dates, amends have been made and the man is about to drink a toast with his wife, who gazes benignly at him. The reconciliation is observed by the servant girl and the dog. The setting appears to be the same room as in \"The Quarrel\" although it is seen here from the opposite direction.",
+    "Dimensions": "H: 14 1/8 x W: 11 13/16 in. (35.8 x 30 cm); Framed H: 20 x W: 17 1/2 x D: 2 1/4 in. (50.8 x 44.5 x 5.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salute to Belgium",
+            "ExhibBeginDate": "1980-06-22",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "June 22, 1980-September 7, 1980",
+            "ExhibEndDate": "1980-09-07",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2674,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salute to Belgium. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421717,
+            "GeographyTerm": "Antwerpen",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "004 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48588,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2373_Fnt_BW_H59.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2373_Fnt_BW_H59.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2373_Fnt_BW_H59.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2373_Fnt_BW_H59.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2373_Fnt_BW_H59.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] lower left: Ferdinand De Braekeleer / Antwerp 1851",
+    "Keywords": null,
+    "Medium": "oil on panel (mahogany)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3329,
+        "LocationString": null
+    },
+    "ObjectID": 20610,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2373",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mrs. Margaret McCauley Turk [date and mode of acquisition unknown]; Walters Art Museum, 1959, by gift.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 12962,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/20610",
+    "SortNumber": "    37  2373                                            ",
+    "Style": null,
+    "Title": "Reconciliation"
+}

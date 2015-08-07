@@ -1,0 +1,87 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1738,
+    "DateEndYear": 1738,
+    "DateText": "1151 AH/AD 1738",
+    "Description": "Walters manuscript W.573 is a miniature copy of the Qur'an copied in Iran in 1151 AH/AD 1738.",
+    "Dimensions": "Folio Hl: 1 15/16 x W: 1 3/4 in. (5 x 4.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28683,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Book; Codex; Manuscript; Iran; Scripture",
+    "Medium": "ink and pigments on laid, non-European covered with lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2334,
+        "LocationString": null
+    },
+    "ObjectID": 2223,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.573",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81666,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81667,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81668,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81670,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/2223",
+    "SortNumber": "W        573                                            ",
+    "Style": null,
+    "Title": "Qur'an"
+}

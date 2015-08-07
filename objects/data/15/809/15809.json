@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul-Jean Clays (Belgian, 1819-1900)",
+            "CreatorID": 4432,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1882",
+    "Culture": null,
+    "DateBeginYear": 1819,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "In this nocturnal view of an unidentified Dutch harbor ships with slackened sails rest at their moorings while sailors row their skiffs ashore.",
+    "Dimensions": "H:  28 7/8 x W: 23 1/4 in. (73.4 x 59 cm); Framed H: 38 3/4 \u00d7 W: 32 3/8 \u00d7 D: 3 1/4 in. (98.5 \u00d7 82.2 \u00d7 8.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Salute to Belgium",
+            "ExhibBeginDate": "1980-06-22",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "June 22, 1980-September 7, 1980",
+            "ExhibEndDate": "1980-09-07",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2674,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salute to Belgium. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421289,
+            "GeographyTerm": "Belgi\u00eb",
+            "Latitude": "50 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.833,
+            "Longitude": "004 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24631,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.125_Fnt_BW_H78.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.125_Fnt_BW_H78.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.125_Fnt_BW_H78.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.125_Fnt_BW_H78.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.125_Fnt_BW_H78.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: P.J. Clays",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3323,
+        "LocationString": null
+    },
+    "ObjectID": 15809,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.125",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "S. P. Avery [date and mode of acquisition unknown]; William T. Walters, Baltimore, 1882, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15809",
+    "SortNumber": "    37   125                                            ",
+    "Style": null,
+    "Title": "Moonlight In Holland"
+}

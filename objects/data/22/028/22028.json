@@ -1,0 +1,130 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1070,
+    "DateEndYear": -332,
+    "DateText": "1070-332 BC",
+    "Description": "This pendant together with the second piece (Walters 48.1656) was part of a pair which were as end pieces of a double necklace. The sun disk on the falcon head identifies the represented god as Re.",
+    "Dimensions": "H: 3/4 x W: 13/16 x D: 3/16 in. (1.96 x 1.99 x 0.54 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22211,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1656_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1656_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1656_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1656_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1656_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22212,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1656_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1656_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1656_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1656_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1656_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22213,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1656_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1656_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1656_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1656_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1656_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22209,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1656_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1656_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1656_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1656_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1656_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22214,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1656_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1656_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1656_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1656_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1656_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 22210,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1656_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1656_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1656_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1656_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1656_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with green glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 22028,
+    "ObjectName": "pendants; plaques (flat objects)",
+    "ObjectNumber": "48.1656",
+    "OnView": 0,
+    "Period": "Third Intermediate-Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22028",
+    "SortNumber": "    48  1656                                            ",
+    "Style": null,
+    "Title": "Hawk's Head; Falcon's Head"
+}

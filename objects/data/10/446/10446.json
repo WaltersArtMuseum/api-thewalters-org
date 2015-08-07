@@ -1,0 +1,87 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Luigi Primo (Flemish, born ca. 1606, died ca. 1667-1668)",
+            "CreatorID": 15253,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1655,
+    "DateEndYear": 1660,
+    "DateText": "1655-1660",
+    "Description": "Baldassare Vandergoes(Baltasar van der Goes) was a wealthy merchant who moved from the Netherlands to the port city of Ancona on the eastern coast of Italy. The commanding view of the port, the seat of his business, is the backdrop for this imposing full-length portrait. His elegant but assertive stance with his left hand on his hip, as well as his wife Margherita's bejeweled attire in the companion portrait (Walters 37.654), further convey status.  \r\n\r\nLuigi Primo (also known as Louis Cousin) from Brussels was one of the many Flemish painters who sought the patronage of wealthy Italians, first in papal Rome before coming to Ancona. although he was also a painter of religious paintings, Flemings in Italy were famous for their ability to imitate reality, as in portraiture, so it is hardly surprising that Vandergoes should have sought the services of his countrynman. \r\n\r\nFor the identification of the portrait as of Baldassare Vandergoes see Michele Polverari, Per amor di Margherita: Due fiamminghi nell'Ancona del Seicento: il mercante Baldassarre Vandergoes e il pittore Luigi Primo da Bruxelles, Ancona, il lavoro editorial, 2014\r\n\r\n\r\n\r\n\r\n",
+    "Dimensions": "Painted surface H: 84 5/8 x W: 56 7/8 in. (215 x 144.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Ancona\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1438647,
+            "GeographyTerm": "Ancona",
+            "Latitude": "43 37",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.616,
+            "Longitude": "013 31",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.516
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4252,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.660_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.660_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.660_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.660_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.660_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Upper Stair Hall",
+        "LocationID": 4565,
+        "LocationString": null
+    },
+    "ObjectID": 10446,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.660",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 547, as attributed to van Dyck]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.613",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 23993,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/10446",
+    "SortNumber": "    37   660                                            ",
+    "Style": null,
+    "Title": "Portrait of Baldassare Vandergoes before the Port of Ancona"
+}

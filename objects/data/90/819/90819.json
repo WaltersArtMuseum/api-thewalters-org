@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ambrosius Aurelius Theodosius Macrobius (active ca. 395\u2013423)",
+            "CreatorID": 7555,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": "French; Flemish",
+    "DateBeginYear": 1163,
+    "DateEndYear": 1212,
+    "DateText": "ca. 1175-1200",
+    "Description": "This copy of Macrobius' Commentarii in somnium Scipionis was produced most likely in northeastern France in the late twelfth century. The manuscript includes seven major diagrams, of which four are original to the manuscript (fols. 38v, 41r, 43v, and 47v) and three others, including a map of the world, were added early in the history of the manuscript (fols. 64v, 65v, and 66r). Additional minor diagrams demonstrating relationships in philosophical ideas or other concepts introduced in the text appear throughout the manuscript in the margins, added by later hands.",
+    "Dimensions": "Folio H: 8 \u00d7 W: 4 1/2 in. (20.25 \u00d7 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 59741,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W22_000020_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W22_000020_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W22_000020_300.jpg",
+                "Small": "http://static.thewalters.org/images/W22_000020_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W22_000020_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47248,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.22.8v_Fp_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.22.8v_Fp_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.22.8v_Fp_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.22.8v_Fp_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.22.8v_Fp_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Drawing; Humanistic; Manuscript; Astrology; Cosmology; Geography; Literature -- Prose; Philosophy",
+    "Medium": "ink and pigments on thin to medium-weight calfskin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90819,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.22.8V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Franciscan ownership, 14th century [1]. Acquired by Abbot Luigi Celotti [ca. 1768-1846] [2], first half 19th century; Celotti Sale, Evans, London, 14 March 1825, no. 478; purchased by Thomas Thorpe [1791-1851], London, 1825. Acquired by Sir Thomas Phillipps [3]; Phillipps Sale, Sotheby's, London, April 27-May 2 1903, no. 749; purchased by Bernard Quaritch, 1903; purchased by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] notation on fol. 66r\r\n[2] \"Celotti\" added on front pastedown during first half of 19th century\r\n[3] Ms. 1029",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90819",
+    "SortNumber": "W         22    8V                                      ",
+    "Style": "Romanesque",
+    "Title": "Leaf from Commentarii in Somnium Scipionis: Marginal Diagram Gloss"
+}

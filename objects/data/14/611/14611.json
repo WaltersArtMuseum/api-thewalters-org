@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Randolph Mordecai, 1946",
+    "Culture": null,
+    "DateBeginYear": 1750,
+    "DateEndYear": 1800,
+    "DateText": "1750-1800",
+    "Description": null,
+    "Dimensions": "8 1/2 in. (21.6 cm)",
+    "Dynasty": "Qing Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11677,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_49.2377_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_49.2377_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_49.2377_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_49.2377_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_49.2377_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: 17th-Century Dutch Cabinet Rooms",
+        "LocationID": 4394,
+        "LocationString": null
+    },
+    "ObjectID": 14611,
+    "ObjectName": "jars",
+    "ObjectNumber": "49.2377",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Randolph Mordecai [date and mode of acquisition unknown]; given to Walters Art Museum, 1946.",
+    "PublicAccessDate": "2014-12-09T01:00:00.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14611",
+    "SortNumber": "    49  2377                                            ",
+    "Style": null,
+    "Title": "Jar with Wood Lid"
+}

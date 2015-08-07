@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1578,
+    "DateEndYear": 1612,
+    "DateText": "ca. 1590-1600",
+    "Description": null,
+    "Dimensions": "7 5/16 x 3 7/8 in. (18.6 x 9.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Ottoman Embroideries and Other Ornament",
+            "ExhibBeginDate": "2007-05-05",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "May 5, 2007-September 9, 2007",
+            "ExhibEndDate": "2007-09-09",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2726,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ottoman Embroideries and Other Ornament. The Walters Art Museum, Baltimore. 2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Bursa\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501462,
+            "GeographyTerm": "Iznik",
+            "Latitude": "40 27",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.45,
+            "Longitude": "029 43",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.716
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51390,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1190_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1190_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1190_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1190_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1190_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glazed and painted ceramic",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1822,
+        "LocationString": null
+    },
+    "ObjectID": 22473,
+    "ObjectName": "tankards",
+    "ObjectNumber": "48.1190",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22473",
+    "SortNumber": "    48  1190                                            ",
+    "Style": null,
+    "Title": "Tankard"
+}

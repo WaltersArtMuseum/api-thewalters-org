@@ -1,0 +1,76 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Saint Bede, the Venerable (673-735)",
+            "CreatorID": 8737,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "This wheel-shaped diagram illustrates the monthly movement of the tides, and shows the correspondences between the tides and the age of the Moon as set out in the English scholar Bede's (d. 735 CE) De natura rerum (On the nature of things, XXXIX). The T-O map of the inhabited world occupies the diagram's center. The twelve sectors contain brief characterizations of the twelve winds. The first of the three outer rings shows four tidal cycles of seven or eight days each; the next ring, labeled \"water\" (aqua) thirty times, represents the ocean surrounding the world. The last ring in this group gives the days of the lunar or synodic month, beginning at top. The four small circles at the corners--perhaps four representations of the Moon--give the days of the two lesser (or lowest) tides and the two greater (or highest) tides of the month.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56093,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.8V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.8V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.8V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.8V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.8V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 6549,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.8V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6549",
+    "SortNumber": "W         73    8V                                      ",
+    "Style": "Romanesque",
+    "Title": "Tidal Diagram (Rota)"
+}

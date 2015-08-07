@@ -1,0 +1,87 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "With more sketches of wild boars on the reverse.",
+    "Dimensions": "H: 3 15/16 x W: 5 11/16 in. (10 x 14.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10176,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2033A_Fnt_NF_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2033A_Fnt_NF_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2033A_Fnt_NF_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2033A_Fnt_NF_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2033A_Fnt_NF_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10177,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2031A-37.2033A_FntGp_NF_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2031A-37.2033A_FntGp_NF_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2031A-37.2033A_FntGp_NF_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2031A-37.2033A_FntGp_NF_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2031A-37.2033A_FntGp_NF_H49.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pencil on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2246,
+        "LocationString": null
+    },
+    "ObjectID": 38090,
+    "ObjectName": "leaves (folded sheets); drawings; sketches",
+    "ObjectNumber": "37.2033",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Vildieu-Barye Collection; Fabius Fr\u00e8res, Paris [date and mode of acquisition unknown]; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 36225,
+            "RelationType": "See Also, Contextualized (Installation)"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/38090",
+    "SortNumber": "    37  2033                                            ",
+    "Style": null,
+    "Title": "Mastiffs and the Head of a Wild Boar"
+}

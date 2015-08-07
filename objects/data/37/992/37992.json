@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean Louis Ernest Meissonier (French, 1815 - 1891)",
+            "CreatorID": 4228,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Rita St. Clair, 1983",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "H: 2 3/8 x W: 1 9/16 in. (6 x 4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery",
+            "ExhibBeginDate": "1983-03-17",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "March 17, 1983-April 24, 1983",
+            "ExhibEndDate": "1983-04-24",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 432,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1983."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 442,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2605_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2605_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2605_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2605_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2605_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "man; genre; genre",
+    "Medium": "iron gall ink and graphite on smooth, moderately thick, cream wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1796,
+        "LocationString": null
+    },
+    "ObjectID": 37992,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2605",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Rita St. Clair, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1983, by gift.",
+    "PublicAccessDate": "2008-12-01T14:17:15.46",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37992",
+    "SortNumber": "    37  2605                                            ",
+    "Style": null,
+    "Title": "Two Persons"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian () (?)",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1575,
+    "DateEndYear": 1600,
+    "DateText": "late 16th century",
+    "Description": null,
+    "Dimensions": "9 13/16 x 7 1/16 in. (25 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11712,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.484_OpnFnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.484_OpnFnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.484_OpnFnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.484_OpnFnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.484_OpnFnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red velvet with red cording",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78135,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.484.binding",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Polo Contarini; Private collection, Russia [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78135",
+    "SortNumber": "W        484binding                                     ",
+    "Style": null,
+    "Title": "Binding from Dogale for Polo Contarini"
+}

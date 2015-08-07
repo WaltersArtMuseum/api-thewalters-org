@@ -1,0 +1,149 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sargis",
+            "CreatorID": 8634,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Armenian",
+            "CreatorID": 6300,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Armenian; Christian",
+    "DateBeginYear": 966,
+    "DateEndYear": 966,
+    "DateText": "966",
+    "Description": null,
+    "Dimensions": "Folio H: 12 \u00d7 W: 9 13/16 in. (30.5 \u00d7 25 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "In the Beginning: Bibles Before the Year 1000",
+            "ExhibBeginDate": "2006-10-21",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "October 21, 2006-January 7, 2007",
+            "ExhibEndDate": "2007-01-07",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2220,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "In the Beginning: Bibles Before the Year 1000. Freer Gallery of Art, Washington. 2006-2007."
+        },
+        {
+            "ExhTitle": "Illuminating the Word: Gospel Books in the Middle Ages",
+            "ExhibBeginDate": "2004-07-10",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "July 10, 2004-October 3, 2004",
+            "ExhibEndDate": "2004-10-03",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2012,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminating the Word: Gospel Books in the Middle Ages. The Walters Art Museum, Baltimore. 2004."
+        },
+        {
+            "ExhTitle": "Treasures in Heaven: Armenian Illuminated Manuscripts",
+            "ExhibBeginDate": "1994-05-04",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "May 4, 1994-October 23, 1994",
+            "ExhibEndDate": "1994-10-23",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 65,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures in Heaven: Armenian Illuminated Manuscripts. The Morgan Library & Museum, New York; The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1519267,
+            "GeographyTerm": "Hayastan",
+            "Latitude": "40 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.0,
+            "Longitude": "045 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 45.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1519267,
+            "GeographyTerm": "Hayastan",
+            "Latitude": "40 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.0,
+            "Longitude": "045 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 45.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52554,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.537.2R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.537.2R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.537.2R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.537.2R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.537.2R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11516,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.537.2R_OpnObv_TR_T93II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.537.2R_OpnObv_TR_T93II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.537.2R_OpnObv_TR_T93II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.537.2R_OpnObv_TR_T93II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.537.2R_OpnObv_TR_T93II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Colophon; Illumination; Manuscript; Miniature; Binding; Walters Art Museum; Scripture",
+    "Medium": "ink and pigments on parchment with trimmed margins",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 19172,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.537.2R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "[Created in 966 (Armenian era given 415), fol. 2v]; Erevan [note by T\u0113r Ners\u0113s on recto of last fly leaf, 1575 (Armenian era given 1024), this sixteenth-century colophon was copied by Amirxan Yovhann\u0113s Amirean], 1575; Yovhann\u0113s Amirxanean, November 20, 1839 [verso of last fly leaf]; Hovannes Amirkan, 1843 [recto of first fly leaf]; Armenian Catholic Congregation, Monastery of Gregory the Illuminator,  [recto of last fly leaf: This Gospels is in commemoration of the monastery of Saint Grigor the Illuminator, for the Lebanese monks who are in Rome, in the year of the Lord 1844 and on the 2nd February.... In memory of the \"Illustrious, Noble and Revered orthodox noble A\u0142a Amirxan\u0113 Yovhann\u0113s Amireanc\u2018 of New Julfa, for the sake of his soul and for the sake of his whole pious and God-loving family.\" \"Through the mediation of Father Vrt\u2018an\u0113s Eiw\u0142iwn\u010deanc\u2018. A.K. the Apostolic Misionary in Pars and in New Julfa.\"], Rome, February 2, 1844; Yovhann\u0113s Amirxaneanc\u2018, February 10, 1844 [by note]; Tabriz (T\u2018rviz),  April 26, 1844 [note by Yovhann\u0113s Amirxaneanc\u2018 recto of first fly leaf]; Monastery of the Antonian Fathers, Ortakeuy, near Istanbul, 1910; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19172",
+    "SortNumber": "W        537    2R                                      ",
+    "Style": "Armenian",
+    "Title": "Virgin and Child Enthroned"
+}

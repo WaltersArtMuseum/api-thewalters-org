@@ -1,0 +1,106 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 1996",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1675,
+    "DateEndYear": 1700,
+    "DateText": "late 17th century",
+    "Description": "Binding date is unknown, uncertain if original to manuscript. Upper and lower boards made of heavy undecorated hide, stitched to ends of parchment strip.",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Ityop'iya\\regions\\Gonder\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1542083,
+            "GeographyTerm": "Gonder",
+            "Latitude": "12 39",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 12.65,
+            "Longitude": "037 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 37.483
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47843,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_36.10.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_36.10.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_36.10.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_36.10.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_36.10.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47844,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_36.10.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_36.10.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_36.10.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_36.10.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_36.10.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 47842,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_36.10.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_36.10.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_36.10.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_36.10.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_36.10.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 47841,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_36.10.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_36.10.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_36.10.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_36.10.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_36.10.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "upper and lower boards made of heavy undecorated hide, stitched to ends of parchment strip",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90665,
+    "ObjectName": "bindings",
+    "ObjectNumber": "36.10.binding",
+    "OnView": 0,
+    "Period": "Gondarine",
+    "Provenance": "Robert and Nancy Nooter Collection, Washington, D.C., before 1996 [mode of acquisition unknown] [Nooter 20.4]; Walters Art Museum, 1996, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90665",
+    "SortNumber": "    36    10binding                                     ",
+    "Style": null,
+    "Title": "Binding from Gondarine sensul. Upper board inside:  Joachim and Anna presenting Mary to the temple; Lower board inside: Mary enthroned."
+}

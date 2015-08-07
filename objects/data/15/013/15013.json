@@ -1,0 +1,142 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1921",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -201,
+    "DateText": "4th-3rd century BC",
+    "Description": "Red figure decoration.",
+    "Dimensions": "H: 3 1/8 x W: 4 5/8 in. (8 x 11.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4990,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.81_VwA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.81_VwA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.81_VwA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.81_VwA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.81_VwA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4987,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.81_DetB_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.81_DetB_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.81_DetB_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.81_DetB_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.81_DetB_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4988,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.81_DetC_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.81_DetC_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.81_DetC_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.81_DetC_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.81_DetC_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4989,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.81_DetD_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.81_DetD_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.81_DetD_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.81_DetD_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.81_DetD_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 4992,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.81_VwC_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.81_VwC_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.81_VwC_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.81_VwC_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.81_VwC_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 4986,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.81_Bot_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.81_Bot_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.81_Bot_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.81_Bot_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.81_Bot_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 4991,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.81_VwB_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.81_VwB_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.81_VwB_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.81_VwB_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.81_VwB_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "yellow clay with metallic black glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5777,
+        "LocationString": null
+    },
+    "ObjectID": 15013,
+    "ObjectName": "pyxides",
+    "ObjectNumber": "48.81",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sotheby, Wilkinson, and Hodge Sale, London, May 23-24, 1921, lot no. 243; Henry Walters, Baltimore 1921, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-23T10:08:17.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15013",
+    "SortNumber": "    48    81                                            ",
+    "Style": null,
+    "Title": "Pyxis with Decoration of Dog, Bull, and Griffin"
+}

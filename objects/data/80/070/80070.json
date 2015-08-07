@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the Islamic Acquisition Fund, 2000",
+    "Culture": "Islamic",
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "13th century AH/AD 19th century",
+    "Description": "This folio from Walters manuscript W.853.1 is the incipit for chapter 1 (Surat al-fatihah) with the chapter heading inscribed in reddish-brown ink. In the margin is a geometric design in reddish-brown, brown, and gold, which marks the start of a chapter (sura).",
+    "Dimensions": "H: 4 5/16 x W: 4 5/16 in. (11 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1530472,
+            "GeographyTerm": "Africa",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31268,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31269,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD_Misplaced leaf.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD_Misplaced leaf.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD_Misplaced leaf.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD_Misplaced leaf.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.853.1.2b_Fp_DD_Misplaced leaf.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Book; Calligraphy; Codex; Illumination; Manuscript; Sub-Saharan (West) Africa",
+    "Medium": "ink and pigments on cream European laid paper (probably Italian)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80070,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.853.1.2B",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sam Fogg Rare Books and Manuscripts, London [date and mode of acquisition unknown]; Walters Art Museum, 2000, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80070",
+    "SortNumber": "W        853    1    2B                                 ",
+    "Style": null,
+    "Title": "Incipit of Chapter 1 with Geometric Decoration"
+}

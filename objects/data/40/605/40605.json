@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of the Master of Catherine of Cleves (Netherlandish, ca. 1435-1460)",
+            "CreatorID": 7230,
+            "Gender": null,
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1971",
+    "Culture": null,
+    "DateBeginYear": 1445,
+    "DateEndYear": 1450,
+    "DateText": "after 1445",
+    "Description": null,
+    "Dimensions": "H: 5 3/4 x W: 4 5/16 in. (14.6 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Noord-Brabant\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473411,
+            "GeographyTerm": "s Hertogenbosch",
+            "Latitude": "51 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.683,
+            "Longitude": "005 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10104,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_W.782.15R_OpnObv_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_W.782.15R_OpnObv_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_W.782.15R_OpnObv_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_W.782.15R_OpnObv_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_W.782.15R_OpnObv_TR.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 40605,
+    "ObjectName": "illuminated manuscript; folios (leaves)",
+    "ObjectNumber": "W.782.15R",
+    "OnView": 0,
+    "Period": "Gothic",
+    "Provenance": "Made for an unidentified woman, who may have been a member of the congregation of St. Agnes in Delft and who may have been related to Catherine of Cleves based on heraldic evidence, kneeling in prayer to the Man of Sorrows in the historiated initial on folio 109r; member of the Sashers family (notes of births 1605-1610 fol. 240r); collection of van der Feer Lader, no. 83 (bookplate, inside upper cover); Ph. J. van Alfen of Doorn, Netherlands (ex libris, inside front cover); sale, Sotheby's December 6, 1971, lot 54; Walters Art Museum, 1971, by purchase.",
+    "PublicAccessDate": "2014-12-09T01:00:00.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40605",
+    "SortNumber": "W        782   15R                                      ",
+    "Style": "International Gothic",
+    "Title": "Apocalyptic Virgin and Child"
+}

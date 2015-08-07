@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1941",
+    "Culture": "Babylonian",
+    "DateBeginYear": -1834,
+    "DateEndYear": -1823,
+    "DateText": "1834-1823 BC",
+    "Description": "The emphasis on sumptuous materials, such as precious metals and stones, is a common characteristic of foundation deposits. This tablet resembles the semiprecious stone lapis lazuli, prized by the Mesopotamians, although it is in fact made from a less costly material known as \"Egyptian blue.\" It bears an inscription of King Warad-Sin, ruler of the city-state of Larsa, with a prayer and a dedication.",
+    "Dimensions": "H: 2 3/16 x W: 3 x D: 7/8 in. (5.6 x 7.6 x 2.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Dhi Qar\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489368,
+            "GeographyTerm": "Larsa",
+            "Latitude": "31 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.233,
+            "Longitude": "045 51",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 45.85
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56237,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2481_SideA_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2481_SideA_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2481_SideA_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2481_SideA_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2481_SideA_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56236,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2481_3Qtr_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2481_3Qtr_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2481_3Qtr_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2481_3Qtr_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2481_3Qtr_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 56238,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2481_SideB_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2481_SideB_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2481_SideB_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2481_SideB_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2481_SideB_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 32572,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2481_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2481_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2481_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2481_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2481_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Inscription] name of King Warad-Sin with a prayer and a dedication",
+    "Keywords": null,
+    "Medium": "Egyptian blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3732,
+        "LocationString": null
+    },
+    "ObjectID": 17796,
+    "ObjectName": "tablets; cornerstones",
+    "ObjectNumber": "48.2481",
+    "OnView": 1,
+    "Period": "Old Babylonian; Isin-Larsa",
+    "Provenance": "Sadie Jones (Mrs. Henry Walters), New York [date and mode of acquisition unknown]; Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": "Warad-Sin (1834-1823 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17796",
+    "SortNumber": "    48  2481                                            ",
+    "Style": null,
+    "Title": "Foundation Tablet"
+}

@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pierre-\u00c9douard Fr\u00e8re (French, 1819-1886)",
+            "CreatorID": 4366,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, before 1878",
+    "Culture": null,
+    "DateBeginYear": 1858,
+    "DateEndYear": 1858,
+    "DateText": "1858",
+    "Description": "In an alcove of an Ecouen kitchen a peasant woman stands stooped over a bowl with her back to the viewer. Light streaming through the window illuminates the alcove, showing the onions and apples on the sill, the beets and a wicker basket containing a section of squash on a chest, and an exceptionally large cabbage lying on the floor, as well as various utensils, a wicker hamper, a keg, an iron pot, a large ceramic pitcher and various strainers and ladles hanging from pegs on the wall. Discernible within the dimly lit interior are a chest, several pots, and the wash hung to dry.",
+    "Dimensions": "H: 16 1/16 x W: 21 1/16 in. (40.8 x 53.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Realist Tradition: French Painting and Drawing, 1830-1900",
+            "ExhibBeginDate": "1980-11-12",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "November 12, 1980-January 4, 1982",
+            "ExhibEndDate": "1982-01-04",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 28,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Realist Tradition: French Painting and Drawing, 1830-1900. The Cleveland Museum of Art, Cleveland; Brooklyn Museum, Brooklyn; Saint Louis Art Museum, St. Louis; Glasgow Art Gallery and Museum, Glasgow. 1980-1982."
+        },
+        {
+            "ExhTitle": "Artful Dining: The Exhibition",
+            "ExhibBeginDate": "1994-07-30",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "July 30, 1994-October 31, 1994",
+            "ExhibEndDate": "1994-10-31",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2747,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artful Dining: The Exhibition. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Val-d'Oise\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1427372,
+            "GeographyTerm": "\u00c9couen",
+            "Latitude": "49 01",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.16,
+            "Longitude": "002 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41147,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.27_Fnt_TR_C80II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.27_Fnt_TR_C80II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.27_Fnt_TR_C80II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.27_Fnt_TR_C80II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.27_Fnt_TR_C80II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 455,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.27_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.27_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.27_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.27_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.27_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left in black paint: Edouard Fr\u00e9re.; [Date] Lower left in black paint: 1858",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3316,
+        "LocationString": null
+    },
+    "ObjectID": 10124,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.27",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, prior to 1878 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10124",
+    "SortNumber": "    37    27                                            ",
+    "Style": null,
+    "Title": "Preparing Dinner"
+}

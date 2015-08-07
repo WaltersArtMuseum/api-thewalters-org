@@ -1,0 +1,166 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Laurance and Isabel Roberts, 1991",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 255 1/16 x W: 12 15/16 in. (647.8 x 32.8 cm); Paper H: 11 1/2 x L: 47 3/8 in. (29.2 x 120.3 cm); Text H: 12 1/16 x L: 19 3/8 in. (30.6 x 49.2 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49703,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetA_Fnt_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetA_Fnt_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetA_Fnt_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetA_Fnt_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetA_Fnt_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 49704,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetB_Fnt_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetB_Fnt_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetB_Fnt_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetB_Fnt_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetB_Fnt_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 49705,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetC_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetC_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetC_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetC_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetC_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 49706,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetD_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetD_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetD_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetD_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetD_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 49707,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetE_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetE_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetE_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetE_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetE_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 49708,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetF_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetF_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetF_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetF_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetF_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 49709,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetG_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetG_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetG_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetG_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetG_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 49710,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetH_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetH_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetH_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetH_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetH_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 49711,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_35.175_DetI_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_35.175_DetI_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_35.175_DetI_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_35.175_DetI_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_35.175_DetI_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        }
+    ],
+    "Inscriptions": "[Signature] Spurious signature at end: Wu meng Qiu Ying zhi [Wu meng Ch'iu Ying chih] (Qiu Ying [Ch'iu Ying], 1494/1495-1552); [Seal] Spurious seal at end: Qiu Ying_yin [Ch'iu Ying_yin]; [Inscription] Frontispiece, in clerical script, by Chia Ong (unidentified), dated 3rd month, bingxu [ping hsu] (1945 (?)); [Inscription] Colophon, author unidentified.",
+    "Keywords": null,
+    "Medium": "ink and colors on silk and gold-splashed paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2407,
+        "LocationString": null
+    },
+    "ObjectID": 5434,
+    "ObjectName": "emakimono; hand scrolls",
+    "ObjectNumber": "35.175",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Laurance and Isabel Roberts, New York, 1939, by purchase; Walters Art Museum, 1991, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5434",
+    "SortNumber": "    35   175                                            ",
+    "Style": null,
+    "Title": "The Qingming [Ch'ing-ming] Festival"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1912",
+    "Culture": null,
+    "DateBeginYear": 1478,
+    "DateEndYear": 1502,
+    "DateText": "ca. 1490",
+    "Description": "The term \"hockey\" was first documented in 1363. Here, several youths play a rigorous game, wielding their curved sticks with great skill.",
+    "Dimensions": "H: 5 13/16 x W: 4 5/16 in. (14.8 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\West-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421893,
+            "GeographyTerm": "Brugge",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27381,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_W.435.87V_DetA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_W.435.87V_DetA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_W.435.87V_DetA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_W.435.87V_DetA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_W.435.87V_DetA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81324,
+    "ObjectName": "manuscripts; folios (leaves)",
+    "ObjectNumber": "W.435.87V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, ca. 1912 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81324",
+    "SortNumber": "W        435   87V                                      ",
+    "Style": null,
+    "Title": "Hockey"
+}

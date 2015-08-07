@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Henri-Joseph Harpignies (French, 1819-1916)",
+            "CreatorID": 4869,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1983",
+    "Culture": null,
+    "DateBeginYear": 1848,
+    "DateEndYear": 1872,
+    "DateText": "ca. 1860",
+    "Description": null,
+    "Dimensions": "H: 9 15/16 x W: 13 in. (25.3 x 33 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31002,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.2616_Fnt_BW_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.2616_Fnt_BW_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.2616_Fnt_BW_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.2616_Fnt_BW_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.2616_Fnt_BW_T84.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\" H.Harpignies 94,\" signed lower left; \"2\" in graphite, upper left, verso; \"Appartient a Comte C.Humann\" on backing, in black ink; label at lower right, \"Encadrements MIROSLAV/ 7-9 rue Visconti Paris 6e/tel. 325.46.14\"",
+    "Keywords": null,
+    "Medium": "watercolor and pencil on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2254,
+        "LocationString": null
+    },
+    "ObjectID": 21639,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.2616",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Christian Humann, Paris [date and mode of acquisition unknown]; Shepherd Gallery, New York [date and mode of acquisition unknown]; Walters Art Museum, 1983, by purchase.",
+    "PublicAccessDate": "2011-02-16T14:53:00.53",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21639",
+    "SortNumber": "    37  2616                                            ",
+    "Style": null,
+    "Title": "Two Figures Walking in a Wooded Landscape"
+}

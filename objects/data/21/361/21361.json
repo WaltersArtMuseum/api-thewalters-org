@@ -1,0 +1,91 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yoshihiro (Japanese)",
+            "CreatorID": 3061,
+            "Gender": "male",
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1850,
+    "DateText": "early-mid 19th century",
+    "Description": null,
+    "Dimensions": "blade: 25 7/8 in. (65.72 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5309,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.1156_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.1156_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.1156_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.1156_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.1156_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "steel, lacquer, abalone shell, iron, gilded copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2025,
+        "LocationString": null
+    },
+    "ObjectID": 21361,
+    "ObjectName": "long sword;katana;yari blade;tsuba;fuchi;kashira;menuki;kozuka;kogai;saya;tsuka",
+    "ObjectNumber": "51.1156",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.433",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 8941,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 12463,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 13458,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79673,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79674,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21361",
+    "SortNumber": "    51  1156                                            ",
+    "Style": null,
+    "Title": "Long Sword with Abalone Confetti in Paulownia Design on the Sheath"
+}

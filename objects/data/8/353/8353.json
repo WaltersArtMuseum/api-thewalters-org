@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "12th century AH/AD 18th century",
+    "Description": "This Mughal painting, Walters W.698 attributable to the 12th century AH/AD 18th, depicts a court scene with a learned man addressing a seated Mughal ruler, most probably Jahangir (died 1037 AH/AD 1627). The painted images of Jesus and Mary behind him are found in other illustrations and are attested to in extant murals from Mughal India. On the back are Persian verses written in Nasta'liq script. The text is surrounded by an illuminated floral border comparable to those produced during the reign of Shah Jahan (reigned 1037 AH/AD 1628-1068 AH/AD 1657).",
+    "Dimensions": "H: 13 1/4 x W: 8 7/8 in. (33.7 x 22.5 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38782,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.698.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.698.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.698.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.698.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.698.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illustration; Miniature; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6427,
+        "LocationString": null
+    },
+    "ObjectID": 8353,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.698",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84247,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84248,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8353",
+    "SortNumber": "W        698                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Mughal Court Scene"
+}

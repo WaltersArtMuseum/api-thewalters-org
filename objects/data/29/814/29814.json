@@ -1,0 +1,137 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jan van Bijlert (Dutch, ca. 1597-1671)",
+            "CreatorID": 6307,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Workshop of Jan van Bijlert (Dutch, ca. 1597-1671)",
+            "CreatorID": 6307,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1605,
+    "DateEndYear": 1655,
+    "DateText": "ca. 1630",
+    "Description": "Scenes of young revelers were popular in Dutch art during the 1600s. Some include biblical analogies to suggest that a moral life avoids just such an easy life given over to indulging the senses. These scenes were also enjoyed as a vicarious experience of the relaxed morals of the inn or brothel within an otherwise strict society.\r\n\r\nThe artist, who is looking at us, contrasts the calm harmony of the neatly dressed, music-making trio on the left with the raucous threesome at the right: one woman scolds, the second is lethargic from smoking and indecorously dressed, while the man, unbuttoned literally and figuratively, lounges on the table with his wine. The bright colors increase the festive mood and encourage the eye to wander over the surface. This small version of a larger composition by Van Bylert was produced by his workshop to satisfy a wider market.",
+    "Dimensions": "H: 16 x W: 22 13/16 in. (40.6 x 58 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "World of Wonder",
+            "ExhibBeginDate": "1971-11-08",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "November 8, 1971-January 31, 1972",
+            "ExhibEndDate": "1972-01-31",
+            "ExhibEndYear": 1972,
+            "ExhibitionID": 1994,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "World of Wonder. The Walters Art Gallery, Baltimore. 1971-1972."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52332,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.707_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.707_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.707_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.707_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.707_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52331,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.707_Fntcc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.707_Fntcc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.707_Fntcc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.707_Fntcc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.707_Fntcc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52330,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.707_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.707_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.707_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.707_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.707_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4255,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.707_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.707_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.707_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.707_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.707_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Chamber of Wonders",
+        "LocationID": 4405,
+        "LocationString": null
+    },
+    "ObjectID": 29814,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.707",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.63",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29814",
+    "SortNumber": "    37   707                                            ",
+    "Style": null,
+    "Title": "Merry Company"
+}

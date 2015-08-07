@@ -1,0 +1,95 @@
+{
+    "Classification": "Leather",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1413,
+    "DateEndYear": 1462,
+    "DateText": "ca. 1425-1450",
+    "Description": "Coffrets, or small boxes, covered with leather were often used to store documents or other desk objects.  It is decorated with floral patterns and includes two inscriptions: on the right, \"J'ay bien choisi\" (\"I have chosen well\"); and on the left, \"Son voulloir est le myen\" (\"His will is my will\").  The box was originally painted with red and blue against a natural leather background and had gilt details.",
+    "Dimensions": "with hinges: 7 1/16 x 11 5/16 x 7 1/4 in. (18 x 28.8 x 18.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6070,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_73.12_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_73.12_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_73.12_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_73.12_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_73.12_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35615,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_73.12_Fnt_NG_2050.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_73.12_Fnt_NG_2050.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_73.12_Fnt_NG_2050.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_73.12_Fnt_NG_2050.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_73.12_Fnt_NG_2050.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood, paint and gilt on leather, wrought iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1579,
+        "LocationString": null
+    },
+    "ObjectID": 26415,
+    "ObjectName": "coffrets;keys",
+    "ObjectNumber": "73.12",
+    "OnView": 0,
+    "Period": "Late Medieval",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:00.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26415",
+    "SortNumber": "    73    12                                            ",
+    "Style": "Gothic",
+    "Title": "Coffret and Key"
+}

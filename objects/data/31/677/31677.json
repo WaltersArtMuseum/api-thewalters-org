@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1991",
+    "Culture": "Byzantine",
+    "DateBeginYear": 500,
+    "DateEndYear": 699,
+    "DateText": "6th-7th century",
+    "Description": "This token depicts the face of Symeon the Elder (d. 459), one of the early stylite saints (stylos is Greek for \"column\"), who for years stood in prayer atop a column in the Syrian desert.  The columns of St. Symeon the Elder and his imitator, St. Symeon the Younger (d. 592), were famous pilgrim attractions during their lifetimes and for centuries after.  Miraculous cures were believed to have been performed with tokens made of earth taken from near the base of the columns.",
+    "Dimensions": "H: 1 1/8 x W: 7/8 x D: 1/2 in. (2.8 x 2.2 x 1.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Treasures of Heaven",
+            "ExhibBeginDate": "2010-10-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "October 17, 2010-October 9, 2011",
+            "ExhibEndDate": "2011-10-09",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures of Heaven. The Cleveland Museum of Art, Cleveland; The Walters Art Museum, Baltimore; The British Museum, London. 2010-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Hims\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499767,
+            "GeographyTerm": "Qal'at Si'man",
+            "Latitude": "36 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.333,
+            "Longitude": "036 51",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.85
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6556,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2666_Fnt_TR_T95III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2666_Fnt_TR_T95III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2666_Fnt_TR_T95III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2666_Fnt_TR_T95III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2666_Fnt_TR_T95III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "baked clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3802,
+        "LocationString": null
+    },
+    "ObjectID": 31677,
+    "ObjectName": "pilgrim tokens",
+    "ObjectNumber": "48.2666",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "Simon Bendall, London, by purchase; Walters Art Museum, 1991, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:34.957",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31677",
+    "SortNumber": "    48  2666                                            ",
+    "Style": null,
+    "Title": "Pilgrim Token of Saint Symeon"
+}

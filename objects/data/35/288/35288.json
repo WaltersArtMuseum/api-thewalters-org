@@ -1,0 +1,93 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Saint Ephrem Syrus (303-373)",
+            "CreatorID": 6234,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Saint Yared the Aksumite priest (6th century)",
+            "CreatorID": 31601,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Purchased by the Walters Art Museum through the S. & A.P. Fund, 1960",
+    "Culture": "Christian Ethiopian",
+    "DateBeginYear": 1700,
+    "DateEndYear": 1899,
+    "DateText": "Early 18th century and 19th century",
+    "Description": "This beautifully copied and bound Ethiopian Psalter likely belonged to one of the princes of the Gonderite royal family, whose reign ended in 1769. The main text of this undecorated manuscript is written in the ecclesiastical language of Ge'ez while the minor texts are in Amharic, added at a later time. While the colophon and the hand suggest that the original manuscript only contained the 151 Psalms of David, which is in an early eighteenth-century hand, the other texts such as the fifteen Canticles, Song of Songs, Weddase Maryam (Encomium of Mary) and the Anqasa Berhan (Porch of Light) were added in the nineteenth century to create a more complete Psalter. More unusual texts, unrelated to the Psalter, have also been added, for it begins with a homily admonishing the clergy to conduct themselves well spiritually, and ends with directions for undoing charms. The life of the manuscript can be traced not only in these cumulative texts, but also in added prayers for later owners, of which there are at least twelve appended to the ends of the Biblical texts.",
+    "Dimensions": "H: 12 3/16 x W: 11 7/16 in. (31 x 29 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38612,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.768.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.768.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.768.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.768.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.768.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Calligraphy; Codex; Colophon; Manuscript; Walters Art Museum; Original binding; Devotion",
+    "Medium": "ink and pigments on heavy, yellow parchment covered with blind-tooled, stamped goatskin with cross design over wooden boards",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2353,
+        "LocationString": null
+    },
+    "ObjectID": 35288,
+    "ObjectName": "manuscripts",
+    "ObjectNumber": "W.768",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gonderite royal family, before 1769; W\u00e4l\u00e4tt\u00e4 Heyw\u00e4t and W\u00e4l\u00e4tt\u00e4 Kidan [added prayers] [date and mode of acquisition unknown]; Walters Art Museum, 1960, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 87625,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35288",
+    "SortNumber": "W        768                                            ",
+    "Style": null,
+    "Title": "Ethiopic Psalter with Canticles, Song of Songs, and Two Hymns in Praise of Mary"
+}

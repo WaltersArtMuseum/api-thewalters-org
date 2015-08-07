@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1660,
+    "DateEndYear": 1720,
+    "DateText": "1660-1720",
+    "Description": null,
+    "Dimensions": "5 1/2 in. (13.97 cm) approx.",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1479208,
+            "GeographyTerm": "Fujian",
+            "Latitude": "26 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 26.0,
+            "Longitude": "118 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 118.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5243,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2599_Fnt_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2599_Fnt_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2599_Fnt_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2599_Fnt_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2599_Fnt_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with white glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5714,
+        "LocationString": null
+    },
+    "ObjectID": 24010,
+    "ObjectName": "boxes",
+    "ObjectNumber": "49.2599",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.23",
+    "Reign": "Kangxi [K'ang hsi]",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24010",
+    "SortNumber": "    49  2599                                            ",
+    "Style": null,
+    "Title": "Covered Box"
+}

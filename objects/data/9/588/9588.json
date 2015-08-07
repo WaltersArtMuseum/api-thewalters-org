@@ -1,0 +1,125 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Jan van Scorel (Netherlandish, 1495-1562)",
+            "CreatorID": 15389,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Cornelis van Gouda (Netherlandish, 1510-1550)",
+            "CreatorID": 5734,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1530,
+    "DateEndYear": 1539,
+    "DateText": "1530-1539",
+    "Description": "These two panels were wings of an altarpiece; the lost central panel depicted a sacred scene, toward which the donors turned. The paintings were never completed, leaving the under-drawing visible. The style is that of Jan van Scorel, the leading painter in the northern Netherlands during the 1530s. A trip in 1519-24 to Venice, the Holy Land, and Rome influenced Van Scorel's development of sculpted faces and misty, fantasy landscapes. The palm tree and penetrating light mark this dream-like terrain as Mediterranean.",
+    "Dimensions": "32 1/2 x 25 3/4 in. (82.5 x 65.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "To Arrest the Ravages of Time: Caring for Art at the Walters",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 721,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "To Arrest the Ravages of Time: Caring for Art at the Walters. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25725,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.247_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.247_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.247_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.247_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.247_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10584,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.247_Lft_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.247_Lft_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.247_Lft_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.247_Lft_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.247_Lft_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 10585,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.247_Rt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.247_Rt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.247_Rt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.247_Rt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.247_Rt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4509,
+        "LocationString": null
+    },
+    "ObjectID": 9588,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.247",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.27",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9588",
+    "SortNumber": "    37   247                                            ",
+    "Style": null,
+    "Title": "Two Donors With their Children"
+}

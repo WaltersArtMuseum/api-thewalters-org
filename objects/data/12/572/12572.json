@@ -1,0 +1,131 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": null,
+    "DateBeginYear": -1412,
+    "DateEndYear": -1300,
+    "DateText": "ca. 1400-1300 BCE",
+    "Description": "The finest of three lidded faience baskets to survive from the New Kingdom, this example shows how the artisan tried to imitate actual fiber baskets. Even the base of the vessel imitates coiled fiber. The vessel and its lid were held together by decoratively laced string.",
+    "Dimensions": "7 1/2 x 4 3/8 x 3 13/16 in. (19 x 11.1 x 9.8 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Gifts of the Nile: Ancient Egypian Faience",
+            "ExhibBeginDate": "1998-05-10",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "May 10, 1998-April 25, 1999",
+            "ExhibEndDate": "1999-04-25",
+            "ExhibEndYear": 1999,
+            "ExhibitionID": 2568,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Gifts of the Nile: Ancient Egypian Faience. The Cleveland Museum of Art, Cleveland; Museum of Art, Rhode Island School of Design, Providence; Kimbell Art Museum, Fort Worth. 1998-1999."
+        },
+        {
+            "ExhTitle": "Egypt's Golden Age: The Art of Living in the New Kingdom (1558-1085 B.C.)",
+            "ExhibBeginDate": "1982-02-03",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "February 3, 1982-January 2, 1983",
+            "ExhibEndDate": "1983-01-02",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2682,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Egypt's Golden Age: The Art of Living in the New Kingdom (1558-1085 B.C.). Museum of Fine Arts, Boston, Boston; Houston Museum of Natural Science, Houston; The Walters Art Gallery, Baltimore. 1982-1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al Minya\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544446,
+            "GeographyTerm": "Tunat al Jabal",
+            "Latitude": "27 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.766,
+            "Longitude": "030 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8500,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.426_SideA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.426_SideA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.426_SideA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.426_SideA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.426_SideA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8501,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.426_SideB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.426_SideB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.426_SideB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.426_SideB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.426_SideB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 8499,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.426_Bot_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.426_Bot_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.426_Bot_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.426_Bot_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.426_Bot_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 41878,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.426_Fnt_TR_T97II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.426_Fnt_TR_T97II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.426_Fnt_TR_T97II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.426_Fnt_TR_T97II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.426_Fnt_TR_T97II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with black pigment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3759,
+        "LocationString": null
+    },
+    "ObjectID": 12572,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.426",
+    "OnView": 1,
+    "Period": "New Kingdom, 18th dynasty",
+    "Provenance": "Rev. William MacGregor, Tamworth, Staffordshire; Sale, Sotheby, Wilkinson & Hodge, London, June 26-29 and July 4-6, 1922, no. 270; Dikran Kelekian, New York and Paris, 1922, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12572",
+    "SortNumber": "    48   426                                            ",
+    "Style": null,
+    "Title": "Vessel with Lid"
+}

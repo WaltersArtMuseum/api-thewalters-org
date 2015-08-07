@@ -1,0 +1,119 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949 (box), 1952 (lid)",
+    "Culture": "Byzantine",
+    "DateBeginYear": 501,
+    "DateEndYear": 700,
+    "DateText": "6th-7th century",
+    "Description": null,
+    "Dimensions": "with lid: 3 1/8 x 2 5/16 in. (8 x 5.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "Silver Treasure from Early Byzantium",
+            "ExhibBeginDate": "1986-04-18",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "April 18, 1986-August 17, 1986",
+            "ExhibEndDate": "1986-08-17",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2699,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Silver Treasure from Early Byzantium. The Walters Art Gallery, Baltimore. 1986."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Idlib\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1500112,
+            "GeographyTerm": "Ma\u2018arrat an Nu\u2018man",
+            "Latitude": "35 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.666,
+            "Longitude": "036 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11436,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1835_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1835_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1835_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1835_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1835_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11434,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1835_VwA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1835_VwA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1835_VwA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1835_VwA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1835_VwA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11435,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1835_Int_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1835_Int_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1835_Int_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1835_Int_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1835_Int_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 520,
+        "LocationString": null
+    },
+    "ObjectID": 19096,
+    "ObjectName": "boxes (containers); covers (closures)",
+    "ObjectNumber": "57.1835",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Found near Ma'aret en-Noman, Syria, prior to 1945; [box] Joseph Brummer, New York, by purchase; Walters Art Museum, 1949, by purchase; [cover] Henri Seyrig, Beirut, by purchase; Walters Art Museum, 1952, by gift.",
+    "PublicAccessDate": "2008-10-10T15:42:33.86",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19096",
+    "SortNumber": "    57  1835                                            ",
+    "Style": null,
+    "Title": "Box"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alvise Vivarini (Italian, born 1442-1453, died 1503-1505)",
+            "CreatorID": 7091,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1480,
+    "DateEndYear": 1485,
+    "DateText": "1480-1485",
+    "Description": "For more information on this panel, please see Federico Zeri's 1976 catalogue no. 166, p. 247.",
+    "Dimensions": "Painted surface H: 14 13/16 x W: 12 1/4 x D excluding cradle: 3/16 in. (37.7 x 31.1 x 0.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45387,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.535_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.535_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.535_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.535_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.535_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46884,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.535_XR_1968.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.535_XR_1968.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.535_XR_1968.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.535_XR_1968.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.535_XR_1968.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3259,
+        "LocationString": null
+    },
+    "ObjectID": 26452,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.535",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 432]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26452",
+    "SortNumber": "    37   535                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

@@ -1,0 +1,146 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Peter, of Poitiers (ca. 1130-1205)",
+            "CreatorID": 31604,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1981",
+    "Culture": null,
+    "DateBeginYear": 1200,
+    "DateEndYear": 1230,
+    "DateText": "early 13th century",
+    "Description": "This English manuscript was created in the early thirteenth century soon after the death of its author, Peter of Poitiers, theologian and Chancellor of the University of Paris from 1193 to 1205. It is an early copy of his text, the Compendium historiae in genealogia Christi. Intended as a teaching aid, the work provides a visual genealogy of Christ comprised of portraits in roundels, accompanied by a text discussing the historical background of Christ's lineage. It also includes episodes from biblical history, including Adam and Eve, Noah's Ark, the Nativity, the Virgin and Child, the Crucifixion, and the Resurrection. Early manuscripts like this tend to be in the form of a book, and other examples can be found in London, British Library Cotton MS Faustina B VII, and Cambridge, Corpus Christi College MS 83. Later manuscripts of this text are often presented in roll form.",
+    "Dimensions": "H: 13 9/16 \u00d7 W: 9 5/8 in. (34.4 \u00d7 24.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Text and Image: Medieval Book Illustration",
+            "ExhibBeginDate": "1986-02-11",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "February 11, 1986-March 23, 1986",
+            "ExhibEndDate": "1986-03-23",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2872,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Text and Image: Medieval Book Illustration. The Walters Art Gallery, Baltimore. 1986."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54117,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.796.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Gothic; Illumination; Manuscript; Medallion; Walters Art Museum; Chart; Drawing; Illustration; Theology",
+    "Medium": "ink and pigments on heavy, cream-colored parchment with edges darkened from use between",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4057,
+        "LocationString": null
+    },
+    "ObjectID": 6775,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.796",
+    "OnView": 0,
+    "Period": "Gothic",
+    "Provenance": "Made in England, early thirteenth century; William Salloch, Ossining, New York [date and mode of acquisition unknown]; Sale, 1981; Walters Art Museum, 1981, by purchase [Catalog 375, no. 43].",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 90958,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90959,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90961,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90962,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90963,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90964,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90965,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91074,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/6775",
+    "SortNumber": "W        796                                            ",
+    "Style": null,
+    "Title": "Peter of Poitiers' Historical genealogy of Christ"
+}

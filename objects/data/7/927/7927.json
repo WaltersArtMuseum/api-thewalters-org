@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Andr\u00e9-Henri Dargelas (French, 1828-1906)",
+            "CreatorID": 7504,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1828,
+    "DateEndYear": 1906,
+    "DateText": "1828-1906",
+    "Description": null,
+    "Dimensions": "H: 7 5/16 x W: 10 7/8 in. (18.5 x 27.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 101,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1317_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1317_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1317_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1317_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1317_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"36\"  in graphite, at lower edge, verso; \"35\" in graphite at the lower edge, verso; \"Dargelas\" in graphite in lower right",
+    "Keywords": "man; woman; child; church; Weather; genre; biblical/religious",
+    "Medium": "watercolor and graphite with white heightening on cream, moderately thick, moderately textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2277,
+        "LocationString": null
+    },
+    "ObjectID": 7927,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1317",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.8",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7927",
+    "SortNumber": "    37  1317                                            ",
+    "Style": null,
+    "Title": "People Leaving Church in Winter"
+}

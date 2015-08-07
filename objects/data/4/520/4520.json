@@ -1,0 +1,101 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": 400,
+    "DateText": "Original: 4th century BC; Copy: 100 BC-AD 400",
+    "Description": null,
+    "Dimensions": "H: 13 3/8 in. (33.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Thou Shalt Have No Other Gods Before Me",
+            "ExhibBeginDate": "1964-05",
+            "ExhibBeginYear": 1964,
+            "ExhibDisplayDate": "May 1964-September 1964",
+            "ExhibEndDate": "1964-09",
+            "ExhibEndYear": 1964,
+            "ExhibitionID": 2200,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Thou Shalt Have No Other Gods Before Me. The Jewish Museum, New York. 1964."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\N\u00edsoi Aiya\u00edou\\departments\\Kh\u00edos\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431758,
+            "GeographyTerm": "Ch\u00edos, N\u00edsos",
+            "Latitude": "38 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.366,
+            "Longitude": "026 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 26.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\N\u00edsoi Aiya\u00edou\\departments\\Kh\u00edos\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431758,
+            "GeographyTerm": "Ch\u00edos, N\u00edsos",
+            "Latitude": "38 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.366,
+            "Longitude": "026 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 26.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58510,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.698_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.698_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.698_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.698_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.698_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] DHMHTPIOY\r\n[Translation] of Demetrius",
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 426,
+        "LocationString": null
+    },
+    "ObjectID": 4520,
+    "ObjectName": "statues",
+    "ObjectNumber": "54.698",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Durighello Sale, 1924, no. 26; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4520",
+    "SortNumber": "    54   698                                            ",
+    "Style": null,
+    "Title": "Venus"
+}

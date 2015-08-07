@@ -1,0 +1,111 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Uesugi Kazutsura (Japanese, 1775-1815)",
+            "CreatorID": 6715,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1815,
+    "DateText": "1775-1815",
+    "Description": "A praying mantis is shown in various metal alloys. Part of the front claws and back legs extend above the top edge of the fuchi. This is part of a set with Walters 51.955.",
+    "Dimensions": "L: 1 7/16 in. (3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19569,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.954_SideA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.954_SideA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.954_SideA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.954_SideA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.954_SideA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19570,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.954_SideB_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.954_SideB_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.954_SideB_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.954_SideB_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.954_SideB_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19568,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.954_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.954_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.954_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.954_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.954_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u52a0\u58fd\u8cab; [Translation] Kazutsura",
+    "Keywords": "insect; praying mantis",
+    "Medium": "shakudo with shibuichi, gold alloy and copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 5143,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.954",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 22633,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/5143",
+    "SortNumber": "    51   954                                            ",
+    "Style": null,
+    "Title": "Fuchi with Praying Mantis"
+}

@@ -1,0 +1,142 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1975",
+    "Culture": null,
+    "DateBeginYear": -2400,
+    "DateEndYear": -2000,
+    "DateText": "2400-2000 BC",
+    "Description": null,
+    "Dimensions": "H: 5 3/8 x W: 2 3/4 x D: 1 5/16 in. (13.7 x 7 x 3.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1499705,
+            "GeographyTerm": "Suriyah",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "038 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 38.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57975,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2401_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2401_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2401_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2401_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2401_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 57972,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2401_3QtrLft_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2401_3QtrLft_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2401_3QtrLft_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2401_3QtrLft_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2401_3QtrLft_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 57976,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2401_Lft_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2401_Lft_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2401_Lft_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2401_Lft_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2401_Lft_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 57974,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2401_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2401_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2401_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2401_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2401_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 57977,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2401_Rt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2401_Rt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2401_Rt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2401_Rt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2401_Rt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 57973,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2401_3QtrRt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2401_3QtrRt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2401_3QtrRt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2401_3QtrRt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2401_3QtrRt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 6852,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2401_Fnt_SL_T83.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2401_Fnt_SL_T83.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2401_Fnt_SL_T83.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2401_Fnt_SL_T83.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2401_Fnt_SL_T83.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3734,
+        "LocationString": null
+    },
+    "ObjectID": 28886,
+    "ObjectName": "figurines; votive images",
+    "ObjectNumber": "48.2401",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Sale, Sotheby 's, November 20th, 21st, 1975, no. 42; Walters Art Museum, 1975, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.237",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28886",
+    "SortNumber": "    48  2401                                            ",
+    "Style": null,
+    "Title": "Bearded Figurine with Necklace"
+}

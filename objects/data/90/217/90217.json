@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "'Abd al-Rahim 'Ambarin Qalam",
+            "CreatorID": 7688,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Nizami Ganjavi (Azerbaijani, died 605 AH/AD 1209)",
+            "CreatorID": 7689,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1595,
+    "DateEndYear": 1595,
+    "DateText": "1595",
+    "Description": null,
+    "Dimensions": "H: 13 3/8 x W: 8 7/16 in. (34 x 21.5 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Pakistan\\provinces\\Punjab\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1496883,
+            "GeographyTerm": "Lahore",
+            "Latitude": "31 34",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.566,
+            "Longitude": "074 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.366
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Pakistan\\provinces\\Punjab\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1496883,
+            "GeographyTerm": "Lahore",
+            "Latitude": "31 34",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.566,
+            "Longitude": "074 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42821,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.613.4b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.613.4b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.613.4b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.613.4b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.613.4b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Persian; Book; Codex; Illustration; Manuscript; Iran; Pakistan; Literature -- Poetry",
+    "Medium": "ink and pigments on light brown paper with later outer margins in various colors",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90217,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.613.4B",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90217",
+    "SortNumber": "W        613    4B                                      ",
+    "Style": null,
+    "Title": "Leaf from Five Poems (Quintet)"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "European",
+            "CreatorID": 6985,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": 1301,
+    "DateEndYear": 1400,
+    "DateText": "14th century",
+    "Description": "This piece is undecorated.  The grip would have been padded.",
+    "Dimensions": "40 5/8 in. (103.19 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible",
+            "ExhibBeginDate": "2002-10-27",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "October 27, 2002-December 29, 2002",
+            "ExhibEndDate": "2002-12-29",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2339,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible. The Walters Art Museum, Baltimore; Academy Art Museum, Easton; Princeton University Art Museum, Princeton; The Mitchell Gallery, Annapolis; Williams College Museum of Art, Williamstown. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1419487,
+            "GeographyTerm": "Europe",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5391,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_51.481_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_51.481_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_51.481_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_51.481_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_51.481_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "steel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Arms and Armor",
+        "LocationID": 4504,
+        "LocationString": null
+    },
+    "ObjectID": 22630,
+    "ObjectName": "swords",
+    "ObjectNumber": "51.481",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Griffith Keasbey, New York [date of acquisition unknown], by purchase;  Sale, American Art Association, New York, December 5, 1924, no. 76;  Henry Walters, Baltimore, 1924, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.957",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 20530,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/22630",
+    "SortNumber": "    51   481                                            ",
+    "Style": null,
+    "Title": "Sword"
+}

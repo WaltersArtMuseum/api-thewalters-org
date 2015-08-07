@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1916",
+    "Culture": null,
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "15th century",
+    "Description": null,
+    "Dimensions": "H without frame: 8 3/4 x W: 8 9/16 in. (22.3 x 21.7 cm)",
+    "Dynasty": "Ming [Ming] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "D\u00e9j\u00e0 Vu? Recurrence",
+            "ExhibBeginDate": "2007-09-19",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "September 19, 2007-January 20, 2008",
+            "ExhibEndDate": "2008-01-20",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2816,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "D\u00e9j\u00e0 Vu? Recurrence. The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23767,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.71_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.71_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.71_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.71_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.71_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Sticker] 1400-4; [Sticker] With price",
+    "Keywords": null,
+    "Medium": "ink and traces of colors on silk mounted on paper with frame",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2456,
+        "LocationString": null
+    },
+    "ObjectID": 7447,
+    "ObjectName": "albums; folio (leaves); paintings",
+    "ObjectNumber": "35.71",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dr. John C. Ferguson [date and mode of acquisition unknown]; John C. Ferguson Sale, American Art Association, New York, April 7, 1916, no. 235; Henry Walters, Baltimore, April 7, 1916, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7447",
+    "SortNumber": "    35    71                                            ",
+    "Style": null,
+    "Title": "Under the Pine"
+}

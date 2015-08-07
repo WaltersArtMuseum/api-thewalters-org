@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1875,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "5 1/8 x 7 11/16 in. (13 x 19.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "Public Property",
+            "ExhibBeginDate": "2012-06-17",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "June 17, 2012 - August 19, 2012",
+            "ExhibEndDate": "2012-08-19",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3191,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Public Property. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 389,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2181_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2181_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2181_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2181_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2181_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "animal; animal",
+    "Medium": "graphite on cream, moderately thick, slightly textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2234,
+        "LocationString": null
+    },
+    "ObjectID": 23944,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2181",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Collection Vildieu-Barye; Fabius Fr\u00e8res, Paris; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:36.423",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23944",
+    "SortNumber": "    37  2181                                            ",
+    "Style": null,
+    "Title": "Sketch of a Cow"
+}

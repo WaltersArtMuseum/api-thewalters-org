@@ -1,0 +1,94 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Terumitsu (Japanese, 19th century (?))",
+            "CreatorID": 16447,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1825,
+    "DateText": "late 18th-early 19th century",
+    "Description": "The background of this tsuba is decorated in a beaded pattern known as fish eggs (\"nanako-ji\"). At the bottom, a carp is depicted among aquatic plants. The carp is an auspicious sign. On the back are two tree stumps and grasses.",
+    "Dimensions": "H: 2 7/8 x W: 2 5/8 x D: 1/8 in. (7.3 x 6.7 x 0.31 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12329,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.188_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.188_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.188_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.188_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.188_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12328,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.188_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.188_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.188_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.188_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.188_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12330,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.188_Mrk_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.188_Mrk_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.188_Mrk_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.188_Mrk_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.188_Mrk_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u6771\u96f2\u5802\u3000\u82f1\u5149; [Translation] Tound\u00f4/Terumitsu",
+    "Keywords": "animal; carp; fish; plant; annularia; tree",
+    "Medium": "shakudo, gold, copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4105,
+        "LocationString": null
+    },
+    "ObjectID": 9923,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.188",
+    "OnView": 0,
+    "Period": "mid Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9923",
+    "SortNumber": "    51   188                                            ",
+    "Style": "Omori School",
+    "Title": "Tsuba with a Carp"
+}

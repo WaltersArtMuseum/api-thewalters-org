@@ -1,0 +1,131 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1723,
+    "DateEndYear": 1735,
+    "DateText": "1723-1735",
+    "Description": "This is an example of \"famille rose\" porcelain.",
+    "Dimensions": "H: 13 3/8 x Diam: 8 15/16 in. (33.97 x 22.7 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        },
+        {
+            "ExhTitle": "Imperial Chinese Treasures from the Walters Collection",
+            "ExhibBeginDate": null,
+            "ExhibBeginYear": 0,
+            "ExhibDisplayDate": null,
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 3172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Imperial Chinese Treasures from the Walters Collection. 0."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38602,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2217_VwA_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2217_VwA_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2217_VwA_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2217_VwA_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2217_VwA_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 38603,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2217_VwB_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2217_VwB_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2217_VwB_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2217_VwB_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2217_VwB_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 38604,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2217_VwC_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2217_VwC_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2217_VwC_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2217_VwC_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2217_VwC_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 10040,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.2217_Fnt_TR_T90III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.2217_Fnt_TR_T90III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.2217_Fnt_TR_T90III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.2217_Fnt_TR_T90III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.2217_Fnt_TR_T90III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "reign mark of Yongzheng [Yung-Cheng] (1722-1735)",
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1656,
+        "LocationString": null
+    },
+    "ObjectID": 28214,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2217",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.043",
+    "Reign": "Yongzheng [Yung-Cheng] (1722-1735)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28214",
+    "SortNumber": "    49  2217                                            ",
+    "Style": "famille rose",
+    "Title": "Vase with Pomegranates, Peaches, and Longans"
+}

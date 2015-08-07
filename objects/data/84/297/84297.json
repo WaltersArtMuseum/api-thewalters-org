@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dioscorides Pedanius, of Anazarbos",
+            "CreatorID": 7876,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1952",
+    "Culture": "Islamic",
+    "DateBeginYear": 1201,
+    "DateEndYear": 1300,
+    "DateText": "7th century AH/AD 13th century",
+    "Description": null,
+    "Dimensions": "H: 11 5/8 x W: 7 7/8 in. (29.5 x 20 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42558,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.750B.B_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.750B.B_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.750B.B_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.750B.B_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.750B.B_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Illustration; Manuscript; Iran; Science -- Medicine",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 84297,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.750B.B",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Eustache de Lorey, France [date and mode of acquisition unknown]; Walters Art Museum, 1952, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84297",
+    "SortNumber": "W        750B    B                                      ",
+    "Style": null,
+    "Title": "One of Four Leaves from the Arabic Version of Dioscorides' De materia medica"
+}

@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1540,
+    "DateEndYear": 1540,
+    "DateText": "1540",
+    "Description": "The lusterer--who may not have been the painter--used strokes of metallic oxides to add complexity to the scene on this plate. Details such as the rocks, sun, and parts of the landscape are painted only in luster, altering the original composition. This lusterer was proud of his work; he signed the back of the plate with his initial \"N.\"",
+    "Dimensions": "1 7/16 x 10 in. (3.6 x 25.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437422,
+            "GeographyTerm": "Gubbio",
+            "Latitude": "43 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.35,
+            "Longitude": "012 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6490,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.1486_Fnt_TR_T05III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.1486_Fnt_TR_T05III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.1486_Fnt_TR_T05III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.1486_Fnt_TR_T05III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.1486_Fnt_TR_T05III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46431,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1486_Bot_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1486_Bot_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1486_Bot_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1486_Bot_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1486_Bot_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "On the back, in the center, in ruby lustre, surmounting a floral motif: [Date] 1540 ; Surmounting the date, in ruby lustre, a small uppercase letter: [Signature] N",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica) and luster decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4798,
+        "LocationString": null
+    },
+    "ObjectID": 39639,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.1486",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Pannwitz [date and mode of acquisition unknown] [no. 253]; De Somz\u00e9e Collection, Brussels [date and mode of acquisition unknown] (?); Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39639",
+    "SortNumber": "    48  1486                                            ",
+    "Style": null,
+    "Title": "Plate with Apollo and Daphne"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1987",
+    "Culture": "Byzantine",
+    "DateBeginYear": 301,
+    "DateEndYear": 400,
+    "DateText": "4th century",
+    "Description": "This terracotta lamp displays the superimposed Greek letters Chi (X) and Rho (P), the monogram of Christ. These initials form a symbol that serves as an invocation, or appeal, for his divine protection. People used clay oil lamps to light their homes and, when decorated with Christian symbols, to refer to Christ as the symbolic light of the world.",
+    "Dimensions": "H: 1 5/16 x W: 4 3/16 x D: 2 9/16 in. (3.3 x 10.6 x 6.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544690,
+            "GeographyTerm": "North Africa",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30436,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2569_SideA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2569_SideA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2569_SideA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2569_SideA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2569_SideA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 30435,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2569_3Qtr_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2569_3Qtr_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2569_3Qtr_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2569_3Qtr_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2569_3Qtr_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3806,
+        "LocationString": null
+    },
+    "ObjectID": 32928,
+    "ObjectName": "lamps",
+    "ObjectNumber": "48.2569",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "Pete N. Nickolas (\"Helios Old World Antiquities\"), Westminster, Maryland, by purchase; Walters Art Museum, 1987, by purchase.",
+    "PublicAccessDate": "2010-12-17T09:35:54.373",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32928",
+    "SortNumber": "    48  2569                                            ",
+    "Style": null,
+    "Title": "Chrismon Lamp"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -225,
+    "DateEndYear": -200,
+    "DateText": "225-200 BC",
+    "Description": "This vase is a superb example from a rare group of ornate vessels. Their undecorated backs suggest they were intended for display within a niche. The Eros figures carry the attributes of Dionysus, including torches, a pail, and a lyre. The use of color, the tall, narrow proportions, and the elongated finial with floral tip on the lid are characteristic of South Italian work.",
+    "Dimensions": "23 1/4 x 9 13/16 in. (59 x 25 cm); \r\n6 11/16 in. (17 cm) (max. diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Puglia\\provinces\\Taranto\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1441043,
+            "GeographyTerm": "Taranto",
+            "Latitude": "40 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.466,
+            "Longitude": "017 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 17.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8393,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.117_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.117_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.117_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.117_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.117_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8391,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.117_DetA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.117_DetA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.117_DetA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.117_DetA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.117_DetA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8392,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.117_DetB_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.117_DetB_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.117_DetB_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.117_DetB_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.117_DetB_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3675,
+        "LocationString": null
+    },
+    "ObjectID": 15596,
+    "ObjectName": "amphorae",
+    "ObjectNumber": "48.117",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [cat. no. 246]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-09-25T17:13:39.907",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15596",
+    "SortNumber": "    48   117                                            ",
+    "Style": null,
+    "Title": "Erotes & Acanthus"
+}

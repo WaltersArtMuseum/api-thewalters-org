@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "13th century AH/AD 1825-1875",
+    "Description": "This leaf, Walters manuscript W.705, is the back of a portrait of the emperor Jahangir.",
+    "Dimensions": "H: 8 1/16 x W: 6 1/2 in. (20.5 x 16.5 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34246,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.705.B_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.705.B_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.705.B_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.705.B_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.705.B_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Illustration; Miniature; Painting; India",
+    "Medium": "ink and pigments on brown paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83805,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.705.B",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83805",
+    "SortNumber": "W        705B                                           ",
+    "Style": null,
+    "Title": "Portrait of the Emperor Jahangir (Back)"
+}

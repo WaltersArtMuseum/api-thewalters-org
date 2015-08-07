@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nepalese",
+            "CreatorID": 15526,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Yoshie Shinomoto, 1992",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "The figure on the  the left is possibly Tara, in the center is Avalokitesvars, and on the right is Vajrapani.",
+    "Dimensions": "H: 13 9/16 x W: 7 1/16 in. (34.5 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1496397,
+            "GeographyTerm": "Nepal",
+            "Latitude": "28 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 28.0,
+            "Longitude": "084 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 84.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57406,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.194_Fnt0_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.194_Fnt0_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.194_Fnt0_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.194_Fnt0_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.194_Fnt0_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 57407,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.194_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.194_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.194_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.194_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.194_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "opaque watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2426,
+        "LocationString": null
+    },
+    "ObjectID": 38422,
+    "ObjectName": "watercolors; illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "35.194",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Yoshie Shinomoto, Monkton, Maryland [date and mode of acquisition unknown]; Walters Art Museum, 1992, by gift.",
+    "PublicAccessDate": "2014-02-27T01:00:01.493",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38422",
+    "SortNumber": "    35   194                                            ",
+    "Style": null,
+    "Title": "Manuscript Leaf with Three Buddhist Dieties"
+}

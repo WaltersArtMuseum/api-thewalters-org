@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -300,
+    "DateEndYear": -201,
+    "DateText": "3rd century BC",
+    "Description": "This small plaque would have served to attach a handle to a pail.",
+    "Dimensions": "H: 2 5/8 in. (6.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Designed for Use: Ancient Industrial Arts",
+            "ExhibBeginDate": "1983-07-26",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "July 26, 1983-September 11, 1983",
+            "ExhibEndDate": "1983-09-11",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2189,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Designed for Use: Ancient Industrial Arts. The Walters Art Gallery, Baltimore. 1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58544,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.916_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.916_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.916_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.916_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.916_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 436,
+        "LocationString": null
+    },
+    "ObjectID": 39852,
+    "ObjectName": "handles; plaques",
+    "ObjectNumber": "54.916",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39852",
+    "SortNumber": "    54   916                                            ",
+    "Style": "Hellenistic",
+    "Title": "Head of Athena Wearing Corinthian Helmet"
+}

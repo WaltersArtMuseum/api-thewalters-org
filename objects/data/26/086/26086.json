@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hendrik Cornelisz. van Vliet (Dutch, ca. 1611-1675)",
+            "CreatorID": 4454,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": "This much darkened half-length portrait shows a young woman looking outwards with a blank background. The painting was cut down from its original size.",
+    "Dimensions": "H: 30 1/2 x W: 24 1/4 in. (77.5 x 61.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46799,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.373_Fnt_BW_H51.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.373_Fnt_BW_H51.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.373_Fnt_BW_H51.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.373_Fnt_BW_H51.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.373_Fnt_BW_H51.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] lower right: Aetat-35 H. Van de----",
+    "Keywords": "portrait; woman; female",
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3346,
+        "LocationString": null
+    },
+    "ObjectID": 26086,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.373",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 12012,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26086",
+    "SortNumber": "    37   373                                            ",
+    "Style": null,
+    "Title": "Portrait of a Young Woman"
+}

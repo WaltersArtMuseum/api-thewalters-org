@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ortolano (Italian, ca. 1500-after 1527)",
+            "CreatorID": 2395,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1512,
+    "DateEndYear": 1527,
+    "DateText": "1512-1527",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 245, p. 368.",
+    "Dimensions": "Painted surface H: 13 9/16 x W: 18 13/16 x D excluding cradle: 3/8 in. (34.5 x 47.8 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Nativity in Medieval and Renaissance Manuscripts",
+            "ExhibBeginDate": "1987-11-17",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "November 17, 1987-January 24, 1988",
+            "ExhibEndDate": "1988-01-24",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2387,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Nativity in Medieval and Renaissance Manuscripts. The Walters Art Gallery, Baltimore. 1987-1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Ferrara\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439576,
+            "GeographyTerm": "Ferrara",
+            "Latitude": "44 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.833,
+            "Longitude": "011 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31700,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.445_Fnt_NG_3107.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.445_Fnt_NG_3107.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.445_Fnt_NG_3107.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.445_Fnt_NG_3107.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.445_Fnt_NG_3107.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3256,
+        "LocationString": null
+    },
+    "ObjectID": 2482,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.445",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Marquess Filippo Marignoli, Rome and Spoleto, until 1898 [mode of acquisition unknown]; Marquess Francesco Marignoli, 1898 [mode of acquisition unknown]; Don Marcello Massarenti Collection, Rome, 1899 [mode of acquisition unknown] [1900 catalogue supplement: no. 29, as manner of Garofalo]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-04-01T11:04:12.873",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2482",
+    "SortNumber": "    37   445                                            ",
+    "Style": null,
+    "Title": "The Nativity"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 12 3/8 x W: 10 1/4 x D: 13/16 in. (31.4 x 26.1 x 2.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Millennium of Christianity: Russian Art from The Walters Art Gallery",
+            "ExhibBeginDate": "1988-12-15",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "December 15, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 563,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Millennium of Christianity: Russian Art from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4243,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.568A_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.568A_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.568A_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.568A_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.568A_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on parchment on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 19614,
+    "ObjectName": "icons; triptychs",
+    "ObjectNumber": "37.568A",
+    "OnView": 0,
+    "Period": "early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris [date of acquisition unknown], by purchase; Henry Walters, Baltimore, 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19614",
+    "SortNumber": "    37   568A                                           ",
+    "Style": null,
+    "Title": "Virgin Mary"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Roman",
+    "DateBeginYear": 1,
+    "DateEndYear": 399,
+    "DateText": "1st-4th century",
+    "Description": null,
+    "Dimensions": "H: 6 7/8 in. (17.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54663,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.2354_3Qtr_BW_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.2354_3Qtr_BW_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.2354_3Qtr_BW_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.2354_3Qtr_BW_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.2354_3Qtr_BW_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 442,
+        "LocationString": null
+    },
+    "ObjectID": 31594,
+    "ObjectName": "hanging lamps",
+    "ObjectNumber": "54.2354",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Joseph Brummer, Paris and New York [date of acquisition unknown], by purchase; Sale, Parke-Bernet, New York, May 11, 1949, no. 294; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31594",
+    "SortNumber": "    54  2354                                            ",
+    "Style": null,
+    "Title": "Lion-Shaped Lamp"
+}

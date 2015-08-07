@@ -1,0 +1,95 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Hilda Holme, 1948",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 199,
+    "DateText": "1st-2nd century",
+    "Description": null,
+    "Dimensions": "H: 3 5/16 in. (8.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking",
+            "ExhibBeginDate": "2007-12-01",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "December 1, 2007- November 9, 2008",
+            "ExhibEndDate": "2008-11-09",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2003,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking. The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434986,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 58",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.966,
+            "Longitude": "012 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62566,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_47.392_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_47.392_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_47.392_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_47.392_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_47.392_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1722,
+        "LocationString": null
+    },
+    "ObjectID": 27486,
+    "ObjectName": "bottles",
+    "ObjectNumber": "47.392",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Hilda Holme, [date of acquisition unknown] by purchase [at Troy]; Walters Art Museum, 1948, by gift.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27486",
+    "SortNumber": "    47   392                                            ",
+    "Style": null,
+    "Title": "Bottle"
+}

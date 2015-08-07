@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Totoki Hosho (Japanese, active early 19th century)",
+            "CreatorID": 17603,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": "This sake bottle is incised and stenciled with designs of chrysanthemum vinescrolls.",
+    "Dimensions": "H: 11 5/8 in. (29.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8549,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1967_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1967_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1967_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1967_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1967_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8548,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1967_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1967_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1967_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1967_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1967_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "Handwritten \"24.00\"",
+    "Keywords": null,
+    "Medium": "stoneware with white slip and copper, iron, cobalt and clear glazes",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2061,
+        "LocationString": null
+    },
+    "ObjectID": 8165,
+    "ObjectName": "bottles",
+    "ObjectNumber": "49.1967",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8165",
+    "SortNumber": "    49  1967                                            ",
+    "Style": "Agano ware",
+    "Title": "Sake Bottle"
+}

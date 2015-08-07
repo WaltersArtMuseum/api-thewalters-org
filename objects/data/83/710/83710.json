@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "'Abd Allah ibn Shaykh Murshid al-Katib",
+            "CreatorID": 15725,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Sa'di (died 691 AH/AD 1292)",
+            "CreatorID": 15724,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "This folio from Walters manuscript W.618 is the right side of a double-page illuminated frontispiece introducing the text of the Gulistan.",
+    "Dimensions": "H: 10 7/16 x W: 6 1/2 in. (26.5 x 16.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34307,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.618.3b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.618.3b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.618.3b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.618.3b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.618.3b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Binding; Iran; Literature -- Poetry; Literature -- Prose",
+    "Medium": "ink and pigments on laid paper with gold-sprinkled margins",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83710,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.618.3B",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Private collection, Tehran [date and mode of acquisition unknown] [list of books, by an anonymous owner, which were in his house in Tehran on fol. 1b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83710",
+    "SortNumber": "W        618    3B                                      ",
+    "Style": null,
+    "Title": "Double-page Illuminated Frontispiece"
+}

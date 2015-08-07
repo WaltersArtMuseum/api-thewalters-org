@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -600,
+    "DateEndYear": -401,
+    "DateText": "6th-5th century BC",
+    "Description": null,
+    "Dimensions": "7 5/8 x 7 1/8 in. (19.4 x 18.1 cm)",
+    "Dynasty": "Eastern Zhou [Chou] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7327,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.471_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.471_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.471_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.471_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.471_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35539,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.471_PcABFnt_NG_3364.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.471_PcABFnt_NG_3364.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.471_PcABFnt_NG_3364.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.471_PcABFnt_NG_3364.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.471_PcABFnt_NG_3364.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4152,
+        "LocationString": null
+    },
+    "ObjectID": 26915,
+    "ObjectName": "bowls",
+    "ObjectNumber": "54.471",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.527",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26915",
+    "SortNumber": "    54   471                                            ",
+    "Style": null,
+    "Title": "Covered Food Bowl"
+}

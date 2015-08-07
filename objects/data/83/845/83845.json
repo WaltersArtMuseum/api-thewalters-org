@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Muhammad Mirak",
+            "CreatorID": 19306,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1776,
+    "DateEndYear": 1776,
+    "DateText": "1190 AH/AD 1776",
+    "Description": "On this folio from Walters manuscript W.647, Joseph, running after Zulaykha, grabs and tears her robe.",
+    "Dimensions": "H: 6 5/16 x W: 4 1/8 in. (16 x 10.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1506306,
+            "GeographyTerm": "Jammu-Kashmir",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "075 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 75.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1506306,
+            "GeographyTerm": "Jammu-Kashmir",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "075 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 75.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34199,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.647.103a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.647.103a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.647.103a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.647.103a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.647.103a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Codex; Colophon; Illumination; Illustration; Manuscript; India; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper, probably Kashmiri",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83845,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.647.103A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": "Navab Amir Khan",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83845",
+    "SortNumber": "W        647  103A                                      ",
+    "Style": null,
+    "Title": "Joseph, Running After Zulaykha, Grabs and Tears Her Robe"
+}

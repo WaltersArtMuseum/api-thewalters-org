@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1820,
+    "DateEndYear": 1850,
+    "DateText": "1820-1850",
+    "Description": "This is an example of blue and white porcelain.",
+    "Dimensions": "H: 3 3/8 in. (8.6 cm)",
+    "Dynasty": "Qing Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5062,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1082_SideB_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1082_SideB_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1082_SideB_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1082_SideB_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1082_SideB_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "mark: made for the studio of quiet stillness",
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue and overglaze coral red (oxidized to gray) enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1714,
+        "LocationString": null
+    },
+    "ObjectID": 10767,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1082",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. or Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2008-09-25T17:09:34.513",
+    "Reign": "Daoguang (1820-1850)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10767",
+    "SortNumber": "    49  1082                                            ",
+    "Style": null,
+    "Title": "Spitoon with Dragon and Cloud Design"
+}

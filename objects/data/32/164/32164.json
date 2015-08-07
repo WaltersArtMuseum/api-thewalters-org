@@ -1,0 +1,92 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "early 11th century AH/AD 17th century",
+    "Description": "This manuscript leaf, W.688, contains an illustration of a group of youths before a king and his courtiers that was executed in Iran during the early 11th century AH/AD 17th. Stylistically it relates to manuscript production in Shiraz in the 10th century AH/AD 16th and early 11th century AH/AD 17th. The painting is framed by illuminated borders in tones of gold. The back of the leaf has additional illumination and no text.",
+    "Dimensions": "H: 15 3/8 x W: 9 7/16 in. (39 x 24 cm); Image H: 10 5/16 x W: 6 1/8 in. (26.2 x 15.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Treasures in Heaven: Armenian Manuscript Illumination",
+            "ExhibBeginDate": "1988-02-02",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "February 2, 1988-April 17, 1988",
+            "ExhibEndDate": "1988-04-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2707,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Treasures in Heaven: Armenian Manuscript Illumination. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38779,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.688.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.688.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.688.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.688.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.688.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Illumination; Illustration; Miniature; Painting; Iran",
+    "Medium": "ink and pigments on thin paper with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6441,
+        "LocationString": null
+    },
+    "ObjectID": 32164,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.688",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84231,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84232,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/32164",
+    "SortNumber": "W        688                                            ",
+    "Style": null,
+    "Title": "Single Leaf of Youths Before a Ruler at his Court"
+}

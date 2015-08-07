@@ -1,0 +1,117 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": null,
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": null,
+    "Description": null,
+    "Dimensions": "H: 1 5/16 x W: 1 1/16 x D: 1/8 in. (3.32 x 2.71 x 0.27 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 22134,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.495_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.495_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.495_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.495_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.495_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22132,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.495_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.495_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.495_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.495_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.495_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22135,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.495_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.495_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.495_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.495_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.495_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22136,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.495_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.495_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.495_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.495_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.495_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22137,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.495_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.495_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.495_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.495_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.495_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 22133,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.495_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.495_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.495_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.495_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.495_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1906,
+        "LocationString": null
+    },
+    "ObjectID": 28309,
+    "ObjectName": "relief",
+    "ObjectNumber": "48.495",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "COLLS:MACGREGOR, 1922, by purchase; Henry Walters, Baltimore, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28309",
+    "SortNumber": "    48   495                                            ",
+    "Style": null,
+    "Title": "Head"
+}

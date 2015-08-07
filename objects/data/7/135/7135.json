@@ -1,0 +1,154 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1909",
+    "Culture": null,
+    "DateBeginYear": -460,
+    "DateEndYear": -360,
+    "DateText": "ca. 410 BC",
+    "Description": "This miniature \"oinochoe,\" known more particularly as a \"chous\" (\"choes\" in the plural), dates to the last decade of the 5th century BC. As is most often the fashion with small \"choes,\" this example features scenes of children, their accoutrements, and their play. This \"chous\" depicts two boys. One rides on a goat; the other stands nearby holding out a bunch of grapes to his companion. Both boys are crowned, and the standing boy, who also holds a toy cart on one shoulder, is adorned with protective amulets.",
+    "Dimensions": "3 9/16 x 2 3/4 in. (9.1 x 7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8511,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47917,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.95_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 47914,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.95_3QtrLft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.95_3QtrLft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.95_3QtrLft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.95_3QtrLft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.95_3QtrLft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 47918,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.95_Lft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.95_Lft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.95_Lft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.95_Lft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.95_Lft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 5039,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.95_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.95_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.95_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.95_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.95_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 47916,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.95_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.95_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.95_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.95_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.95_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 47919,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.95_Rt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.95_Rt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.95_Rt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.95_Rt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.95_Rt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 47915,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.95_3QtrRt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.95_3QtrRt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.95_3QtrRt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.95_3QtrRt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.95_3QtrRt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3662,
+        "LocationString": null
+    },
+    "ObjectID": 7135,
+    "ObjectName": "oenochoe",
+    "ObjectNumber": "48.95",
+    "OnView": 1,
+    "Period": "Classical",
+    "Provenance": "Seligmann (?); Henry Walters, Baltimore, 1909, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.893",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7135",
+    "SortNumber": "    48    95                                            ",
+    "Style": "Attic",
+    "Title": "Wine Jug with Boy Riding Goat"
+}

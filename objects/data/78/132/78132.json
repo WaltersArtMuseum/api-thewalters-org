@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1468,
+    "DateEndYear": 1492,
+    "DateText": "ca. 1480",
+    "Description": null,
+    "Dimensions": "folio: 12 1/8 x 8 9/16 in. (30.8 x 21.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11707,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.338_Clsd_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "embossed brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78132,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.338.binding",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Ferdinand of Aragon (?);  Battista Pandolfini (banker to Ferdinand of Aragon), 1481, by exchange (pledge for loan to finance the war against the Turks) [item 125 of the pledge is the first part of a Moralia, not identified by DeMarinis in libraries of Spain, Vienna, or Paris (See T. Demarinis II, 187-92 for text of 1481 pledge] (?);  L. S. Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore [date of acquisition unknown], by purchase [invoice no. 35784];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78132",
+    "SortNumber": "W        338binding                                     ",
+    "Style": null,
+    "Title": "Binding for Moralia in Job"
+}

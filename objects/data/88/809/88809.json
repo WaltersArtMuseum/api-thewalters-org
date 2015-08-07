@@ -1,0 +1,124 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Amir Khusraw Dihlavi (died ca. 729 AH/AD 1328)",
+            "CreatorID": 7404,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Husayn Naqqash",
+            "CreatorID": 18416,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Muhammad Husayn Zarrin Qalam",
+            "CreatorID": 7405,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1597,
+    "DateEndYear": 1598,
+    "DateText": "1597-1598",
+    "Description": null,
+    "Dimensions": "H: 11 1/4 x W: 7 1/2 in. (28.5 x 19 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Pakistan\\provinces\\Punjab\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1496883,
+            "GeographyTerm": "Lahore",
+            "Latitude": "31 34",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.566,
+            "Longitude": "074 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.366
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Pakistan\\provinces\\Punjab\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1496883,
+            "GeographyTerm": "Lahore",
+            "Latitude": "31 34",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.566,
+            "Longitude": "074 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.366
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Pakistan\\provinces\\Punjab\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1496883,
+            "GeographyTerm": "Lahore",
+            "Latitude": "31 34",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.566,
+            "Longitude": "074 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40473,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.624.36b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.624.36b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.624.36b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.624.36b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.624.36b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Persian; Book; Calligraphy; Codex; Colophon; Illumination; Illustration; Manuscript; Medallion; Painting; Original Binding; Binding; India; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 88809,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.624.36B",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Muhammad Zaki, 1241 AH/AD 1825-1826 [mode of acquisition unknown] [oval seal, fols. 1a, 211a]; 'abd al-raji Muhammad Shafi', 1247 AH/AD 1831-1832 [mode of acquisition unknown] [rectangular seal fols. 1a, 211a]; Muhammad 'Ali [date and mode of acquisition unknown] [large oval seal with no date on fol. 211a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 19379,
+            "RelationType": "See Also, Double Leaf"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/88809",
+    "SortNumber": "W        624   36B                                      ",
+    "Style": null,
+    "Title": "Leaf from Five Poems (Quintet)"
+}

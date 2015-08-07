@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Zayn al-Din Isma'il ibn Hasan al-Jurjani (died 531 AH/AD 1136)",
+            "CreatorID": 19261,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Muhammad ibn Ma'ruf ibn Mahammad al-Zarir (?) al-Kazaruni Shirani)",
+            "CreatorID": 19262,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1484,
+    "DateEndYear": 1484,
+    "DateText": "889 AH/AD 1484",
+    "Description": "This folio from Walters manuscript W.595 contains a colophon.",
+    "Dimensions": "H: 12 x W: 7 5/16 in. (30.5 x 18.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32999,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.595.705a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.595.705a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.595.705a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.595.705a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.595.705a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration]  tam\u0101m shud qar\u0101baz\u012bn az Kit\u0101b-i Zakh\u012brah /1/ bi-'awn All\u0101h wa-husn tawf\u012bqih wa-faragha min tahr\u012brih waqt al-duh\u00e1 yawm al-ithnayn /2/ th\u0101n\u012b wa-'ishr\u016bn shahr Rab\u012b' al-th\u0101n\u012b sanat tis' wa-tham\u0101n\u012bn wa-tham\u0101nmi<'>ah /3/ al-hil\u0101l\u012byah 'al\u00e1 yad al-faq\u012br al-da'\u012bf al-muht\u0101j il\u00e1 /4/ rahmat All\u0101h Malik (?) al-Samad Muhammad bn Mahr\u016bf bn Muhammad al-Zar\u012br (?)/5/ al-K\u0101zar\u016bn\u012b al-mays\u016bm [sic] bi-Sh\u012br\u0101n\u012b aslaha All\u0101h ahw\u0101lahu /6/ rahmat-i All\u0101h ta'\u0101l\u00e1 h\u0101sil b\u0101z kih /7/ k\u0101tib r\u0101 bi-f\u0101tihat al-Kit\u0101b /8/ va s\u016brat al-Ikhl\u0101s /9/ va da'\u0101\u2026 (?) /10/ y\u0101z \u0101varad /11/ al-salam[?] /12/ m (= tamma) /13/",
+    "Keywords": "Islamic; Persian; Book; Codex; Colophon; Illumination; Manuscript; Contemporary Binding; Iran; Science -- Medicine",
+    "Medium": "ink and pigments on creamy, thin paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77632,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.595.705A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "'Ali [date and mode of acquisition unknown] [ownership statement (min kutub) and seal on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77632",
+    "SortNumber": "W        595  705A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

@@ -1,0 +1,125 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Val\u00e9ry (French, 1871 - 1945)",
+            "CreatorID": 33356,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Paul Bonet (French, 1889 - 1971)",
+            "CreatorID": 33488,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. Robert Levi, 1977",
+    "Culture": null,
+    "DateBeginYear": 1945,
+    "DateEndYear": 1945,
+    "DateText": "1945",
+    "Description": "This book was published as a tribute to Bonet by his literary colleagues in 1945. It contains essays on Bonet's career and work, photographs, and original binding patterns on tracing paper. One of the great masters of French bookbinding, Paul Bonet bound this book in one of the \"sunburst\" patterns for which he became famous in the 1930s and 1940s. These patterns are built up from many small, gold-tooled lines, meticulously planned and often resulting in an optical illusion of spatial depth.",
+    "Dimensions": "H: 13 \u00d7 W: 10 3/8 in. (33.02 \u00d7 26.35 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bookbindings from the Gilded Age",
+            "ExhibBeginDate": "2013-10-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 26, 2013-May 18, 2014",
+            "ExhibEndDate": "2014-05-18",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3254,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Bookbindings from the Gilded Age. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52734,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1340_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1340_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1340_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1340_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1340_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52733,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1340_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1340_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1340_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1340_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1340_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52732,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1340_LowerCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1340_LowerCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1340_LowerCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1340_LowerCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1340_LowerCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper bound between boards covered in goatskin, calfskin, and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5391,
+        "LocationString": null
+    },
+    "ObjectID": 90558,
+    "ObjectName": "books; rare books",
+    "ObjectNumber": "92.1340",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Owned by Mrs. Robert Levi, Maryland; given to Walters Art Museum, 1977.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90558",
+    "SortNumber": "    92  1340                                            ",
+    "Style": null,
+    "Title": "Paul Bonet"
+}

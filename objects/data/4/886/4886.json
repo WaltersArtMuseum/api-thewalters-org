@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1910-1915",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": 100,
+    "DateText": "332 BC-AD 100",
+    "Description": null,
+    "Dimensions": "H: 3 11/16 in. (9.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Misr Bahri\\governorates\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544253,
+            "GeographyTerm": "Al Gharbiyah",
+            "Latitude": "30 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.833,
+            "Longitude": "031 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58514,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.726_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.726_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.726_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.726_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.726_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 434,
+        "LocationString": null
+    },
+    "ObjectID": 4886,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.726",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1910-1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4886",
+    "SortNumber": "    54   726                                            ",
+    "Style": null,
+    "Title": "Athlete"
+}

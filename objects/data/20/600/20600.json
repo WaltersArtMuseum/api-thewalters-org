@@ -1,0 +1,82 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hokusai Katsushika (Japanese, 1760-1849)",
+            "CreatorID": 7594,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Helen R. Cleland, 1964",
+    "Culture": null,
+    "DateBeginYear": 1819,
+    "DateEndYear": 1843,
+    "DateText": "ca. 1831-1832",
+    "Description": "This print depicts two men crossing the bridge.",
+    "Dimensions": "H: 10 3/16 x W: 14 3/4 in. (25.9 x 37.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16376,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.1_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.1_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.1_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.1_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.1_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 16377,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.1_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.1_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.1_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.1_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.1_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Zen Hokusai Iitsu hitsu",
+    "Keywords": "bridge",
+    "Medium": "pigments on mulberry paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 20600,
+    "ObjectName": "color woodcuts; reproductions",
+    "ObjectNumber": "95.1",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mrs. Helen R. Cleland [date and mode of acquisition unknown]; Walters Art Museum, 1964, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20600",
+    "SortNumber": "    95     1                                            ",
+    "Style": null,
+    "Title": "Reproduction: Shokoku meikyo kiran"
+}

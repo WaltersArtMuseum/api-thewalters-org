@@ -1,0 +1,107 @@
+{
+    "Classification": "Enamels",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "French",
+    "DateBeginYear": 1301,
+    "DateEndYear": 1325,
+    "DateText": "early 14th century",
+    "Description": "The base of this pricket candlestick bears the combined arms of Bernard VIII (d. 1339), count of Comminges, and those of his second wife, Marguerite de Turenne, alternating with the fleur de lys, the heraldic emblem of the royal house of France. Although such personal items were often commissioned as gifts to commemorate special events, coats of arms did not necessarily refer to a specific patron but were part of workshops' decorative repertoire.",
+    "Dimensions": "H: 7 1/16 x W: 3 11/16 x D: 3 15/16 in. (17.9 x 9.4 x 10 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Russian Enamels",
+            "ExhibBeginDate": "1996-11-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "November 17, 1996-February 23, 1997",
+            "ExhibEndDate": "1997-02-23",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 956,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Enamels. The Walters Art Gallery, Baltimore. 1996-1997."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Limousin\\departments\\Haute-Vienne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423931,
+            "GeographyTerm": "Limoges",
+            "Latitude": "45 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.833,
+            "Longitude": "001 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6751,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_44.596_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_44.596_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_44.596_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_44.596_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_44.596_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37271,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_44.596_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_44.596_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_44.596_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_44.596_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_44.596_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "champlev\u00e9 enamel on copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: The Knight's Hall",
+        "LocationID": 3950,
+        "LocationString": null
+    },
+    "ObjectID": 31387,
+    "ObjectName": "candlesticks",
+    "ObjectNumber": "44.596",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Baron Pichon, Paris, ca. 1897, by purchase; John E. Taylor, London, by purchase; Sale, London, 1912, no. 61; Raphael Stora, Paris and New York, by purchase; Joseph Brummer, Paris, by purchase; Brummer Sale, Parke-Bernet, New York, April 23, 1949, no. 715; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:34.847",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31387",
+    "SortNumber": "    44   596                                            ",
+    "Style": "Gothic",
+    "Title": "Pricket Candlestick"
+}

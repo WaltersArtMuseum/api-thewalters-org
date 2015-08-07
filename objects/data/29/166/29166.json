@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "John McLenan (American, 1827-1865)",
+            "CreatorID": 4284,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "American",
+            "CreatorID": 6184,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1859,
+    "DateEndYear": 1859,
+    "DateText": "1859",
+    "Description": "Bound album. On page one is a \"Portrait of the artist, J. McLenan, drawn by himself. May 59.\" The subjects include genre and domestic scenes, studies of types of people, newsboys, bootblacks, caicatures, comic strips, illustrations for proverbs, Squier's \"Waikua - Story of the Gold Coast,\" the \"death of Manitou,\" and \"Alabama Sketches.\"",
+    "Dimensions": "H: 7 1/16 x W: 9 3/4 in. (18 x 24.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "(Not Assigned)",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55136,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1983_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1983_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1983_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1983_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1983_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48752,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1983_DetA_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1983_DetA_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1983_DetA_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1983_DetA_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1983_DetA_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 55135,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1983_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1983_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1983_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1983_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1983_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pen, pencil, ink wash and watercolor",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6453,
+        "LocationString": null
+    },
+    "ObjectID": 29166,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1983",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29166",
+    "SortNumber": "    37  1983                                            ",
+    "Style": null,
+    "Title": "Album of Original sketches"
+}

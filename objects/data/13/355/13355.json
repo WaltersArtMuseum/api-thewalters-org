@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "\u00c9mile-Antoine-Fran\u00e7ois Herson (French, 1805-1873)",
+            "CreatorID": 2329,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1864 (?)",
+    "Culture": null,
+    "DateBeginYear": 1864,
+    "DateEndYear": 1864,
+    "DateText": "1864",
+    "Description": null,
+    "Dimensions": "H: 9 1/16 x W: 7 1/16 in. (23 x 17.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19278,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1396_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1396_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1396_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1396_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1396_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Herson 1864\" in black ink, lower left, recto; \"43\" in graphite, upper right, verso; \"39\" in graphite, bottom edge, verso",
+    "Keywords": "architecture; church; tourism; architectural; biblical/religious; interior",
+    "Medium": "watercolor with white heightening over graphite underdrawing on smooth, moderately thick, beige wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 13355,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1396",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1864 (?), by purchase [from the artist]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T12:34:52.153",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13355",
+    "SortNumber": "    37  1396                                            ",
+    "Style": null,
+    "Title": "Interior of a Gothic Church"
+}

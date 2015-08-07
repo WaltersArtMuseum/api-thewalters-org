@@ -1,0 +1,125 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Gruel (French, 1864 - 1954)",
+            "CreatorID": 33530,
+            "Gender": null,
+            "Role": "Binder"
+        },
+        {
+            "ConcatDisplayName": "Paul Fort (French, 1872 - 1960)",
+            "CreatorID": 31699,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1931",
+    "Culture": null,
+    "DateBeginYear": 1927,
+    "DateEndYear": 1927,
+    "DateText": "1927",
+    "Description": "After L\u00e9on Gruel's death in 1923, Paul Gruel took over his father's firm. Many of the designs attributed to him exhibit stylistic characteristics of Art Deco. This Egyptian-inspired binding employs a technique called \"onlay.\" The book was covered in a single piece of black leather; leathers of different colors were then pared extremely thinly and adhered to the base leather to form the pattern.",
+    "Dimensions": "H: 10 3/8 \u00d7 W: 8 1/4 \u00d7 D: 1 5/16 in. (26.35 \u00d7 20.96 \u00d7 3.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bookbindings from the Gilded Age",
+            "ExhibBeginDate": "2013-10-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 26, 2013-May 18, 2014",
+            "ExhibEndDate": "2014-05-18",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3254,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Bookbindings from the Gilded Age. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52695,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1033_UpperCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1033_UpperCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1033_UpperCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1033_UpperCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1033_UpperCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52694,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1033_UpperCoverCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1033_UpperCoverCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1033_UpperCoverCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1033_UpperCoverCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1033_UpperCoverCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52693,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_92.1033_LowerCover_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_92.1033_LowerCover_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_92.1033_LowerCover_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_92.1033_LowerCover_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_92.1033_LowerCover_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper bound between boards covered with goatskin and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 88063,
+    "ObjectName": "books; rare books",
+    "ObjectNumber": "92.1033",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Owned by Henry Walters, Baltimore, before 1931; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/88063",
+    "SortNumber": "    92  1033                                            ",
+    "Style": null,
+    "Title": "Les Ballades Fran\u00e7aises"
+}

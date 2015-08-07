@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1952",
+    "Culture": null,
+    "DateBeginYear": 938,
+    "DateEndYear": 975,
+    "DateText": "ca. 950-975",
+    "Description": null,
+    "Dimensions": "H: 12 5/16 x W: 9 1/2 in. (31.2 x 24.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Schatzkammer: Henry Walters' German Manuscripts",
+            "ExhibBeginDate": "2006-07-22",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "July 22, 2006-October 29, 2006",
+            "ExhibEndDate": "2006-10-29",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 96,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Schatzkammer: Henry Walters' German Manuscripts. The Walters Art Museum, Baltimore. 2006."
+        },
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\Detmold\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1452076,
+            "GeographyTerm": "Corvey",
+            "Latitude": "51 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.783,
+            "Longitude": "009 24",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.4
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40274,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.751.3v_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.751.3v_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.751.3v_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.751.3v_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.751.3v_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Illumination; Manuscript; Medallion; Miniature; Ornament; Painting; Walters Art Museum; Scripture",
+    "Medium": "ink and pigments on thick parchment, with suede surface on flesh side",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 14743,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.751.3V",
+    "OnView": 0,
+    "Period": "Ottonian",
+    "Provenance": "Written in the Monastery of Corvey on the Weser River in Germany ca. 940-975, during the reign of Otto I [based on style and paleography]; [Originally part of a Gospel Book belonging to the Chapter Library of the Cathedral of Rheims until the French Revolution, now Ms. 10 in the Rheims Municipal Library]; Sir Thomas Phillips, London, ca. 1855 [mode of acquisition unknown] [Ms. 14122, noted on bottom of fol. 1r]; A. Chester Beatty, December 1920, acquired privately from Phillips collection; Walters Art Museum, October 1952, by purchase [from Mrs. Chester Beatty through Maggs Brothers].",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14743",
+    "SortNumber": "W        751    3V                                      ",
+    "Style": "Ottonian",
+    "Title": "Frontispiece for the Gospel of St. John"
+}

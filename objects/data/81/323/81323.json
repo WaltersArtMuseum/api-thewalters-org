@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1288,
+    "DateEndYear": 1312,
+    "DateText": "ca. 1300",
+    "Description": "In this charming image, a young boy has climbed a tree and is swinging from one of its limbs. This is an extremely rare depiction, and it has nothing to do with the text it accompanies (Psalm 5, a reading for the dead) but is simply an opportunity for the artist to have fun. The small size of the tree in comparison with the child focuses our attention on his antics, inviting us to imagine ourselves as carefree.",
+    "Dimensions": "H: 4 5/16 x W: 2 3/4 in. (11 x 7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Nord-Pas-de-Calais\\departments\\Nord\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1424075,
+            "GeographyTerm": "Cambrai",
+            "Latitude": "50 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.166,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27386,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_W.88.76R_DetA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_W.88.76R_DetA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_W.88.76R_DetA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_W.88.76R_DetA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_W.88.76R_DetA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81323,
+    "ObjectName": "illuminated manuscripts; leaves (folios)",
+    "ObjectNumber": "W.88.76R",
+    "OnView": 0,
+    "Period": "Gothic",
+    "Provenance": "Henry Walters, Baltimore, after 1894, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81323",
+    "SortNumber": "W         88   76R                                      ",
+    "Style": null,
+    "Title": "Youth Swinging from a Tree"
+}

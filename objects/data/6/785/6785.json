@@ -1,0 +1,92 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1980",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This Mughal drawing with highlights of color, Walters leaf W.794, is attributable to the early 11th century AH/AD 17th. It appears to have been based on a European print. The back is an unsigned and undated calligraphy page written in Nasta'liq script.",
+    "Dimensions": "H: 9 5/8 x W: 6 7/16 in. (24.5 x 16.3 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38796,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.794.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.794.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.794.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.794.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.794.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Persian; Illumination; Illustration; Manuscript; Miniature; Drawing; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6428,
+        "LocationString": null
+    },
+    "ObjectID": 6785,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.794",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Sale, Sotheby, Parke Bernet, London, 21 April 1980, 1003.90; Walters Art Museum, 1980, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84241,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84242,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/6785",
+    "SortNumber": "W        794                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Portuguese Guard Holding a Double-pointed Lance"
+}

@@ -1,0 +1,112 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by an anonymous donor, 2001",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "Together with its companion on the opposite pillar, this work originally flanked the entrance to the \"m\u00e4qd\u00e4s,\" or sanctuary, of an Ethiopian church, where it served as a guardian figure. Here, the archangel Michael acts a protector of the Jewish people. The Old Testament scene beneath him is divided into three parts. On the left, the Red Sea consumes Pharaoh and his army, while, on the right, Moses closes the waters with his staff. Below, Aaron's sister Miriam and another woman sing songs of praise. This object is one of only a handful of such monumental wall paintings that can be seen outside of Ethiopia.",
+    "Dimensions": "H: 80 11/16 x W: 21 5/8 in. (205 x 55 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Angels of Light: Ethiopian Art from the Walters Art Museum",
+            "ExhibBeginDate": "2006-02-05",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 5, 2006-May 20, 2007",
+            "ExhibEndDate": "2007-05-20",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 1958,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Angels of Light: Ethiopian Art from the Walters Art Museum. Birmingham Museum of Art, Birmingham; Smith College Museum of Art, Northampton; Museum of Biblical Art, New York. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9211,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.13.1_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.13.1_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.13.1_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.13.1_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.13.1_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9215,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.13.1_DetA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.13.1_DetA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.13.1_DetA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.13.1_DetA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.13.1_DetA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9213,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.13.1_DetB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.13.1_DetB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.13.1_DetB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.13.1_DetB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.13.1_DetB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3812,
+        "LocationString": null
+    },
+    "ObjectID": 36885,
+    "ObjectName": "paintings",
+    "ObjectNumber": "36.13.1",
+    "OnView": 1,
+    "Period": "Modern",
+    "Provenance": "Paul Stewart, London [date and mode of acquisition unknown]; Sam Fogg, London [date and mode of acquisition unknown]; Walters Art Museum, 2001, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:16:11.427",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 22195,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/36885",
+    "SortNumber": "    36    13    1                                       ",
+    "Style": null,
+    "Title": "Archangel Michael and the Crossing of the Red Sea"
+}

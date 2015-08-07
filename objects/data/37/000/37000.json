@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mori Kansai (Japanese, 1814-1894)",
+            "CreatorID": 5549,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 1989",
+    "Culture": null,
+    "DateBeginYear": 1860,
+    "DateEndYear": 1870,
+    "DateText": "1860-1870",
+    "Description": "The roof and one wing of the Hoodo, the phoenix hall and main building, at the Byodo-in in Uji appears rising above the trees in this graden setting.  In the distance a hill rises up to meet gold clouds as they drift across this six-fold screen, or byobu.",
+    "Dimensions": "H: 18 1/2 x W: 53 3/4 in. (47 x 136.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9993,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_35.148_Fnt_TR_T90III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_35.148_Fnt_TR_T90III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_35.148_Fnt_TR_T90III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_35.148_Fnt_TR_T90III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_35.148_Fnt_TR_T90III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left side of left hand panel: Kansai Mori Koshuku hitsu; [Seal] Tachibana Koshuku in: Jinichi Shiyo",
+    "Keywords": null,
+    "Medium": "ink and gold wash on paper with hints of color",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2460,
+        "LocationString": null
+    },
+    "ObjectID": 37000,
+    "ObjectName": "screens",
+    "ObjectNumber": "35.148",
+    "OnView": 0,
+    "Period": "Edo-Meiji",
+    "Provenance": "[Dealer] Osaka; Toyobi Far Eastern Art [Dr. Frederick Baekeland and Joan D. Baekeland], 1987-1988 [date and mode of acquisition unknown]; Walters Art Museum, 1989, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:09:34.043",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 35616,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/37000",
+    "SortNumber": "    35   148                                            ",
+    "Style": null,
+    "Title": "Byodo-in Temple in Winter"
+}

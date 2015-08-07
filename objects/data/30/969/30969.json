@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": null,
+    "DateBeginYear": -1300,
+    "DateEndYear": -1000,
+    "DateText": "1300-1000 BC",
+    "Description": "Lotus chalices such as this one were probably used in both rituals and daily life. The vessel's shape imitates the blue lotus flower, which was a type of water lily.",
+    "Dimensions": "at bottom: 5 1/2 x 1 13/16 in. (14 x 4.6 cm) (h. x diam.); \r\ntop: 3 7/16 in. (8.8 cm) (diam.)",
+    "Dynasty": "19th-21st Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36131,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.414_VwA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.414_VwA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.414_VwA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.414_VwA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.414_VwA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36132,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.414_VwB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.414_VwB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.414_VwB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.414_VwB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.414_VwB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36133,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.414_VwC_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.414_VwC_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.414_VwC_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.414_VwC_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.414_VwC_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 6867,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "molded Egyptian faience with light blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 30969,
+    "ObjectName": "chalices",
+    "ObjectNumber": "48.414",
+    "OnView": 1,
+    "Period": "New Kingdom-Third Intermediate",
+    "Provenance": "[Found at Luxor]; Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-08-26T16:22:48.073",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30969",
+    "SortNumber": "    48   414                                            ",
+    "Style": null,
+    "Title": "Lotus Chalice"
+}

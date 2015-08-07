@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eiraku Hozen (Japanese, 1785-1854)",
+            "CreatorID": 7002,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1878",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1854,
+    "DateText": "1825-1854",
+    "Description": "This ash container (\"takigara-ire\") is in the 17th-century Shonzui style.",
+    "Dimensions": "H: 3 5/8 in. (9.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exposition Universelle",
+            "ExhibBeginDate": "1878-05-05",
+            "ExhibBeginYear": 1878,
+            "ExhibDisplayDate": "May 5, 1878-November 10, 1878",
+            "ExhibEndDate": "1878-11-10",
+            "ExhibEndYear": 1878,
+            "ExhibitionID": 2381,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exposition Universelle. Paris. 1878."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8620,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.944_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.944_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.944_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.944_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.944_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1715,
+        "LocationString": null
+    },
+    "ObjectID": 35803,
+    "ObjectName": "takigara-ire;ash containers",
+    "ObjectNumber": "49.944",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Exposition Universelle, Paris, 1878; William T. Walters, Baltimore, 1878, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.45",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35803",
+    "SortNumber": "    49   944                                            ",
+    "Style": "Shonzui style, Kyoto ware",
+    "Title": "Ash Container (\"Takigara-ire\") for a Tea Ceremony"
+}

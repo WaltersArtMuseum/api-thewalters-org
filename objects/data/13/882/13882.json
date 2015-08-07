@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bernardino Butinone (Italian, ca. 1450-before 1510)",
+            "CreatorID": 3373,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1450,
+    "DateEndYear": 1510,
+    "DateText": "mid 15th-early 16th century",
+    "Description": null,
+    "Dimensions": "H: 11 9/16 x W: 8 3/16 in. (29.3 x 20.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lombardia\\provinces\\Milano\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438033,
+            "GeographyTerm": "Milano",
+            "Latitude": "45 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.466,
+            "Longitude": "009 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 35348,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.539_Fnt_BW_0539.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.539_Fnt_BW_0539.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.539_Fnt_BW_0539.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.539_Fnt_BW_0539.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.539_Fnt_BW_0539.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46885,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.539_XR_1970.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.539_XR_1970.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.539_XR_1970.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.539_XR_1970.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.539_XR_1970.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Virgin",
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3379,
+        "LocationString": null
+    },
+    "ObjectID": 13882,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.539",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-08-02T15:03:17.717",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13882",
+    "SortNumber": "    37   539                                            ",
+    "Style": null,
+    "Title": "Madonna in Prayer"
+}

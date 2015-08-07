@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1957",
+    "Culture": null,
+    "DateBeginYear": -800,
+    "DateEndYear": -601,
+    "DateText": "8th-7th century BC",
+    "Description": "Horse bits such as this one were not only used in life, but also may have been placed under the head of their owners in the grave.",
+    "Dimensions": "3 1/8 x 8 1/4 x 3 9/16 in. (8 x 21 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1507958,
+            "GeographyTerm": "Lorestan",
+            "Latitude": "33 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.5,
+            "Longitude": "048 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 48.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58688,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2427_SideA_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2427_SideA_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2427_SideA_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2427_SideA_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2427_SideA_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 58689,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2427_SideB_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2427_SideB_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2427_SideB_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2427_SideB_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2427_SideB_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 5569,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.2427_Fnt_BW_H57.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.2427_Fnt_BW_H57.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.2427_Fnt_BW_H57.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.2427_Fnt_BW_H57.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.2427_Fnt_BW_H57.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3737,
+        "LocationString": null
+    },
+    "ObjectID": 7578,
+    "ObjectName": "bits (bridle components)",
+    "ObjectNumber": "54.2427",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "E. S. David, Long Island City; Walters Art Museum, 1957, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.72",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7578",
+    "SortNumber": "    54  2427                                            ",
+    "Style": null,
+    "Title": "Horse Bit in the Shape of Horses"
+}

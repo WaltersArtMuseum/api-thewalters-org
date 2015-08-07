@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1908",
+    "Culture": null,
+    "DateBeginYear": 1463,
+    "DateEndYear": 1537,
+    "DateText": "ca. 1475-1525",
+    "Description": "The three small marks on the surface of this plate come from the firing process: to maximize space in the kiln, some wares were placed on supports that left blemishes where they came into contact with the plate. This plate was most likely a relatively inexpensive commission; otherwise, the artist would not have allowed the supports to mar the plate. The shield is probably the device of a religious organization.",
+    "Dimensions": "9 5/8 in. (24.5 cm) (w.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6802,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1353_Fnt_SL_T85.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1353_Fnt_SL_T85.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1353_Fnt_SL_T85.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1353_Fnt_SL_T85.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1353_Fnt_SL_T85.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46421,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1353_Back_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1353_Back_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1353_Back_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1353_Back_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1353_Back_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Maker's Mark] In the center, between the footring, in blue, a crossed diamond; [Previous Collection inv. no.] 37",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4793,
+        "LocationString": null
+    },
+    "ObjectID": 27582,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.1353",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Spitzer Collection, Paris [date and mode of acquisition unknown] [no. 1050, pl. XXXIII as Faenza]; H. Wencke, Hamburg [date and mode of acquisition unknown] (1893?) (no. 37) (?); Henry Walters, Baltimore, May 7, 1908, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27582",
+    "SortNumber": "    48  1353                                            ",
+    "Style": null,
+    "Title": "Plate with Shield Showing the Lamb of God"
+}

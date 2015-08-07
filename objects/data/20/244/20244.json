@@ -1,0 +1,128 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.660 is an illuminated and illustrated maritime atlas, referred to as the Walters Deniz atlasi. It is an early Ottoman atlas, perhaps dating to the 10th century AH/AD 16th. The work contains 8 double-page charts executed on parchment. Four of the maps show the Mediterranean, Aegean, and Black seas. There is also a world map and a chart of the Indian Ocean. The various geographical names are written in black Nasta'liq script. A distinguishing feature of this atlas is the detailed approach to representing such features as city vignettes.",
+    "Dimensions": "Folio H: 11 13/16 x W: 8 7/8 in. (30 x 22.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mapping the Ottoman World, 1500-1800",
+            "ExhibBeginDate": "2007-10-24",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "October 24, 2007-March 19, 2008",
+            "ExhibEndDate": "2008-03-19",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2032,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Mapping the Ottoman World, 1500-1800. The Oriental Institute of the University of Chicago, Chicago. 2007-2008."
+        },
+        {
+            "ExhTitle": "The Cross and the Crescent: Books from the Ottoman Age",
+            "ExhibBeginDate": "2003-03-01",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "March 1, 2003-May 18, 2003",
+            "ExhibEndDate": "2003-05-18",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 112,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Cross and the Crescent: Books from the Ottoman Age. The Walters Art Museum, Baltimore. 2003."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34862,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.660_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.660_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.660_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.660_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.660_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Book; Codex; Illumination; Illustration; Manuscript; Charts; Turkey; Science; Cartography; Geography",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2349,
+        "LocationString": null
+    },
+    "ObjectID": 20244,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.660",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 78191,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78192,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78193,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78194,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78195,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79050,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84332,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84333,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/20244",
+    "SortNumber": "W        660                                            ",
+    "Style": null,
+    "Title": "Maritime Atlas"
+}

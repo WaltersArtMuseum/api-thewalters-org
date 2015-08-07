@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Follower of Ogata Kenzan (Japanese, 1663-1743)",
+            "CreatorID": 6894,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This box, used to hold incense pellets, represents Kyoto potters' penchant for replicating luxury items also made in Kyoto. Kenzan's signature is cleverly incorporated into the colophon on the fan's face, which bears a Chinese poem and a \"painting\" of a flowering branch.",
+    "Dimensions": "H: 2 3/16 x W: 3 1/16 in. (5.5 x 7.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Master Potters of Japan",
+            "ExhibBeginDate": "1984-04-03",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "April 3, 1984-June 17, 1984",
+            "ExhibEndDate": "1984-06-17",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 753,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Master Potters of Japan. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8531,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1372_Clsd_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1372_Clsd_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1372_Clsd_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1372_Clsd_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1372_Clsd_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8532,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1372_Opn_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1372_Opn_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1372_Opn_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1372_Opn_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1372_Opn_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Raku-type earthenware with iron pigment under glaze, enamels over glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2052,
+        "LocationString": null
+    },
+    "ObjectID": 22026,
+    "ObjectName": "kogo; incense boxes",
+    "ObjectNumber": "49.1372",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22026",
+    "SortNumber": "    49  1372                                            ",
+    "Style": "Kyoto ware",
+    "Title": "Incense Box in the Shape of a Folding Fan"
+}

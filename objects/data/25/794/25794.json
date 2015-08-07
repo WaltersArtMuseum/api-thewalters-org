@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Gavarni (French, 1804-1866)",
+            "CreatorID": 7208,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1855,
+    "DateEndYear": 1857,
+    "DateText": "1855-1857",
+    "Description": null,
+    "Dimensions": "H: 11 15/16 x W: 8 1/4 in. (30.4 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Watercolors and Drawings by Gavarni",
+            "ExhibBeginDate": "1953",
+            "ExhibBeginYear": 1953,
+            "ExhibDisplayDate": "1953-1954",
+            "ExhibEndDate": "1954",
+            "ExhibEndYear": 1954,
+            "ExhibitionID": 581,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Watercolors and Drawings by Gavarni. National Gallery of Art, Washington. 1953-1954."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55509,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1436_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1436_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1436_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1436_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1436_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 55508,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1436_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1436_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1436_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1436_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1436_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 183,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1436_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1436_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1436_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1436_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1436_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "\"Gavarni\" in red ink, lower right; \"...Mon patron m'a fichu un drole de savon! --Et avec \u00e7a, qu'est-ce que tu payes?\" at bottom",
+    "Keywords": "man; peasant; genre; portrait",
+    "Medium": "watercolor, ink, and white heightening with graphite underdrawing on cream, moderately thick, slightly textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2232,
+        "LocationString": null
+    },
+    "ObjectID": 25794,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1436",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.94",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25794",
+    "SortNumber": "    37  1436                                            ",
+    "Style": null,
+    "Title": "Two Peasants"
+}

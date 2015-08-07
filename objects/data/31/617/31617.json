@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "James McDougal Hart (American, 1828-1901)",
+            "CreatorID": 1964,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Charles Lord (commissioned from the artist by the Lord family), 1978",
+    "Culture": null,
+    "DateBeginYear": 1858,
+    "DateEndYear": 1858,
+    "DateText": "1858",
+    "Description": "The detailed rendering of this tranquil summer scene is characteristic of Hart's early work, when he was most deeply influenced by the Hudson River school of landscape painting. It was commissioned by the Lord family of Baltimore in the late 1850s, at around the time that William T. Walters was also patronizing the artist.\r\n\r\nAs child Hart emigrated from Scotland to Albany, then a rapidly expanding industrial hub. In 1852, like many of his fellow artists, he traveled to Germany's major art centers, Munich and D\u00fcsseldorf, where he completed his training. From 1857 until his death, Hart was based in New York City, and exhibited successfully in the United States and Europe.\r\n",
+    "Dimensions": "H: 16 5/16 x W: 24 1/8 in. (41.4 x 61.3 cm); Framed H: 27 3/4 \u00d7 W: 34 1/16 \u00d7 D: 3 15/16 in. (70.5 \u00d7 86.5 \u00d7 10 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\rivers\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 622770,
+            "GeographyTerm": "Hudson River",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48087,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2555_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2555_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2555_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2555_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2555_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37280,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.2555_Fnt_BW_C79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.2555_Fnt_BW_C79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.2555_Fnt_BW_C79.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.2555_Fnt_BW_C79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.2555_Fnt_BW_C79.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signed and dated] Lower left: James M. Hart 1858",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 3970,
+        "LocationString": null
+    },
+    "ObjectID": 31617,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2555",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Commissioned by The Lord family, 1850s; inherited by Mr. and Mrs. Charles Lord, Baltimore; given to Walters Art Museum, 1978.",
+    "PublicAccessDate": "2012-01-12T00:30:01.143",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31617",
+    "SortNumber": "    37  2555                                            ",
+    "Style": null,
+    "Title": "Hudson River Landscape"
+}

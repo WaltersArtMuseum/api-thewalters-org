@@ -1,0 +1,155 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 960,
+    "DateEndYear": 1280,
+    "DateText": "960-1280",
+    "Description": null,
+    "Dimensions": "4 3/4 in. (12 cm) (w.)",
+    "Dynasty": "Song [Sung] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        },
+        {
+            "ExhTitle": "Artful Dining: The Exhibition",
+            "ExhibBeginDate": "1994-07-30",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "July 30, 1994-October 31, 1994",
+            "ExhibEndDate": "1994-10-31",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2747,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artful Dining: The Exhibition. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 60447,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1200_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1200_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1200_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1200_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1200_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 60443,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1200_3Qtr_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1200_3Qtr_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1200_3Qtr_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1200_3Qtr_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1200_3Qtr_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 60448,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1200_Int_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1200_Int_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1200_Int_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1200_Int_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1200_Int_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 60444,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1200_BotA_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1200_BotA_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1200_BotA_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1200_BotA_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1200_BotA_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 60445,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1200_BotB_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1200_BotB_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1200_BotB_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1200_BotB_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1200_BotB_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 60446,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1200_BotC_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1200_BotC_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1200_BotC_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1200_BotC_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1200_BotC_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stoneware with \"hare's fur\" (ash) glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1658,
+        "LocationString": null
+    },
+    "ObjectID": 20110,
+    "ObjectName": "tea bowls",
+    "ObjectNumber": "49.1200",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20110",
+    "SortNumber": "    49  1200                                            ",
+    "Style": "Jian Yao [Chien Yao] Ware",
+    "Title": "\"Tenmoku\" Bowl"
+}

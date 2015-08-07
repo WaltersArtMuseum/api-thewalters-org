@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": "Roman",
+    "DateBeginYear": 100,
+    "DateEndYear": 299,
+    "DateText": "2nd-3rd century",
+    "Description": null,
+    "Dimensions": "1 3/4 in. (4.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62639,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.1331_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.1331_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.1331_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.1331_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.1331_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, traces of silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 454,
+        "LocationString": null
+    },
+    "ObjectID": 16562,
+    "ObjectName": "covers (closures)",
+    "ObjectNumber": "54.1331",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome, [date of acquisition unknown] by purchase; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-02-27T01:00:01.493",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16562",
+    "SortNumber": "    54  1331                                            ",
+    "Style": null,
+    "Title": "Lid"
+}

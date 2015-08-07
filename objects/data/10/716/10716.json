@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eiraku Wazen (Japanese, 1821-1896)",
+            "CreatorID": 6579,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1852,
+    "DateEndYear": 1852,
+    "DateText": "1852",
+    "Description": null,
+    "Dimensions": "H: 8 3/8 x Diam: 5 1/4 in. (21.3 x 13.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8538,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1582_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1582_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1582_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1582_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1582_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8537,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1582_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1582_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1582_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1582_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1582_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Seal] Kahin Shiryu; [Kiln mark] [Transcription] Ouchiyana hatsugama; [Translation] First firing of the Ouchiyama kiln",
+    "Keywords": null,
+    "Medium": "stoneware with rice-straw ash and iron glazes",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2047,
+        "LocationString": null
+    },
+    "ObjectID": 10716,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1582",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10716",
+    "SortNumber": "    49  1582                                            ",
+    "Style": "Kyoto ware",
+    "Title": "Flared Vase with Dripping Glaze"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Frank Blackwell Mayer (American, 1827-1899)",
+            "CreatorID": 2956,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1974",
+    "Culture": null,
+    "DateBeginYear": 1827,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "Mayer, a Baltimore painter, trained with the local artists Ernst Fischer and Alfred Jacob Miller before moving to Paris in 1864-69 to enroll in the studio of Charles Gleyre, the academic master who included among his pupils the impressionists Monet, Sisley, Bazille, and Renoir. Otherwise, he spent most of his career in Baltimore, where he became noted for his paintings of scenes set in Colonial times. In this painting, he has depicted the wedding of a young woman named Angelique, whom he met while abroad.",
+    "Dimensions": "H: 17 11/16 x W: 15 1/8 in. (45 x 38.4 cm); H with frame: 27 1/4 x W: 24 1/2 x D: 3 3/4 in. (69.2 x 62.2 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Walters' American Collection",
+            "ExhibBeginDate": "2005-06-29",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 29, 2005-January 1, 2006",
+            "ExhibEndDate": "2006-01-01",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2728,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Walters' American Collection. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\Maryland\\counties\\Baltimore Independent City\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 647324,
+            "GeographyTerm": "Baltimore",
+            "Latitude": "39 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.283,
+            "Longitude": "076 36",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.6
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50571,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.2515_Fnt_BW_H76.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.2515_Fnt_BW_H76.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.2515_Fnt_BW_H76.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.2515_Fnt_BW_H76.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.2515_Fnt_BW_H76.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3498,
+        "LocationString": null
+    },
+    "ObjectID": 28168,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2515",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Glenn C. Wilhide [date and mode of acquisition unknown]; Walters Art Museum, 1974, by purchase.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28168",
+    "SortNumber": "    37  2515                                            ",
+    "Style": null,
+    "Title": "The Bride of Savoy"
+}

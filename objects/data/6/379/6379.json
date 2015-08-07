@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1720,
+    "DateEndYear": 1740,
+    "DateText": "1720-1740",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 434, p. 546.",
+    "Dimensions": "Painted surface H: 19 1/4 x W: 25 1/2 in. (48.9 x 64.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37142,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1845_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1845_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1845_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1845_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1845_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] On the sheet of paper held by the second figure from the lower left: CATU :| LUC: | C...",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3299,
+        "LocationString": null
+    },
+    "ObjectID": 6379,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1845",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 412, as Canaletto]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6379",
+    "SortNumber": "    37  1845                                            ",
+    "Style": null,
+    "Title": "View of a Seaport"
+}

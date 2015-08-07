@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -300,
+    "DateText": "4th century BC",
+    "Description": "The perfume vessel, which was suspended from a cord, is shaped like a flying Nike, personification of victory. Her active pose and agitated, wind-blown drapery demonstrate the highly decorative tastes of the early 4th century.",
+    "Dimensions": "6 7/8 x 4 9/16 x 2 3/16 in. (17.5 x 11.7 x 5.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8433,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2022_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2022_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2022_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2022_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2022_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1692,
+        "LocationString": null
+    },
+    "ObjectID": 12870,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.2022",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Sale, Joseph Brummer, New York, June 1949, pt. III, lot 18; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.173",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12870",
+    "SortNumber": "    48  2022                                            ",
+    "Style": null,
+    "Title": "Vase in the Form of Nike"
+}

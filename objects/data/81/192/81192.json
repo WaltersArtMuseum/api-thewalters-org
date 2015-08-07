@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\municipalities\\Shanghai Shi\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1477518,
+            "GeographyTerm": "Shanghai",
+            "Latitude": "31 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.1,
+            "Longitude": "121 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 121.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56110,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.100F_Fnt_BW_T86.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.100F_Fnt_BW_T86.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.100F_Fnt_BW_T86.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.100F_Fnt_BW_T86.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.100F_Fnt_BW_T86.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "colors on silk mounted on paper\r\nink and color on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81192,
+    "ObjectName": "albums; paintings; folios (leaves)",
+    "ObjectNumber": "35.100F",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 287]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81192",
+    "SortNumber": "    35   100F                                           ",
+    "Style": null,
+    "Title": "Leaf from an Album of 8 Paintings by Different Artists"
+}

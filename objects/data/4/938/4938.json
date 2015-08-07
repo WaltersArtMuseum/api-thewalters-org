@@ -1,0 +1,70 @@
+{
+    "Classification": "Enamels",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Russian",
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This is a mass-produced replica of a famous miracle-working icon of the Virgin and Child, brought to Russia from Byzatium in the 12th century, known as the \"Virgin of Vladimir\", and currently kept in Moscow (State Tretyakov Gallery). The Virgin and Child are each identified by abbreviated inscriptions.",
+    "Dimensions": "H: 1 15/16 x W: 1 13/16 in. (5 x 4.6 cm)",
+    "Dynasty": "House of Romanov",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38106,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_44.415_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_44.415_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_44.415_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_44.415_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_44.415_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "champlev\u00e9 enamel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 888,
+        "LocationString": null
+    },
+    "ObjectID": 4938,
+    "ObjectName": "icons",
+    "ObjectNumber": "44.415",
+    "OnView": 0,
+    "Period": "Modern",
+    "Provenance": "Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-03-14T22:00:01.197",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4938",
+    "SortNumber": "    44   415                                            ",
+    "Style": null,
+    "Title": "Virgin and Child (\"Virgin of Vladimir\")"
+}

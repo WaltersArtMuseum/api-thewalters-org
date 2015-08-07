@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Firdawsi (Persian, died 411-416 AH/AD 1020-1025)",
+            "CreatorID": 7768,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "13th century AH/AD 19th century",
+    "Description": "On this folio from Walters manuscript W.601, Sam battles the div Nihangal.",
+    "Dimensions": "H: 10 1/4 x W: 6 1/2 in. (26 x 16.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33047,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.601.72a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.601.72a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.601.72a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.601.72a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.601.72a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; India; Iran; History; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83494,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.601.72A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83494",
+    "SortNumber": "W        601   72A                                      ",
+    "Style": null,
+    "Title": "Sam Battles the Div Nihangal"
+}

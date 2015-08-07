@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1945",
+    "Culture": "Christian; German",
+    "DateBeginYear": 1475,
+    "DateEndYear": 1475,
+    "DateText": "1475",
+    "Description": "This leaf, created in southern Germany ca. 1475, contains illustrations to the Sext and None segments of De Septem Stationibus Passionis Christi. This anonymous text, written in rhymed verse, was often appended to the Speculum Humanae Salvationis, which may have ultimately been the context for this leaf. The effect of the images, written and illuminated on paper with heavy ink outlines and washes of color, closely resembles that of colored woodcuts from the same period.",
+    "Dimensions": "Folio H: 11 1/2 \u00d7 W: 7 9/16 in. (29.2 \u00d7 19.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Germany",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53718,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.731.W.731R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.731.W.731R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.731.W.731R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.731.W.731R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.731.W.731R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 54128,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.731.W.731V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.731.W.731V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.731.W.731V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.731.W.731V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.731.W.731V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Drawing; Illumination; Illustration; Manuscript; Miniature; Walters Art Museum; Watermark; Devotion",
+    "Medium": "ink and pigments on fifteenth-century laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6433,
+        "LocationString": null
+    },
+    "ObjectID": 37720,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.731",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Jacques Rosenthal Collection, Munich, Germany, before 1930 [mode of acquisition unknown]; Fred Werther, Baltimore, ca. 1930, by purchase; Walters Art Museum, 1945, by purchase.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37720",
+    "SortNumber": "W        731                                            ",
+    "Style": null,
+    "Title": "Single Leaf from a Short Work on the Passion of Christ"
+}

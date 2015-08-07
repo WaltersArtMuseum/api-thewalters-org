@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Takeuchi Chubei (Japanese)",
+            "CreatorID": 6079,
+            "Gender": "male",
+            "Role": "Enameler"
+        }
+    ],
+    "CreditLine": "Gift of Stephen W. Fisher, 2004",
+    "Culture": null,
+    "DateBeginYear": 1868,
+    "DateEndYear": 1892,
+    "DateText": "ca. 1880",
+    "Description": "This vase is decorated with vines and tendrils depicted in colored enamels separated by fine wires.  The enamels have been fused to the porcelain body.",
+    "Dimensions": "12 in. (30.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Centennial Exhibition Philadelphia",
+            "ExhibBeginDate": "1876-01-01",
+            "ExhibBeginYear": 1876,
+            "ExhibDisplayDate": "May 10, 1876- November 10, 1876",
+            "ExhibEndDate": "1876-11-10",
+            "ExhibEndYear": 1876,
+            "ExhibitionID": 244,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Centennial Exhibition Philadelphia. Memorial Hall, Philadelphia, Philadelphia. 1876."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\Aichi-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492062,
+            "GeographyTerm": "Nagoya",
+            "Latitude": "35 08",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.133,
+            "Longitude": "136 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 136.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8583,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2821_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2821_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2821_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2821_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2821_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "plant; vine",
+    "Medium": "cloisonn\u00e9 enamel on porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1925,
+        "LocationString": null
+    },
+    "ObjectID": 27095,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2821",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Centennial Exposition, Philadelphia, 1876 (?); Stephen W. Fisher Collection, Baltimore, 1995; Walters Art Museum, 2004, by gift.",
+    "PublicAccessDate": "2008-09-25T17:09:35.263",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27095",
+    "SortNumber": "    49  2821                                            ",
+    "Style": null,
+    "Title": "Vase Decorated with Vines and Tendrils"
+}

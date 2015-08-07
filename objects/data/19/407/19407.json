@@ -1,0 +1,161 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German (?)",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Netherlandish (?)",
+            "CreatorID": 15361,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": "European",
+    "DateBeginYear": 1275,
+    "DateEndYear": 1325,
+    "DateText": "late 13th or early 14th century",
+    "Description": "Aquamanilia, or water pitchers, present an interesting case of intercultural exchange across great distances. This type of vessel is a small, closed water pourer, often shaped as an animal or mythological creature. The form developed in the ancient Near East, and many of the animals shown, whether real or mythical, also derive from Near Eastern prototypes: lions were particularly favored. This unusual example bears a Hebrew inscription on one side that reads, \"Blessed be the King of the Universe, who has instructed us to wash our hands,\" indicating that it served a ceremonial function, either in a Jewish home or synagogue. Whether this inscription is original to this piece or added later, it attests to the diverse cultural communities served by the same type of object.",
+    "Dimensions": "H: 9 1/8 x L: 10 5/8 x D: 5 1/16 in. (23.2 x 27 x 12.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30262,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.25_3Qtr_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.25_3Qtr_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.25_3Qtr_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.25_3Qtr_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.25_3Qtr_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 30263,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.25_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.25_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.25_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.25_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.25_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 30265,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.25_RtSide_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.25_RtSide_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.25_RtSide_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.25_RtSide_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.25_RtSide_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 30264,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.25_LftSide_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.25_LftSide_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.25_LftSide_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.25_LftSide_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.25_LftSide_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Transcription] On the side and rear hip of the lion:  \u05d1\u05e8\u05d5\u05da \u05d0\u05ea\u05d4 \u05d4 \u05d0\u05dc\u05d4\u05d9\u05e0\u05d5 \u05de\u05dc\u05da \u05d4\u05e2\u05d5\u05dc\u05dd \u05d0\u05e9\u05e8 \u05e7\u05d3\u05e9\u05e0\u05d5 \u05d1\u05de\u05e6\u05d5\u05d5\u05ea\u05d9\u05d5 \u05d5\u05e6\u05d5\u05d5\u05e0\u05d5 \u05e2\u05dc \u05e0\u05d8\u05d9\u05dc\u05ea \u05d9\u05d3\u05d9\u05dd ; [Translation] Blessed be God, King of the Universe, who blessed us and instructed us to wash our hands (Baruch ata adonai alokhenu meleh Ha-olam asher Ridshanu bemitsvotsar vetsivanu al netilas yadayim)",
+    "Keywords": null,
+    "Medium": "brass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: The Knight's Hall",
+        "LocationID": 3942,
+        "LocationString": null
+    },
+    "ObjectID": 19407,
+    "ObjectName": "aquamanile",
+    "ObjectNumber": "53.25",
+    "OnView": 1,
+    "Period": "Late Medieval",
+    "Provenance": "Stein Sale, Paris, 1899, no.139; Henri Daguerre, Paris, by purchase; Henry Walters, 1927, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19407",
+    "SortNumber": "    53    25                                            ",
+    "Style": "Gothic",
+    "Title": "Aquamanile in the Form of a Lion"
+}

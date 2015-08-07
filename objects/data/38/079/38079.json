@@ -1,0 +1,101 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Coptic",
+    "DateBeginYear": 400,
+    "DateEndYear": 599,
+    "DateText": "5th-6th century",
+    "Description": null,
+    "Dimensions": "4 13/16 x 4 1/2 in. (12.2 x 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38747,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.1674_3Qtr_BW_H46.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.1674_3Qtr_BW_H46.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.1674_3Qtr_BW_H46.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.1674_3Qtr_BW_H46.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.1674_3Qtr_BW_H46.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast and incised bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 442,
+        "LocationString": null
+    },
+    "ObjectID": 38079,
+    "ObjectName": "incense burners",
+    "ObjectNumber": "54.1674",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-04-23T22:00:00.967",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38079",
+    "SortNumber": "    54  1674                                            ",
+    "Style": null,
+    "Title": "Lion Attacking a Boar"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Baksh",
+            "CreatorID": 15704,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1835,
+    "DateEndYear": 1835,
+    "DateText": "1835",
+    "Description": null,
+    "Dimensions": "H: 3 1/16 x W: 1 7/8 in. (7.8 x 4.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28642,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.573.1b-2a_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.573.1b-2a_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.573.1b-2a_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.573.1b-2a_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.573.1b-2a_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81667,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.573.2A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81667",
+    "SortNumber": "W        573    2A                                      ",
+    "Style": null,
+    "Title": "Leaf from Qur'an"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -312,
+    "DateEndYear": -288,
+    "DateText": "ca. 300 BC (?)",
+    "Description": null,
+    "Dimensions": "H: 7 5/8 in. (19.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57942,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.411_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.411_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.411_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.411_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.411_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 400,
+        "LocationString": null
+    },
+    "ObjectID": 13455,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.411",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Dikran Kelekian [date and mode of acquisition unknown] [no. 6869, Mithrahina]; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13455",
+    "SortNumber": "    54   411                                            ",
+    "Style": null,
+    "Title": "Khnum"
+}

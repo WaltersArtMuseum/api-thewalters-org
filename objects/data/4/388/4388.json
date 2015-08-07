@@ -1,0 +1,88 @@
+{
+    "Classification": "Textiles",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Fran\u00e7ois Boucher (French, 1703-1770)",
+            "CreatorID": 2724,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Beauvais Manufactory",
+            "CreatorID": 2164,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1725,
+    "DateEndYear": 1775,
+    "DateText": "mid 18th century",
+    "Description": null,
+    "Dimensions": "H: 106 x W: 73 1/2 in. (269.24 x 186.69 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Picardie\\departments\\Oise\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1429071,
+            "GeographyTerm": "Beauvais",
+            "Latitude": "49 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.433,
+            "Longitude": "002 05",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.83
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Picardie\\departments\\Oise\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1429071,
+            "GeographyTerm": "Beauvais",
+            "Latitude": "49 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.433,
+            "Longitude": "002 05",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.83
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40449,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_82.3_Fnt_BW_5099.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_82.3_Fnt_BW_5099.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_82.3_Fnt_BW_5099.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_82.3_Fnt_BW_5099.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_82.3_Fnt_BW_5099.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wool and silk tapestry",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3517,
+        "LocationString": null
+    },
+    "ObjectID": 4388,
+    "ObjectName": "tapestries",
+    "ObjectNumber": "82.3",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4388",
+    "SortNumber": "    82     3                                            ",
+    "Style": null,
+    "Title": "The Collation from Fetes Italiennes Series"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1942",
+    "Culture": null,
+    "DateBeginYear": -187,
+    "DateEndYear": -103,
+    "DateText": "ca. 175-115 BC",
+    "Description": "This piece is carved in intaglio and is convex on both sides.",
+    "Dimensions": "1 1/8 x 7/8 x 7/16 in. (2.9 x 2.2 x 1.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6342,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_42.1319_Fnt_TR_T88III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_42.1319_Fnt_TR_T88III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_42.1319_Fnt_TR_T88III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_42.1319_Fnt_TR_T88III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_42.1319_Fnt_TR_T88III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32923,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_42.1319_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_42.1319_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_42.1319_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_42.1319_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_42.1319_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "peridot",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Treasury",
+        "LocationID": 3651,
+        "LocationString": null
+    },
+    "ObjectID": 758,
+    "ObjectName": "intaglios; gems",
+    "ObjectNumber": "42.1319",
+    "OnView": 1,
+    "Period": "Hellenistic-Ptolemaic",
+    "Provenance": "Henry Walters, Baltimore; Joseph Brummer, 1942; Walters Art Museum, 1942, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:39.75",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/758",
+    "SortNumber": "    42  1319                                            ",
+    "Style": null,
+    "Title": "Intaglio Portrait of Cleopatra II"
+}

@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William Trost Richards (American, 1833-1905)",
+            "CreatorID": 5813,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1848,
+    "DateEndYear": 1872,
+    "DateText": "ca. 1860",
+    "Description": "Richards was a Philadelphia artist who was known for his meticulously faithful rendering of nature inspired by the writings of the influential critic John Ruskin. Ruskin's influence can be seen on Richards' work from 1858, dating this work to after that year.",
+    "Dimensions": "H: 6 1/2 x W: 8 in. (16.5 x 20.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53920,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1966_Fnt_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1966_Fnt_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1966_Fnt_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1966_Fnt_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1966_Fnt_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53919,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_37.1966_FntCc_DD_KI13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_37.1966_FntCc_DD_KI13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_37.1966_FntCc_DD_KI13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_37.1966_FntCc_DD_KI13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_37.1966_FntCc_DD_KI13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48487,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1966_Fnt_BW_C79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1966_Fnt_BW_C79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1966_Fnt_BW_C79.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1966_Fnt_BW_C79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1966_Fnt_BW_C79.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pencil and ink wash",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2251,
+        "LocationString": null
+    },
+    "ObjectID": 40551,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1966",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore; inherited by Henry Walters, Baltimore, 1894; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-03-15T01:00:02.127",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40551",
+    "SortNumber": "    37  1966                                            ",
+    "Style": null,
+    "Title": "River Landscape with Evening Star"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "Diam: 8 1/8 in. (20.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48402,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1728_Fnt_BW_H43.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1728_Fnt_BW_H43.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1728_Fnt_BW_H43.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1728_Fnt_BW_H43.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1728_Fnt_BW_H43.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3355,
+        "LocationString": null
+    },
+    "ObjectID": 32684,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1728",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32684",
+    "SortNumber": "    37  1728                                            ",
+    "Style": null,
+    "Title": "Flower Piece"
+}

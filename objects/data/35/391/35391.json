@@ -1,0 +1,134 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Muhammad ibn 'Ali Katib al-Samarqandi",
+            "CreatorID": 17752,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "'Abd\u00fclkerim bin Muhammed",
+            "CreatorID": 17753,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.662 is an Ottoman illustrated and illuminated copy of the Tuhfet \u00fcl-ahyar, which is an Ottoman Turkish version of the well-known story of Sindbad (Sindbadnamah), written by 'Abd\u00fclkerim bin Muhammed during the reign of Sultan S\u00fcleyman (Soliman) (reigned 926 AH/AD 1520-974 AH/AD 1566). The text is written in black Naskh script with incidentals in gold and red, and chapter headings are in gold. The manuscript dates to the 10th century AH/AD 16th and opens with an illuminated incipit page (fol. 1b). There are a total of six illustrations.",
+    "Dimensions": "Folio H: 8 1/16 x W: 5 1/8 in. (20.5 x 13 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Cross and the Crescent: Books from the Ottoman Age",
+            "ExhibBeginDate": "2003-03-01",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "March 1, 2003-May 18, 2003",
+            "ExhibEndDate": "2003-05-18",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 112,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Cross and the Crescent: Books from the Ottoman Age. The Walters Art Museum, Baltimore. 2003."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27836,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.662.binding_TopExtClsd_DD_UpperBoardOutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.662.binding_TopExtClsd_DD_UpperBoardOutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.662.binding_TopExtClsd_DD_UpperBoardOutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.662.binding_TopExtClsd_DD_UpperBoardOutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.662.binding_TopExtClsd_DD_UpperBoardOutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Book; Codex; Headpiece; Illumination; Illustration; Manuscript; Miniature; Painting; Turkey; History",
+    "Medium": "ink and pigments on laid paper covered with brown leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2347,
+        "LocationString": null
+    },
+    "ObjectID": 35391,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.662",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 80973,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80974,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80975,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80976,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80977,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80978,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80979,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80980,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35391",
+    "SortNumber": "W        662                                            ",
+    "Style": null,
+    "Title": "Turkish Version of Sindbadnama"
+}

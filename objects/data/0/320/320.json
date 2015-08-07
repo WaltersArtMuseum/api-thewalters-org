@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Anthony van Dyck (Flemish, 1599-1641)",
+            "CreatorID": 6861,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": "One of the many copies of Anthony Van Dyck's original portrait (ca. 1635), also in oval format, of the famous English architect Inigo Jones (1573-1652) now in The State Hermitage in St. Petersburg (541). For the original, see further S. Barnes et al., \"Van Dyck, A Complete Catalogue of the Paintings,\" (New Haven 2004), no. IV.142.",
+    "Dimensions": "H: 25 1/4 x W: 20 3/4 in. (64.1 x 52.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32615,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.803_Fnt_BW_H77.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.803_Fnt_BW_H77.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.803_Fnt_BW_H77.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.803_Fnt_BW_H77.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.803_Fnt_BW_H77.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3355,
+        "LocationString": null
+    },
+    "ObjectID": 320,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.803",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Middleton Sale, Stockeld Park, near Wetherby, Yorkshire [number 6726]; Dr. Haigh, [date of acquisition unknown] by purchase; Sale, Dr. Haigh's Collection of Thorparch College; Collection of William Howgate, Esq., Leeds, United Kingdom, [date of acquisition unknown] by purchase; J. D. Ichenhauser Sale, American Art Association, New York, February 26, 1903, lot 50; Henry Walters, Baltimore, February 26, 1903, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/320",
+    "SortNumber": "    37   803                                            ",
+    "Style": null,
+    "Title": "Portrait Bust of Inigo Jones"
+}

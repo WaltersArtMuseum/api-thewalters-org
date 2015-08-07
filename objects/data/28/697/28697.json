@@ -1,0 +1,70 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1884",
+    "Culture": "Chinese",
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This piece is ornately carved.",
+    "Dimensions": "33 x 16 3/4 in. (83.8 x 42.5 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55819,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_65.123_VwA_BW_T91.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_65.123_VwA_BW_T91.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_65.123_VwA_BW_T91.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_65.123_VwA_BW_T91.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_65.123_VwA_BW_T91.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood, marble",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4916,
+        "LocationString": null
+    },
+    "ObjectID": 28697,
+    "ObjectName": "tables (support furniture)",
+    "ObjectNumber": "65.123",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1884 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28697",
+    "SortNumber": "    65   123                                            ",
+    "Style": null,
+    "Title": "Table with Marble Inset"
+}

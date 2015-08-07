@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kiju (Japanese)",
+            "CreatorID": 4116,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1865,
+    "DateText": "early 19th century",
+    "Description": "This is an example of Kyoto ware.",
+    "Dimensions": "8 1/8 in. (20.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19782,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.965_Rt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.965_Rt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.965_Rt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.965_Rt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.965_Rt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19780,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.965_Lft_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.965_Lft_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.965_Lft_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.965_Lft_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.965_Lft_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19781,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.965_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.965_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.965_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.965_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.965_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] Raku toko Kiju tsukuru; [Translation] Made by Kyoto potter Kiju",
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1707,
+        "LocationString": null
+    },
+    "ObjectID": 11678,
+    "ObjectName": "ewer",
+    "ObjectNumber": "49.965",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.467",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11678",
+    "SortNumber": "    49   965                                            ",
+    "Style": "Kyoto ware",
+    "Title": "Ewer with Phoenix-Headed Spout"
+}

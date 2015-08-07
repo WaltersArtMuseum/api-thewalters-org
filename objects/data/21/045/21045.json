@@ -1,0 +1,83 @@
+{
+    "Classification": "Lacquer & Inlay",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1876",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "3 7/8 in. (9.8 cm) (w.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Centennial Exhibition Philadelphia",
+            "ExhibBeginDate": "1876-01-01",
+            "ExhibBeginYear": 1876,
+            "ExhibDisplayDate": "May 10, 1876- November 10, 1876",
+            "ExhibEndDate": "1876-11-10",
+            "ExhibEndYear": 1876,
+            "ExhibitionID": 244,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Centennial Exhibition Philadelphia. Memorial Hall, Philadelphia, Philadelphia. 1876."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5962,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_67.632_Fnt_BW_H68.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_67.632_Fnt_BW_H68.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_67.632_Fnt_BW_H68.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_67.632_Fnt_BW_H68.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_67.632_Fnt_BW_H68.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1969,
+        "LocationString": null
+    },
+    "ObjectID": 21045,
+    "ObjectName": "incense holders;kogo;censors",
+    "ObjectNumber": "67.632",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Centennial Exhibition, Philadelphia, 1876; William T. Walters, Baltimore, 1876, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:36.107",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21045",
+    "SortNumber": "    67   632                                            ",
+    "Style": null,
+    "Title": "Incense Holder with Blossoming Cherry Trees"
+}

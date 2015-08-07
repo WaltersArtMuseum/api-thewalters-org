@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Doge Alvise Mocenigo I (Italian, 1507-1577)",
+            "CreatorID": 7638,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1575,
+    "DateEndYear": 1575,
+    "DateText": "1575",
+    "Description": null,
+    "Dimensions": "9 13/16 x 7 1/16 in. (25 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2986,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.484.2R_OpnObv_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.484.2R_OpnObv_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.484.2R_OpnObv_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.484.2R_OpnObv_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.484.2R_OpnObv_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47983,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.484.2_Fp_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.484.2_Fp_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.484.2_Fp_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.484.2_Fp_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.484.2_Fp_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 33525,
+    "ObjectName": "illuminated manuscript",
+    "ObjectNumber": "W.484.2R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Polo Contarini; Private collection, Russia [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33525",
+    "SortNumber": "W        484    2R                                      ",
+    "Style": null,
+    "Title": "Leaf from Dogale for Polo Contarini"
+}

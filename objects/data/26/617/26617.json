@@ -1,0 +1,119 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Germain Hardouyn (French, active 1505-1540)",
+            "CreatorID": 5349,
+            "Gender": "male",
+            "Role": "Printer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1525,
+    "DateEndYear": 1525,
+    "DateText": "1525",
+    "Description": "The last page of this Book of Hours holds a rebus, a riddle created from images. In this case, it was meant to help one memorize a prayer to the Virgin Mary. The reader pieced together the intended text from the sound of the words represented by the image, although here the text is given as well. Word and image play together, for instance when the French word \"de\" (of) is intended, a picture of dice, \"d\u00e9,\" is shown.",
+    "Dimensions": "H: 5 7/8 in. (15 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Prayers in Code: Books of Hours from Renaissance France",
+            "ExhibBeginDate": "2009-04-25",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "April 25, 2009-July 19, 2009",
+            "ExhibEndDate": "2009-07-19",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2117,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Prayers in Code: Books of Hours from Renaissance France. The Walters Art Museum, Baltimore. 2009."
+        },
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36196,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/POP_92.82.n_OpnRev_DD_VA08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/POP_92.82.n_OpnRev_DD_VA08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/POP_92.82.n_OpnRev_DD_VA08.jpg",
+                "Small": "http://static.thewalters.org/images/POP_92.82.n_OpnRev_DD_VA08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/POP_92.82.n_OpnRev_DD_VA08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 59935,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/KPS_92.82_M8r_DD_111220081.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/KPS_92.82_M8r_DD_111220081.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/KPS_92.82_M8r_DD_111220081.jpg",
+                "Small": "http://static.thewalters.org/images/KPS_92.82_M8r_DD_111220081.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/KPS_92.82_M8r_DD_111220081.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        },
+        {
+            "ID": 59936,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/KPS_92.82_M8v_DD_111220081.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/KPS_92.82_M8v_DD_111220081.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/KPS_92.82_M8v_DD_111220081.jpg",
+                "Small": "http://static.thewalters.org/images/KPS_92.82_M8v_DD_111220081.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/KPS_92.82_M8v_DD_111220081.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 101
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "woodcut print on parchment between red velvet",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2437,
+        "LocationString": null
+    },
+    "ObjectID": 26617,
+    "ObjectName": "rare books",
+    "ObjectNumber": "92.82",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore, after 1894 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26617",
+    "SortNumber": "    92    82                                            ",
+    "Style": null,
+    "Title": "Book of Hours"
+}

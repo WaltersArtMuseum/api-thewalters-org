@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": "Roman",
+    "DateBeginYear": 158,
+    "DateEndYear": 180,
+    "DateText": "ca. AD 170-180",
+    "Description": "Prior to the Roman Period, the likeness of the deceased on the mummy mask, coffin, and sarcophagus was an idealized representation that conformed to the general style of the period. With the arrival of Roman rule in Egypt, mummy portraits became increasingly naturalistic. The new style of portraiture was sometimes rendered in two-dimensional paintings on a wood panel or on linen. The panel portraits were made in either tempera paint or in encaustic, like this example. Encaustic painting is a technique in which the pigment is dissolved in wax before it is applied to the surface.",
+    "Dimensions": "H: 15 15/16 x W: 7 7/8 in. (40.5 x 20 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Focus on Art",
+            "ExhibBeginDate": "1983-05-24",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "May 24, 1983-July 15, 1983",
+            "ExhibEndDate": "1983-07-15",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2273,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Focus on Art. The Walters Art Gallery, Baltimore. 1983."
+        },
+        {
+            "ExhTitle": "Beyond the Pharaohs: Egypt and the Copts in the Second to Seventh Centuries A.D.",
+            "ExhibBeginDate": "1989-02-10",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "February 10, 1989-July 16, 1989",
+            "ExhibEndDate": "1989-07-16",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2718,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Beyond the Pharaohs: Egypt and the Copts in the Second to Seventh Centuries A.D.. Museum of Art, Rhode Island School of Design, Providence; The Walters Art Gallery, Baltimore. 1989."
+        },
+        {
+            "ExhTitle": "Transitions to Christianity",
+            "ExhibBeginDate": "2011-12-07",
+            "ExhibBeginYear": 2011,
+            "ExhibDisplayDate": "December 07, 2011 - May 14, 2012",
+            "ExhibEndDate": "2012-05-14",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 2821,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Transitions to Christianity. Alexander S. Onassis Public Benefit Foundation (USA), New York. 2011-2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9985,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_32.6_Fnt_TR_T01.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_32.6_Fnt_TR_T01.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_32.6_Fnt_TR_T01.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_32.6_Fnt_TR_T01.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_32.6_Fnt_TR_T01.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "portrait; funerary; male",
+    "Medium": "encaustic on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3777,
+        "LocationString": null
+    },
+    "ObjectID": 7962,
+    "ObjectName": "mummy portraits; death masks",
+    "ObjectNumber": "32.6",
+    "OnView": 1,
+    "Period": "Roman Imperial",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown] [as from Fayum]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.487",
+    "Reign": "Marcus Aurelius",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7962",
+    "SortNumber": "    32     6                                            ",
+    "Style": null,
+    "Title": "Mummy Portrait of a Bearded Man"
+}

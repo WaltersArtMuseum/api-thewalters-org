@@ -1,0 +1,111 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1814,
+    "DateEndYear": 1815,
+    "DateText": "1230 AH/AD 1814-1815 (?)",
+    "Description": "Walters manuscript W.567 is a small illuminated single-volume copy of the Qur'an, likely produced in Iran. A date is inscribed on the final page, which is interpreted as 1230 AH/AD 1814-1815 (fol. 186b). The manuscript opens with an illuminated double-page incipit with the verses of chapter 1 (Surat al-fatihah) and the initial verses of chapter 2 (Surat al-baqarah), decorated with interlinear illumination (fols. 1b-2a). The text is in vocalized Naskh script in black ink with reading marks in red and text divisions, such as 30 verses (juz') or 60 verses (hizb), in the margins. Illuminated discs with colored dots separate the verses. Chapter headings are in Riqa' script in red ink on a gold ground. The 19th-century lacquer binding with a floral composition on a gold field on the upper and lower boards seems to be contemporary with the manuscript. The insides of both boards are painted with a lobed yellow central medallion and pendants on an orange field.",
+    "Dimensions": "Folio H: 5 5/16 x W: 3 1/8 in. (13.5 x 8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23232,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Book; Calligraphy; Codex; Headpiece; Illumination; Manuscript; Iran; Scripture",
+    "Medium": "ink and pigments on cream laid paper covered with lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2334,
+        "LocationString": null
+    },
+    "ObjectID": 30819,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.567",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79961,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79962,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79963,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79964,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79965,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82682,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82683,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82684,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82685,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82686,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30819",
+    "SortNumber": "W        567                                            ",
+    "Style": null,
+    "Title": "Qur'an"
+}

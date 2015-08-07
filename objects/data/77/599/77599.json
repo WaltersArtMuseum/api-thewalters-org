@@ -1,0 +1,119 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": "This alphabet book, a repository of foliate patterns and letter designs, may have served as a pattern book used by a scribe to demonstrate his skills or to delight a collector interested in illumination or script. The carefully rendered flora and fauna, such as the iris and butterfly that embellish the letter L and the blue-flowered delphinium found in the illuminated M on the facing page, recall the precision of the flora depicted in contemporary herbal works.",
+    "Dimensions": "folio: 4 5/16 x 2 15/16 in. (11 x 7.5 cm);\r\ninitial: 2 3/8 x 2 3/8 in. (6 x 6 cm) approx.",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "The Gothic Revival: The Illuminated Manuscript in Medieval and Modern Times",
+            "ExhibBeginDate": "1991-01-08",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "January 8, 1991-April 7, 1991",
+            "ExhibEndDate": "1991-04-07",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 93,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Gothic Revival: The Illuminated Manuscript in Medieval and Modern Times. The Walters Art Gallery, Baltimore. 1991."
+        },
+        {
+            "ExhTitle": "The Artful Book: Selections from a Contemporary Collection of Books by Artists",
+            "ExhibBeginDate": "2002-11-16",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "November 16, 2002-February 23, 2003",
+            "ExhibEndDate": "2003-02-23",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 173,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Artful Book: Selections from a Contemporary Collection of Books by Artists. The Walters Art Museum, Baltimore. 2002-2003."
+        },
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10122,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.200.18R_OpnObv_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.200.18R_OpnObv_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.200.18R_OpnObv_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.200.18R_OpnObv_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.200.18R_OpnObv_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77599,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.200.18R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77599",
+    "SortNumber": "W        200   18R                                      ",
+    "Style": null,
+    "Title": "Illuminated Initial M"
+}

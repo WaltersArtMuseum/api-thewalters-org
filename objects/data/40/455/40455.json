@@ -1,0 +1,96 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase [formerly part of the Walters Collection], 1941",
+    "Culture": null,
+    "DateBeginYear": -600,
+    "DateEndYear": -401,
+    "DateText": "6th-5th century BC",
+    "Description": "This ring, with its flat leaf-shaped bezel and rounded hoop, is the typical Archaic form and remains the only usual shape until the middle of the 5th century BC.",
+    "Dimensions": "W of Bezel: 9/16 (1.43 cm); Diam of Hoop: 5/8 in. (1.59 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54697,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_57.1637_Fnt_BW_C79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_57.1637_Fnt_BW_C79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_57.1637_Fnt_BW_C79.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_57.1637_Fnt_BW_C79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_57.1637_Fnt_BW_C79.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 816,
+        "LocationString": null
+    },
+    "ObjectID": 40455,
+    "ObjectName": "rings",
+    "ObjectNumber": "57.1637",
+    "OnView": 0,
+    "Period": "Archaic",
+    "Provenance": "Henry Walters, New York [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Mrs. Henry Walters Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 6039,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 22368,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 40399,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/40455",
+    "SortNumber": "    57  1637                                            ",
+    "Style": null,
+    "Title": "Gold Ring"
+}

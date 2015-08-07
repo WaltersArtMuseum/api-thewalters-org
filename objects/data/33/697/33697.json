@@ -1,0 +1,110 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "'Abd Allah ibn Fadl",
+            "CreatorID": 7700,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Dioscorides Pedanius, of Anazarbos",
+            "CreatorID": 7876,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1224,
+    "DateEndYear": 1224,
+    "DateText": "Rajab 621 AH/AD 1224",
+    "Description": "Walters leaf W.675 is a single leaf from a dispersed manuscript (Aya Sofya 3703, later Top Kapi Seray 2147) of the Arabic version of De materia medica by Dioscorides (active ca. 65) that was copied in 621 AH/AD 1224 in Baghdad. Approximately 30 illustrations were removed from this parent manuscript that are now in public and private collections. The Walters' leaf depicts two doctors preparing medicine. A funnel is set on a tripod over a vessel. The two men preparing the medicinal draught stand on either side of the tripod beside two fruit trees. The text is written in partially vocalized Naskh script in brownish-black and red ink.",
+    "Dimensions": "H: 13 3/16 x W: 9 13/16 in. (33.5 x 24.9 cm); Framed H: 19 5/16 x W: 14 1/4 in. (49 x 36.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Baghdad\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489364,
+            "GeographyTerm": "Baghdad",
+            "Latitude": "33 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.35,
+            "Longitude": "044 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Baghdad\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489364,
+            "GeographyTerm": "Baghdad",
+            "Latitude": "33 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.35,
+            "Longitude": "044 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42579,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Illustration; Manuscript; Iraq; Science",
+    "Medium": "ink, pigments and gold leaf on thick, laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4057,
+        "LocationString": null
+    },
+    "ObjectID": 33697,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.675",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84223,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84224,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/33697",
+    "SortNumber": "W        675                                            ",
+    "Style": null,
+    "Title": "Single Leaf from the Arabic Version of Dioscorides' De materia medica"
+}

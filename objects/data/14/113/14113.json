@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Michele Rocca (Italian, ca. 1670-ca. 1751)",
+            "CreatorID": 6655,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1670,
+    "DateEndYear": 1751,
+    "DateText": "1670-1751",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 401, p. 512.",
+    "Dimensions": "Painted surface H: 8 11/16 x W: 6 7/8 in. (22 x 17.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37124,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1727_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1727_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1727_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1727_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1727_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2041,
+        "LocationString": null
+    },
+    "ObjectID": 14113,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1727",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 485, as Murillo]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 29053,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/14113",
+    "SortNumber": "    37  1727                                            ",
+    "Style": null,
+    "Title": "St. Gregory the Great Releasing a Soul from Purgatory"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1001,
+    "DateEndYear": 1025,
+    "DateText": "early 11th century",
+    "Description": null,
+    "Dimensions": "4 13/16 x 3 9/16 in. (12.3 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\D\u00fcsseldorf\\inhabited places\\Essen\\neighborhoods\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1453135,
+            "GeographyTerm": "Werden",
+            "Latitude": "51 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.383,
+            "Longitude": "007 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 7.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37600,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.5.95R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.5.95R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.5.95R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.5.95R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.5.95R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 20953,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.5.95R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Werden, early 11th century (?);  Abbot Duden, St. Liudger,  Helmstadt, ca. 1573 [mode of acquisition unknown];  Stephanus Campmann, Benedictine Abbey, Werden, 1597 [mode of acquisition unknown];  Prior Heinrich Meibom,  St. Liudger,  Helmstadt, prior to 1625 [mode of acquisition unknown];  L\u00e9on  Gruel, Paris, late 19th century [mode of acquisition unknown];  Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20953",
+    "SortNumber": "W          5   95R                                      ",
+    "Style": "Romanesque",
+    "Title": "Leaf from Gospels"
+}

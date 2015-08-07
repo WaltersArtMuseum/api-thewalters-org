@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ahmad ibn Muhammad Ghaffari (died 975 AH/AD 1567-1568)",
+            "CreatorID": 19381,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1569,
+    "DateEndYear": 1569,
+    "DateText": "5 Shawwal 976 AH/AD 1569",
+    "Description": "Walters manuscript W.598 is an illuminated and illustrated Safavid copy of the History of Nigaristan (Iran), known as Kitab-i Nigaristan or Tarikh-i Nigaristan by Ahmad Ghaffari (died 975 AH/AD 1567-1568). The colophon indicates that it was completed on 5 Shawwal 976 AH/AD 1569. The manuscript opens with a double-page illuminated frontispiece, and there are 8 paintings illustrating the text in a style that has been associated with the school of painting at Shiraz. The dark brown/black leather binding, which is contemporary with the manuscript, has a large central panel with oval and pendants. The border is comprised of cartouches alternating with roundels. All are gold-brushed and decorated with floral and cloud motifs.",
+    "Dimensions": "Folio H: 12 3/16 x W: 7 1/16 in. (31 x 18 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Elephants",
+            "ExhibBeginDate": "1987-09-01",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "September 1, 1987-February 7, 1988",
+            "ExhibEndDate": "1988-02-07",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2871,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Elephants. The Walters Art Gallery, Baltimore. 1987-1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34887,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.598_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.598_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.598_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.598_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.598_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Codex; Illumination; Illustration; Manuscript; Original Binding; Iran; History",
+    "Medium": "ink and pigments on laid paper covered with dark brown/black leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2335,
+        "LocationString": null
+    },
+    "ObjectID": 33006,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.598",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33006",
+    "SortNumber": "W        598                                            ",
+    "Style": null,
+    "Title": "History of Nigaristan"
+}

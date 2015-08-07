@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "British",
+            "CreatorID": 16295,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1943",
+    "Culture": null,
+    "DateBeginYear": 1785,
+    "DateEndYear": 1790,
+    "DateText": "1785-90",
+    "Description": null,
+    "Dimensions": "24 x 21 5/8 in. (61 x 55 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Portraits Re-Examined: Dawoud Bey Project",
+            "ExhibBeginDate": "2008-12-06",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "December 6, 2008-February 16, 2009",
+            "ExhibEndDate": "2009-02-16",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2102,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Portraits Re-Examined: Dawoud Bey Project. The Walters Art Museum, Baltimore. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\island groups\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1419634,
+            "GeographyTerm": "British Isles",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11055,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1985_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1985_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1985_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1985_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1985_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3341,
+        "LocationString": null
+    },
+    "ObjectID": 16344,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1985",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Walters Art Museum, 1943, by purchase.",
+    "PublicAccessDate": "2008-12-01T14:19:43.74",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16344",
+    "SortNumber": "    37  1985                                            ",
+    "Style": null,
+    "Title": "Portrait of a Lady Wearing an Elaborate Hat"
+}

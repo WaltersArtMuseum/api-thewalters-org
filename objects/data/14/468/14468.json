@@ -1,0 +1,75 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -690,
+    "DateEndYear": -610,
+    "DateText": "ca. 670 BC-640 BC",
+    "Description": "During mummification, the internal organs of the deceased were removed from the body and placed in a set of four special containers, the so-called canopic jars. The lids of the jars depicted the heads of a hawk, a human, a jackal, and a baboon, each associated with one of the four \"Sons of Horus,\" the deities responsible for protecting the organs. Responsible for the liver was the human-headed Imsety, while the hawk-headed Kebehsenuef protected the intestines.",
+    "Dimensions": "H: 9 7/16 x W: 5 1/4 in. (24 x 13.4 cm)",
+    "Dynasty": "late 25th-26th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52899,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_41.88_Fnt_BW_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_41.88_Fnt_BW_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_41.88_Fnt_BW_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_41.88_Fnt_BW_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_41.88_Fnt_BW_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "limestone with paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4516,
+        "LocationString": null
+    },
+    "ObjectID": 14468,
+    "ObjectName": "canopic jars",
+    "ObjectNumber": "41.88",
+    "OnView": 1,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-18T23:00:04.22",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 4034,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/14468",
+    "SortNumber": "    41    88                                            ",
+    "Style": null,
+    "Title": "Canopic Jar"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": "Russian",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "These exquisite panels form a group called a \"Deesis\" (\"prayer\" or \"entreaty\"), in which Christ is flanked by the Virgin and John the Baptist, who plead with him for mercy on behalf of humankind.  Although the arrangement and choice of figures are Byzantine in origin, the simple and almost melancholy style of the painting identifies the artist as Russian.  The three panels originally had revetments of chiselled gold or silver which covered their white unpainted background.",
+    "Dimensions": "12 1/4 x 10 3/16 x 13/16 in. (31.1 x 25.8 x 2.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51163,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.568_VwA_BW_H56.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.568_VwA_BW_H56.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.568_VwA_BW_H56.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.568_VwA_BW_H56.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.568_VwA_BW_H56.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3831,
+        "LocationString": null
+    },
+    "ObjectID": 34661,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.568",
+    "OnView": 1,
+    "Period": "early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris, by purchase; Henry Walters, Baltimore, 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 19614,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 24703,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 37557,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/34661",
+    "SortNumber": "    37   568                                            ",
+    "Style": null,
+    "Title": "Three-Panel Icon with the \"Deesis\""
+}

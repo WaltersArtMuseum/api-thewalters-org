@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1957",
+    "Culture": null,
+    "DateBeginYear": -1100,
+    "DateEndYear": -700,
+    "DateText": "1100-700 BC",
+    "Description": "The elongated spout of this vessel is bird-shaped, with the head of the bird curving back towards its tail. The imaginative shape is typical of Iranian ceramics of this period.",
+    "Dimensions": "7 x 12 5/8 x 8 in. (17.8 x 32 x 20.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507958,
+            "GeographyTerm": "Lorestan",
+            "Latitude": "33 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.5,
+            "Longitude": "048 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 48.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29619,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2093_LftSide_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2093_LftSide_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2093_LftSide_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2093_LftSide_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2093_LftSide_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 29617,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2093_3Qtr_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2093_3Qtr_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2093_3Qtr_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2093_3Qtr_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2093_3Qtr_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 29618,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2093_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2093_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2093_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2093_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2093_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3730,
+        "LocationString": null
+    },
+    "ObjectID": 25946,
+    "ObjectName": "jugs",
+    "ObjectNumber": "48.2093",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "E. Hollis Hopkins, Baltimore; Walters Art Museum, 1957, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.203",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25946",
+    "SortNumber": "    48  2093                                            ",
+    "Style": null,
+    "Title": "Beaked Jug"
+}

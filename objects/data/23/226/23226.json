@@ -1,0 +1,87 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Seki Rinsh\u00f4 (Japanese, ca. 1750-1775)",
+            "CreatorID": 6035,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1738,
+    "DateEndYear": 1787,
+    "DateText": "ca. 1750-1775",
+    "Description": "A Chinese sage is shown on the left, carrying a staff. A page boy is on the right carrying a \"qin\" (a type of zither). This is part of a set with Walters 51.972.",
+    "Dimensions": "1 5/16 in. (3.3 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kyushu-chiho\\prefectures\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493617,
+            "GeographyTerm": "Kagoshima-ken",
+            "Latitude": "30 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.0,
+            "Longitude": "130 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 130.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15492,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.973_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.973_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.973_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.973_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.973_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "Chinese; Sennin",
+    "Medium": "shakudo, copper, shibuichi, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 23226,
+    "ObjectName": "kashira; sword components; handles",
+    "ObjectNumber": "51.973",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-21T15:39:04.713",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 17603,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/23226",
+    "SortNumber": "    51   973                                            ",
+    "Style": null,
+    "Title": "Kashira with a Chinese Sage and his Attendant"
+}

@@ -1,0 +1,101 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Giovanni Antonio da Brescia (Italian, ca. 1460-ca. 1520)",
+            "CreatorID": 15491,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Baldassare Manara (Italian, active ca. 1526-1547)",
+            "CreatorID": 6384,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1508,
+    "DateEndYear": 1559,
+    "DateText": "ca. 1520-1547",
+    "Description": "The dramatic subject matter is based on an engraving by Giovanni Antonio da Brescia (1490-1525) reproducing a relief from an ancient Roman sarcophagus. Baldassare Manara, one of the most prominent maiolica painters of the 16th century, has not just copied the print but has added new character to the scene by placing the figures in a landscape filled with rocks, trees, and strange buildings. To Manara's audience, the subject of a lion hunt would have evoked a heroic ancient past.",
+    "Dimensions": "10 13/16 in. (27.4 cm) (w.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Amico Aspertini 1475-1552 e il suo tempo",
+            "ExhibBeginDate": "2008-09-27",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "September 27, 2008-January 11, 2009",
+            "ExhibEndDate": "2009-01-11",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1988,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Amico Aspertini 1475-1552 e il suo tempo. Pinacoteca Nazionale di Bologna, 40126  Bologna. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Ravenna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439774,
+            "GeographyTerm": "Faenza",
+            "Latitude": "44 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.283,
+            "Longitude": "011 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.883
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Ravenna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439774,
+            "GeographyTerm": "Faenza",
+            "Latitude": "44 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.283,
+            "Longitude": "011 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6491,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.1499_Fnt_TR_T96III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.1499_Fnt_TR_T96III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.1499_Fnt_TR_T96III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.1499_Fnt_TR_T96III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.1499_Fnt_TR_T96III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4797,
+        "LocationString": null
+    },
+    "ObjectID": 36602,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.1499",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.74",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36602",
+    "SortNumber": "    48  1499                                            ",
+    "Style": null,
+    "Title": "Dish with Lion Hunt"
+}

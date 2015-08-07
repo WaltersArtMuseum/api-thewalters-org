@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Coptic",
+            "CreatorID": 6833,
+            "Gender": null,
+            "Role": "Potter"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1974",
+    "Culture": "Coptic",
+    "DateBeginYear": 600,
+    "DateEndYear": 699,
+    "DateText": "7th century",
+    "Description": "Ceramic vessels with monochrome painting in a similar style are typical of Christian Egypt. Birds and other animals are often found depicted on them. The meaning of the composition seen on this example is unclear.",
+    "Dimensions": "6 1/2 x 6 1/2 in. (16.5 x 16.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2008-02-27",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "February 27, 2008-January 4, 2009",
+            "ExhibEndDate": "2009-01-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1957,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Museum of Biblical Art, New York; Colby College Museum of Art, Waterville; Joslyn Art Museum, Omaha. 2008-2009."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6555,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2364_Fnt_TR_T01III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2364_Fnt_TR_T01III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2364_Fnt_TR_T01III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2364_Fnt_TR_T01III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2364_Fnt_TR_T01III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 889,
+        "LocationString": null
+    },
+    "ObjectID": 19543,
+    "ObjectName": "dishes",
+    "ObjectNumber": "48.2364",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "David David-Weill, Paris, by purchase; Sale, H\u00f4tel Drouot, Paris, June 6, 1971, no. 22; Charles K. Kelekian, New York, 1971, by purchase; Walters Art Museum, 1974, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:34.94",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19543",
+    "SortNumber": "    48  2364                                            ",
+    "Style": null,
+    "Title": "Dish with a Human Figure and a Bird"
+}

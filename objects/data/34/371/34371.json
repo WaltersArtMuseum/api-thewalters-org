@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1730,
+    "DateEndYear": 1800,
+    "DateText": "1730-1800",
+    "Description": "Design worked in monochrome white paste with bands of lotus, peonies, and lilies.",
+    "Dimensions": "11 3/4 in. (29.8 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5071,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.120_Fnt_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.120_Fnt_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.120_Fnt_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.120_Fnt_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.120_Fnt_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "soft-paste porcelain",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5704,
+        "LocationString": null
+    },
+    "ObjectID": 34371,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.120",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.263",
+    "Reign": "Yongzheng [Yung cheng]-Jiaqing [Chia ch'ing]",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34371",
+    "SortNumber": "    49   120                                            ",
+    "Style": null,
+    "Title": "Gourd-Shaped Vase"
+}

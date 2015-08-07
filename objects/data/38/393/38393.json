@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1201,
+    "DateEndYear": 1300,
+    "DateText": "13th century",
+    "Description": "This tile features a winged griffin and two figures.",
+    "Dimensions": "5 7/8 x 9 15/16 x 1 in. (15 x 25.2 x 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Esfahan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507777,
+            "GeographyTerm": "Kashan",
+            "Latitude": "33 59",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.983,
+            "Longitude": "051 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 51.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54657,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1739_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1739_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1739_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1739_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1739_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4696,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1739_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1739_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1739_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1739_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1739_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "fritware with underglaze and luster decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Art",
+        "LocationID": 3932,
+        "LocationString": null
+    },
+    "ObjectID": 38393,
+    "ObjectName": "tile",
+    "ObjectNumber": "48.1739",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:21.177",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38393",
+    "SortNumber": "    48  1739                                            ",
+    "Style": null,
+    "Title": "Fritware Tile From a Frieze"
+}

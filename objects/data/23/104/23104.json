@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Byzantine",
+    "DateBeginYear": 500,
+    "DateEndYear": 599,
+    "DateText": "6th century",
+    "Description": "This piece has a globose body with collar of leafage and cover surmounted by a cross.",
+    "Dimensions": "W: 6 1/4 in. (15.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Perif\u00e9reia Protevo\u00fasis\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1431408,
+            "GeographyTerm": "Ath\u00ednai",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "023 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39123,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2355_Rt_BW_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2355_Rt_BW_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2355_Rt_BW_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2355_Rt_BW_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2355_Rt_BW_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 450,
+        "LocationString": null
+    },
+    "ObjectID": 23104,
+    "ObjectName": "lamps",
+    "ObjectNumber": "54.2355",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Joseph Brummer, Paris and New York [date of acquisition unknown], by purchase; Sale, Parke-Bernet, New York, May 11, 1949, no. 300; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23104",
+    "SortNumber": "    54  2355                                            ",
+    "Style": null,
+    "Title": "Lamp"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2001",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1850,
+    "DateText": "1825-1850",
+    "Description": "This is an example of a historical painting that recorded the ceremonies and spectacles of the Rajput court. This genre was popular in 19th-century Rajasthan, particularly with Ram Singh II (r. 1827\u201366), who was the patron of this painting.\r\n\r\nThe wedding procession is depicted here in great detail. The bride's litter, covered with a red cloth, is seen in the center of the painting. In the upper right corner, cannons are being fired in celebration, while fireworks are going off in the upper left.",
+    "Dimensions": "H: 9 3/4 x W: 12 3/16 in. (24.77 x 30.96 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Asian Rotation: 11/2013-2/2014",
+            "ExhibBeginDate": "2013-11-20",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "November 19, 2013 - February 16, 2014",
+            "ExhibEndDate": "2014-02-16",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3285,
+            "LocationID": 4916,
+            "NonWAMExhibition": false,
+            "Textblock": "Asian Rotation: 11/2013-2/2014. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507105,
+            "GeographyTerm": "Rajasthan",
+            "Latitude": "26 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 26.0,
+            "Longitude": "074 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3087,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.883_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.883_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.883_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.883_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.883_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 9694,
+    "ObjectName": "miniatures (paintings)",
+    "ObjectNumber": "W.883",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2001, by gift.",
+    "PublicAccessDate": "2008-09-25T17:09:36.387",
+    "Reign": "Ram Singh II (r. 1827-66)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9694",
+    "SortNumber": "W        883                                            ",
+    "Style": null,
+    "Title": "A Wedding Procession"
+}

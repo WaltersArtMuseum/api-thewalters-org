@@ -1,0 +1,70 @@
+{
+    "Classification": "Coins & Medals",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Palestinian",
+            "CreatorID": 2594,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Jewish",
+    "DateBeginYear": 68,
+    "DateEndYear": 69,
+    "DateText": "AD 68-69",
+    "Description": "This silver shekel is decorated on the obverse with a chalice and the inscription \"The shekel of Isral. Year 3.\" in Aramaic. The reverse has a branch with three flowers and is inscribed \"Jerusalem the holy.\"",
+    "Dimensions": "Diam: 7/8 in. (2.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522053,
+            "GeographyTerm": "Palestine",
+            "Latitude": "31 55",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.916,
+            "Longitude": "035 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54800,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_59.518_Obv_BW_C81.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_59.518_Obv_BW_C81.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_59.518_Obv_BW_C81.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_59.518_Obv_BW_C81.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_59.518_Obv_BW_C81.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] On obverse: The shekel of Israel. Year 3.; [Translation] On reverse: Jerusalem the holy.",
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 515,
+        "LocationString": null
+    },
+    "ObjectID": 4202,
+    "ObjectName": "shekels",
+    "ObjectNumber": "59.518",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquistion unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4202",
+    "SortNumber": "    59   518                                            ",
+    "Style": null,
+    "Title": "Shekel with a Chalice and a Branch"
+}

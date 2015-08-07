@@ -1,0 +1,95 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1899,
+    "DateText": "1775-1899",
+    "Description": null,
+    "Dimensions": "2 5/16 in. (5.8 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55758,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_47.304_Fnt_NF_H75.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_47.304_Fnt_NF_H75.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_47.304_Fnt_NF_H75.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_47.304_Fnt_NF_H75.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_47.304_Fnt_NF_H75.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4635,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_47.304_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_47.304_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_47.304_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_47.304_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_47.304_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red and grayish overlay glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2036,
+        "LocationString": null
+    },
+    "ObjectID": 38575,
+    "ObjectName": "snuff bottles",
+    "ObjectNumber": "47.304",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.17",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38575",
+    "SortNumber": "    47   304                                            ",
+    "Style": null,
+    "Title": "Snuff Bottle with a Horse in a Landscape"
+}

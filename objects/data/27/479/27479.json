@@ -1,0 +1,113 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Fukuda Zenjiro",
+            "CreatorID": 14895,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "Toyohara Kunichika (Japanese, 1835-1900)",
+            "CreatorID": 6301,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Robert S. Shaull, 1990",
+    "Culture": null,
+    "DateBeginYear": 1888,
+    "DateEndYear": 1888,
+    "DateText": "1888",
+    "Description": "One dark and stormy night, the Heian warrior Taira Tadamori saw a strange glowing form flitting from tree to tree on the grounds of a temple in Kyoto. Thinking he would capture a ghost, Tadamori removed his sandals and crept closer, only to discover an old priest replenishing the temple lanterns with a pot of oil. The priest's crude straw rain hat had deceived the warrior.",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51772,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T95.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T95.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T95.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T95.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T95.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56005,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T92.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T92.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T92.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T92.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_95.344_Fnt_BW_T92.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signature] On print: Toyohara Kunichika hitsu",
+    "Keywords": "Kabuki; Ichikawa Danjuro IX; Ichikawa Sadanji I; actor; night; Tadamori; thief; ghost; Kunichika",
+    "Medium": "mulberry paper, pigments, mica",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5303,
+        "LocationString": null
+    },
+    "ObjectID": 27479,
+    "ObjectName": "color woodcuts; triptychs",
+    "ObjectNumber": "95.344",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Robert S. Shaull [date and mode of acquisition unknown]; Walters Art Museum, 1990, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79295,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79296,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79297,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/27479",
+    "SortNumber": "    95   344                                            ",
+    "Style": "Utagawa School",
+    "Title": "Abura Bozu yami yo no kuro zome"
+}

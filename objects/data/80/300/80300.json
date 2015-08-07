@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Inca (?)",
+            "CreatorID": 8560,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John G. Bourne, 2013",
+    "Culture": "Inka (?)",
+    "DateBeginYear": 1400,
+    "DateEndYear": 1534,
+    "DateText": "AD 1400-1534",
+    "Description": null,
+    "Dimensions": "H: 2 1/2 x L: 7 3/16 x W: 3 1/2 in. (6.35 x 18.29 x 8.89 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415238,
+            "GeographyTerm": "Ecuador",
+            "Latitude": "02 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -2.0,
+            "Longitude": "077 30",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -77.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27588,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideA_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideA_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideA_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideA_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideA_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27589,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideB_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideB_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideB_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideB_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.145_SideB_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5547,
+        "LocationString": null
+    },
+    "ObjectID": 80300,
+    "ObjectName": "shells; pectorals",
+    "ObjectNumber": "2009.20.145",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Purchased by John G. Bourne, Santa Fe, New Mexico, 1947 [1]; given to Walters Art Museum, 2013.\r\n\r\n[1] from an ornithologist in Ecuador",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80300",
+    "SortNumber": "  2009    20  145                                       ",
+    "Style": null,
+    "Title": "Shell Effigy Pectoral"
+}

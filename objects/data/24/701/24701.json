@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": "This statuette is of Alexander type.",
+    "Dimensions": "H: 6 3/4 in. (17.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Aspects of Ancient Greece",
+            "ExhibBeginDate": "1979-09-16",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "September 16, 1979-December 29, 1979",
+            "ExhibEndDate": "1979-12-29",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 2868,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Aspects of Ancient Greece. Allentown Museum of Art, Allentown. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58511,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.700_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.700_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.700_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.700_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.700_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 434,
+        "LocationString": null
+    },
+    "ObjectID": 24701,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.700",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24701",
+    "SortNumber": "    54   700                                            ",
+    "Style": null,
+    "Title": "Nude Youth, Seated"
+}

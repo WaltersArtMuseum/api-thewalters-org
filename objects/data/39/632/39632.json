@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Vatican G 23 Group (Greek, ca. 500-480 BC) (?)",
+            "CreatorID": 16426,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1958",
+    "Culture": null,
+    "DateBeginYear": -512,
+    "DateEndYear": -480,
+    "DateText": "ca. 500-480 BC",
+    "Description": "On side A, Athena is striding to the left with a spear in her raised left hand and a shield in her right with a large snake, a popular shield device on Panathenaic vases of the late Archaic period. She is wearing a patterned garment, a high-crested helmet, and the \"aegis,\" from which several snake heads clearly emerge. Two thin columns crowned by roosters frame the scene.\r\n\t\r\nThe reverse shows two young jockeys in high gallop in the heat of the race. Both boys are nude and ride without saddles or stirrups, guiding the horse with their reins. The rider in the back is using a whip in his raised right hand to gain some ground on his opponent. The focus is clearly on the rider on the left, whose horse occupies the composition's foreground, its head partially obscuring the other rider. The prominence of the horse and rider, captured at a decisive moment in the race, may signal the contest's victor. \r\n\t\r\nThe amphora lacks the prize inscription on the front that is characteristic of small-scale copies, created for trade and as commemorative souvenirs, of the Panathenaic prize amphoras (see Bentz 1998, 19-22). Dorothy Hill noted that the piece is stylistically and thematically close to the work of the Eucharides Painter, who painted at least three full-scale Panathenaic prize amphoras depicting two riders competing (Maul-Mandelartz 1990, 105).",
+    "Dimensions": "H: 16 1/8 x Diam: 10 3/8 in. (41 x 26.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heroes: Mortals and Myths in Ancient Greece",
+            "ExhibBeginDate": "2009-10-11",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "October 11, 2009-January 2, 2011",
+            "ExhibEndDate": "2011-01-02",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2089,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heroes: Mortals and Myths in Ancient Greece. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville; San Diego Museum Of Art, San Diego; Alexander S. Onassis Public Benefit Foundation (USA), New York. 2009-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 13473,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2105_SideA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2105_SideA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2105_SideA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2105_SideA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2105_SideA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 13474,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2105_SideB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2105_SideB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2105_SideB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2105_SideB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2105_SideB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 13471,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2105_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2105_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2105_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2105_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2105_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 13472,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2105_DetB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2105_DetB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2105_DetB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2105_DetB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2105_DetB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5815,
+        "LocationString": null
+    },
+    "ObjectID": 39632,
+    "ObjectName": "amphorae; vases",
+    "ObjectNumber": "48.2105",
+    "OnView": 0,
+    "Period": "late Archaic",
+    "Provenance": "St. Audries Collection [date and mode of acquisition unknown]; Sale, Sotheby's, February 23, 1920, no. 230; William Randolph Hearst, San Simeon [date and mode of acquisition unknown]; William Randolph Hearst Estate Sale, May 1958; Walters Art Museum, 1958, by purchase.",
+    "PublicAccessDate": "2009-03-16T15:27:18.38",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39632",
+    "SortNumber": "    48  2105                                            ",
+    "Style": "Attic",
+    "Title": "Black-figure Pseudo-Panathenaic Amphora"
+}

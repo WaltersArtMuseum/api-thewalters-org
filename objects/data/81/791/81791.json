@@ -1,0 +1,93 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "James Clarence Callowhill (American, 1865-1927)",
+            "CreatorID": 18740,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "James Callowhill (American, 1838-1917)",
+            "CreatorID": 18739,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Commissioned by William T. Walters, 1889",
+    "Culture": null,
+    "DateBeginYear": 1889,
+    "DateEndYear": 1896,
+    "DateText": "1889-1896",
+    "Description": null,
+    "Dimensions": "H: 18 x W: 10 1/2 in. (45.7 x 26.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40853,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2903_Fp_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2903_Fp_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2903_Fp_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2903_Fp_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2903_Fp_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Roman numeral] Front, upper left: XLV; [Numbers] Front, in grid along left edge: 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12 / 13 / 14 / 15 / 16 / 17 / 18 / 19;  [Signature] Front, bottom right: Jas & J C Callowhill; [Numbers] Back: p. 14 / 49.1966 / pl. XCVI",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5457,
+        "LocationString": null
+    },
+    "ObjectID": 81791,
+    "ObjectName": "watercolors; paintings",
+    "ObjectNumber": "37.2903",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1889, by commission; Henry Walters, Baltimore, 1894, by inheritance [the watercolors were not completed until between 1895 and 1897, when Henry Walters finally took possession of them]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-07-25T22:00:00.683",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 35524,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/81791",
+    "SortNumber": "    37  2903                                            ",
+    "Style": null,
+    "Title": "Statuette"
+}

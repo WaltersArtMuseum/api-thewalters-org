@@ -1,0 +1,104 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1575,
+    "DateEndYear": 1900,
+    "DateText": "Folio: late 10th century AH/AD 16th century; Borders: 13th century AH/AD 19th century",
+    "Description": "This single leaf of a battle scene, Walters manuscript leaf W.683, comes from an illustrated Baburnamah (Memoirs of Babur) executed in Mughal India during the late 10th century AH/AD 16th. The text, written in black Nasta'liq script, comes from a description of the events of the year 901 AH/AD 1495-1496. It describes how Sayyidim, Quli Baba, and several warriors were unhorsed in battle and how news of their fate reached Sultan Husayn Mirza (died 911 AH/AD 1506). The polychrome borders surrounding this page date to the 13th century AH/AD 19th.",
+    "Dimensions": "H: 11 13/16 x W: 9 5/8 in. (30 x 24.5 cm); Image H: 9 1/2 x W: 5 11/16 in. (24.2 x 14.5 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Splendor in Books",
+            "ExhibBeginDate": "1977-12-20",
+            "ExhibBeginYear": 1977,
+            "ExhibDisplayDate": "December 20, 1977-March 19, 1978",
+            "ExhibEndDate": "1978-03-15",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 683,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Splendor in Books. Grolier Club, New York; The Walters Art Gallery, Baltimore. 1977-1978."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38775,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.683.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.683.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.683.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.683.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.683.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Illustration; Miniature; Painting; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6427,
+        "LocationString": null
+    },
+    "ObjectID": 9015,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.683",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83882,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83883,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9015",
+    "SortNumber": "W        683                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Battle Scene from the Baburnamah"
+}

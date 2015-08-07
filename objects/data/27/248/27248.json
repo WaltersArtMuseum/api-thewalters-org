@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": -1550,
+    "DateEndYear": -1307,
+    "DateText": "1550-1307 BC",
+    "Description": "This life sized steatite fish, glazed a deep blue green color, which represents the tilapia nilotica or \"bolti\" fish. It appears that details such as the fins, gills and eyes were carved into the stone prior to glazing. A hole has been bored in the mouth region, emerging underneath the gills on the underside of the fish; this hole may have accommodated a rope or wire of some kind. The glaze has been rubbed off in the mouth region. This fish may have served as a vessel or ritual object.",
+    "Dimensions": "H: 6 5/8 in. (16.8 cm)",
+    "Dynasty": "18th Dynasty (?)",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Egypt's Golden Age: The Art of Living in the New Kingdom (1558-1085 B.C.)",
+            "ExhibBeginDate": "1982-02-03",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "February 3, 1982-January 2, 1983",
+            "ExhibEndDate": "1983-01-02",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2682,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Egypt's Golden Age: The Art of Living in the New Kingdom (1558-1085 B.C.). Museum of Fine Arts, Boston, Boston; Houston Museum of Natural Science, Houston; The Walters Art Gallery, Baltimore. 1982-1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57819,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1534_Fnt_BW_C79.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1534_Fnt_BW_C79.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1534_Fnt_BW_C79.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1534_Fnt_BW_C79.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1534_Fnt_BW_C79.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "steatite with blue and green glazes",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 27248,
+    "ObjectName": "figurines",
+    "ObjectNumber": "48.1534",
+    "OnView": 1,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27248",
+    "SortNumber": "    48  1534                                            ",
+    "Style": null,
+    "Title": "Tilapia Fish"
+}

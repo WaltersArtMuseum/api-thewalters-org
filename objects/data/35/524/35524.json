@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Inoue Ryosai (Japanese, born 1828)",
+            "CreatorID": 5935,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1876",
+    "Culture": null,
+    "DateBeginYear": 1864,
+    "DateEndYear": 1888,
+    "DateText": "ca. 1876",
+    "Description": "This figurine (\"okimono\") depicts Takenouchi No Sukune, who was the Great Imperial General of 4th Century Japan.",
+    "Dimensions": "17 15/16 in. (45.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Centennial Exhibition Philadelphia",
+            "ExhibBeginDate": "1876-01-01",
+            "ExhibBeginYear": 1876,
+            "ExhibDisplayDate": "May 10, 1876- November 10, 1876",
+            "ExhibEndDate": "1876-11-10",
+            "ExhibEndYear": 1876,
+            "ExhibitionID": 244,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Centennial Exhibition Philadelphia. Memorial Hall, Philadelphia, Philadelphia. 1876."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490374,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5172,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1966_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1966_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1966_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1966_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1966_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Subject] Dai Nihon Tokyo Inoue Ryosai tsukuru; [Translation] Made by Inoue Ryosai, Tokyo, Great Japan",
+    "Keywords": null,
+    "Medium": "porcelain with transparent glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1531,
+        "LocationString": null
+    },
+    "ObjectID": 35524,
+    "ObjectName": "okimono;sculpture",
+    "ObjectNumber": "49.1966",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Centennial Exhibition, Philadelphia, 1876 [said to have been made especially for the Exposition in Bushell, 1899]; William T. Walters, Baltimore, 1876 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.933",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35524",
+    "SortNumber": "    49  1966                                            ",
+    "Style": null,
+    "Title": "Figurine (\"Okimono\") of Takenouchi No Sukune"
+}

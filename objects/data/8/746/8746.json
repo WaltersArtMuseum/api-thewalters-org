@@ -1,0 +1,83 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1875,
+    "DateText": "1775-1875",
+    "Description": null,
+    "Dimensions": "2 1/4 in. (5.7 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Snuff Bottles",
+            "ExhibBeginDate": "1979-08-01",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "August 1, 1979-December 16, 1979",
+            "ExhibEndDate": "1979-12-16",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 2867,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Snuff Bottles. Flint Institute of Arts, Flint. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51189,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_41.190_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_41.190_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_41.190_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_41.190_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_41.190_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "carved gray agate in flat relief",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2036,
+        "LocationString": null
+    },
+    "ObjectID": 8746,
+    "ObjectName": "snuff bottle",
+    "ObjectNumber": "41.190",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8746",
+    "SortNumber": "    41   190                                            ",
+    "Style": null,
+    "Title": "Snuff Bottle with Goats"
+}

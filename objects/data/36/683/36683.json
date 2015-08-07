@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Babylonian",
+            "CreatorID": 7023,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. John Girwood in memory of her husband, Dr. John Girwood, 1951",
+    "Culture": null,
+    "DateBeginYear": -561,
+    "DateEndYear": -537,
+    "DateText": "ca. 549 BC",
+    "Description": "This small tablet was part of the economic archives of the temple of the sky-god Anu and fertility-goddess Ishtar at Uruk. It records the stipend paid to Ardi-Inninni, son of Ibni-Ishtar of the business firm of Bel-ili on the 2nd day of the month of Tebet in the 6th year of the reign of King Nabonidus (ca. 549 BC).",
+    "Dimensions": "H: 1 1/8 x W: 1 9/16 x D: 5/8 in. (2.9 x 4 x 1.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Dhi Qar\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489379,
+            "GeographyTerm": "Warka",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32571,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2030_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2030_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2030_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2030_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2030_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "baked clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3729,
+        "LocationString": null
+    },
+    "ObjectID": 36683,
+    "ObjectName": "tablets",
+    "ObjectNumber": "48.2030",
+    "OnView": 1,
+    "Period": "Neo-Babylonian; Ur III",
+    "Provenance": "Mrs. John Girwood [date and mode of acquisition unknown]; Walters Art Museum, 1951, by gift.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": "Nabonidus (556-539 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36683",
+    "SortNumber": "    48  2030                                            ",
+    "Style": null,
+    "Title": "Economic Document"
+}

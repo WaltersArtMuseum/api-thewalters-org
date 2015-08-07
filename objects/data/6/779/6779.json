@@ -1,0 +1,131 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": "Roman",
+    "DateBeginYear": 1,
+    "DateEndYear": 50,
+    "DateText": "early 1st century",
+    "Description": "The Greek inscription on this amber-colored, cylinder-shaped vessel has a reversed letter N, a common mistake for an artisan writing on a mold.  Wreaths, palm branches, and the inscription, reading \"Take the victory,\" indicate that the vessel was made to celebrate a contest or honor.",
+    "Dimensions": "2 11/16 x 2 3/4 in. (6.8 x 6.9 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1499705,
+            "GeographyTerm": "Suriyah",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "038 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 38.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33360,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.55_SideA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.55_SideA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.55_SideA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.55_SideA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.55_SideA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33361,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.55_SideB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.55_SideB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.55_SideB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.55_SideB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.55_SideB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33362,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.55_SideC_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.55_SideC_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.55_SideC_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.55_SideC_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.55_SideC_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33363,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.55_SideD_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.55_SideD_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.55_SideD_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.55_SideD_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.55_SideD_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 33359,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.55_Bot_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.55_Bot_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.55_Bot_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.55_Bot_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.55_Bot_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": "[Translation] Take the victory",
+    "Keywords": null,
+    "Medium": "molded glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1720,
+        "LocationString": null
+    },
+    "ObjectID": 6779,
+    "ObjectName": "vases;vessels",
+    "ObjectNumber": "47.55",
+    "OnView": 0,
+    "Period": "Augustan",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.8",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6779",
+    "SortNumber": "    47    55                                            ",
+    "Style": null,
+    "Title": "Glass Cup with Wreaths"
+}

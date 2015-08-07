@@ -1,0 +1,242 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pir 'Ali al-Jami (Islamic, active 16th century)",
+            "CreatorID": 18179,
+            "Gender": "male",
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Hatifi (Islamic, died 927 AH/AD 1520)",
+            "CreatorID": 18178,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.648 is a Safavid illuminated and illustrated copy of the History of Timur (Tamerlane) (reigned 706 AH/AD 1370-807 AH/AD 1405), known as Timurnamah or Zafarnamah, composed by 'Abd Allah Hatifi (died 927 AH/AD 1520) and written in imitation of Nizami's Iskandarnamah. It was copied by Pir 'Ali al-Jami in the 10th century AH/AD 16th. The manuscript opens with a double-page illuminated frontispiece (fols. 4b-5a) and is illustrated with 2 paintings (fols. 37a and 75b). One painting depicts Timur at court and the other portrays Timur defeating the Khan of the Kipchaqs. The green leather binding with inner boards lined with ikat textile is attributable to the13th century AH/AD 19th.",
+    "Dimensions": "Folio H: 9 1/4 x W: 5 1/2 in. (23.5 x 14 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "The Royal Style",
+            "ExhibBeginDate": "1988-11-29",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 29, 1988-February 12, 1989",
+            "ExhibEndDate": "1989-02-08",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2714,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Royal Style. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28417,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28418,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_upperboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_upperboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_upperboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_upperboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_upperboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 28419,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_lowerboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_lowerboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_lowerboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_lowerboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Int_DD_lowerboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 28420,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_lowerboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_lowerboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_lowerboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_lowerboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_lowerboardoutside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 28421,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Top_DD_head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Top_DD_head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Top_DD_head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Top_DD_head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Top_DD_head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 28422,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Bot_DD_tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 28423,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 28424,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_foreedge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_foreedge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_foreedge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_foreedge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648.binding_Fnt_DD_foreedge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 33834,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.648_TopExt_DD_UBO.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.648_TopExt_DD_UBO.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.648_TopExt_DD_UBO.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.648_TopExt_DD_UBO.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.648_TopExt_DD_UBO.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; History",
+    "Medium": "ink and pigments on laid paper covered with green leather with ikat textile",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2342,
+        "LocationString": null
+    },
+    "ObjectID": 29593,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.648",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "al-'abd Yar \u2026 (?) ibn Aq Muhammad, 1019 AH/AD 1610-1611 [mode of acquisition unknown] [seal impression on fol. 166a]; Anonymous owner, Rajab 1269 AH/AD 1853 [mode of acquisition unknown] [seal impression on fol. 4a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81300,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81301,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81302,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81308,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81309,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83861,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90953,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91116,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/29593",
+    "SortNumber": "W        648                                            ",
+    "Style": null,
+    "Title": "Epic of Timur"
+}

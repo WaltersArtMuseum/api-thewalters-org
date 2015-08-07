@@ -1,0 +1,87 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": "The fuchi is shaped like the rim of a large sake barrel. Overflowing sake is shown in gold. Also depicted are a ladle for getting sake and a gold fan. The bucket of the ladle is made of silver and has a wave pattern that is repeated on the matching kashira. This is part of a set with Walters 51.989.",
+    "Dimensions": "1 9/16 in. (3.9 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15520,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.988_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.988_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.988_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.988_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.988_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15519,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.988_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.988_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.988_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.988_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.988_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "Shojo; sake",
+    "Medium": "silver, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 13986,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.988",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-14T09:56:07.757",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 35472,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/13986",
+    "SortNumber": "    51   988                                            ",
+    "Style": null,
+    "Title": "Fuchi with Sake Barrel, Ladle and Fan"
+}

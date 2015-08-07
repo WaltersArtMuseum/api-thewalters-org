@@ -1,0 +1,118 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911 (?)",
+    "Culture": null,
+    "DateBeginYear": -1648,
+    "DateEndYear": -1539,
+    "DateText": "1648-1539 BC",
+    "Description": "The underside of this scarab is inscribed with a spiral scroll and lotus blossom motif. Such scarabs were very popular in the Middle Kingdom, and the Hyksos Period. The meaning of the pattern is unclear, but it seems most likely that it expresses general support or protection.",
+    "Dimensions": "H: 5/16 x L: 11/16 x W: 1/2 in. (0.8 x 1.8 x 1.3 cm)",
+    "Dynasty": "15th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522053,
+            "GeographyTerm": "Palestine",
+            "Latitude": "31 55",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.916,
+            "Longitude": "035 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19927,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.16_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.16_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.16_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.16_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.16_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19930,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.16_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.16_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.16_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.16_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.16_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19929,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 19928,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_design_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_design_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_design_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_design_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.16_Bot_DD_design_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "light beige steatite (originally glazed)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Chamber of Wonders",
+        "LocationID": 4418,
+        "LocationString": null
+    },
+    "ObjectID": 19447,
+    "ObjectName": "scarabs; amulets",
+    "ObjectNumber": "42.16",
+    "OnView": 1,
+    "Period": "Second Intermediate; Hyksos; Late MB IIB",
+    "Provenance": "Prof. Newberry (?); Henry Walters, Baltimore, 1911, by purchase (?); Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-11T09:35:05.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19447",
+    "SortNumber": "    42    16                                            ",
+    "Style": null,
+    "Title": "Scarab Amulet"
+}

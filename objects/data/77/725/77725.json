@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1468,
+    "DateEndYear": 1492,
+    "DateText": "ca. 1480-90",
+    "Description": null,
+    "Dimensions": "H: 6 11/16 x W: 4 3/4 in. (17 x 12 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10785,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.439.59R_OpnObv_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.439.59R_OpnObv_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.439.59R_OpnObv_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.439.59R_OpnObv_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.439.59R_OpnObv_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink and tempera",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77725,
+    "ObjectName": "manuscripts; folios (leaves)",
+    "ObjectNumber": "W.439.59R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, after 1894 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-08-04T16:32:01.667",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77725",
+    "SortNumber": "W        439   59R                                      ",
+    "Style": null,
+    "Title": "Leaf from The Hours of Duke Adolph of Cleves"
+}

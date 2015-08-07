@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1473,
+    "DateEndYear": 1497,
+    "DateText": "ca. 1485",
+    "Description": null,
+    "Dimensions": "folio: 5 7/8 x 5 7/8 in. (15 x 15 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437821,
+            "GeographyTerm": "Lombardia",
+            "Latitude": "45 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.666,
+            "Longitude": "009 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2965,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.415_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.415_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.415_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.415_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.415_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6432,
+        "LocationString": null
+    },
+    "ObjectID": 23587,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.415",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Purchased by Henry Walters from Olschki, inv. no. 33057",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23587",
+    "SortNumber": "W        415                                            ",
+    "Style": null,
+    "Title": "Leaf from Antiphonary"
+}

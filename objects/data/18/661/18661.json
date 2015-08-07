@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1876",
+    "Culture": "Chinese",
+    "DateBeginYear": 1735,
+    "DateEndYear": 1795,
+    "DateText": "1735-1795",
+    "Description": "Imitating Song Dynasty Guan ware.",
+    "Dimensions": "8 9/16 in. (21.8 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Centennial Exhibition Philadelphia",
+            "ExhibBeginDate": "1876-01-01",
+            "ExhibBeginYear": 1876,
+            "ExhibDisplayDate": "May 10, 1876- November 10, 1876",
+            "ExhibEndDate": "1876-11-10",
+            "ExhibEndYear": 1876,
+            "ExhibitionID": 244,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Centennial Exhibition Philadelphia. Memorial Hall, Philadelphia, Philadelphia. 1876."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 743,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_49.1154_Prof_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_49.1154_Prof_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_49.1154_Prof_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_49.1154_Prof_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_49.1154_Prof_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with celadon glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5714,
+        "LocationString": null
+    },
+    "ObjectID": 18661,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1154",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Centennial Exhibition, Philadelphia, 1876; William T. Walters, Baltimore, 1876, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest. \r\n",
+    "PublicAccessDate": "2008-09-25T17:09:34.543",
+    "Reign": "Qianlong [Ch'ien lung]",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18661",
+    "SortNumber": "    49  1154                                            ",
+    "Style": null,
+    "Title": "Gourd-Shaped Vase"
+}

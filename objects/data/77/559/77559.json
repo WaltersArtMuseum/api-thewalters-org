@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Petrarca (Italian, 1304-1374)",
+            "CreatorID": 7540,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1905",
+    "Culture": null,
+    "DateBeginYear": 1570,
+    "DateEndYear": 1570,
+    "DateText": "1570",
+    "Description": "Emblem books were a popular source of amusement during the late medieval period. They offered mysterious images whose meaning had to be puzzled out through a combination of contemplating the illustration and reading the accompanying text. These emblems offered a moral to be pondered, and often the message was related to love. Here, a blindfolded man precariously teeters at the top of a cliff and, unaware of the danger, takes a step forward. The moral: love is blind.",
+    "Dimensions": "H: 9 1/8 x W: 6 11/16 in. (23.2 x 17 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10165,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.476.3R_OpnObv_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.476.3R_OpnObv_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.476.3R_OpnObv_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.476.3R_OpnObv_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.476.3R_OpnObv_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment and paper with tempera",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77559,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.476.3R",
+    "OnView": 0,
+    "Period": "High Renaissance",
+    "Provenance": "Olschki [date and mode of acquisition unknown]; Henry Walters, Baltimore, ca. 1905, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77559",
+    "SortNumber": "W        476    3R                                      ",
+    "Style": null,
+    "Title": "Love is Blind"
+}

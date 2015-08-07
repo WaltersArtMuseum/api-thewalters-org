@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902 (?)",
+    "Culture": null,
+    "DateBeginYear": 1588,
+    "DateEndYear": 1612,
+    "DateText": "ca. 1600",
+    "Description": null,
+    "Dimensions": "H: 7 11/16 x W: 6 5/16 in. (19.6 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Christmas Story in the Language of Art",
+            "ExhibBeginDate": "1950",
+            "ExhibBeginYear": 1950,
+            "ExhibDisplayDate": "1950",
+            "ExhibEndDate": "1950",
+            "ExhibEndYear": 1950,
+            "ExhibitionID": 2242,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Christmas Story in the Language of Art. The Washington County Museum, Hagerstown. 1950."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51157,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.384_Fnt_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.384_Fnt_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.384_Fnt_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.384_Fnt_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.384_Fnt_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2042,
+        "LocationString": null
+    },
+    "ObjectID": 3413,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.384",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] (?); Henry Walters, Baltimore, 1902 (?), by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3413",
+    "SortNumber": "    37   384                                            ",
+    "Style": null,
+    "Title": "Holy Family: First Steps"
+}

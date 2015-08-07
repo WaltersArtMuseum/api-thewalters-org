@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1710,
+    "DateEndYear": 1722,
+    "DateText": "1710-1722",
+    "Description": null,
+    "Dimensions": "H: 2 13/16 x W: 3 7/8 in. (7.14 x 9.84 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11261,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.474_Fnt_TR_T01IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.474_Fnt_TR_T01IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.474_Fnt_TR_T01IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.474_Fnt_TR_T01IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.474_Fnt_TR_T01IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "reign mark of Kangxi [K'ang-hsi] (1661-1722)",
+    "Keywords": null,
+    "Medium": "porcelain with underglaze copper red",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1713,
+        "LocationString": null
+    },
+    "ObjectID": 18962,
+    "ObjectName": "brush washers;vessels",
+    "ObjectNumber": "49.474",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.357",
+    "Reign": "Kangxi [K'ang-hsi] (1661-1722)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18962",
+    "SortNumber": "    49   474                                            ",
+    "Style": null,
+    "Title": "Brush Washer"
+}

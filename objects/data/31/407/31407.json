@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "Small plaques like this were intended for private contemplation.",
+    "Dimensions": "H: 4 1/4 in. (10.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5466,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.1059_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.1059_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.1059_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.1059_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.1059_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gilt bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 522,
+        "LocationString": null
+    },
+    "ObjectID": 31407,
+    "ObjectName": "plaques",
+    "ObjectNumber": "54.1059",
+    "OnView": 0,
+    "Period": "late Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-10T10:21:39.39",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31407",
+    "SortNumber": "    54  1059                                            ",
+    "Style": null,
+    "Title": "Pieta"
+}

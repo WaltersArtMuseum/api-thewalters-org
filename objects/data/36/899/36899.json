@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Raphael (Italian, 1483-1520)",
+            "CreatorID": 2912,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1650,
+    "DateEndYear": 1700,
+    "DateText": "2nd half 17th century",
+    "Description": "This is a copy after Raphael's famous painting known as \"La Belle Jardini\u00e8re,\" \"the beautiful gardener,\" painted ca. 1507, in the Louvre, 122 \u00d7 80 cm (48 \u00d7 31\u00bd in.). The Walters copy is only slightly smaller. Although Raphael's painting was commissioned by a Sienese patron, for most of its history it has been in France. It is difficult to date copies, but this one could be from the later 1600s when the original painting is known to have belonged to Louis IV.",
+    "Dimensions": "H: 46 7/8 x W: 32 in. (119.1 x 81.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "D\u00e9j\u00e0 Vu? The Repeating Image in Renaissance and Baroque Art",
+            "ExhibBeginDate": "2007-09-08",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "September 8, 2007-February 24, 2008",
+            "ExhibEndDate": "2008-02-24",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2178,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "D\u00e9j\u00e0 Vu? The Repeating Image in Renaissance and Baroque Art. The Walters Art Museum, Baltimore. 2007-2008."
+        },
+        {
+            "ExhTitle": "Early Copies of the Old Masters",
+            "ExhibBeginDate": "1946",
+            "ExhibBeginYear": 1946,
+            "ExhibDisplayDate": "1946",
+            "ExhibEndDate": "1946",
+            "ExhibEndYear": 1946,
+            "ExhibitionID": 2495,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Copies of the Old Masters. The Walters Art Museum, Baltimore. 1946."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28885,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1164_Fnt_NF_H46.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1164_Fnt_NF_H46.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1164_Fnt_NF_H46.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1164_Fnt_NF_H46.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1164_Fnt_NF_H46.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3251,
+        "LocationString": null
+    },
+    "ObjectID": 36899,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1164",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-08-19T16:38:15.553",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36899",
+    "SortNumber": "    37  1164                                            ",
+    "Style": null,
+    "Title": "La Belle Jardini\u00e8re"
+}

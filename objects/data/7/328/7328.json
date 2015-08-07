@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni Battista Castello (Italian, 1547-1637)",
+            "CreatorID": 8521,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1675,
+    "DateEndYear": 1700,
+    "DateText": "late 17th century",
+    "Description": null,
+    "Dimensions": "Matted H: 14 1/4 x W: 19 1/4 in. (36.2 x 48.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Christmas Story: Picturing the Birth of Christ in Medieval Manuscripts",
+            "ExhibBeginDate": "2009-12-05",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "December 5, 2009-February 28, 2010",
+            "ExhibEndDate": "2010-02-28",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2825,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Christmas Story: Picturing the Birth of Christ in Medieval Manuscripts. The Walters Art Museum, Baltimore. 2009-2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Liguria\\provinces\\Genova\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437714,
+            "GeographyTerm": "Genova",
+            "Latitude": "44 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.416,
+            "Longitude": "008 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 8.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2990,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.498_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.498_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.498_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.498_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.498_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on parchment mounted on a thin wood panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6435,
+        "LocationString": null
+    },
+    "ObjectID": 7328,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.498",
+    "OnView": 0,
+    "Period": "High Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7328",
+    "SortNumber": "W        498                                            ",
+    "Style": null,
+    "Title": "Adoration of the Magi"
+}

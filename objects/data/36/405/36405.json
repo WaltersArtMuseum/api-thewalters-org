@@ -1,0 +1,88 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": 400,
+    "DateText": "Original: 5th century BC; Copy: 100 BC-AD 400",
+    "Description": "This statuette is of the Giustiniani type.",
+    "Dimensions": "H: 5 1/4 x W: 2 1/16 x D: 1 3/16 in. (13.3 x 5.2 x 3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Yisra'el\\districts (national)\\HaZafon, Mehoz\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489843,
+            "GeographyTerm": "Nazerat",
+            "Latitude": "32 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.7,
+            "Longitude": "035 18",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.3
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Yisra'el\\districts (national)\\HaZafon, Mehoz\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489843,
+            "GeographyTerm": "Nazerat",
+            "Latitude": "32 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.7,
+            "Longitude": "035 18",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.3
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62693,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.965_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.965_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.965_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.965_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.965_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 410,
+        "LocationString": null
+    },
+    "ObjectID": 36405,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.965",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36405",
+    "SortNumber": "    54   965                                            ",
+    "Style": null,
+    "Title": "Athena"
+}

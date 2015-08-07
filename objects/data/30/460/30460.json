@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alexandre Calame (Swiss, 1810-1864)",
+            "CreatorID": 6449,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1867",
+    "Culture": null,
+    "DateBeginYear": 1853,
+    "DateEndYear": 1855,
+    "DateText": "1853-1855",
+    "Description": "Calame established an international reputation with his dramatic views of Alpine scenery. Here, the snow-capped peak of the Jungfrau Mountain towers over the Lauterbrunnen Valley. He wrote of the site of this painting: a lost corner which I know is really wonderful . . . as if God has delighted in assembling in one corner of the earth the greatest marvels of creation.\r\n",
+    "Dimensions": "H: 33 9/16 x W: 41 9/16 in. (85.3 x 105.5 cm); Framed H: 47 1/2 x W: 55 1/2 x D: 6 in. (120.7 x 141 x 15.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Schweiz\\cantons\\Bern\\mountains\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1471683,
+            "GeographyTerm": "Jungfrau",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41140,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.108_Fnt_TR_T99II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.108_Fnt_TR_T99II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.108_Fnt_TR_T99II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.108_Fnt_TR_T99II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.108_Fnt_TR_T99II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: A. Calame; [Date] Lower right: 1855; [Inscription] On stretcher label, signed by Calame stating that this was painted for Christopher van Loo",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 3990,
+        "LocationString": null
+    },
+    "ObjectID": 30460,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.108",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Christophe Van Loo, Ghent, 1855 [mode of acquisition unknown] [from the artist]; De Truenfels, Paris [date and mode of acquisition unknown]; [early Walters publications erroneously state that the painting had belonged to Duc de Morny, 18-11-1865]; De Truenfels Sale, Hotel Drouot, Paris, April 9, 1867; William T. Walters, Baltimore, 1867, by purchase [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.457",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30460",
+    "SortNumber": "    37   108                                            ",
+    "Style": null,
+    "Title": "The Jungfrau, Switzerland"
+}

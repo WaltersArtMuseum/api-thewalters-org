@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -1,
+    "DateText": "4th-1st century BC",
+    "Description": "The pendant represents a head of the protective god Bes which derives from the face of a lion.",
+    "Dimensions": "H: 1 5/16 x W: 1 5/16 x D: 1/16 in. (3.27 x 3.28 x 0.15 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22223,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1660_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1660_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1660_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1660_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1660_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22222,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1660_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1660_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1660_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1660_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1660_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22224,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1660_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1660_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1660_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1660_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1660_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22225,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1660_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1660_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1660_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1660_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1660_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with blue, green and black glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 26500,
+    "ObjectName": "pendants; amulets; plaques",
+    "ObjectNumber": "48.1660",
+    "OnView": 0,
+    "Period": "Late Period-Greco-Roman",
+    "Provenance": "Sheikh of the Pyramids [date and mode of acquistion unknown]; Henry Walters, Baltimore, 1930 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-01-22T15:10:45.327",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26500",
+    "SortNumber": "    48  1660                                            ",
+    "Style": null,
+    "Title": "Bes Mask"
+}

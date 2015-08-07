@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -332,
+    "DateText": "664-332 BC",
+    "Description": "Lion-headed Uto is seated on a throne with uraeus and sun disk, his right hand clenched.",
+    "Dimensions": "H: 9 7/16 in. (24 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Survey of Egyptian Sculpture",
+            "ExhibBeginDate": "1965",
+            "ExhibBeginYear": 1965,
+            "ExhibDisplayDate": "1965",
+            "ExhibEndDate": "1965",
+            "ExhibEndYear": 1965,
+            "ExhibitionID": 2175,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Survey of Egyptian Sculpture. Duke University. Dept. of Art, Durham. 1965."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Misr Bahri\\governorates\\Ash Sharqiyah\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544163,
+            "GeographyTerm": "Az-Zaqaziq",
+            "Latitude": "30 35",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.583,
+            "Longitude": "031 31",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.516
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57952,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.479_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.479_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.479_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.479_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.479_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] on back of throne: Wazet...the scribe, Bastet, son of Seba-r-way, born of ....",
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 405,
+        "LocationString": null
+    },
+    "ObjectID": 29595,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.479",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29595",
+    "SortNumber": "    54   479                                            ",
+    "Style": null,
+    "Title": "Lion-Headed Uto"
+}

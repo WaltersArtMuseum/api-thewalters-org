@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ottoman",
+            "CreatorID": 16163,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "Walters manuscript W.583 is bound in a reddish-brown goatskin binding with a flap. The binding has a central lobed medallion and four corner compartments with arabesque designs on a gold ground and decorative frames.",
+    "Dimensions": "Folio H: 7 1/2 x W: 4 3/4 in. (19 x 12 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20889,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.583.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.583.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.583.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.583.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.583.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Prayer; Arabic; Islamic; Ottoman; Book; Calligraphy; Codex; Headpiece; Illumination; Illustration; Manuscript; Ornament; Painting; Contemporary Binding; Turkey; Devotion",
+    "Medium": "reddish-brown goatskin with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79974,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.583.binding",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Leon Gruel, Paris [date and mode of acquisition unknown] [book plate: no. 1155 LG]; Henry Walters, Baltimore [date of acquisition unknown], by purchase [from Leon Gruel]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79974",
+    "SortNumber": "W        583binding                                     ",
+    "Style": null,
+    "Title": "Binding from Collection of Prayers for the Prophet Muhammad"
+}

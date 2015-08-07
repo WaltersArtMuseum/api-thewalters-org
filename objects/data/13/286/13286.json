@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Okamoto Naoshige (Japanese, died 1780)",
+            "CreatorID": 4695,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1725,
+    "DateEndYear": 1780,
+    "DateText": "mid 18th century",
+    "Description": "This mounted warrior is probably one of the characters from the 14th-century Chinese novel \"Romance of the Three Kingdoms.\" The novel is set in the 2nd century and 3rd century, and describes historical events. The protagonists of the novel are depicted in the matching kashira, Walters 51.1033. The warrior holds a spear whose tip extends beyond the edge of the fuchi.",
+    "Dimensions": "L: 1 7/16 in. (3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23990,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1032_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1032_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1032_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1032_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1032_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23989,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1032_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1032_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1032_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1032_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1032_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 23991,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1032_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1032_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1032_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1032_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1032_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u6b63\u697d; [Translation] Shoraku",
+    "Keywords": "Chinese; Kanyu; warrior; animal; horse; weapon; halberd; waterfall",
+    "Medium": "iron, copper, gold, and silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 13286,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1032",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-11-25T12:27:18.843",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 20508,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/13286",
+    "SortNumber": "    51  1032                                            ",
+    "Style": null,
+    "Title": "Fuchi with Chinese Warrior"
+}

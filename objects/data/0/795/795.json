@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1914",
+    "Culture": "Egyptian",
+    "DateBeginYear": -1550,
+    "DateEndYear": -1185,
+    "DateText": "1550-1185 BC",
+    "Description": "The dagger has a handle made from electrum. The upper part of the handle is decorated with punched holes and an embossed spiral pattern.",
+    "Dimensions": "10 7/8 in. (27.6 cm)",
+    "Dynasty": "18th-19th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 57963,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.496_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.496_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.496_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.496_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.496_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11839,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.496_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.496_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.496_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.496_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.496_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, electrum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 429,
+        "LocationString": null
+    },
+    "ObjectID": 795,
+    "ObjectName": "daggers",
+    "ObjectNumber": "54.496",
+    "OnView": 0,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, New York and Paris; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-12-01T14:11:31.037",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/795",
+    "SortNumber": "    54   496                                            ",
+    "Style": null,
+    "Title": "Dagger"
+}

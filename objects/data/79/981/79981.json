@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "`Uthman ibn Mansur",
+            "CreatorID": 16707,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Kemalpasazade (died 940 AH/AD1533)",
+            "CreatorID": 15706,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1558,
+    "DateEndYear": 1558,
+    "DateText": "966 AH/AD 1558",
+    "Description": "This folio is from Walters manuscript W.584. Written in red ink, the colophon gives details about the model (exemplar), the author's name, the name of the scribe, and the date of copying.",
+    "Dimensions": "H: 8 1/4 x W: 5 1/8 in. (21 x 13 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20890,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.584.151A_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.584.151A_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.584.151A_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.584.151A_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.584.151A_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] al-hamd li-man yasurru lan\u0101 al-far\u0101gh 'an al-tahr\u012br wa-al-al-tanm\u012bq 'an nuskhat al-mus (= al-musannif) bi-khattih al-shar\u012bf /1/ s\u0101hib al-tahq\u012bq wa-al- tadq\u012bq (placed in the left margin: al-shah\u012br bi-al-fadl wa-al-kam\u0101l //Ahmad ibn Sylaym\u0101n ibn Kam\u0101l // al-mustakhraj 'an bahr al-'ul\u016bm b\u0101shan? // al-ma'r\u016bf bayna al-an\u0101m bi-Ibn Kam\u0101l P\u0101sh\u0101 // )'al\u00e1 yad al-faq\u012br il\u00e1 al-irsh\u0101d wa-al-tawf\u012bq /2/ al-r\u0101j\u012b 'an rabbih al-hid\u0101yah il\u00e1 saw\u0101' al-tar\u012bqq'ilan f\u012b du'\u0101'ih al-malik /3/ al-kar\u012bm y\u0101 wal\u012b al-rushd y\u0101 h\u0101d\u012b bi-Qur'\u0101n hak\u012bm ihdi 'Uthm\u0101n ibn Mans\u016br /4/ al-sir\u0101t al-mustaq\u012bm f\u012b laylat yawm al-kham\u012bs th\u0101lith shahr Dh\u012b al-Hijjah /5/ li-sanat sitt wa-sitt\u012bn wa-tis'imi<\u02be>ah min al-hijrah al-nabaw\u012byah sanah 966 /6/",
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Ottoman; Turkish; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Manuscript; Turkey; History; Scripture",
+    "Medium": "ink and pigments on laid European paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79981,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.584.151A",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "'Ali [date and mode of acquisition unknown] [Ex libiris (min kutub) on fol. 1a]; Vizier al-Shahid 'Ali Pasha, 1130 AH/AD 1717 [mode of acquisition unknown] [waqf seal on fol. 1a with the original shelf mark, 191, beneath. Same impression on fols. 1b, 2a, 156b];  Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79981",
+    "SortNumber": "W        584  151A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

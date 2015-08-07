@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mexican (Jalisco style)",
+            "CreatorID": 15517,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John G. Bourne, 2013",
+    "Culture": "Jalisco style",
+    "DateBeginYear": -300,
+    "DateEndYear": 200,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "L: 14 x W: 2 15/16 x D: 2 1/4 in. (35.6 x 7.4 x 5.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 610420,
+            "GeographyTerm": "Jalisco",
+            "Latitude": "20 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.333,
+            "Longitude": "103 40",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -103.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27912,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27910,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.132_3Qtr_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.132_3Qtr_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.132_3Qtr_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.132_3Qtr_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.132_3Qtr_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 27911,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Back_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Back_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Back_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Back_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.132_Back_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "burnished earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5596,
+        "LocationString": null
+    },
+    "ObjectID": 80287,
+    "ObjectName": "flutes (musical instruments)",
+    "ObjectNumber": "2009.20.132",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "David Stuart Galleries; purchased by John G. Bourne, Santa Fe, New Mexico, between 1960 and 1969; given to Walters Art Museum, 2013.",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80287",
+    "SortNumber": "  2009    20  132                                       ",
+    "Style": null,
+    "Title": "Human Effigy Flute"
+}

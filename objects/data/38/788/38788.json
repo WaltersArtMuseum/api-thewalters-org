@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1960",
+    "Culture": null,
+    "DateBeginYear": -1012,
+    "DateEndYear": -988,
+    "DateText": "ca. 1000 BC",
+    "Description": "The ribbed horn of an ibex (a type of wild goat) forms the handle of this vessel. Made for ritual use, liquid, perhaps oil, could be poured into the tail and out of the animal's mouth.",
+    "Dimensions": "9 13/16 x 8 7/16 x 4 15/16 in. (25 x 21.5 x 12.5 cm);\r\nfrom nose to end: 8 7/16 in. (21.5 cm) (w.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29622,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2228_RtSide_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2228_RtSide_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2228_RtSide_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2228_RtSide_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2228_RtSide_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 29621,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2228_3QtrRt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2228_3QtrRt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2228_3QtrRt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2228_3QtrRt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2228_3QtrRt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 29620,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2228_3QtrLft_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2228_3QtrLft_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2228_3QtrLft_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2228_3QtrLft_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2228_3QtrLft_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Near Eastern Art",
+        "LocationID": 3730,
+        "LocationString": null
+    },
+    "ObjectID": 38788,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2228",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "H. D. Motamed, New York; Walters Art Museum, 1960, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.22",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38788",
+    "SortNumber": "    48  2228                                            ",
+    "Style": null,
+    "Title": "Ibex-Shaped Vessel"
+}

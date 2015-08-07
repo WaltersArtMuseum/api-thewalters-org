@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Baldassare Carrari (Italian, ca. 1460-ca. 1520) (?)",
+            "CreatorID": 5533,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1473,
+    "DateEndYear": 1497,
+    "DateText": "ca. 1485",
+    "Description": "The subject of this painting is the celebration of Christ's birth, although the infant Christ, who stands in his mother's lap, seems much older than a newborn. The ass and ox on the left are traditional witnesses of Christ's birth in the Bethlehem stable. The procession in the background signals a later event: the arrival of the wise men from the East to pay homage to the Messiah.\r\n\r\nThe painting is spectacular for its many plant and animal details, each with a specific symbolic significance. For instance, the snail (in the right corner) was often meant to suggest sin because of its trail of slime, and the red poppy (the second flowering plant on the left) is a traditional symbol of Christ's Passion because of its color.\r\n\r\nFor more information on this painting, please see Federico Zeri's 1976 catalogue no. 155, pp. 228-229.",
+    "Dimensions": "Painted surface H: 27 3/4 x W: 18 3/8 in. (70.5 x 46.7 cm); Panel H: 28 1/4 x W: 18 7/8 x D excluding auxiliary support: 1/4 in. (71.7 x 48 x 0.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Marco Palmezzano: Il Rinascimento nelle Romagne",
+            "ExhibBeginDate": "2005-11-21",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "November 21, 2005-May 17, 2006",
+            "ExhibEndDate": "2006-05-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2646,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Marco Palmezzano: Il Rinascimento nelle Romagne. Complesso di San Giacomo Apostolo, Forli. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439450,
+            "GeographyTerm": "Emilia-Romagna",
+            "Latitude": "44 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.75,
+            "Longitude": "011 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11871,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.546_Fnt_TR_T91III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.546_Fnt_TR_T91III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.546_Fnt_TR_T91III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.546_Fnt_TR_T91III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.546_Fnt_TR_T91III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47930,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.546_XR_1957.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.546_XR_1957.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.546_XR_1957.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.546_XR_1957.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.546_XR_1957.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3358,
+        "LocationString": null
+    },
+    "ObjectID": 13789,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.546",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 504, as Lucas Cranach the younger]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-11-24T17:17:26.1",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13789",
+    "SortNumber": "    37   546                                            ",
+    "Style": null,
+    "Title": "The Holy Family with an Angel"
+}

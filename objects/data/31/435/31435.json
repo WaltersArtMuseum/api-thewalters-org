@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Anton Raphael Mengs (German, 1728-1779)",
+            "CreatorID": 5160,
+            "Gender": "male",
+            "Role": "Painter"
+        },
+        {
+            "ConcatDisplayName": "Workshop of Anton Raphael Mengs (German, 1728-1779)",
+            "CreatorID": 5160,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1759,
+    "DateEndYear": 1759,
+    "DateText": "1759",
+    "Description": "Clement XIII was of the Venetian Rezzonico family and reigned as pope from 1758 to 1769. Mengs did several versions of Clement's portrait, and this one was probably carried out for Apostolic Vicar Domenico Rossi, whose name appears on the letter held by the pope. For centuries, the blessing gesture directed to the viewer had been common in images of Christ's representative on earth.\r\n\r\nMengs rejected the fluid brushstrokes and dynamic pictorial expressions of Baroque and Rococo art. Clarity of forms and outlines, typical of Neoclassicism, defines his manner.\r\n\r\nFor more information on this portrait, please see Federico Zeri's 1976 catalogue no. 424, pp. 534-535.",
+    "Dimensions": "Pained surface H: 54 3/16 x W: 38 11/16 in. (137.7 x 98.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4184,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.1700_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.1700_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.1700_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.1700_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.1700_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45993,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1700_XR_1974.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1700_XR_1974.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1700_XR_1974.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1700_XR_1974.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1700_XR_1974.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] On letter: PER | DOMENICO | ROSSI",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 18th-Century Art",
+        "LocationID": 4781,
+        "LocationString": null
+    },
+    "ObjectID": 31435,
+    "ObjectName": "oil paintings; portraits",
+    "ObjectNumber": "37.1700",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 779, as Pope Clement VIII by Subleyras]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.77",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31435",
+    "SortNumber": "    37  1700                                            ",
+    "Style": null,
+    "Title": "Portrait of Pope Clement XIII"
+}

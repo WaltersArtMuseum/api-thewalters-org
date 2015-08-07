@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -301,
+    "DateText": "5th-4th century BC",
+    "Description": "This vessel, made for ceremonial use and then subsequently deposited in a tomb, dates from a period in which a major element of interest is the endless inventiveness of the patterns. Those patterns are here contained within small rectangles.",
+    "Dimensions": "13 9/16 x 12 5/16 in. (34.5 x 31.3 cm)",
+    "Dynasty": "Eastern Zhou [Chou] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6948,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_54.1242_Prof_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_54.1242_Prof_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_54.1242_Prof_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_54.1242_Prof_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_54.1242_Prof_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "container; water; burial; tomb; ceremonial; pattern",
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4250,
+        "LocationString": null
+    },
+    "ObjectID": 36972,
+    "ObjectName": "vessels;canteens;pilgrim flasks",
+    "ObjectNumber": "54.1242",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.543",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36972",
+    "SortNumber": "    54  1242                                            ",
+    "Style": null,
+    "Title": "Canteen"
+}

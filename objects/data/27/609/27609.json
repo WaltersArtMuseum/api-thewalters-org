@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yoshizawa Setsuan (Japanese, 1809-1889)",
+            "CreatorID": 7061,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1876,
+    "DateEndYear": 1876,
+    "DateText": "1876",
+    "Description": null,
+    "Dimensions": "H: 9 1/8 x W: 10 1/2 in. (23.2 x 26.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23498,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_35.174.1B_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_35.174.1B_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_35.174.1B_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_35.174.1B_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_35.174.1B_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Seal] Setsuan",
+    "Keywords": null,
+    "Medium": "ink and colors on silk and paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 27609,
+    "ObjectName": "albums; paintings; folios (leaves)",
+    "ObjectNumber": "35.174.1B",
+    "OnView": 0,
+    "Period": "Edo-Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest (?) [accessioned 1991].",
+    "PublicAccessDate": "2010-05-18T15:36:16.11",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27609",
+    "SortNumber": "    35   174    1B                                      ",
+    "Style": null,
+    "Title": "Leaf from Album Depicting Birds, Flowers, Landscapes, and Flower Pots"
+}

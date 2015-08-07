@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1875,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "4 7/16 x 5 1/16 in. (11.2 x 12.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 401,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2338_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2338_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2338_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2338_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2338_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "watermarked, partial \"CA\"",
+    "Keywords": "animal; animal",
+    "Medium": "graphite on cream, moderately-thick, slightly textured laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2245,
+        "LocationString": null
+    },
+    "ObjectID": 6505,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2338",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Collection Vildieu-Barye [date and mode of acquisition unknown]; Fabius Fr\u00e8res, Paris; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:36.47",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6505",
+    "SortNumber": "    37  2338                                            ",
+    "Style": null,
+    "Title": "Study of a Sleeping Boar"
+}

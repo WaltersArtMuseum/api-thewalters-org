@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Anton Weber (German, 1833-1909)",
+            "CreatorID": 2527,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1859,
+    "DateEndYear": 1859,
+    "DateText": "1859",
+    "Description": "Weber has chosen a style recalling early Italian painting for this brilliant scene.",
+    "Dimensions": "H: 5 3/4 x W: 6 7/16 in. (14.6 x 16.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Medley of German Drawings",
+            "ExhibBeginDate": "1996-04-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "April 17, 1996-September 1, 1996",
+            "ExhibEndDate": "1996-09-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2179,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medley of German Drawings. The Walters Art Gallery, Baltimore. 1996."
+        },
+        {
+            "ExhTitle": "German 19th Century Paintings and Drawings",
+            "ExhibBeginDate": "1983-09-16",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "September 16, 1983-November 13, 1983",
+            "ExhibEndDate": "1983-11-13",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2354,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "German 19th Century Paintings and Drawings. The Walters Art Gallery, Baltimore. 1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 58414,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1296_Fnt_BW_C82.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1296_Fnt_BW_C82.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1296_Fnt_BW_C82.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1296_Fnt_BW_C82.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1296_Fnt_BW_C82.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2275,
+        "LocationString": null
+    },
+    "ObjectID": 8519,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1296",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8519",
+    "SortNumber": "    37  1296                                            ",
+    "Style": null,
+    "Title": "Suffer the Little Children"
+}

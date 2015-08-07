@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alberto Carlieri (Italian, 1672-after 1720)",
+            "CreatorID": 6824,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1725,
+    "DateText": "1st quarter 18th century",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 385, p. 501.",
+    "Dimensions": "Painted surface H: 37 1/4 x W: 28 1/16 in. (94.6 x 71.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29283,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.525_Fnt_BW_H45.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.525_Fnt_BW_H45.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.525_Fnt_BW_H45.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.525_Fnt_BW_H45.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.525_Fnt_BW_H45.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3271,
+        "LocationString": null
+    },
+    "ObjectID": 21164,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.525",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 212; 1897 catalogue:  no. 195, as Bibiena]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 30825,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21164",
+    "SortNumber": "    37   525                                            ",
+    "Style": null,
+    "Title": "Christ Blessing Little Children among Classical Ruins"
+}

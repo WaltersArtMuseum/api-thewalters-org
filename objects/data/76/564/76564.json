@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Ambrogio Traversari (Italian, 1386 - 1439)",
+            "CreatorID": 5800,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1907",
+    "Culture": null,
+    "DateBeginYear": 1428,
+    "DateEndYear": 1452,
+    "DateText": "ca. 1440-1450",
+    "Description": "This illuminated folio shows the Annunciation to Joachim and Anna. Joachim and Anna with hands in prayer are leaving a city. A tree is represented in the middle. A flying angel appears in the sky in front of them.",
+    "Dimensions": "Folio H: 13 1/4 x W: 9 1/16 in. (33.7 x 23 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62942,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.351.2r_Det_BW_H72.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.351.2r_Det_BW_H72.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.351.2r_Det_BW_H72.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.351.2r_Det_BW_H72.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.351.2r_Det_BW_H72.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Italy; Renaissance; Virgin; hagiography; Ambrosius",
+    "Medium": "ink, tempera paint and gold leaf on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 76564,
+    "ObjectName": "illuminated manuscripts;folios (leaves)",
+    "ObjectNumber": "W.351.2R",
+    "OnView": 0,
+    "Period": "early Renaissance",
+    "Provenance": "Congregatione de Sancto Domenego de Bologna, Bologna, ca. 1500 [fol. 1v flyleaf]; Abbate mateo Canonici [collection no. 300]; Rev. Walter Sneyd, 1835, by purchase [circular bookplate on front flyleaf]; Rev. Walter Sneyd Sale, London, 1903, no. 481; Bernard (?)] Quaritch, 1903, by purchase; Olschki Collection [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1907, by purchase [invoice Nov.  24, 1905; described in a letter of Dec. 20, 1906]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-10-15T01:00:01.18",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/76564",
+    "SortNumber": "W        351    2R                                      ",
+    "Style": "International Gothic",
+    "Title": "Leaf from the Life of the Virgin: Annunciation to Joachim and Anna"
+}

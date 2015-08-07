@@ -1,0 +1,113 @@
+{
+    "Classification": "Miniatures",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Raphaelle Peale (American, 1774-1825) (?)",
+            "CreatorID": 5876,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Rembrandt Peale (American, 1778-1860) (?)",
+            "CreatorID": 3323,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the A. Jay Fink Foundation, Inc., Baltimore, in memory of Abraham Jay Fink, 1963",
+    "Culture": null,
+    "DateBeginYear": 1788,
+    "DateEndYear": 1812,
+    "DateText": "ca. 1800",
+    "Description": "Waist-length portrait of Robert Harcourt Twycross (b. 1769?), facing slightly to the right, with powdered hair, wearing a black coat, white shirt and white stock on a sky-blue background.",
+    "Dimensions": "H excluding frame: 2 3/8 x W: 3 1/8 in. (6.03 x 7.94 cm); Framed H:  4 1/8 x W: 5 1/4 in. (10.48 x 13.34 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Four Centuries of Miniature Painting from the Collections of the A. Jay Fink Foundation, Inc. and A.J. Fink, Personally",
+            "ExhibBeginDate": "1958-12-13",
+            "ExhibBeginYear": 1958,
+            "ExhibDisplayDate": "December 13, 1958-January 25, 1959",
+            "ExhibEndDate": "1959-01-25",
+            "ExhibEndYear": 1959,
+            "ExhibitionID": 3225,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Four Centuries of Miniature Painting from the Collections of the A. Jay Fink Foundation, Inc. and A.J. Fink, Personally. Baltimore Museum of Art, Baltimore. 1958-1959."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42728,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.431_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.431_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.431_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.431_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.431_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 42727,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.431_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.431_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.431_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.431_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.431_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] Handwritten on reverse, in pencil: Robert T(?????), center in ink: Robert Harcourt Twycross; [Label] On reverse, lower center: Property of / The A. Jay Fink Foundation, Inc. / Year 1961; [Number] On label: 12; [Number] On label in red: 1013",
+    "Keywords": null,
+    "Medium": "watercolor on ivory",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2360,
+        "LocationString": null
+    },
+    "ObjectID": 37337,
+    "ObjectName": "miniatures (paintings); portraits",
+    "ObjectNumber": "38.431",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Herbert Lawton [date and mode of acquisition unknown]; A.J. Fink, 1961(?) [mode of acquisition unknown]; A.J. Fink Foundation Inc., Baltimore, 1961, by gift; Walters Art Museum, 1963, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37337",
+    "SortNumber": "    38   431                                            ",
+    "Style": null,
+    "Title": "Robert Harcourt Twycross"
+}

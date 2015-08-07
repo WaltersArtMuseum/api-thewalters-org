@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yadkar al-Katib",
+            "CreatorID": 8280,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Nizami Ganjavi (Azerbaijani, died 605 AH/AD 1209)",
+            "CreatorID": 7689,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1528,
+    "DateEndYear": 1529,
+    "DateText": "934-935 AH/AD 1528-1529",
+    "Description": "This folio from Walters manuscript W.607 is a text page written in Nasta'liq containing the beginning of the text.",
+    "Dimensions": "H: 11 13/16 x W: 7 1/16 in. (30 x 18 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27285,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.607.5A_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.607.5A_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.607.5A_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.607.5A_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.607.5A_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Illustration; Manuscript; Painting; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on cream-colored laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 14295,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.607.5A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14295",
+    "SortNumber": "W        607    5A                                      ",
+    "Style": null,
+    "Title": "Leaf from Five Poems (Quintet)"
+}

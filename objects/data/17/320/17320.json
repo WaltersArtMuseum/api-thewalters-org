@@ -1,0 +1,131 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Martin Johnson Heade (American, 1819-1904)",
+            "CreatorID": 4203,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Dr. Alan C. Woods, Sr., 1976",
+    "Culture": null,
+    "DateBeginYear": 1862,
+    "DateEndYear": 1862,
+    "DateText": "1862",
+    "Description": "It took Heade several decades to arrive at the mature landscape style for which he is now admired. Initially trained in the studio of sign-painter Edward Hicks, Heade traveled constantly during his early career, both in Europe and America, and was probably most influenced by the art of Frederic Edwin Church. Eventually, he developed his own, unique approach to his landscape motifs, adopting an unusually broad format that allowed him to emphasize the drama of wide vistas like this one.\r\n\r\nUnlike the artists associated with the Hudson River school of American landscape painting, Heade was fascinated with the momentary as opposed to the eternal, often painting from nature in an attempt to capture the ever-changing conditions of light and atmosphere. In this sense, he anticipated the preoccupations of the impressionists.\r\n\r\nThis painting depicts the salt marshes at Newburyport, Massachusetts. It dates to Heade's earliest experiments with what would become a favorite format and subject matter.\r\n",
+    "Dimensions": "H: 25 3/16 x W: 50 3/16 in. (63.9 x 127.4 cm);\r\nFramed H: 31 x W: 56 x D: 3 1/2 in. (78.7 x 142.2 x 8.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        },
+        {
+            "ExhTitle": "The Walters' American Collection",
+            "ExhibBeginDate": "2005-06-29",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 29, 2005-January 1, 2006",
+            "ExhibEndDate": "2006-01-01",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2728,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Walters' American Collection. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\Massachusetts\\counties\\Essex\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 649654,
+            "GeographyTerm": "Newburyport",
+            "Latitude": "42 48",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.8,
+            "Longitude": "070 52",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -70.866
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56215,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2531_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2531_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2531_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2531_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2531_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56214,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2531_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2531_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2531_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2531_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2531_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 10016,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.2531_Fnt_TR_C80.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.2531_Fnt_TR_C80.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.2531_Fnt_TR_C80.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.2531_Fnt_TR_C80.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.2531_Fnt_TR_C80.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signed and dated] Lower right: M.J. Heade 1862",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 17320,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.2531",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Robert C. Hall, Baltimore (1830-1908). Acquired by Dr. Alan C. Woods, Sr.; given to Walters Art Museum, 1976.",
+    "PublicAccessDate": "2008-09-25T17:14:36.55",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17320",
+    "SortNumber": "    37  2531                                            ",
+    "Style": null,
+    "Title": "Haystacks on the Newburyport Marshes"
+}

@@ -1,0 +1,132 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Christian; German",
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "late 13th century",
+    "Description": "This Psalter was made for Franciscan use in Cologne in the late thirteenth century. It was owned in the late fifteenth or sixteenth century by the Augustinian nuns of St. Cecilia in Cologne, who added the calendar, the Breviary texts, prayers, and the Collect at the end. The manuscript is written in Latin and in the Ripuarisch dialect spoken in the Cologne region. The style of the historiated initials, as well as that of the bar borders topped with grotesques, closely resembles the style of Walters Ms. W.41 and of the two graduals made for the Franciscans of Cologne in 1299 by Johannes von Valkenburg (Cologne, Diozesanbibliothek, Ms. 1B, and Bonn, Universitatsbibliothek, Ms. 384). It is a well-preserved example of High Gothic illumination in Cologne.",
+    "Dimensions": "Folio H: 5 1/16 \u00d7 W: 3 13/16 in. (12.9 \u00d7 9.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Schatzkammer: Henry Walters' German Manuscripts",
+            "ExhibBeginDate": "2006-07-22",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "July 22, 2006-October 29, 2006",
+            "ExhibEndDate": "2006-10-29",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 96,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Schatzkammer: Henry Walters' German Manuscripts. The Walters Art Museum, Baltimore. 2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52827,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W111_000001_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W111_000001_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W111_000001_300.jpg",
+                "Small": "http://static.thewalters.org/images/W111_000001_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W111_000001_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Illumination; Manuscript; Binding; Book; Grotesques; Historiated initial; Walters Art Museum; Devotion; Scripture",
+    "Medium": "ink and pigments on medium-weight, cream-colored parchment bound between beech boards covered with brown calf leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2304,
+        "LocationString": null
+    },
+    "ObjectID": 9303,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.111",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "[Made for Franciscan use in Cologne, late thirteenth century, Ripuarisch dialect points to Cologne region]; Augustinian nuns of St. Cecilia, Cologne, late 15th or 16th century; Susanna Koull, 17th century; L.S. Olschki [date and mode of acquisition unknown]; Henry Walters, by purchase [L.S. Olschiki, no. 24][date of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 668,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19309,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20973,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 25611,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 27585,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 27860,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 31787,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 37191,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91486,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9303",
+    "SortNumber": "W        111                                            ",
+    "Style": "Gothic",
+    "Title": "Franciscan Liturgical Psalter"
+}

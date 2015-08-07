@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1001,
+    "DateEndYear": 1100,
+    "DateText": "5th century AH/AD 11th century (?)",
+    "Description": "This binding from Walters manuscript W.554 probably dates to the 5th century AH/AD 11th. It is composed of blind-tooled black goatskin (without a flap) and has a central medallion defined by two round lobes and two triangular projections. There is overall application of a small tool with a six-pointed star; an identical tool is applied to cornerpieces. The inner frame is defined by a tooled decoration of stylized leaves. The binding has a central form in which multiple small circles enclose the six-pointed star. The binding is also decorated with cornerpieces and an outer frame.",
+    "Dimensions": "Folio H: 6 7/8 x W: 10 13/16 in. (17.5 x 27.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19833,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.554.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.554.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.554.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.554.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.554.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Abbasid; Arabic; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Koran; Manuscript; Qur`an; Central Arab Lands (Near East); Kufic; Early Abbasid script",
+    "Medium": "blind-tooled black goatskin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79941,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.554.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79941",
+    "SortNumber": "W        554binding                                     ",
+    "Style": null,
+    "Title": "Binding from Qur'an"
+}

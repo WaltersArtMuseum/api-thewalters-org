@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -550,
+    "DateEndYear": -500,
+    "DateText": "550-500 BC",
+    "Description": "The central figures on one side of this vase are a seated man holding a staff, who faces an armed woman-indicated by the white skin-leading a horse. They could be Priam, the king of Troy described in the \"Iliad,\" receiving Penthesilea, an Amazon queen. She fought against the Greeks in the Trojan War and was killed by Achilles. The other side of the vessel shows a charioteer in the process of turning his chariot around, while two foot soldiers on either side flee from the rearing horses.",
+    "Dimensions": "H: 10 5/16 x W: 6 11/16 in. (26.2 x 17 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 30737,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.20_VwA_BW_H41.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.20_VwA_BW_H41.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.20_VwA_BW_H41.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.20_VwA_BW_H41.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.20_VwA_BW_H41.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 30738,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.20_VwB_BW_H41.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.20_VwB_BW_H41.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.20_VwB_BW_H41.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.20_VwB_BW_H41.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.20_VwB_BW_H41.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1676,
+        "LocationString": null
+    },
+    "ObjectID": 23904,
+    "ObjectName": "amphorae; vases",
+    "ObjectNumber": "48.20",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-02-16T14:53:00.53",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23904",
+    "SortNumber": "    48    20                                            ",
+    "Style": "Attic",
+    "Title": "Black-Figure Amphora"
+}

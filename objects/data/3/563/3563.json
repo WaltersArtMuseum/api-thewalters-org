@@ -1,0 +1,173 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1899",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "This is an example of blue and white porcelain.",
+    "Dimensions": "H: 13 7/8 x W: 6 5/16 x D: 7 7/8 in. (35.3 x 16 x 20 cm)",
+    "Dynasty": "Ming Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Going for Baroque",
+            "ExhibBeginDate": "1995-09-24",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "September 24, 1995-February  4, 1996",
+            "ExhibEndDate": "1996-02-04",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 948,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Going for Baroque. The Walters Art Gallery, Baltimore. 1995-1996."
+        },
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37918,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1617_VwA_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1617_VwA_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1617_VwA_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1617_VwA_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1617_VwA_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37919,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1617_VwB_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1617_VwB_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1617_VwB_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1617_VwB_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1617_VwB_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 37920,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1617_VwC_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1617_VwC_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1617_VwC_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1617_VwC_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1617_VwC_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 6885,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1617_Fnt_SL_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1617_Fnt_SL_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1617_Fnt_SL_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1617_Fnt_SL_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1617_Fnt_SL_T84.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 37921,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1617_VwD_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1617_VwD_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1617_VwD_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1617_VwD_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1617_VwD_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 37917,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1617_Mrk_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1617_Mrk_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1617_Mrk_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1617_Mrk_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1617_Mrk_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Mark] long life, happiness, honor",
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue set with uncut stones and metal mounts",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1853,
+        "LocationString": null
+    },
+    "ObjectID": 3563,
+    "ObjectName": "ewers",
+    "ObjectNumber": "49.1617",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. or Henry Walters Collection, Baltimore, prior to 1899 [mode of acquisition unknown]; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2008-09-25T17:09:34.763",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3563",
+    "SortNumber": "    49  1617                                            ",
+    "Style": null,
+    "Title": "Ewer"
+}

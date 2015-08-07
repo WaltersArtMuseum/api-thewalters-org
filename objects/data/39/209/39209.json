@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Henri Fantin-Latour (French, 1836-1904)",
+            "CreatorID": 2661,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of F. and J. J. Templaere, 1948",
+    "Culture": null,
+    "DateBeginYear": 1888,
+    "DateEndYear": 1912,
+    "DateText": "ca. 1900",
+    "Description": null,
+    "Dimensions": "10 1/4 x 7 in. (26 x 17.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 385,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.2012_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.2012_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.2012_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.2012_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.2012_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Fantin\" stamped, lower left",
+    "Keywords": "woman; nude; artist; genre; portrait; genre",
+    "Medium": "graphite on thin, yellowed, transparent wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2254,
+        "LocationString": null
+    },
+    "ObjectID": 39209,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2012",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "F. and J. J. Templaere, Bur\u00e9 par le Mesle sur Sarthe (Orne) [date and mode of acquisition unknown]; Walters Art Museum, 1948, by gift.",
+    "PublicAccessDate": "2008-09-25T17:14:36.41",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39209",
+    "SortNumber": "    37  2012                                            ",
+    "Style": null,
+    "Title": "Studies from the Nude"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Alexander B. Griswold through transfer from the Baltimore Museum of Art, 1989",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1900,
+    "DateText": "18th-19th century",
+    "Description": null,
+    "Dimensions": "H: 48 1/4 x W: 28 1/8 in. (122.6 x 71.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39718,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.146_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.146_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.146_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.146_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.146_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Vessantara Jataka",
+    "Medium": "paint on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2409,
+        "LocationString": null
+    },
+    "ObjectID": 18380,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.146",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Alexander B. Griswold, Monkton, Maryland [date and mode of acquisition unknown]; Baltimore Museum of Art, 1959 [mode of acquisition unknown] [BMA 1959.31]; Walters Art Museum, 1989, by gift.",
+    "PublicAccessDate": "2012-06-15T22:00:00.833",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18380",
+    "SortNumber": "    35   146                                            ",
+    "Style": null,
+    "Title": "Vessantara Jataka, Chapter 11: Jujaka and the Royal Children are Brought to King Sanjaya"
+}

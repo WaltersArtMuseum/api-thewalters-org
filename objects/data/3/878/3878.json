@@ -1,0 +1,137 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Korean (?)",
+            "CreatorID": 2851,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Japanese (?)",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1876 (?)",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1699,
+    "DateText": "16th-17th century",
+    "Description": null,
+    "Dimensions": "3 3/4 in. (9.53 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Centennial Exhibition Philadelphia",
+            "ExhibBeginDate": "1876-01-01",
+            "ExhibBeginYear": 1876,
+            "ExhibDisplayDate": "May 10, 1876- November 10, 1876",
+            "ExhibEndDate": "1876-11-10",
+            "ExhibEndYear": 1876,
+            "ExhibitionID": 244,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Centennial Exhibition Philadelphia. Memorial Hall, Philadelphia, Philadelphia. 1876."
+        },
+        {
+            "ExhTitle": "Like the Taste of Good Rice: Art from Korea",
+            "ExhibBeginDate": "1993-08-01",
+            "ExhibBeginYear": 1993,
+            "ExhibDisplayDate": "August 1, 1993-September 12, 1993",
+            "ExhibEndDate": "1993-09-12",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 821,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Like the Taste of Good Rice: Art from Korea. The Walters Art Gallery, Baltimore. 1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1508537,
+            "GeographyTerm": "Taehan Min'guk",
+            "Latitude": "37 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.0,
+            "Longitude": "127 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 127.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1508537,
+            "GeographyTerm": "Taehan Min'guk",
+            "Latitude": "37 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.0,
+            "Longitude": "127 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 127.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11673,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_49.2114_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_49.2114_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_49.2114_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_49.2114_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_49.2114_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "white stoneware with crackled glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5728,
+        "LocationString": null
+    },
+    "ObjectID": 3878,
+    "ObjectName": "jars;tea bowls",
+    "ObjectNumber": "49.2114",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Minoda Chojiro, Centennial Exhibition, Philadelphia, 1876 (?); William T. Walters, 1876 (?), by purchase; Henry Walters, Baltimore, 1894, by inheritance;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-10-27T16:59:26.533",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3878",
+    "SortNumber": "    49  2114                                            ",
+    "Style": "Karatsu ware",
+    "Title": "Waste Water Jar"
+}

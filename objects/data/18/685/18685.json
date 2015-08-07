@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco di Giorgio Martini (Italian, 1439-1501)",
+            "CreatorID": 7159,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1920",
+    "Culture": null,
+    "DateBeginYear": 1469,
+    "DateEndYear": 1475,
+    "DateText": "1469-1475 (?)",
+    "Description": "For more information on this panel, please see Federico Zeri's 1976 catalogue no. 82, p. 126.",
+    "Dimensions": "Panel H including added strip on left side: 24 1/8 x W: 17 1/4 x D: 1 1/4 in. (61.3 x 43.8 x 3.2 cm); Added strip W: 1 in. (2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29707,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1034_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1034_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1034_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1034_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1034_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47168,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1034_XR_1959.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1034_XR_1959.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1034_XR_1959.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1034_XR_1959.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1034_XR_1959.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3247,
+        "LocationString": null
+    },
+    "ObjectID": 18685,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.1034",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Arnold Seligman, Rey & Company [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1920 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18685",
+    "SortNumber": "    37  1034                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

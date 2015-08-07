@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": "French",
+    "DateBeginYear": 1225,
+    "DateEndYear": 1275,
+    "DateText": "mid 13th century",
+    "Description": "This morse, or clasp, was once sewn onto a bishop's cope (ceremonial robe). The two heraldic shields, added later, represent the arms of L\u00e9on and Castile (left) and England (right). These shields suggest that the clasp was adapted for use on a luxurious cape worn by either Eleanor of Castile (d. 1290) or her husband, King Edward I of England (d. 1307).",
+    "Dimensions": "4 1/2 x 6 3/4 in. (11.5 x 17.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Medieval Treasury from Southern Collections",
+            "ExhibBeginDate": "1961-04-28",
+            "ExhibBeginYear": 1961,
+            "ExhibDisplayDate": "April 28, 1961-May 20, 1961",
+            "ExhibEndDate": "1961-05-20",
+            "ExhibEndYear": 1961,
+            "ExhibitionID": 467,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medieval Treasury from Southern Collections. Ackland Art Center, University of North Carolina at Chapel Hill, Chapel Hill. 1961."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Limousin\\departments\\Haute-Vienne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423931,
+            "GeographyTerm": "Limoges",
+            "Latitude": "45 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.833,
+            "Longitude": "001 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33727,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.49_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.49_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.49_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.49_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.49_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33726,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.49_Back_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.49_Back_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.49_Back_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.49_Back_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.49_Back_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "champlev\u00e9 enamel on gilded copper with semiprecious stones",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3861,
+        "LocationString": null
+    },
+    "ObjectID": 726,
+    "ObjectName": "morses",
+    "ObjectNumber": "53.49",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Fr\u00e9d\u00e9ric Spitzer, Paris, by purchase; Sale, Paul Chevallier and Charles Mannheim, April 17, 1893, no. 276; Caspar Bourgeois and Stephen Bourgeois, Cologne; Bourgeois Sale, Cologne, October 19, 1904, no. 395; Henri Daguerre, Paris; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.067",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/726",
+    "SortNumber": "    53    49                                            ",
+    "Style": "Gothic",
+    "Title": "Morse with Apostles and Heraldic Shields"
+}

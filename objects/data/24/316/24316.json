@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni di Francesco Toscani (Italian, ca.1370-1430)",
+            "CreatorID": 2825,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1420,
+    "DateEndYear": 1425,
+    "DateText": "1420-1425",
+    "Description": "For more information on this panel, please see Zeri catalogue number 18, pp. 30-31.",
+    "Dimensions": "Painted surface H: 40 3/16 x W: 29 15/16 x Approx. D: 1 1/2 in. (102 x 76 x 3.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41522,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.632_Fnt_TR_T92II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.632_Fnt_TR_T92II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.632_Fnt_TR_T92II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.632_Fnt_TR_T92II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.632_Fnt_TR_T92II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47747,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.632_XR_1970.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.632_XR_1970.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.632_XR_1970.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.632_XR_1970.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.632_XR_1970.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Transcription] On scroll held by St. John the Baptist: [E]CCE AGNVS DEI / [E]CCE QVITOL[L]IT PEC[CATA MUNDI].",
+    "Keywords": null,
+    "Medium": "tempera on wood panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3240,
+        "LocationString": null
+    },
+    "ObjectID": 24316,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.632",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 25; 1897 catalogue: no. 44, as Andrea Orcagna]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24316",
+    "SortNumber": "    37   632                                            ",
+    "Style": null,
+    "Title": "St. John the Baptist and St. James the Great"
+}

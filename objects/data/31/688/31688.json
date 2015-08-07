@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1325,
+    "DateEndYear": 1375,
+    "DateText": "mid 14th century",
+    "Description": "For more information on this triptych, please see Zeri catalogue number 7, pp. 13-14.",
+    "Dimensions": "Open including base H: 19 9/16 x W: 16 9/16 x Approx. D: 9/16 in. (49.7 x 42 x 1.4 cm); Painted surface center panel H: 15 x W: 8 1/4 in. (38.1 x 21 cm); Painted surface left panel H: 15 1/16 x W: 4 1/16 in. (38.3 x 10.3 cm); Painted surface right panel H: 14 7/8 x W: 4 1/16 in. (37.8 x 10.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38579,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.734_Fnt_BW_H66.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.734_Fnt_BW_H66.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.734_Fnt_BW_H66.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.734_Fnt_BW_H66.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.734_Fnt_BW_H66.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47201,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.734_XR_1965.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.734_XR_1965.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.734_XR_1965.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.734_XR_1965.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.734_XR_1965.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6456,
+        "LocationString": null
+    },
+    "ObjectID": 31688,
+    "ObjectName": "triptychs",
+    "ObjectNumber": "37.734",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 Catalogue: no. 65 as Sienese School, 14th century]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31688",
+    "SortNumber": "    37   734                                            ",
+    "Style": "Gothic",
+    "Title": "Madonna and Child Enthroned with Saints; the Nativity; the Crucifixion"
+}

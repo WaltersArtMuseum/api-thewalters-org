@@ -1,0 +1,79 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kano Tsunenobu (Japanese, 1636-1713)",
+            "CreatorID": 2062,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Laurance and Isabel Roberts, 1995",
+    "Culture": null,
+    "DateBeginYear": 1675,
+    "DateEndYear": 1725,
+    "DateText": "late 17th-early 18th century",
+    "Description": "There was much demand for the paintings produced by the workshop headed by Tsunenobu. This painting is one of a set of four depicting Mt. Fuji in the four seasons. The mountain, an axis for Japan, becomes a kind of pivot for the passing seasons.",
+    "Dimensions": "Image H: 11 1/4 x W: 20 7/8 in. (28.58 x 53.02 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7834,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.204_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.204_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.204_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.204_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.204_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Mount Fuji; Summer",
+    "Medium": "ink and light color on silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2407,
+        "LocationString": null
+    },
+    "ObjectID": 21123,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.204",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Junkichi Mayuyama, Tokyo, late 1960s [mode of acquisition unknown]; Laurance and Isabel Roberts, Baltimore, late 1960s, by purchase; Walters Art Museum, 1995, by gift.",
+    "PublicAccessDate": "2008-09-25T17:09:34.043",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 22731,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 33858,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21123",
+    "SortNumber": "    35   204                                            ",
+    "Style": null,
+    "Title": "Mount Fuji in the Summer"
+}

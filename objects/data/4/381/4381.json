@@ -1,0 +1,83 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Lispenard and Ambassador Marshall Green, 1994",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 2 3/4 x W: 2 1/8 in. (7 x 5.4 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Chinese Snuff Bottles",
+            "ExhibBeginDate": "2000-10-25",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 25, 2000-February 5, 2001",
+            "ExhibEndDate": "2001-02-05",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 76,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Chinese Snuff Bottles. The Walters Art Gallery, Baltimore. 2000-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29204,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_41.324_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_41.324_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_41.324_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_41.324_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_41.324_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "agate",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2032,
+        "LocationString": null
+    },
+    "ObjectID": 4381,
+    "ObjectName": "snuff bottles",
+    "ObjectNumber": "41.324",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Lisepenard and Ambassador Marshall Green, Washington, DC [date and mode of acquisition unknown]; Walters Art Museum, 1994, by gift.",
+    "PublicAccessDate": "2010-09-02T15:54:50.267",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4381",
+    "SortNumber": "    41   324                                            ",
+    "Style": null,
+    "Title": "Snuff Bottle with Two Birds"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pierre-\u00c9douard Fr\u00e8re (French, 1819-1886)",
+            "CreatorID": 4366,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1859",
+    "Culture": null,
+    "DateBeginYear": 1857,
+    "DateEndYear": 1857,
+    "DateText": "1857",
+    "Description": "A young village girl bends over a stove to peer into a large marmite, the contents of which she stirs with a strainer. She wears a white cap and apron, a casaque, and a petticoat, wool stockings and sabots. At her feet is an earthenware bowl, some kindling and firewood. In the background are various utensils including a salt box and dust basket, wine bottles, milk can, water jug and basin.",
+    "Dimensions": "H: 12 7/8 x W: 9 7/16 in. (32.7 x 24 cm); Framed H: 22 7/16 x W: 19 1/8 in. (57 x 48.5 cm); Stretcher H: 12 5/8 x W: 17 15/16 in. (32.07 x 45.56 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "French Exhibition",
+            "ExhibBeginDate": null,
+            "ExhibBeginYear": 0,
+            "ExhibDisplayDate": null,
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 2458,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "French Exhibition. The French Gallery, London. 0."
+        },
+        {
+            "ExhTitle": "Artful Dining: The Exhibition",
+            "ExhibBeginDate": "1994-07-30",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "July 30, 1994-October 31, 1994",
+            "ExhibEndDate": "1994-10-31",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2747,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artful Dining: The Exhibition. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41143,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.18_Fnt_TR_T87II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.18_Fnt_TR_T87II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.18_Fnt_TR_T87II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.18_Fnt_TR_T87II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.18_Fnt_TR_T87II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 24581,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.18_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.18_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.18_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.18_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.18_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] In black paint lower left: Ed. Fr\u00e8re; [Date] In black paint lower left: 57; [Number] On back of panel: 623",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3302,
+        "LocationString": null
+    },
+    "ObjectID": 13895,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.18",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "French and English Exhibition of Pictures, National Academy of Design, New York, October 29, 1859; William T. Walters, Baltimore, October 29, 1859, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13895",
+    "SortNumber": "    37    18                                            ",
+    "Style": null,
+    "Title": "The Little Housekeeper"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1575,
+    "DateEndYear": 1900,
+    "DateText": "late 10th century AH/AD 16th century-13th century AH/AD 19th century",
+    "Description": "This folio from Walters W.668 depicts a young Mughal courtier with a falcon.",
+    "Dimensions": "H: 11 5/8 x W: 7 1/2 in. (29.5 x 19 cm)",
+    "Dynasty": "Mughal Dynasty, Safavid Dynasty, Qajar Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39290,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.668.64B_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.668.64B_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.668.64B_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.668.64B_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.668.64B_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Persian; Safavid; Qajar; Calligraphy; Illumination; Illustration; Miniature; Painting; Accordion book; Album; India; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6427,
+        "LocationString": null
+    },
+    "ObjectID": 77499,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.668.64B",
+    "OnView": 0,
+    "Period": "Mughal; Safavid; Qajar",
+    "Provenance": "'Abduh Khudadad, 1189 AH/AD 1775 [mode of acquisition unknown] [seal impression: 'Abduh Khudadad, 1189 AH/AD 1775 on fol. 58a]; Farhad, 1234 AH/AD 1800 [mode of acquisition unknown] [seal impression: Farhad, 1234 AH/AD 1800 on a number of folios];\r\nMuhammad al-Hasani [date and mode of acquisition unknown] [seal impression: Muhammad al-Hasani on fol. 28a]; Fath 'Ali [date and mode of acquisition unknown] [seal impression: Fath 'Ali on fol. 82b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77499",
+    "SortNumber": "W        668   64B                                      ",
+    "Style": null,
+    "Title": "Young Mughal Courtier with a Falcon"
+}

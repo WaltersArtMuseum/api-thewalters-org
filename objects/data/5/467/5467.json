@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1950",
+    "Culture": null,
+    "DateBeginYear": -600,
+    "DateEndYear": -201,
+    "DateText": "6th-3rd century BC",
+    "Description": null,
+    "Dimensions": "8 3/4 in. (22.23 cm)",
+    "Dynasty": "Zhou [Chou] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11678,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_49.2385_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_49.2385_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_49.2385_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_49.2385_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_49.2385_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "stoneware with impressed decoration",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5922,
+        "LocationString": null
+    },
+    "ObjectID": 5467,
+    "ObjectName": "jars",
+    "ObjectNumber": "49.2385",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Edgar Bromberger Sale, Parke-Bernet Galleries, Inc.,  New York, 1950; Walters Art Museum, Baltimore, 1950, by purchase.",
+    "PublicAccessDate": "2008-10-27T16:59:55.91",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5467",
+    "SortNumber": "    49  2385                                            ",
+    "Style": null,
+    "Title": "Jar"
+}

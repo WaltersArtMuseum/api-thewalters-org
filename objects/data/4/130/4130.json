@@ -1,0 +1,87 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1909",
+    "Culture": "German",
+    "DateBeginYear": 1468,
+    "DateEndYear": 1507,
+    "DateText": "ca. 1480-1495",
+    "Description": "The Passion of Christ was a popular theme for 15th-century altarpieces in northern Europe. It is the story of Christ's suffering-from his arrest to his Crucifixion-although it was often expanded to include earlier and later events, such as the Entombment (see Walters 37.663, 37.664, 37.667, 37.668, 37.669, 37.670, and 37.674). The figures and settings are treated in a life-like fashion to make the events seem real and the message persuasive. The gold-leaf backdrop embossed to look like damask would have suggested to the 15th-century viewer a heavenly light illuminating eternal truths.\r\n\r\nWhen the altarpiece was open, four panels would have been visible on each side of a central carved image, very likely a Resurrection, loosely suggested by the wooden Crucifix hung here. Christ is the central figure in each painting. His serenity and restraint contrast with the undignified agitation of his tormentors, expressed in their grimaces and jerky movements. This use of angularity and exaggeration to generate an emotional response in the viewer is characteristic of German art of this period.",
+    "Dimensions": "Framed H: 51 1/8 x W: 46 5/8 x 2 11/16 in. (129.8 x 118.4 x 6.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448531,
+            "GeographyTerm": "Schwaben",
+            "Latitude": "47 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.5,
+            "Longitude": "010 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41529,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.671_Fnt_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.671_Fnt_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.671_Fnt_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.671_Fnt_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.671_Fnt_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32188,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.671_Fnt_BW_T89.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.671_Fnt_BW_T89.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.671_Fnt_BW_T89.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.671_Fnt_BW_T89.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.671_Fnt_BW_T89.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Lobby",
+        "LocationID": 3797,
+        "LocationString": null
+    },
+    "ObjectID": 4130,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.671",
+    "OnView": 1,
+    "Period": "Late Medieval",
+    "Provenance": "Henry Walters, Baltimore, prior to 1909, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 26000,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4130",
+    "SortNumber": "    37   671                                            ",
+    "Style": "Gothic",
+    "Title": "Altarpiece with the Passion of Christ: Christ Mocked"
+}

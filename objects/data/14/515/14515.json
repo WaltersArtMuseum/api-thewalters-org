@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Otto Weber (German, 1832-1888)",
+            "CreatorID": 5331,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "Weber left the Berlin Academy to study with Thomas Couture in Paris. He adopted a naturalistic style which was appreciated by an international clientele. Among his patrons was Queen Victoria of England.",
+    "Dimensions": "H: 6 7/8 x W: 9 11/16 in. (17.5 x 24.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Medley of German Drawings",
+            "ExhibBeginDate": "1996-04-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "April 17, 1996-September 1, 1996",
+            "ExhibEndDate": "1996-09-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2179,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medley of German Drawings. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48365,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1409_Fnt_BW_T38.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1409_Fnt_BW_T38.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1409_Fnt_BW_T38.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1409_Fnt_BW_T38.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1409_Fnt_BW_T38.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: Otto Weber",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5302,
+        "LocationString": null
+    },
+    "ObjectID": 14515,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1409",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14515",
+    "SortNumber": "    37  1409                                            ",
+    "Style": null,
+    "Title": "Mass"
+}

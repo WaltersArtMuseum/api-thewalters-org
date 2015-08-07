@@ -1,0 +1,83 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Byzantine",
+    "DateBeginYear": 501,
+    "DateEndYear": 700,
+    "DateText": "6th-7th century",
+    "Description": null,
+    "Dimensions": "6 11/16 x 4 1/2 in. (17 x 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Silver Treasure from Early Byzantium",
+            "ExhibBeginDate": "1986-04-18",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "April 18, 1986-August 17, 1986",
+            "ExhibEndDate": "1986-08-17",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2699,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Silver Treasure from Early Byzantium. The Walters Art Gallery, Baltimore. 1986."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Idlib\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1500112,
+            "GeographyTerm": "Ma\u2018arrat an Nu\u2018man",
+            "Latitude": "35 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.666,
+            "Longitude": "036 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12488,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_57.1827_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_57.1827_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_57.1827_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_57.1827_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_57.1827_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 520,
+        "LocationString": null
+    },
+    "ObjectID": 16319,
+    "ObjectName": "crosses (objects)",
+    "ObjectNumber": "57.1827",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Found near Ma'aret en-Noman, Syria; Joseph Brummer, prior to 1947 [mode of acquisition unknown]; Brummer Sale, May 12, 1949;  Henry Walters, Baltimore, May 12, 1949, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-31T16:05:29.053",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16319",
+    "SortNumber": "    57  1827                                            ",
+    "Style": null,
+    "Title": "Cross"
+}

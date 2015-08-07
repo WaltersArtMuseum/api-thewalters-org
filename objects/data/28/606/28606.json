@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "John Wesley Jarvis (American, 1781-1840)",
+            "CreatorID": 2380,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Baroness Helen Giskra in memory of her father, John King, Jr., 1948",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1824,
+    "DateText": "ca. 1812",
+    "Description": "This self-portrait provides a lively, flattering image of a man who was not known for his good looks.\r\n\r\nDuring the first third of the 19th century, Jarvis was America's most fashionable portrait painter. He was based in New York but frequently traveled south to serve his wealthy clientele. This self-portrait was first shown at Peale's Baltimore Museum in 1822. Subsequently, it was owned by Baltimorean Robert Gilmor, Jr. (1774-1848), one of America's first major art collectors.\r\n",
+    "Dimensions": "H: 18 1/16 x W: 13 1/2 in. (45.8 x 34.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 47356,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2011_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2011_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2011_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2011_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2011_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4401,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.2011_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.2011_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.2011_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.2011_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.2011_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3306,
+        "LocationString": null
+    },
+    "ObjectID": 28606,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2011",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William Gwynn, Baltimore; Robert Gilmor Jr., Baltimore, until 1848; Robert Gilmor III, Baltimore; John King Jr., 1875; inherited by Baroness Helen Giskra (n\u00e9e King), 1897; given to Walters Art Museum, 1948.\r\n\r\n[1] not listed in the manuscript Catalogue of Paintings in the Possession of Robert Gilmor, Baltimore, 12 July 1823 (et seqq.) nor identified in the inventory of Robert Gilmor's estate, 29 January 1849, liber. 60, folio 418 ff., Orphan's Court, Baltimore",
+    "PublicAccessDate": "2008-09-25T17:14:36.41",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28606",
+    "SortNumber": "    37  2011                                            ",
+    "Style": null,
+    "Title": "Self-Portrait"
+}

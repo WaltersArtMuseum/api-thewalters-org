@@ -1,0 +1,82 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century (?)",
+    "Description": "Both sides of the tsuba are decorated with an abstracted design of a vine in gold inlay. This is part of a mounted set.",
+    "Dimensions": "H: 2 3/16 x W: 1 3/4 x D: 3/16 in. (5.6 x 4.4 x 0.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 17671,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1196.2_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1196.2_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1196.2_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1196.2_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1196.2_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 17670,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1196.2_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1196.2_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1196.2_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1196.2_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1196.2_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "plant",
+    "Medium": "shakudo, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 6050,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.1196.2",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquistion unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-23T10:08:17.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6050",
+    "SortNumber": "    51  1196    2                                       ",
+    "Style": null,
+    "Title": "Tsuba with Abstract Plant Motif"
+}

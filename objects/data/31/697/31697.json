@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Ninsei (Japanese, ca. 1648-ca. 1690)",
+            "CreatorID": 6368,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1894",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": "This is an example of Satsuma ware.",
+    "Dimensions": "11 5/16 in. (28.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        },
+        {
+            "ExhTitle": "Master Potters of Japan",
+            "ExhibBeginDate": "1984-04-03",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "April 3, 1984-June 17, 1984",
+            "ExhibEndDate": "1984-06-17",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 753,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Master Potters of Japan. The Walters Art Gallery, Baltimore. 1984."
+        },
+        {
+            "ExhTitle": "Japanese Cloisonne Enamels, Fisher Collection",
+            "ExhibBeginDate": "1989-11-19",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "November 19, 1989-January 21, 1990",
+            "ExhibEndDate": "1990-01-21",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 324,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Japanese Cloisonne Enamels, Fisher Collection. The Walters Art Gallery, Baltimore. 1989-1990."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5166,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1882_Fnt_BW_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1882_Fnt_BW_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1882_Fnt_BW_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1882_Fnt_BW_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1882_Fnt_BW_T84.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "white earthenware with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1934,
+        "LocationString": null
+    },
+    "ObjectID": 31697,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1882",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, before 1894 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.903",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31697",
+    "SortNumber": "    49  1882                                            ",
+    "Style": "Satsuma ware",
+    "Title": "Vase with Feather Fans"
+}

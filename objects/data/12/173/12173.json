@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alexandre Bida (French, 1823-1895)",
+            "CreatorID": 6619,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1883 (?)",
+    "Culture": null,
+    "DateBeginYear": 1846,
+    "DateEndYear": 1895,
+    "DateText": "ca. 1858-1883",
+    "Description": null,
+    "Dimensions": "H: 24 3/4 x W: 18 7/8 in. (62.8 x 48 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery",
+            "ExhibBeginDate": "1983-03-17",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "March 17, 1983-April 24, 1983",
+            "ExhibEndDate": "1983-04-24",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 432,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 555,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.910_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.910_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.910_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.910_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.910_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] lower right: Bida",
+    "Keywords": "Jesus Christ; man; woman; child; New Testament; biblical/religious",
+    "Medium": "crayon on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3345,
+        "LocationString": null
+    },
+    "ObjectID": 12173,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.910",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1883 (?), by purchase [from the artist, George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.72",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12173",
+    "SortNumber": "    37   910                                            ",
+    "Style": null,
+    "Title": "And Jesus Said: This Day is Salvation Come to This House"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "Walters manuscript W.673 is an illuminated album (muraqqa') in accordion format containing Persian calligraphy. It was executed in Iran during the 11th century AH/AD 17th. Lines of text in black Nasta'liq script are framed by decorative cloud-bands. Borders are decorated with illuminated vegetal and animal motifs on multicolored paper. This album bears a seal impression of the Ottoman Sultan 'Uthman Khan (Osman III, reigned 1167 AH/AD 1754-1170 AH/AD 1757) and a bequest (waqf) entry and seal by Ibrahim Hanif, inspector of awqaf (fol. 1b). The dark brown leather binding with central oval and pendants is contemporary with the manuscript but may not be original to it.",
+    "Dimensions": "Folio H: 9 13/16 x W: 5 1/2 in. (25 x 14 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34900,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.673_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.673_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.673_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.673_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.673_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Calligraphy; Illumination; Manuscript; Accordion book; Album; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on multicolored paper mounted on pasteboard covered with dark brown leather with light brown leather doublures",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2342,
+        "LocationString": null
+    },
+    "ObjectID": 11403,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.673",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sultan 'Uthman Khan ibn Mustaf\u00e1 Khan [date and mode of acquisition unknown] [seal of the Sultan and a bequest (waqf) entry and seal by Ibrahim Hanif, inspector of awqaf, and the shelfmark 5012 on fol. 1b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 85651,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 85652,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 85653,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/11403",
+    "SortNumber": "W        673                                            ",
+    "Style": null,
+    "Title": "Album of Persian Calligraphy"
+}

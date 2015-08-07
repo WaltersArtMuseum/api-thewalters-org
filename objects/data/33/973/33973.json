@@ -1,0 +1,143 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": "Orthodox Eastern",
+    "DateBeginYear": 1475,
+    "DateEndYear": 1499,
+    "DateText": "late 15th century",
+    "Description": null,
+    "Dimensions": "H: 20 7/8 x W: 15 5/8 in. (53 x 39.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1432116,
+            "GeographyTerm": "Kr\u00edti",
+            "Latitude": "35 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.166,
+            "Longitude": "025 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 25.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52335,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.725_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.725_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.725_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.725_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.725_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52334,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.725_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.725_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.725_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.725_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.725_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 52333,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.725_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.725_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.725_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.725_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.725_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 47830,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.725_XR_1981.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.725_XR_1981.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.725_XR_1981.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.725_XR_1981.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.725_XR_1981.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        },
+        {
+            "ID": 38577,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.725_Fnt_BW_H47.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.725_Fnt_BW_H47.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.725_Fnt_BW_H47.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.725_Fnt_BW_H47.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.725_Fnt_BW_H47.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Annunciation; Saint George with the Dragon",
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: 15th-Century Art of Northern Europe",
+        "LocationID": 3903,
+        "LocationString": null
+    },
+    "ObjectID": 33973,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.725",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-04-18T22:00:00.693",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33973",
+    "SortNumber": "    37   725                                            ",
+    "Style": "Byzantine",
+    "Title": "Annunciation, Saint George Killing the Dragon"
+}

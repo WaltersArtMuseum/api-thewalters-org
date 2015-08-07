@@ -1,0 +1,113 @@
+{
+    "Classification": "Miniatures",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Frame: Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Goldsmith"
+        },
+        {
+            "ConcatDisplayName": "John Henry Brown (American, 1818-1891)",
+            "CreatorID": 3309,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the A. Jay Fink Foundation, Inc., in memory of Abraham Jay Fink, 1963",
+    "Culture": null,
+    "DateBeginYear": 1860,
+    "DateEndYear": 1869,
+    "DateText": "1860-1869",
+    "Description": "This oval miniature of a Confederate officer is enclosed in an imported gold Italian frame decorated with a band of beading and an applied band of braiding. This miniature was once thought to be General Thomas Jonathan Jackson (Stonewall Jackson) (1824-1863), but the sitter lacks Jackson's blue eyes, and there are discrepences in the uniform he wears (for example a general's buttons would have been decorated with eagles).\r\n\r\nBrown was born in Lancaster, Pennsylvania and studied painting with Arthur Armstrong, a fine-art, sign, and \"fancy\" painter. At the age of 21, Brown set up his own business in Lancaster and also taught himself miniature painting. He combined the look of new photographic processes with the colors and composition of oil painting, often basing his portraits on daguerreotypes and later ambrotypes. This miniature has the appearance of being after a photograph. Brown exhibited frequently at the Pennsylvania Academy until 1864 when he joined the photography practice of Frederick Augustus Wenderoth and W. Curtis Taylor, which became the firm of Wenderoth, Taylor, Brown. Brown tinted photographs in the era before color photography, a skill that was in demand in order to create accurate colored likenesses. However, Brown did not completely abandon miniature painting, as this was a practice still in demand among elite clients. In 1876 Brown received a medal for his miniatures at the Centennial Exhibition in Philadelphia.",
+    "Dimensions": "H: 1 15/16 \u00d7 W: 1 5/8 in. (5 \u00d7 4.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 912942,
+            "GeographyTerm": "Pennsylvania",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 912942,
+            "GeographyTerm": "Pennsylvania",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45904,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.494_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.494_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.494_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.494_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.494_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45903,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_38.494_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_38.494_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_38.494_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_38.494_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_38.494_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "male portraits; soldiers; military",
+    "Medium": "watercolor on ivory, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2380,
+        "LocationString": null
+    },
+    "ObjectID": 3805,
+    "ObjectName": "miniatures (paintings); portraits; brooches",
+    "ObjectNumber": "38.494",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Collection of Albert Rosenthal, [date of acquisition unknown] by purchase [from a descendant of General Thomas Jonathan Jackson]; A. Jay Fink Foundation, Inc., Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1963, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3805",
+    "SortNumber": "    38   494                                            ",
+    "Style": null,
+    "Title": "Portrait of a Confederate Office (previously thought to be Stonewall Jackson)"
+}

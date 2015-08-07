@@ -1,0 +1,143 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": "Greek",
+    "DateBeginYear": -562,
+    "DateEndYear": -538,
+    "DateText": "ca. 550 BC",
+    "Description": "\"Sphinx, dog of Hades, whom are you guarding, watching over the dead?\"-funerary inscription from Thessaly.\r\n\r\nThe role of the sphinx as a guardian spirit was often a funerary one. Like the griffins that adorned earlier cauldrons of the Orientalizing period, sphinxes such as this one served as \"watchdogs\" over the precious contents of bronze vessels, which sometimes held the cremated remains of the deceased. \r\n",
+    "Dimensions": "2 7/8 x 1 15/16 x 11/16 in. (7.3 x 5 x 1.8 cm)\r\nbase: 5/8 x 1 15/16 x 1 3/16 in. (1.6 x 5 x 3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Flight, Fantasy, Faith, Fact",
+            "ExhibBeginDate": "1953-12-17",
+            "ExhibBeginYear": 1953,
+            "ExhibDisplayDate": "December 17, 1953-February 21, 1954",
+            "ExhibEndDate": "1954-02-21",
+            "ExhibEndYear": 1954,
+            "ExhibitionID": 108,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Flight, Fantasy, Faith, Fact. Dayton Art Institute, Dayton. 1953-1954."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Calabria\\provinces\\Reggio di Calabria\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439365,
+            "GeographyTerm": "Locri Epizefiri",
+            "Latitude": "38 12",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.2,
+            "Longitude": "016 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53886,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.770_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.770_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.770_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.770_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.770_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53884,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.770_3QtrLft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.770_3QtrLft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.770_3QtrLft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.770_3QtrLft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.770_3QtrLft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 53887,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.770_Lft_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.770_Lft_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.770_Lft_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.770_Lft_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.770_Lft_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 53885,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.770_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.770_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.770_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.770_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.770_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 53888,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.770_Rt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.770_Rt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.770_Rt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.770_Rt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.770_Rt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 8787,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.770_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.770_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.770_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.770_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.770_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3644,
+        "LocationString": null
+    },
+    "ObjectID": 29209,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.770",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Lambros Collection [date and mode of acquisition unknown]; Jean P. Lambros and Giovanni Dattari Sale, Paris, June 17-19, 1912, lot 214; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.487",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29209",
+    "SortNumber": "    54   770                                            ",
+    "Style": "Archaic",
+    "Title": "Sphinx"
+}

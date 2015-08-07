@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Villanovan",
+            "CreatorID": 5714,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1943",
+    "Culture": "Villanovan",
+    "DateBeginYear": -800,
+    "DateEndYear": -700,
+    "DateText": "8th century BC",
+    "Description": "Before the emergence of the Etruscan civilization, native cultures of Italy (called Italic) flourished. Among these groups were the Villanovans, who arose during the 9th and 8th centuries BC in central Italy. Villanovan artists developed a geometric style distinguished by angular shapes, which lived on in the art of the Etruscans.\r\n\r\nUrns of this type were used both in daily life and as containers for the ashes of the deceased. The urn was made without a potter's wheel, and its incised and stamped decoration is typical of the geometric designs of the period.\r\n\r\n",
+    "Dimensions": "15 3/4 x 12 5/8 x 11 1/8 in. (40 x 32 x 28.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435192,
+            "GeographyTerm": "Cerveteri",
+            "Latitude": "41 59",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.983,
+            "Longitude": "012 06",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.1
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62575,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1872_Fnt_BW_H43.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1872_Fnt_BW_H43.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1872_Fnt_BW_H43.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1872_Fnt_BW_H43.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1872_Fnt_BW_H43.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 54520,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1872_Fnt_BW_H43.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1872_Fnt_BW_H43.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1872_Fnt_BW_H43.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1872_Fnt_BW_H43.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1872_Fnt_BW_H43.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Etruscan Art",
+        "LocationID": 5444,
+        "LocationString": null
+    },
+    "ObjectID": 8090,
+    "ObjectName": "urns",
+    "ObjectNumber": "48.1872",
+    "OnView": 1,
+    "Period": "Villanovan",
+    "Provenance": "[Excavated at Caere, about 1896]; Olcott [date and mode of acquisition unknown]; The Brooklyn Museum, New York [date and mode of acquisition unknown]; Walters Art Museum, 1943, by purchase.",
+    "PublicAccessDate": "2013-10-22T01:00:01.853",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8090",
+    "SortNumber": "    48  1872                                            ",
+    "Style": null,
+    "Title": "Burial Urn"
+}

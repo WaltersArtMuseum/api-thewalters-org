@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 52 3/4 x W: 37 in. (134 x 94 cm)",
+    "Dynasty": "Ming [Ming] Dynasty-Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23557,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.37_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.37_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.37_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.37_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.37_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "colors on coarse silk",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2412,
+        "LocationString": null
+    },
+    "ObjectID": 26224,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.37",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 314]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26224",
+    "SortNumber": "    35    37                                            ",
+    "Style": null,
+    "Title": "Family Portrait"
+}

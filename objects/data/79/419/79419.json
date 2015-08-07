@@ -1,0 +1,82 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chancay",
+            "CreatorID": 31453,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Chancay",
+    "DateBeginYear": 1000,
+    "DateEndYear": 1450,
+    "DateText": "1000-1450",
+    "Description": null,
+    "Dimensions": "H: 12 x W: 8 x D: 1 7/8 in. (30.5 x 20.3 x 4.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19387,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.355_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.355_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.355_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.355_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.355_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19386,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_61.355_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_61.355_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_61.355_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_61.355_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_61.355_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood, textile, hair",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5580,
+        "LocationString": null
+    },
+    "ObjectID": 79419,
+    "ObjectName": "masks",
+    "ObjectNumber": "61.355",
+    "OnView": 0,
+    "Period": "Late Intermediate",
+    "Provenance": "New World Antiquities, San Francisco [date and mode of acquisition unknown]; Private collection, 1988, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-09-23T11:05:30.1",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79419",
+    "SortNumber": "    61   355                                            ",
+    "Style": null,
+    "Title": "Mummy Mask with Wig"
+}

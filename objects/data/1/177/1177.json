@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": "Cappadocian",
+    "DateBeginYear": -2100,
+    "DateEndYear": -2100,
+    "DateText": "2100 BC",
+    "Description": "This tablet is unglazed.",
+    "Dimensions": "H: 2 3/16 x W: 1 9/16 in. (5.5 x 4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503177,
+            "GeographyTerm": "Cappadocia",
+            "Latitude": "38 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.5,
+            "Longitude": "036 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Ic Anadolu\\provinces\\Kayseri\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1502261,
+            "GeographyTerm": "Kayseri",
+            "Latitude": "38 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.7,
+            "Longitude": "035 28",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.466
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32560,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1464_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1464_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1464_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1464_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1464_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 814,
+        "LocationString": null
+    },
+    "ObjectID": 1177,
+    "ObjectName": "tablets",
+    "ObjectNumber": "48.1464",
+    "OnView": 0,
+    "Period": "Old Assyrian",
+    "Provenance": "Dikran Kelekian, Paris and New York [claims found at Caesarea]; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1177",
+    "SortNumber": "    48  1464                                            ",
+    "Style": null,
+    "Title": "Cappadocian Tablet Featuring a Cylinder Seal Impression"
+}

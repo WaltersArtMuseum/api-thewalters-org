@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "L\u00e9on Henri Antoine Loire (French, 1821-1898)",
+            "CreatorID": 1883,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1869",
+    "Culture": null,
+    "DateBeginYear": 1869,
+    "DateEndYear": 1869,
+    "DateText": "1869",
+    "Description": null,
+    "Dimensions": "H: 9 7/16 x W: 6 3/4 in. (24 x 17.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 114,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1340_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1340_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1340_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1340_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1340_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"L. Loire 65\" in watercolor, lower right; \"58\" in graphite, verso",
+    "Keywords": "man; woman; child; devotion; prayer; genre; biblical/religious",
+    "Medium": "watercolor with graphite underdrawing on cream, moderately thick, slightly textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2277,
+        "LocationString": null
+    },
+    "ObjectID": 14418,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1340",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1869, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T12:31:20.2",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14418",
+    "SortNumber": "    37  1340                                            ",
+    "Style": null,
+    "Title": "Group of Persons at the Foot of a Cross in the Cemetery"
+}

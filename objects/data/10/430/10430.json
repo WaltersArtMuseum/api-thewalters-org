@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bowdoin Painter (Greek, active ca. 500-ca. 475 BC) (?)",
+            "CreatorID": 2922,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -492,
+    "DateEndYear": -470,
+    "DateText": "ca. 480-470 BC",
+    "Description": "This red-figure lekythos depicts Nike. She flies to the right, with arms outstretched, holding a phiale in her right hand, an oval shaped object (possibly a fruit or egg) in her left. Below on the right is an altar with fire on which she pours liquid from the phiale. She wears a chiton, mantle, disc earing, and serpentine bracelets. Ribbons hold her hair in place. Red dots fill much of the picture field; a few to the left of the altar appear to be letters of a nonsense inscription.",
+    "Dimensions": "at shoulder: 10 7/8 x 3 9/16 in. (27.7 x 9.1 cm) (h. x diam.);\r\nat mouth: 2 3/16 in. (5.5 cm) (diam.);\r\nat foot: 2 5/16 in. (5.9 cm) (diam.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4833,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.257_SideA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.257_SideA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.257_SideA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.257_SideA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.257_SideA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4832,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.257_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.257_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.257_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.257_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.257_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4831,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.257_Det_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.257_Det_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.257_Det_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.257_Det_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.257_Det_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Inscription] Nonsense running vertically to the left of the altar",
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5661,
+        "LocationString": null
+    },
+    "ObjectID": 10430,
+    "ObjectName": "lekythoi",
+    "ObjectNumber": "48.257",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-20T11:01:15.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10430",
+    "SortNumber": "    48   257                                            ",
+    "Style": "Attic",
+    "Title": "Shoulder Lekythos Depicting Nike (?) Pouring from a Patera at an Altar"
+}

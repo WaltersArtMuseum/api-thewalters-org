@@ -1,0 +1,112 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1946",
+    "Culture": null,
+    "DateBeginYear": -700,
+    "DateEndYear": -500,
+    "DateText": "700-500 BC",
+    "Description": "This piece of armor is an element of the hoplite's panoply, which also included a breastplate, greaves, shield, spear, and sword. The nose-guard and cheekpieces of the undecorated, crestless Corinthian helmet left only the eyes and mouth of its wearer exposed. The small holes around the edge of the helmet anchored a leather lining that would have been sewn inside the helmet. This was the most common form of helmet among hoplites.\r\n\r\nThis helmet may have been \"killed,\" or rendered unusable, by bending the cheekpieces outward. This type of distortion is common among helmets dedicated in sanctuaries.",
+    "Dimensions": "H: 9 9/16 x W: 8 3/16 x D: 10 1/8 in. (24.3 x 20.8 x 25.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heroes: Mortals and Myths in Ancient Greece",
+            "ExhibBeginDate": "2009-10-11",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "October 11, 2009-January 2, 2011",
+            "ExhibEndDate": "2011-01-02",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2089,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heroes: Mortals and Myths in Ancient Greece. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville; San Diego Museum Of Art, San Diego; Alexander S. Onassis Public Benefit Foundation (USA), New York. 2009-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Pelop\u00f3nnisos\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1432271,
+            "GeographyTerm": "K\u00f3rinthos",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12087,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2304_3Qtr_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2304_3Qtr_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2304_3Qtr_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2304_3Qtr_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2304_3Qtr_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12088,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2304_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2304_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2304_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2304_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2304_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12089,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2304_Prof_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2304_Prof_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2304_Prof_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2304_Prof_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2304_Prof_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "armor",
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3648,
+        "LocationString": null
+    },
+    "ObjectID": 26335,
+    "ObjectName": "helmets; armor",
+    "ObjectNumber": "54.2304",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Mr. E. Segredakis, New York, New York [date and mode of acquisition unknown]; Walters Art Museum, January 15, 1946, by purchase.",
+    "PublicAccessDate": "2008-12-15T16:18:41.723",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 9666,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26335",
+    "SortNumber": "    54  2304                                            ",
+    "Style": "Archaic",
+    "Title": "Corinthian Helmet"
+}

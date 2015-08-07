@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Guillaume de Nangis",
+            "CreatorID": 8249,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters before 1931",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1499,
+    "DateText": "late 15th century",
+    "Description": "Eight kings sit in a walled garden with beds of flowering plants arranged in a checkerboard pattern. In place of a fountain (a typical structure in medieval gardens), a tent houses a blue lily, and before it, two angels flank a coat of arms with the French fleur-de-lis emblem. The lily in the garden\u2013associated with the Virgin Mary's purity\u2013along with the grape vines\u2013associated with the sacrament of Mass\u2013that climb the willow fence in the background, confirmed the Christian piety of the French kings.",
+    "Dimensions": "H: 15 3/8 x W: 11 in. (39 x 28 cm)\r\n",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37276,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.306.11R_TR_T94III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.306.11R_TR_T94III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.306.11R_TR_T94III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.306.11R_TR_T94III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.306.11R_TR_T94III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 65262,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.306.11r_Fp_BW_H78.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.306.11r_Fp_BW_H78.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.306.11r_Fp_BW_H78.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.306.11r_Fp_BW_H78.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.306.11r_Fp_BW_H78.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "gardens; kings; flowers",
+    "Medium": "ink and paint on paper and vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78090,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.306.11R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by L\u00e9on Gruel, Paris, early 20th century (?); purchased by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78090",
+    "SortNumber": "W        306   11R                                      ",
+    "Style": null,
+    "Title": "Charlemagne and the Kings of France in a Garden"
+}

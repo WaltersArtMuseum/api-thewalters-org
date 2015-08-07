@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2002",
+    "Culture": "Islamic",
+    "DateBeginYear": 1738,
+    "DateEndYear": 1762,
+    "DateText": "ca. 1163 AH/AD 1750",
+    "Description": "This single leaf, Walters W.904, is the back of a depiction of a pleasure pavillion.",
+    "Dimensions": "H: 13 1/8 x W: 9 7/8 in. (33.3 x 25.1 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\Uttar Pradesh\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507079,
+            "GeographyTerm": "Lucknow",
+            "Latitude": "26 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 26.833,
+            "Longitude": "080 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 80.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34146,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.904.b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.904.b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.904.b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.904.b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.904.b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illustration; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83787,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.904.B",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83787",
+    "SortNumber": "W        904B                                           ",
+    "Style": null,
+    "Title": "A Pleasure Pavillion (Back)"
+}

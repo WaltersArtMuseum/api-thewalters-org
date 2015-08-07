@@ -1,0 +1,93 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Niccolo Da Ponte (Italian, 1491-1585)",
+            "CreatorID": 7653,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Agostino Spitti",
+            "CreatorID": 7652,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1568,
+    "DateEndYear": 1592,
+    "DateText": "ca. 1580",
+    "Description": null,
+    "Dimensions": "8 11/16 x 6 5/16 in. (22 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2989,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment bound between red embossed leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2324,
+        "LocationString": null
+    },
+    "ObjectID": 20914,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.487",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Zuane Badoer; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 78136,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/20914",
+    "SortNumber": "W        487                                            ",
+    "Style": null,
+    "Title": "Dogale of Zuane Badoer"
+}

@@ -1,0 +1,132 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean Pichore (French, active ca. 1501-1520) (?)",
+            "CreatorID": 16471,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1508,
+    "DateEndYear": 1532,
+    "DateText": "ca. 1520",
+    "Description": null,
+    "Dimensions": "6 11/16 x 4 5/16 in. (17 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Time Sanctified: The Book of Hours in Medieval Art and Life",
+            "ExhibBeginDate": "1988-04-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "April 23, 1988-July 17, 1988",
+            "ExhibEndDate": "1988-07-17",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 87,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Time Sanctified: The Book of Hours in Medieval Art and Life. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "Prayers in Code: Books of Hours from Renaissance France",
+            "ExhibBeginDate": "2009-04-25",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "April 25, 2009-July 19, 2009",
+            "ExhibEndDate": "2009-07-19",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2117,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Prayers in Code: Books of Hours from Renaissance France. The Walters Art Museum, Baltimore. 2009."
+        },
+        {
+            "ExhTitle": "Puer Natus Est : The Christmas Story in Medieval Manuscripts",
+            "ExhibBeginDate": "1986-11-25",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "November 25, 1986-January 18, 1987",
+            "ExhibEndDate": "1987-01-18",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 2430,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Puer Natus Est : The Christmas Story in Medieval Manuscripts. The Walters Art Gallery, Baltimore. 1986-1987."
+        },
+        {
+            "ExhTitle": "Plants and Flowers in Medieval Manuscripts",
+            "ExhibBeginDate": "1991-07-09",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "July 9, 1991-October 6, 1991",
+            "ExhibEndDate": "1991-10-06",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 73,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Plants and Flowers in Medieval Manuscripts. The Walters Art Gallery, Baltimore. 1991."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16998,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.452.79V_RevDet_TR_T89.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.452.79V_RevDet_TR_T89.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.452.79V_RevDet_TR_T89.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.452.79V_RevDet_TR_T89.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.452.79V_RevDet_TR_T89.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2327,
+        "LocationString": null
+    },
+    "ObjectID": 272,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.452",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Florimond I Robertet (ca. 1457-1527) [royal treasurer under King Fran\u00e7ois I (born 1494, reigned 1515-1547)]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": "King Fran\u00e7ois I (1515-1547)",
+    "RelatedObjects": [
+        {
+            "ObjectID": 78378,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 78379,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79361,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/272",
+    "SortNumber": "W        452                                            ",
+    "Style": null,
+    "Title": "Book of Hours"
+}

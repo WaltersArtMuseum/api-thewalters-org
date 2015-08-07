@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French (?)",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1675,
+    "DateEndYear": 1700,
+    "DateText": "1675-1700",
+    "Description": null,
+    "Dimensions": "H: 25 5/16 x W: 18 1/2 in. (64.3 x 47 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46775,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.252_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.252_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.252_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.252_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.252_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3343,
+        "LocationString": null
+    },
+    "ObjectID": 33759,
+    "ObjectName": "paintings; oil paintings",
+    "ObjectNumber": "37.252",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33759",
+    "SortNumber": "    37   252                                            ",
+    "Style": null,
+    "Title": "Portrait of a Man"
+}

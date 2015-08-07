@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift from Doris Duke Charitable Foundation's Southeast Asian Art Collection, 2002",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1900,
+    "DateText": "19th Century",
+    "Description": null,
+    "Dimensions": "H: 25 x W: 18 11/16 in. (63.5 x 47.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45027,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.280_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.280_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.280_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.280_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.280_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45026,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.280_FnCct_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.280_FnCct_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.280_FnCct_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.280_FnCct_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.280_FnCct_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 49,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_35.280_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_35.280_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_35.280_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_35.280_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_35.280_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Life Story of the Buddha",
+    "Medium": "pigments on cloth, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 14080,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.280",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Doris Duke Charitable Foundation's Southeast Asian Art Collection [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14080",
+    "SortNumber": "    35   280                                            ",
+    "Style": null,
+    "Title": "Upagupta binds Mara to a mountaintop"
+}

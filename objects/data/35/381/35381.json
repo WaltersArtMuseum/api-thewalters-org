@@ -1,0 +1,115 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Gift in honor of Sara D. Redmond by her family, 1985",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "early 10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.808 is an illustrated and illuminated Safavid copy of Joseph (Yusuf) and Zulaykha by Nur al-Din Jami (died 898 AH/AD 1492), executed in Iran in the early 10th century AH/AD 16th. The codex opens with a double-page illuminated incipit (fols. 1b-2a) containing the first verses of the work, the title, and the author's name. There are 8 paintings illustrating the text. The binding is slightly later than the manuscript.",
+    "Dimensions": "Folio H: 9 1/4 x W: 4 15/16 in. (23.5 x 12.5 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34866,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.808_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.808_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.808_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.808_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.808_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Illumination; Illustration; Manuscript; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with brown leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2333,
+        "LocationString": null
+    },
+    "ObjectID": 35381,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.808",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Family of Sara D. Redmond [date and mode of acquisition unknown]; Walters Art Museum, 1985, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84352,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84353,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84354,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84355,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84356,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84357,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84358,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84359,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84360,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84361,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84362,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35381",
+    "SortNumber": "W        808                                            ",
+    "Style": null,
+    "Title": "Yusuf and Zulaykha"
+}

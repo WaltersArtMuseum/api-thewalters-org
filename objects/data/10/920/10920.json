@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 73 3/4 x W: 37 1/8 in. (187.3 x 94.3 cm)",
+    "Dynasty": "Ming [Ming] Dynasty-Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55726,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.43_Fnt_NF_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.43_Fnt_NF_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.43_Fnt_NF_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.43_Fnt_NF_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.43_Fnt_NF_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] Two character inscription on left.",
+    "Keywords": null,
+    "Medium": "colors and ink on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2411,
+        "LocationString": null
+    },
+    "ObjectID": 10920,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.43",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10920",
+    "SortNumber": "    35    43                                            ",
+    "Style": null,
+    "Title": "Four Art Connoisseurs with Two Attendants Under a Tree"
+}

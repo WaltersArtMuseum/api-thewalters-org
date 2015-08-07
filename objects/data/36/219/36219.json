@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1710,
+    "DateEndYear": 1722,
+    "DateText": "1710-1722",
+    "Description": null,
+    "Dimensions": "H: 5 1/16 in. (12.8 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Imperial Chinese Treasures from the Walters Collection",
+            "ExhibBeginDate": null,
+            "ExhibBeginYear": 0,
+            "ExhibDisplayDate": null,
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 3172,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Imperial Chinese Treasures from the Walters Collection. 0."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10184,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.697_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.697_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.697_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.697_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.697_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10185,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.697_Mrk_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.697_Mrk_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.697_Mrk_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.697_Mrk_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.697_Mrk_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze red and enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5729,
+        "LocationString": null
+    },
+    "ObjectID": 36219,
+    "ObjectName": "pots; vessels",
+    "ObjectNumber": "49.697",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": "Kangxi [K'ang-hsi] (1661-1722)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36219",
+    "SortNumber": "    49   697                                            ",
+    "Style": null,
+    "Title": "Writer's Water Pot with Rose Spray"
+}

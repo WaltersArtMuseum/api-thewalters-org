@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mongolian",
+            "CreatorID": 8298,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "In the center of this piece is an inscription in Pali (?). Each figure has an inscription in Chinese and another language with larger side panels the same. The Chinese inscription to the right of the Buddha as been torn off. The piece is in a wood frame covered in brocade.",
+    "Dimensions": "H: 9 5/8 x L: 29 in. (24.5 x 73.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\autonomous regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1476133,
+            "GeographyTerm": "Xizang Zizhiqu",
+            "Latitude": "29 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.0,
+            "Longitude": "088 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 88.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\autonomous regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1476133,
+            "GeographyTerm": "Xizang Zizhiqu",
+            "Latitude": "29 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.0,
+            "Longitude": "088 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 88.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25136,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.92_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.92_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.92_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.92_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.92_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] In center in Pali (?); [Inscription] With each figure in Chinese and another language; [Inscription] On larger side panels in Chinese and another language; [Inscription] On back in pencil: From Yellow Temple near Peking. Ch'ien Lung.",
+    "Keywords": null,
+    "Medium": "wash colors on paper mounted on panel with wood frame covered with brocade",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2424,
+        "LocationString": null
+    },
+    "ObjectID": 30310,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.92",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-04-13T16:18:25.693",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30310",
+    "SortNumber": "    35    92                                            ",
+    "Style": null,
+    "Title": "Mandala with the Buddha and Bodhisattvas"
+}

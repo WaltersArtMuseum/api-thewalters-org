@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1401,
+    "DateEndYear": 1700,
+    "DateText": "15th-17th century (?)",
+    "Description": null,
+    "Dimensions": "H: 42 3/4 x W: 15 3/4 in. (108.6 x 40 cm)",
+    "Dynasty": "Ming [Ming] Dynasty (?)",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22999,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.12_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.12_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.12_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.12_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.12_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23000,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.12_MrkA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.12_MrkA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.12_MrkA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.12_MrkA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.12_MrkA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] At top; [Seal] At top",
+    "Keywords": null,
+    "Medium": "ink and traces of color on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2413,
+        "LocationString": null
+    },
+    "ObjectID": 15664,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.12",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 125]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-23T09:28:07.033",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15664",
+    "SortNumber": "    35    12                                            ",
+    "Style": null,
+    "Title": "Mountain and River Landscape with Boatmen"
+}

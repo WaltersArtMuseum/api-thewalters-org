@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jamal al-Din Husayn Inju Shirazi",
+            "CreatorID": 19282,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Abu al-Fazl ibn Mubarak (1551-1602)",
+            "CreatorID": 19281,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1596,
+    "DateEndYear": 1600,
+    "DateText": "late 10th century AH/AD 16th century",
+    "Description": "This illuminated text page from Walters manuscript W.684 comes from Farhang-i Jahangiri (a Persian language dictionary) by Jamal al-Din Husayn Inju Shirazi (died 1035 AH/AD 1625-1626).",
+    "Dimensions": "H: 13 9/16 x W: 8 7/8 in. (34.5 x 22.5 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34120,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.684B.B_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.684B.B_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.684B.B_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.684B.B_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.684B.B_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illumination; Illustration; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83672,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.684B.B",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Demotte [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83672",
+    "SortNumber": "W        684B    B                                      ",
+    "Style": null,
+    "Title": "Illuminated Text Page"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1799,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "H: 7 1/4 in. (18.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9559,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.954_Fnt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.954_Fnt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.954_Fnt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.954_Fnt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.954_Fnt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9561,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.954_TopDet_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.954_TopDet_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.954_TopDet_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.954_TopDet_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.954_TopDet_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "No visible marks.",
+    "Keywords": null,
+    "Medium": "porcelain with enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2134,
+        "LocationString": null
+    },
+    "ObjectID": 33605,
+    "ObjectName": "vases; covers",
+    "ObjectNumber": "48.954",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "George Robinson Harding, London [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.173",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33605",
+    "SortNumber": "    48   954                                            ",
+    "Style": null,
+    "Title": "Vase with Cover"
+}

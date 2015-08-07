@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2002",
+    "Culture": "Islamic",
+    "DateBeginYear": 1600,
+    "DateEndYear": 1625,
+    "DateText": "1008-1034 AH/AD 1600-1625",
+    "Description": "This manuscript leaf, Walters W.903, depicts the Virgin and Child.",
+    "Dimensions": "H: 12 x W: 7 15/16 in. (30.5 x 20.2 cm); Image H: 6 9/16 x W: 4 1/16 in. (16.7 x 10.3 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34142,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.903.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Christian; Indian; Islamic; Mughal; Illustration; Drawing; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83782,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.903.A",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83782",
+    "SortNumber": "W        903A                                           ",
+    "Style": null,
+    "Title": "Virgin and Child"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Byzantine",
+    "DateBeginYear": 400,
+    "DateEndYear": 699,
+    "DateText": "5th-7th century",
+    "Description": null,
+    "Dimensions": "H: 4 15/16 x L: 6 11/16 in. (12.5 x 17 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\seas\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544965,
+            "GeographyTerm": "Mediterranean Sea",
+            "Latitude": "31 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.5,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39161,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.54_3Qtr_BW_7019.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.54_3Qtr_BW_7019.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.54_3Qtr_BW_7019.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.54_3Qtr_BW_7019.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.54_3Qtr_BW_7019.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 424,
+        "LocationString": null
+    },
+    "ObjectID": 5080,
+    "ObjectName": "lamps (lighting device components)",
+    "ObjectNumber": "54.54",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5080",
+    "SortNumber": "    54    54                                            ",
+    "Style": null,
+    "Title": "Oil Lamp with a Cross"
+}

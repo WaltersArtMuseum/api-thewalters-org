@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1951",
+    "Culture": null,
+    "DateBeginYear": 1001,
+    "DateEndYear": 1100,
+    "DateText": "11th century",
+    "Description": "Decorative lusterware was popular during the Fatimid Period (910-1171). The most important production place was in the cultural center of al-Fustad near the Fatimid capital al-Qahira (Cairo). This plate displays a typical motif of this time period: a bird in a central roundel with leaves and branches and a broad frame with leaf arabesques. Especially attractive are the variation of  forms of the leaves and spiral-tendrils, which modify the rhytmic pattern, and the yellow-golden color of the painting.",
+    "Dimensions": "H: 2 1/2 x Diam: 9 1/2 in. (6.35 x 24.13 cm)",
+    "Dynasty": "Fatimid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Threshold to the Sacred: The Ark Door of Cairo\u2019s Ben Ezra Synagogue ",
+            "ExhibBeginDate": "2013-03-02",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "March 02, 2013-February 23, 2014",
+            "ExhibEndDate": "2014-02-23",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 2114,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Threshold to the Sacred: The Ark Door of Cairo\u2019s Ben Ezra Synagogue . The Walters Art Museum, Baltimore; Yeshiva University Museum, New York. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Urban\\governorates\\Al-Qahirah\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543869,
+            "GeographyTerm": "Al-Qahirah",
+            "Latitude": "30 03",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.5,
+            "Longitude": "031 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45664,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2036_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2036_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2036_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2036_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2036_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45663,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2036_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2036_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2036_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2036_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2036_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware, with luster decoration and glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1462,
+        "LocationString": null
+    },
+    "ObjectID": 20558,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.2036",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Estate of D.G. Kelekian [date and mode of acquisition unknown]; Walters Art Museum, 1951, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:21.177",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20558",
+    "SortNumber": "    48  2036                                            ",
+    "Style": null,
+    "Title": "Lusterware Plate with Bird Motif"
+}

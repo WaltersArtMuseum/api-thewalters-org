@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bernardino di Giovanni da Castelletto (Italian, died after 1500)",
+            "CreatorID": 6540,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1483,
+    "DateEndYear": 1487,
+    "DateText": "1483-1487",
+    "Description": "For more information on this panel, please see Federico Zeri's 1976 catalogue no. 94, p. 141.",
+    "Dimensions": "Painted surface H: 19 7/8 x W: 10 9/16 in. (50.5 x 26.8 cm); Panel H excluding modern frame: 20 1/8 x W: 11 x D: 7/8 in. (51.1 x 27.9 x 2.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440562,
+            "GeographyTerm": "Lucca",
+            "Latitude": "44 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.33,
+            "Longitude": "010 27",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.45
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37086,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1059_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1059_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1059_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1059_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1059_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47173,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1059_XR_1965.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1059_XR_1965.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1059_XR_1965.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1059_XR_1965.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1059_XR_1965.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3249,
+        "LocationString": null
+    },
+    "ObjectID": 21779,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.1059",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 19, as Andrea Verrocchio]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21779",
+    "SortNumber": "    37  1059                                            ",
+    "Style": null,
+    "Title": "The Archangel Gabriel"
+}

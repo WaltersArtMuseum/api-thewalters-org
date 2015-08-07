@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Johann Heinrich Roos (German, 1631-1685)",
+            "CreatorID": 6305,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 11 x W: 14 in. (28 x 35.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29608,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.561_Fnt_BW_H46.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.561_Fnt_BW_H46.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.561_Fnt_BW_H46.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.561_Fnt_BW_H46.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.561_Fnt_BW_H46.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3367,
+        "LocationString": null
+    },
+    "ObjectID": 19288,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.561",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-11-01T15:40:54.233",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 22638,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/19288",
+    "SortNumber": "    37   561                                            ",
+    "Style": null,
+    "Title": "Landscape with Horsemen and Cattle"
+}

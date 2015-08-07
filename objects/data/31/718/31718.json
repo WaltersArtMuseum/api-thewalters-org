@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": "Byzantine",
+    "DateBeginYear": 400,
+    "DateEndYear": 599,
+    "DateText": "5th-6th century",
+    "Description": null,
+    "Dimensions": "H: 13/16 in. (2.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\seas\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544965,
+            "GeographyTerm": "Mediterranean Sea",
+            "Latitude": "31 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.5,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39164,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.58_Fnt_BW_5919.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.58_Fnt_BW_5919.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.58_Fnt_BW_5919.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.58_Fnt_BW_5919.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.58_Fnt_BW_5919.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze inlaid with silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 454,
+        "LocationString": null
+    },
+    "ObjectID": 31718,
+    "ObjectName": "weights",
+    "ObjectNumber": "54.58",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Dr. Edd\u00e9, Alexandria [date of acquisition unknown], by purchase; Sale, Hotel Drouot, Paris, May 31, 1911; Dikran Kelekian, Paris [date of acquisition unknown], by purchase; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31718",
+    "SortNumber": "    54    58                                            ",
+    "Style": null,
+    "Title": "Weight"
+}

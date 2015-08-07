@@ -1,0 +1,130 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": "This squatting figure of a baboon has a loop on the back and was used as an amulet-pendant. Baboons could be representations of the god of wisdom Thoth but they appear also as animals greeting the sun god in the morning and the evening. This pendant has no moon disk and crescent on his head and what would be typical for Thoth- Baboon. Therefore, it may represent one of the solar baboons.",
+    "Dimensions": "H: 15/16 x W: 7/16 x D: 1/4 in. (2.34 x 1.16 x 0.7 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21844,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1545_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1545_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1545_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1545_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1545_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21845,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1545_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1545_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1545_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1545_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1545_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 21846,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1545_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1545_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1545_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1545_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1545_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 21842,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1545_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1545_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1545_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1545_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1545_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 21847,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1545_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1545_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1545_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1545_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1545_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 21843,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1545_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1545_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1545_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1545_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1545_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with light blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 19213,
+    "ObjectName": "pendants; amulets; amulet-pendants",
+    "ObjectNumber": "48.1545",
+    "OnView": 0,
+    "Period": "Greco-Roman Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19213",
+    "SortNumber": "    48  1545                                            ",
+    "Style": null,
+    "Title": "Squatting Baboon"
+}

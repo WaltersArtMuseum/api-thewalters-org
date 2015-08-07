@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chiang family (Chinese)",
+            "CreatorID": 3987,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1950",
+    "Culture": null,
+    "DateBeginYear": 1200,
+    "DateEndYear": 1399,
+    "DateText": "13th-14th century",
+    "Description": null,
+    "Dimensions": "W: 16 1/4 in. (41.2 cm)",
+    "Dynasty": "Yuan Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\provinces\\Henan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1485895,
+            "GeographyTerm": "Anyang",
+            "Latitude": "36 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.83,
+            "Longitude": "114 21",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 114.35
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5224,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2384_Fnt_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2384_Fnt_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2384_Fnt_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2384_Fnt_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2384_Fnt_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] made by the Chiang family in old Hsiang",
+    "Keywords": null,
+    "Medium": "stoneware with glaze and underglaze iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5922,
+        "LocationString": null
+    },
+    "ObjectID": 8611,
+    "ObjectName": "pillows",
+    "ObjectNumber": "49.2384",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "C. Edward Wells, New York; Edgar Bromberger Sale, Parke-Bernet Galleries, Inc., New York, 1950, no. 149; purchased by Walters Art Museum, Baltimore, 1950.",
+    "PublicAccessDate": "2008-09-25T17:09:35.153",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8611",
+    "SortNumber": "    49  2384                                            ",
+    "Style": null,
+    "Title": "Pillow"
+}

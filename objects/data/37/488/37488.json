@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1790,
+    "DateEndYear": 1799,
+    "DateText": "1790-1799",
+    "Description": null,
+    "Dimensions": "H: 27 1/4 x W: 20 7/8 in. (69.2 x 53 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46804,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.393_Fnt_BW_T89.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.393_Fnt_BW_T89.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.393_Fnt_BW_T89.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.393_Fnt_BW_T89.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.393_Fnt_BW_T89.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3356,
+        "LocationString": null
+    },
+    "ObjectID": 37488,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.393",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37488",
+    "SortNumber": "    37   393                                            ",
+    "Style": null,
+    "Title": "Portrait of a Young Man"
+}

@@ -1,0 +1,100 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Vincenzo di Biagio Catena (Italian, ca. 1470-1531)",
+            "CreatorID": 4776,
+            "Gender": "male",
+            "Role": "Painter"
+        },
+        {
+            "ConcatDisplayName": "After Giovanni Bellini (Italian, born 1431-1436, died 1516)",
+            "CreatorID": 2106,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1512,
+    "DateText": "ca. 1500",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 268, pp. 393-394.",
+    "Dimensions": "Painted surface H: 29 1/8 x W: 47 1/16 in. (74 x 119.5 cm); Panel H: 29 1/8 x W: 47 5/8 x Approx. D excluding cradle: 3/8 in. (74 x 121 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40815,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.583_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.583_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.583_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.583_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.583_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 29659,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.583_Fnt_BW_H60.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.583_Fnt_BW_H60.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.583_Fnt_BW_H60.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.583_Fnt_BW_H60.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.583_Fnt_BW_H60.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] On the cartellino in the foreground: VINZENZIVS P[INXIT]",
+    "Keywords": null,
+    "Medium": "paint on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3284,
+        "LocationString": null
+    },
+    "ObjectID": 38643,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.583",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 422]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38643",
+    "SortNumber": "    37   583                                            ",
+    "Style": null,
+    "Title": "Madonna and Child with Four Saints"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Italic",
+    "DateBeginYear": -899,
+    "DateEndYear": -700,
+    "DateText": "9th-8th century BC",
+    "Description": "Spiral decorative elements reached Greece by the 9th century BC and were enormously popular in both Greece and Italy throughout the Geometric period. Oversized ornaments of bronze, including belts, necklaces with massive beads and pendants, bracelets, and particularly pins, or \"fibulae,\" have been found in graves and in sanctuaries as personal dedications. The fibulae were constructed much like our modern safety pins, with a spring for tension and a catchplate to hold the pin in place. They were often worn in pairs on the shoulders to secure garments.",
+    "Dimensions": "H: 9 5/16 x W: 3 11/16 x D: 1 1/16 in. (23.7 x 9.4 x 2.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 43443,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.165_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.165_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.165_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.165_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.165_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 43442,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.165_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.165_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.165_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.165_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.165_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3635,
+        "LocationString": null
+    },
+    "ObjectID": 10037,
+    "ObjectName": "brooches; fibulae",
+    "ObjectNumber": "54.165",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-10-24T22:00:00.587",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10037",
+    "SortNumber": "    54   165                                            ",
+    "Style": null,
+    "Title": "Spiral Fibula"
+}

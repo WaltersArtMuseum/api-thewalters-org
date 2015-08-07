@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. James E. Bogle, 2010",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "ca. 18th century",
+    "Description": "The painting depicts the Lord Buddha descending from Tavatisma Heaven.",
+    "Dimensions": "H: 29 15/16 x W: 22 1/16 in. (76 x 56 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Art of Thailand",
+            "ExhibBeginDate": "1971",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "Spring 1971",
+            "ExhibEndDate": "1971",
+            "ExhibEndYear": 1971,
+            "ExhibitionID": 2500,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Art of Thailand. Ithaca College Museum of Art, Ithaca. 1971."
+        },
+        {
+            "ExhTitle": "Exhibition of Thai Paintings from James Bogle's Collection",
+            "ExhibBeginDate": "1981",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "Fall 1981 and Fall 2002",
+            "ExhibEndDate": "2002",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2501,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Exhibition of Thai Paintings from James Bogle's Collection. Lycoming College Gallery, Williamsport. 1981-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29200,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/REF_2010.12.6_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/REF_2010.12.6_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/REF_2010.12.6_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/REF_2010.12.6_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/REF_2010.12.6_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Life Story of the Buddha",
+    "Medium": "pigments on cloth on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 81910,
+    "ObjectName": "paintings",
+    "ObjectNumber": "2010.12.6",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Collection of James E. Bogle, Philadelphia, Pennsylvania, September 30, 1959, by purchase [from Wanchai, an antique dealer]; Walters Art Museum, 2010, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81910",
+    "SortNumber": "  2010    12    6                                       ",
+    "Style": "Ayutthaya School (?)",
+    "Title": "Buddha Descending from Tavatimsa Heaven"
+}

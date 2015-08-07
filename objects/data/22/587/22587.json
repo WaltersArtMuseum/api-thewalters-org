@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "One side is decorated with a relief of St. George slaying the dragon and the other with calvary.",
+    "Dimensions": "H: 10 13/16 in. (27.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31021,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.213_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.213_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.213_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.213_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.213_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "yellow bronze (lost-wax-cast) with green patina",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 529,
+        "LocationString": null
+    },
+    "ObjectID": 22587,
+    "ObjectName": "bells (idiophones)",
+    "ObjectNumber": "54.213",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-02-16T14:53:00.53",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22587",
+    "SortNumber": "    54   213                                            ",
+    "Style": null,
+    "Title": "Sacristy Bell"
+}

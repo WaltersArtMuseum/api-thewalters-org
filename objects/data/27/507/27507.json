@@ -1,0 +1,131 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": null,
+    "DateBeginYear": -660,
+    "DateEndYear": -410,
+    "DateText": "660-410 BC",
+    "Description": "The djed pillar is a hieroglyphic sign meaning \"duration\" and \"stability.\" It is also a symbol of Osiris, the god of the underworld.",
+    "Dimensions": "H: 3 3/4 x W: 1 x D: 1/4 in. (9.5 x 2.49 x 0.63 cm)",
+    "Dynasty": "26th-27th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Faience: The Colors of the Heavens",
+            "ExhibBeginDate": "2003-05-17",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "May 17, 2003-June 30, 2004",
+            "ExhibEndDate": "2004-06-30",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 10,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Faience: The Colors of the Heavens. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22471,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2655_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2655_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2655_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2655_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2655_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22472,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2655_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2655_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2655_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2655_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2655_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22473,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2655_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2655_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2655_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2655_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2655_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22474,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2655_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2655_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2655_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2655_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2655_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22470,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2655_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2655_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2655_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2655_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2655_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1897,
+        "LocationString": null
+    },
+    "ObjectID": 27507,
+    "ObjectName": "amulets",
+    "ObjectNumber": "48.2655",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1927, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-17T15:10:01.847",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27507",
+    "SortNumber": "    48  2655                                            ",
+    "Style": null,
+    "Title": "Djed Pillar"
+}

@@ -1,0 +1,92 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "early 11th century AH/AD 17th century",
+    "Description": "This Mughal painting of the early 11th century AH/AD 17th, Walters W.693, depicts 2 young men on a white elephant. The seated man is being served wine. The painting is surrounded by a frame of illuminated buff-colored paper with four panels inscribed with Persian verses written in black Nasta'liq script. The border is of salmon-colored paper with illuminated floral motifs.",
+    "Dimensions": "H: 10 5/8 x W: 7 1/2 in. (27 x 19 cm); Image H: 9 1/16 x W: 5 11/16 in. (23 x 14.5 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Elephants",
+            "ExhibBeginDate": "1987-09-01",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "September 1, 1987-February 7, 1988",
+            "ExhibEndDate": "1988-02-07",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2871,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Elephants. The Walters Art Gallery, Baltimore. 1987-1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38781,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.693.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.693.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.693.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.693.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.693.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illumination; Illustration; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6430,
+        "LocationString": null
+    },
+    "ObjectID": 9670,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.693",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84245,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84246,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9670",
+    "SortNumber": "W        693                                            ",
+    "Style": null,
+    "Title": "Single Leaf of Two Young Men Riding a White Elephant"
+}

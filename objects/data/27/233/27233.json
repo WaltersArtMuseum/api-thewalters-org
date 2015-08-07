@@ -1,0 +1,88 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Qara Bibir (or Bebr)",
+            "CreatorID": 2828,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1799,
+    "DateText": "18th century",
+    "Description": "The scalloped blade is inscribed with an Arabic couplet.",
+    "Dimensions": "14 15/16 x 34 13/16 x 1 3/8 in. (38 x 88.5 x 3.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14687,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_51.13_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_51.13_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_51.13_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_51.13_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_51.13_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] Inscribed on blade: In cowardice is shame, and in boldness is nobility; for a man does not by cowardice escape from fate.",
+    "Keywords": null,
+    "Medium": "steel, inlaid with gold (blade); horn (hilt)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Islamic Arms and Armor",
+        "LocationID": 3958,
+        "LocationString": null
+    },
+    "ObjectID": 27233,
+    "ObjectName": "sword; scimitar",
+    "ObjectNumber": "51.13",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-02T15:10:11.15",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27233",
+    "SortNumber": "    51    13                                            ",
+    "Style": null,
+    "Title": "Scallop-edged Saber"
+}

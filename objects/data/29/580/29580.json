@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Follower of Gustave Courbet (French, 1819-1877)",
+            "CreatorID": 4823,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1819,
+    "DateEndYear": 1881,
+    "DateText": "before 1881",
+    "Description": "The viewer looks across a stretch of water from a rocky shoreline. At the left, on a promontory, is a cluster of buildings. Though the architecture and the terrain are in keeping with a site on Lake Geneva, the specific scene has not been identified. \r\n\r\nThe rather crude handling of the pigments has little in common with the work of Courbet. Robert Fernier, president of the Amis de Courbet, concluded in a letter to the museum of 1972, that this work might have been painted by the master's follower from Ticino, Ch\u00e9rubino Pata (1827-1899), who is known to have been responsible for a number of forgeries dating from Courbet's last years in Switzerland.",
+    "Dimensions": "H: 14 7/8 x W: 21 3/8 in. (37.8 x 54.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Courbet/Not Courbet",
+            "ExhibBeginDate": "2006-09-16",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "September 16, 2006-March 11, 2007",
+            "ExhibEndDate": "2007-03-11",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2154,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Courbet/Not Courbet. The Walters Art Museum, Baltimore. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Schweiz\\lakes\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1472588,
+            "GeographyTerm": "Gen\u00e8ve, Lac de",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7940,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.876_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.876_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.876_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.876_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.876_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47203,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.876_XR_1952.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.876_XR_1952.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.876_XR_1952.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.876_XR_1952.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.876_XR_1952.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] signed at lower right: G. Courbet",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3323,
+        "LocationString": null
+    },
+    "ObjectID": 29580,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.876",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-05-05T13:24:39.713",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29580",
+    "SortNumber": "    37   876                                            ",
+    "Style": null,
+    "Title": "View of Lake Geneva"
+}

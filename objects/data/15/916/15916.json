@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1030,
+    "DateEndYear": 1080,
+    "DateText": "mid 11th century",
+    "Description": null,
+    "Dimensions": "H: 9 1/8 x W: 6 9/16 in. (23.1 x 16.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Book and the Author: Portraits of the Evangelists in Eastern and Western Manuscripts",
+            "ExhibBeginDate": "1990-10-09",
+            "ExhibBeginYear": 1990,
+            "ExhibDisplayDate": "October 9, 1990-January 6, 1991",
+            "ExhibEndDate": "1991-01-06",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 31,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book and the Author: Portraits of the Evangelists in Eastern and Western Manuscripts. The Walters Art Gallery, Baltimore. 1990-1991."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Baden-W\u00fcrttemberg\\districts (national)\\Freiburg\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1456146,
+            "GeographyTerm": "Reichenau",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39893,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.7.67V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.7.67V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.7.67V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.7.67V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.7.67V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Caroline minuscule; Scripture",
+    "Medium": "ink and pigments on thick, white, unpolished parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 15916,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.7.67V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Abbey of St. Peter, Reichenau (?), mid-11th century. A German Library, 19th century [1].  Sir Thomas Brooke (through the dealer G. I. Ellis), Huddersfield, Yorkshire, after 1854.  Ingraham Brooke, Sotheby's March 7, 1913, lot 8. Leon Gruel, Paris, after 1913; purchased by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 203",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15916",
+    "SortNumber": "W          7   67V                                      ",
+    "Style": "Ottonian",
+    "Title": "Portrait of the Evangelist Mark"
+}

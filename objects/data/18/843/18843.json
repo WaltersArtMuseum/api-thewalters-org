@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Spanish",
+            "CreatorID": 6242,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1510,
+    "DateEndYear": 1520,
+    "DateText": "1510-1520",
+    "Description": null,
+    "Dimensions": "7 7/8 x 5 1/4 in. (20 x 13.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1444912,
+            "GeographyTerm": "Catalu\u00f1a",
+            "Latitude": "41 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.666,
+            "Longitude": "001 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9739,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.420.269V_OpnRev_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.420.269V_OpnRev_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.420.269V_OpnRev_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.420.269V_OpnRev_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.420.269V_OpnRev_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, gold and silver on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 18843,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.420.269V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18843",
+    "SortNumber": "W        420  269V                                      ",
+    "Style": null,
+    "Title": "Saint George Slaying the Dragon"
+}

@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Fakhr al-Din Hamzah ibn 'Ali Azari (died 866 AH/AD 1461-1462)",
+            "CreatorID": 4050,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1613,
+    "DateEndYear": 1613,
+    "DateText": "1022 AH/AD 1613",
+    "Description": "Walters manuscript W.652 is an abridged metrical paraphrase of the 2nd maqalah of 'Aja'ib al-makhluqat (The wonders of creation) by Zakariya' al-Qazwini (died 682 AH/AD 1283) with additions from other sources by Fakhr al-Din Hamzah ibn 'Ali Azari (died 866 AH/AD 1461-1462). The text was copied in Herat (in present-day Afghanistan) in 1022 AH/AD 1613 in the library of the governor of Khurasan Husayn Khan Shamlu-yi Biklirbiki (Beglerbegi). The manuscript is illustrated with 14 paintings in an early Safavid style from the 11th century AH/AD 17th. The present binding is not original to the manuscript.",
+    "Dimensions": "Folio H: 2 5/16 x W: 6 11/16 in. (5.8 x 17 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible",
+            "ExhibBeginDate": "2002-10-27",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "October 27, 2002-December 29, 2002",
+            "ExhibEndDate": "2002-12-29",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2339,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book of Kings: Art, War, and the Morgan Library's Medieval Picture Bible. The Walters Art Museum, Baltimore; Academy Art Museum, Easton; Princeton University Art Museum, Princeton; The Mitchell Gallery, Annapolis; Williams College Museum of Art, Williamstown. 2002."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Elephants",
+            "ExhibBeginDate": "1987-09-01",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "September 1, 1987-February 7, 1988",
+            "ExhibEndDate": "1988-02-07",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2871,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Elephants. The Walters Art Gallery, Baltimore. 1987-1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Afghanestan\\provinces\\Herat\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1521790,
+            "GeographyTerm": "Herat",
+            "Latitude": "34 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.333,
+            "Longitude": "062 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 62.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34892,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.652_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.652_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.652_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.652_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.652_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Afghanistan; Cosmology; History; Literature -- Poetry",
+    "Medium": "ink and pigments on thick paper covered with light olive leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2342,
+        "LocationString": null
+    },
+    "ObjectID": 18970,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.652",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Husayn, 1305 AH/AD 1887-1888, by purchase [for 310 tomans]; Asghar 'Ali, 1305 AH/AD 1887, 1888, by gift [acquired for Asghar 'Ali by his father Husayn for 310 tomans, dated 1305 AH/AD 1887-1888, see fol. 1b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 29327,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/18970",
+    "SortNumber": "W        652                                            ",
+    "Style": null,
+    "Title": "Marvels of the World"
+}

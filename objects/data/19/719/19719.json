@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Cristoforo Majorana (Italian, active ca. 1480-1494)",
+            "CreatorID": 8347,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Virgil (Roman, 70-19 BC)",
+            "CreatorID": 8356,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1458,
+    "DateEndYear": 1482,
+    "DateText": "ca. 1470",
+    "Description": null,
+    "Dimensions": "5 1/2 x 2 13/16 in. (14 x 7.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2943,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.400.133V_OpnRev_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.400.133V_OpnRev_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.400.133V_OpnRev_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.400.133V_OpnRev_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.400.133V_OpnRev_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 19719,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.400.133V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L. S. Olschki;  Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19719",
+    "SortNumber": "W        400  133V                                      ",
+    "Style": null,
+    "Title": "Leaf from Eclogues, Georgics and Aeneid"
+}

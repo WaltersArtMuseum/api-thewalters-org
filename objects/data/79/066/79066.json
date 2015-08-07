@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian (?)",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "9th century AH/AD 15th century",
+    "Description": null,
+    "Dimensions": "H: 14 15/16 x W: 11 in. (38 x 28 cm)",
+    "Dynasty": "Timurid",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Saint John's Bible: A Modern Vision through Medieval Methods",
+            "ExhibBeginDate": "2009-02-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "February 15, 2009-May 24, 2009",
+            "ExhibEndDate": "2009-05-24",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2059,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Saint John's Bible: A Modern Vision through Medieval Methods. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31180,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.562.32b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.562.32b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.562.32b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.562.32b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.562.32b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Book; Calligraphy; Codex; Illumination; Iran; Islamic; Koran; Manuscript; Medallion; Ornament; Prayer; Qur`an; Scripture; Timurid; New Abbasid Style",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 79066,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.562.32B",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79066",
+    "SortNumber": "W        562   32B                                      ",
+    "Style": null,
+    "Title": "Leaf from Qur'an"
+}

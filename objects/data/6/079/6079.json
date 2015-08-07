@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1901",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1499,
+    "DateText": "15th century",
+    "Description": null,
+    "Dimensions": "H: 6 1/8 in. (15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Life in the Gothic Age",
+            "ExhibBeginDate": "1955",
+            "ExhibBeginYear": 1955,
+            "ExhibDisplayDate": "1955",
+            "ExhibEndDate": "1955",
+            "ExhibEndYear": 1955,
+            "ExhibitionID": 487,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Life in the Gothic Age. Norfolk Museum of Art, Norfolk. 1955."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48684,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.435_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.435_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.435_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.435_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.435_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 538,
+        "LocationString": null
+    },
+    "ObjectID": 6079,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.435",
+    "OnView": 0,
+    "Period": "late Medieval",
+    "Provenance": "Marcus Antocolsky, Paris, [date of acquisition unknown] by purchase; Marcus Antocolsky Collection Sale, Hotel Drouot, Paris, June 10-12, 1901, no. 189; Henry Walters, Baltimore, 1901, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6079",
+    "SortNumber": "    54   435                                            ",
+    "Style": null,
+    "Title": "Saint George and the Dragon"
+}

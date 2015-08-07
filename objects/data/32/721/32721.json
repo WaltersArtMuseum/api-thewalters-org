@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Carl Bersch (German | American, 1834-1914)",
+            "CreatorID": 5805,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Gerda Fischer Vey, 1977",
+    "Culture": null,
+    "DateBeginYear": 1848,
+    "DateEndYear": 1872,
+    "DateText": "ca. 1860",
+    "Description": "Bersch was born in Zweibr\u00fccken, Germany, and studied at the Academy of Fine Arts, Munich. He came to the United States in 1860, living and working in Memphis, TN, Washington, DC (where he worked in Matthew Brady's photography studio), and Baltimore, Maryland.  \r\n\r\nOtto von Bismarck, was the most prominent European diplomat of the 19th century, responsible for the unification of the German states under Prussian rule.",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51921,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2540_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2540_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2540_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2540_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2540_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 51922,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2540_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2540_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2540_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2540_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2540_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 51920,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2540_BackCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2540_BackCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2540_BackCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2540_BackCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2540_BackCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on cardboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3388,
+        "LocationString": null
+    },
+    "ObjectID": 32721,
+    "ObjectName": "paintings; portraits",
+    "ObjectNumber": "37.2540",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gerda Fischer Vey, Annapolis [date and mode of acquisition unknown]; Walters Art Museum, 1977, by bequest.",
+    "PublicAccessDate": "2014-03-19T01:00:02.743",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32721",
+    "SortNumber": "    37  2540                                            ",
+    "Style": null,
+    "Title": "Portrait of Bismark"
+}

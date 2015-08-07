@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Victor-Philippe Fran\u00e7ois Lemoine-Benoit (French, active 1831-1850)",
+            "CreatorID": 3912,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1870",
+    "Culture": null,
+    "DateBeginYear": 1852,
+    "DateEndYear": 1852,
+    "DateText": "1852",
+    "Description": null,
+    "Dimensions": "H: 11 15/16 x W: 8 13/16 in. (30.4 x 22.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "Portraits Re-Examined: Dawoud Bey Project",
+            "ExhibBeginDate": "2008-12-06",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "December 6, 2008-February 16, 2009",
+            "ExhibEndDate": "2009-02-16",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2102,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Portraits Re-Examined: Dawoud Bey Project. The Walters Art Museum, Baltimore. 2008-2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 122,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1356_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1356_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1356_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1356_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1356_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Lemoine-Benoit 1852\" in red ink, at lower left; \"L (? )268.\" in graphite above center, verso; \"7\" in graphite at center bottom edge, verso; \"7\" in graphite at upper right corner, verso",
+    "Keywords": "woman; peasant; prayer; devotion; church; genre",
+    "Medium": "watercolor and gouache with gum heightening over graphite underdrawing on moderately textured, thick, cream wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5458,
+        "LocationString": null
+    },
+    "ObjectID": 12787,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1356",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1870, [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T12:31:58.34",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12787",
+    "SortNumber": "    37  1356                                            ",
+    "Style": null,
+    "Title": "Woman in Italian Peasant Dress"
+}

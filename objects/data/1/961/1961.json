@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Abraham van Westervelt (Dutch, 1620/1-1692)",
+            "CreatorID": 4164,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 16 1/4 x W: 21 3/4 in. (41.3 x 55.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters",
+            "ExhibBeginDate": "1981-11-01",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "November 1, 1981-February 1, 1982",
+            "ExhibEndDate": "1982-02-01",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2517,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters. The Walters Art Gallery, Baltimore. 1981-1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46827,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.794_fnt_BW_H77.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.794_fnt_BW_H77.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.794_fnt_BW_H77.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.794_fnt_BW_H77.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.794_fnt_BW_H77.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] lower right: A westervelt",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3346,
+        "LocationString": null
+    },
+    "ObjectID": 1961,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.794",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1961",
+    "SortNumber": "    37   794                                            ",
+    "Style": null,
+    "Title": "Genre Scene: A Merry Party"
+}

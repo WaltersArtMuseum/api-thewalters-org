@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": "This panel has a painting of Saint Anthony on the reverse.",
+    "Dimensions": "H: 6 3/16 x W: 4 3/4 in. (15.7 x 12.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Modena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439882,
+            "GeographyTerm": "Modena",
+            "Latitude": "44 39",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.65,
+            "Longitude": "010 55",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.916
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37075,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.612A_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.612A_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.612A_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.612A_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.612A_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 0
+        },
+        {
+            "ID": 37010,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.612_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.612_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.612_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.612_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.612_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on copper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3379,
+        "LocationString": null
+    },
+    "ObjectID": 17120,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.612",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-14T00:30:00.75",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/17120",
+    "SortNumber": "    37   612                                            ",
+    "Style": null,
+    "Title": "Vision of Saint Agnes"
+}

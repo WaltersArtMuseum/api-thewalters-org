@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chim\u00fa",
+            "CreatorID": 8561,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Chim\u00fa",
+    "DateBeginYear": 1100,
+    "DateEndYear": 1550,
+    "DateText": "1100-1550",
+    "Description": null,
+    "Dimensions": "H: 8 1/4 x W: 5 3/4 x D: 3 3/4 in. (21 x 14.6 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19106,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2858_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2858_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2858_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2858_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2858_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19107,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2858_SideA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2858_SideA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2858_SideA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2858_SideA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2858_SideA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 19108,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2858_SideB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2858_SideB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2858_SideB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2858_SideB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2858_SideB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5583,
+        "LocationString": null
+    },
+    "ObjectID": 79423,
+    "ObjectName": "jars",
+    "ObjectNumber": "48.2858",
+    "OnView": 0,
+    "Period": "Late Intermediate-Late Horizon",
+    "Provenance": "New World Antiquities, San Francisco [date and mode of acquisition unknown]; Private collection, 1988, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-15T08:29:11.193",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79423",
+    "SortNumber": "    48  2858                                            ",
+    "Style": null,
+    "Title": "Jar"
+}

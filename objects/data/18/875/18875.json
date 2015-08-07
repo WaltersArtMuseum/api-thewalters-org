@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1899",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1699,
+    "DateText": "17th century",
+    "Description": "A mortise lock fits into a cavity (mortise) carved out of the door or cabinet it is meant to secure. Most door and cabinet locks in the 1600s were mortised, but exterior padlocks were also widely used. The same delicate vine design is found on both the lock and key.",
+    "Dimensions": "lock: 3 1/2 x 3 1/2 in. (8.89 x 8.89 cm);\r\nkey: 3 1/2 in. (8.89 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "World of Wonder",
+            "ExhibBeginDate": "1971-11-08",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "November 8, 1971-January 31, 1972",
+            "ExhibEndDate": "1972-01-31",
+            "ExhibEndYear": 1972,
+            "ExhibitionID": 1994,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "World of Wonder. The Walters Art Gallery, Baltimore. 1971-1972."
+        },
+        {
+            "ExhTitle": "Safe and Secure: Keys and Locks",
+            "ExhibBeginDate": "1987-06-09",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "June 9, 1987-October 18, 1987",
+            "ExhibEndDate": "1987-10-18",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 3037,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Safe and Secure: Keys and Locks. Cooper-Hewitt National Design Museum, New York. 1987."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 35504,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_52.173AB_Fnt_NG_2196.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_52.173AB_Fnt_NG_2196.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_52.173AB_Fnt_NG_2196.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_52.173AB_Fnt_NG_2196.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_52.173AB_Fnt_NG_2196.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 0
+        },
+        {
+            "ID": 5431,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_52.173_Fnt_BW_H67.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_52.173_Fnt_BW_H67.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_52.173_Fnt_BW_H67.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_52.173_Fnt_BW_H67.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_52.173_Fnt_BW_H67.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "iron, steel, brass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4510,
+        "LocationString": null
+    },
+    "ObjectID": 18875,
+    "ObjectName": "keys (hardware); mortise locks",
+    "ObjectNumber": "52.173",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "James Gurney, until 1898 [date and mode of acquisition unknown]; James Gurney Sale, Christie's, March 8, 1898, lot 225; George R. Harding, London, 1898, by purchase; Henry Walters, Baltimore, June 30, 1899, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.957",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18875",
+    "SortNumber": "    52   173                                            ",
+    "Style": null,
+    "Title": "Mortise Lock with Key"
+}

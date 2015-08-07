@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Seyh Hamdullah (Islamic, 1436 (?)-1520)",
+            "CreatorID": 17761,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1800,
+    "DateText": "10th century AH/AD 16th century-12th century AH/AD 18th century",
+    "Description": "This folio from Walters manuscript W.672 is a sheet of pen exercises (karalama). Such pen exercises were commonly collected in albums. In their technique and design pattern, the borders of this page are comparable to ebru (marbled paper) made by Hatib Mehmed Efendi (died 1187 AH/AD 1773), a celebrated Ottoman artist.",
+    "Dimensions": "H: 11 13/16 x W: 9 1/16 in. (30 x 23 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Saint John's Bible: A Modern Vision through Medieval Methods",
+            "ExhibBeginDate": "2009-02-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "February 15, 2009-May 24, 2009",
+            "ExhibEndDate": "2009-05-24",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2059,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Saint John's Bible: A Modern Vision through Medieval Methods. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31266,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.672.6a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.672.6a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.672.6a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.672.6a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.672.6a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Prayer; Qur`an; Islamic; Ottoman; Book; Calligraphy; Colophon; Illumination; Manuscript; Accordion book; Album; Turkey; Scripture",
+    "Medium": "ink and pigments on paper mounted on thin pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81161,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.672.6A",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81161",
+    "SortNumber": "W        672    6A                                      ",
+    "Style": null,
+    "Title": "Page of Pen Exercises"
+}

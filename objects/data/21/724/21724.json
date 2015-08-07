@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Naddo Ceccarelli (Italian, active ca. 1330-1360)",
+            "CreatorID": 3844,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1909",
+    "Culture": null,
+    "DateBeginYear": 1350,
+    "DateEndYear": 1359,
+    "DateText": "1350-1359",
+    "Description": "Originally the central panel of a portable triptych (three-panel painting), this work reflects the mid 14th-century demand for lively, crowd-filled paintings featuring key moments in Christ's life. The painter has enhanced the worshipers' connection to sacred history by having the participants in the scene wear contemporary costumes and using stippled gold leaf to imitate the texture of the chain mail worn by soldiers. Perhaps most important, the Virgin's collapse into the arms of her companions and her anguished facial expression convey the depth of her participation in her son's suffering.\r\n\r\nFor more information on this panel, please see Zeri catalogue number 24, pp. 42-43.",
+    "Dimensions": "Height with modern gilded molding: 29 15/16 \u00d7 W: 12 7/16 \u00d7 D: 1 in. (76 \u00d7 31.6 \u00d7 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The International Style: The Arts in Europe Around 1400",
+            "ExhibBeginDate": "1962-10-23",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 23, 1962-December 2, 1962",
+            "ExhibEndDate": "1962-12-02",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 2064,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The International Style: The Arts in Europe Around 1400. The Walters Art Gallery, Baltimore. 1962."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41536,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.737_Fnt_TR_T86II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.737_Fnt_TR_T86II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.737_Fnt_TR_T86II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.737_Fnt_TR_T86II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.737_Fnt_TR_T86II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10072,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.737_Fnt_NF_H73.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.737_Fnt_NF_H73.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.737_Fnt_NF_H73.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.737_Fnt_NF_H73.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.737_Fnt_NF_H73.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 47887,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.737_XR_1978.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.737_XR_1978.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.737_XR_1978.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.737_XR_1978.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.737_XR_1978.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 13th-15th Century Italian Art",
+        "LocationID": 4571,
+        "LocationString": null
+    },
+    "ObjectID": 21724,
+    "ObjectName": "panel paintings; diptychs",
+    "ObjectNumber": "37.737",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore, prior to 1909 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.613",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21724",
+    "SortNumber": "    37   737                                            ",
+    "Style": "International Gothic",
+    "Title": "The Crucifixion"
+}

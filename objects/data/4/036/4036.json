@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1736,
+    "DateEndYear": 1762,
+    "DateText": "1736-ca. 1750",
+    "Description": "This piece is decorated in full relief.",
+    "Dimensions": "8 1/8 in. (20.6 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Chinese Snuff Bottles",
+            "ExhibBeginDate": "2000-10-25",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 25, 2000-February 5, 2001",
+            "ExhibEndDate": "2001-02-05",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 76,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Chinese Snuff Bottles. The Walters Art Gallery, Baltimore. 2000-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56144,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.1933_Fnt_BW_H69.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.1933_Fnt_BW_H69.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.1933_Fnt_BW_H69.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.1933_Fnt_BW_H69.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.1933_Fnt_BW_H69.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Reign Mark] Incised six character mark of Qianlong [Ch'ien-lung] (1736-1795) in seal script.",
+    "Keywords": null,
+    "Medium": "porcelain with tea-dust and white glazes",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2171,
+        "LocationString": null
+    },
+    "ObjectID": 4036,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1933",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": "Qianlong [Ch'ien-lung] (1736-1795)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4036",
+    "SortNumber": "    49  1933                                            ",
+    "Style": null,
+    "Title": "Vase with Modeled Pomegranate Around the Neck"
+}

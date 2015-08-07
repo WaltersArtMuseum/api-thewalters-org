@@ -1,0 +1,130 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1070,
+    "DateEndYear": -525,
+    "DateText": "1070-525 BC",
+    "Description": "This serpentine scarab has a flat underside with a vertically arranged inscription requesting good luck for the New Year. The design of the back is detailed, with thick, deeply incised lines and regular line flow. The workmanship is slightly rough and the forms of the script signs are very reduced.\r\n\r\nThis scarab originally functioned as an amulet, and was threaded or mounted. It has a regenerative connotation and focuses on the new years ritual.",
+    "Dimensions": "H: 1/4 x W: 1/2 x L: 11/16 in. (0.7 x 1.2 x 1.7 cm)",
+    "Dynasty": "21st-26th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22143,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.392_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.392_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.392_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.392_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.392_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 20182,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 20184,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.392_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.392_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.392_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.392_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.392_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 20181,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_design_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_design_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_design_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_design_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_design_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 20183,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_text_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_text_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_text_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_text_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.392_Bot_DD_text_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 20185,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.392_VwA_DD_TranscriptionRS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.392_VwA_DD_TranscriptionRS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.392_VwA_DD_TranscriptionRS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.392_VwA_DD_TranscriptionRS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.392_VwA_DD_TranscriptionRS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": "[Translation] Happy New Year.",
+    "Keywords": null,
+    "Medium": "green serpentine",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 814,
+        "LocationString": null
+    },
+    "ObjectID": 27960,
+    "ObjectName": "scarabs; amulets",
+    "ObjectNumber": "42.392",
+    "OnView": 0,
+    "Period": "Third Intermediate-early Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-11T09:35:05.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27960",
+    "SortNumber": "    42   392                                            ",
+    "Style": null,
+    "Title": "Scarab with New Year Request"
+}

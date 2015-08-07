@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1910",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "6 3/8 in. (16.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54547,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_52.130_Fnt_BW_2202.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_52.130_Fnt_BW_2202.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_52.130_Fnt_BW_2202.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_52.130_Fnt_BW_2202.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_52.130_Fnt_BW_2202.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4510,
+        "LocationString": null
+    },
+    "ObjectID": 447,
+    "ObjectName": "keys (hardware)",
+    "ObjectNumber": "52.130",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Charles T. Yerkes (1837-1905), until 1905; Charles T. Yerkes Estate Sale, American Art Association, New York, 1910, no. 474; Henry Walters, Baltimore, 1910, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-22T01:00:01.853",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/447",
+    "SortNumber": "    52   130                                            ",
+    "Style": null,
+    "Title": "Key"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Etruscan",
+            "CreatorID": 6291,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -700,
+    "DateEndYear": -401,
+    "DateText": "7th-5th century BC",
+    "Description": "This stamnos features one large register with a head in profile flanked by ducks. On the shoulder is a row of tongues. The designs are molded and incised.",
+    "Dimensions": "H: 15 3/8 x Diam at mouth: 6 9/16 in. (39 x 16.7 cm); Circumference: 40 1/4 in. (102 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441123,
+            "GeographyTerm": "Etruria",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29805,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.101_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.101_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.101_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.101_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.101_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1687,
+        "LocationString": null
+    },
+    "ObjectID": 16669,
+    "ObjectName": "stamnoi; vases",
+    "ObjectNumber": "48.101",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-11-11T16:03:26.667",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16669",
+    "SortNumber": "    48   101                                            ",
+    "Style": "Bucchero",
+    "Title": "Stamnos"
+}

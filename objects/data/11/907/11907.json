@@ -1,0 +1,100 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean Chauvaux le jeune (French, 1735-1807)",
+            "CreatorID": 2748,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "S\u00e8vres Porcelain Manufactory (French, active 1756-present)",
+            "CreatorID": 1916,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1776,
+    "DateEndYear": 1776,
+    "DateText": "1776",
+    "Description": "Jean Chauvaux the Younger decorated this white ground, hard-paste porcelain tray with a fanciful pseudo-Chinese scene, in which a woman holding an apple with one hand gestures with the other toward a prostrate youth at her side. Chauvaux might have drawn his inspiration for the scene from the work of Fran\u00e7ois Boucher.",
+    "Dimensions": "L: 15 \u00d7 W: 9 7/16 in. (38.1 \u00d7 24 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Hauts-de-Seine\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427709,
+            "GeographyTerm": "S\u00e8vres",
+            "Latitude": "48 49",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.816,
+            "Longitude": "002 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11978,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.730_Top_TR_T84IIIA.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.730_Top_TR_T84IIIA.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.730_Top_TR_T84IIIA.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.730_Top_TR_T84IIIA.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.730_Top_TR_T84IIIA.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46488,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.730_Fnt_BW_T84.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.730_Fnt_BW_T84.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.730_Fnt_BW_T84.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.730_Fnt_BW_T84.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.730_Fnt_BW_T84.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Factory Mark] Intertwined Lls; [Date] Letter: Y (1776); [Gilder's Mark] IN (Chauvaux jeune); crown",
+    "Keywords": null,
+    "Medium": "hard-paste porcelain with gilt and enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5323,
+        "LocationString": null
+    },
+    "ObjectID": 11907,
+    "ObjectName": "trays",
+    "ObjectNumber": "48.730",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-08T16:24:39.973",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11907",
+    "SortNumber": "    48   730                                            ",
+    "Style": null,
+    "Title": "Tray"
+}

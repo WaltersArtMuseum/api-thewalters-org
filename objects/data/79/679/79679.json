@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dirc van Delft (Dutch, active 1365-1404)",
+            "CreatorID": 7477,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1404,
+    "DateText": "1400-1404",
+    "Description": "The kneeling man in the lower margin holds a scroll inscribed \"Ghif mi heer ware ghelove.\" Opposite this figure, a helm with a crest and shield bears the coat of arms of Albrecht of Bavaria.",
+    "Dimensions": "H: 7 3/8 x W: 5 3/8 in. (18.8 x 13.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mirror of a Medieval World. The Hours of Catherine of Cleves",
+            "ExhibBeginDate": "2009-10-09",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "October 9, 2009-January 3, 2010",
+            "ExhibEndDate": "2010-01-03",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2093,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Mirror of a Medieval World. The Hours of Catherine of Cleves. Museum Het Valkhof Nijmegen, Nijmegen. 2009-2010."
+        },
+        {
+            "ExhTitle": "The Origins of Dutch Painting: Manuscripts from the Fifteenth Century",
+            "ExhibBeginDate": "1998-01-17",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "January 17, 1998- April 26, 1998",
+            "ExhibEndDate": "1998-04-26",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 22,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Origins of Dutch Painting: Manuscripts from the Fifteenth Century. The Walters Art Gallery, Baltimore. 1998."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Utrecht\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473534,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 06",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.1,
+            "Longitude": "005 07",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.116
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31374,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.171.1r_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.171.1r_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.171.1r_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.171.1r_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.171.1r_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Illumination; Manuscript; Painting; Walters Art Museum; Historiated initial; Heraldry; Theology",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79679,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.171.1R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Albert, Duke of Bavaria and Count of Holland (1389-1404), Utrecht, ca. 1404-1405, by commission; Gruel and Engelman, Paris [date and mode of acquisition unknown] [no. 93]; Henry Walters, Baltimore, 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": "Albrecht of Bavaria, Count of Holland",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79679",
+    "SortNumber": "W        171    1R                                      ",
+    "Style": null,
+    "Title": "The Trinity (Throne of Grace), with Albrecht of Bavaria"
+}

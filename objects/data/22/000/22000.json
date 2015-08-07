@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Marmitta (Italian, born ca. 1460)",
+            "CreatorID": 7576,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Antonio Pietro Sallando",
+            "CreatorID": 7575,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1493,
+    "DateEndYear": 1517,
+    "DateText": "ca. 1505",
+    "Description": null,
+    "Dimensions": "6 5/8 x 4 5/8 in. (16.8 x 11.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Emilia-Romagna\\provinces\\Bologna\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1439507,
+            "GeographyTerm": "Bologna",
+            "Latitude": "44 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 44.5,
+            "Longitude": "011 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2977,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.469.177R_OpnObv_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.469.177R_OpnObv_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.469.177R_OpnObv_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.469.177R_OpnObv_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.469.177R_OpnObv_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10238,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.469.177R_OpnObv_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.469.177R_OpnObv_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.469.177R_OpnObv_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.469.177R_OpnObv_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.469.177R_OpnObv_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 22000,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.469.177R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Costanzo Bentivoglio and Elena Rangoni, Bologna prior to October 29, 1500 or Bianca Bentivoglio and Niccolo Rangoni, Modena, early 16th century [the arms of the Rangoni and Bentivoglio are visible on fol. 13r]; Marquess Bianca Rangoni, early 18th century [mode of acquisition unknown] [fol. 13r inscription in bottom margin]; Alphonse Giroux [date and mode of acquisition unknown]; Sale; Leon Gruel [date of acquisition unknown], by purchase; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22000",
+    "SortNumber": "W        469  177R                                      ",
+    "Style": null,
+    "Title": "Initial D with David"
+}

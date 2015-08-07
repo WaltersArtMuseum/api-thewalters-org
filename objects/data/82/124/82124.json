@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1906",
+    "Culture": null,
+    "DateBeginYear": 1478,
+    "DateEndYear": 1502,
+    "DateText": "ca. 1490",
+    "Description": null,
+    "Dimensions": "H: 7 7/8 x W: 5 1/8 in. (20 x 13 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Rh\u00f4ne-Alpes\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1430823,
+            "GeographyTerm": "Savoie",
+            "Latitude": "45 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.5,
+            "Longitude": "006 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29377,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.313.74r_Fp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.313.74r_Fp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.313.74r_Fp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.313.74r_Fp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.313.74r_Fp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 82124,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.313.74R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L\u00e9on Gruel [date and mode of acquisition unknown] [no. 12]; Henry Walters, Baltimore, 1906 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/82124",
+    "SortNumber": "W        313   74R                                      ",
+    "Style": null,
+    "Title": "Leaf from Proverbes en rimes"
+}

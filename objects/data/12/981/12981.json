@@ -1,0 +1,89 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1238,
+    "DateEndYear": 1262,
+    "DateText": "ca. 1250",
+    "Description": "This page from Walters manuscript W.106 depicts scenes from the story of Samuel.  Top: The priest Eli's sons Hophni and Phinehas were also priests at the temple, and they took sacrifices that had been made at teh temple before the fat had been burned; they wanted it raw. The sin that they committed was very great in the eyes of God. \r\n\r\nBottom: When Samuel was weaned, Hannah and Elkanah brought him to the temple.",
+    "Dimensions": "H: 5 3/16 x W: 3 3/4 in. (13.2 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Bible Before Luther",
+            "ExhibBeginDate": "1992-10-06",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "October 6, 1992-January 10, 1993",
+            "ExhibEndDate": "1993-01-10",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 88,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Bible Before Luther. The Walters Art Gallery, Baltimore. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Oxfordshire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468718,
+            "GeographyTerm": "Oxford",
+            "Latitude": "51 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.766,
+            "Longitude": "001 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31340,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.106.17v_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.106.17v_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.106.17v_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.106.17v_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.106.17v_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] the inscription for the TOP image has been partially cut off, but the remainder reads: ...with all the blood and they stole it. God grew angry because Eli consented to it; [Transliteration] ...od tut le sanc e l[']emblerent. deu se curuza q[ua]r heli i cunsenti. \r\n\r\n[Translation] the inscription BELOW the image reads: Elkanah and Hannah brought Samuel to the temple and offered him to God. He remained there with Eli, guarding the Ark; [Transliteration] helcana e anna porterent samuel al temple e l[']offurent a deu la remist od heli gardau[n]t l[']arche.",
+    "Keywords": "Art; Book; Christian; Illumination; Manuscript; Painting",
+    "Medium": "ink and pigment on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 12981,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.106.17V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "L\u00e9on Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, June 6, 1903, by purchase [see The Diaries of George Lucas]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12981",
+    "SortNumber": "W        106   17V                                      ",
+    "Style": null,
+    "Title": "Top: Eli's Sons Commit Sacrilege (1 Samuel 2:13-17)"
+}

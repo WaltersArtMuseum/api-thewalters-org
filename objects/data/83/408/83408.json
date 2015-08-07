@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nizami Ganjavi (Azerbaijani, died 605 AH/AD 1209)",
+            "CreatorID": 7689,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Shams al-Din Kirmani",
+            "CreatorID": 19254,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1649,
+    "DateEndYear": 1649,
+    "DateText": "1059 AH/AD 1649",
+    "Description": "This folio from Walters manuscript W.611 contains a colophon in Arabic that gives the name of the scribe and the date of copying.",
+    "Dimensions": "H: 11 5/8 x W: 6 11/16 in. (29.5 x 17 cm)",
+    "Dynasty": "Safavid Dynasty; Qajar Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33236,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.611.287a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.611.287a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.611.287a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.611.287a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.611.287a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] tammat al-Khamsah [sic] Shaykh Niz\u0101m\u012b 'alayhi al-rahmah /1/ f\u012b 8 shahr Sha'b\u0101n sanat 1059 /2/ All\u0101humma ighfir li-s\u0101hibih /3/ wa-k\u0101tibih /4/ katabahu Shams al-D\u012bn Kirm\u0101n\u012b /5/",
+    "Keywords": "Islamic; Persian; Safavid; Qajar; Book; Codex; Illumination; Illustration; Manuscript; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83408,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.611.287A",
+    "OnView": 0,
+    "Period": "Safavid; Qajar",
+    "Provenance": "Ibrahim [date and mode of acquisition unknown]; [partly visible seal impression dated [1]230 (?) AH on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83408",
+    "SortNumber": "W        611  287A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

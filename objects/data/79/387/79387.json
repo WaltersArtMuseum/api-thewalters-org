@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Moche",
+            "CreatorID": 8562,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Moche",
+    "DateBeginYear": 50,
+    "DateEndYear": 800,
+    "DateText": "AD 50-800",
+    "Description": null,
+    "Dimensions": "H: 6 1/4 x W: 9 1/2 x D: 6 1/4 in. (15.9 x 24.1 x 15.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19102,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2842_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2842_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2842_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2842_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2842_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19103,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2842_RtSide_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2842_RtSide_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2842_RtSide_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2842_RtSide_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2842_RtSide_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic blackware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5583,
+        "LocationString": null
+    },
+    "ObjectID": 79387,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2842",
+    "OnView": 0,
+    "Period": "Early Intermediate-Middle Horizon",
+    "Provenance": "The Merrin Gallery, New York [date and mode of acquisition unknown]; Private collection, 1989, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-15T08:29:11.193",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79387",
+    "SortNumber": "    48  2842                                            ",
+    "Style": null,
+    "Title": "Sea Lion Effigy Stirrup Vessel"
+}

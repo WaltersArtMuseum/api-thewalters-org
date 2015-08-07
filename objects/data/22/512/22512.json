@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iwamoto Konkan (Japanese, 1744-1801)",
+            "CreatorID": 5392,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1744,
+    "DateEndYear": 1801,
+    "DateText": "1744-1801",
+    "Description": "A spiny lobster is on the dominate side of this fuchi and a sea plant is on the back. This is part of a set with Walters 51.935.",
+    "Dimensions": "1 7/16 in. (3.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15428,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.934_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.934_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.934_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.934_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.934_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15427,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.934_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.934_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.934_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.934_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.934_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15429,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.934_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.934_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.934_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.934_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.934_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u5ca9\u672c\u6606\u5bdb; [Translation] Iwamoto Konkan (kao)",
+    "Keywords": "shellfish; spiny lobster; plant; seaweed",
+    "Medium": "shakudo",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 498,
+        "LocationString": null
+    },
+    "ObjectID": 22512,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.934",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-14T09:54:17.523",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 11672,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/22512",
+    "SortNumber": "    51   934                                            ",
+    "Style": null,
+    "Title": "Fuchi with Spiny Lobster"
+}

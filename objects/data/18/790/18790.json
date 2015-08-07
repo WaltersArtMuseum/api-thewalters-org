@@ -1,0 +1,119 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1660,
+    "DateEndYear": -1636,
+    "DateText": "ca. 1648-1539 BC",
+    "Description": "A scarab carved of light brown steatite with a thick gold rim around the bottom edge. A lip of gold, pressed around the scarab to hold it in place, is drawn out to form hoop-sockets. Carved into the back of the scarab is a beetle with outstretched legs under a disk.",
+    "Dimensions": "H: 1/4 x W: 1/2 x L: 3/4 in. (0.6 x 1.3 x 1.9 cm)",
+    "Dynasty": "15th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20164,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 20165,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.389_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.389_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.389_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.389_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.389_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 20162,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.389_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.389_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.389_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.389_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.389_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 20163,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_design_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_design_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_design_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_design_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.389_Bot_DD_design_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "Kheper-Ra",
+    "Keywords": null,
+    "Medium": "steatite with glaze, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 814,
+        "LocationString": null
+    },
+    "ObjectID": 18790,
+    "ObjectName": "scarabs; finger rings; bezels",
+    "ObjectNumber": "42.389",
+    "OnView": 0,
+    "Period": "Second Intermediate; Hyksos",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-11T09:35:05.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18790",
+    "SortNumber": "    42   389                                            ",
+    "Style": null,
+    "Title": "Ring Bezel"
+}

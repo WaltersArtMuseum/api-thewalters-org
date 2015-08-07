@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Recuay",
+            "CreatorID": 31445,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Recuay",
+    "DateBeginYear": 1,
+    "DateEndYear": 650,
+    "DateText": "AD 1-650",
+    "Description": null,
+    "Dimensions": "H: 8 1/4 x W: 7 1/2 x D: 8 in. (20.96 x 19.05 x 20.32 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19160,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2824_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2824_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2824_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2824_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2824_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19161,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2824_LftSide_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2824_LftSide_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2824_LftSide_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2824_LftSide_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2824_LftSide_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "beige earthenware with polychrome",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5577,
+        "LocationString": null
+    },
+    "ObjectID": 79365,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2824",
+    "OnView": 0,
+    "Period": "Early Intermediate",
+    "Provenance": "[Dr. Ernest Lira, Houston and Denver (?), or Dr. Peter Almendariz, Denver (?), or M. Brenner, Geneva (?)]; Paul Shepard, Tucson, Arizona [date and mode of acquisition unknown]; Economos Works of Art, Santa Fe, New Mexico [date and mode of acquisition unknown]; Private collection, 1988, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-28T09:17:53.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79365",
+    "SortNumber": "    48  2824                                            ",
+    "Style": null,
+    "Title": "House or Temple Scene Vessel"
+}

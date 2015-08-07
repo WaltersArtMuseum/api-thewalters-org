@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of the Munich Golden Legend (French, active ca. 1430-1440)",
+            "CreatorID": 5660,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1895",
+    "Culture": null,
+    "DateBeginYear": 1425,
+    "DateEndYear": 1430,
+    "DateText": "1425-1430",
+    "Description": null,
+    "Dimensions": "H: 9 1/4 x W: 6 13/16 in. (23.5 x 17.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Christmas Story: Picturing the Birth of Christ in Medieval Manuscripts",
+            "ExhibBeginDate": "2009-12-05",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "December 5, 2009-February 28, 2010",
+            "ExhibEndDate": "2010-02-28",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2825,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Christmas Story: Picturing the Birth of Christ in Medieval Manuscripts. The Walters Art Museum, Baltimore. 2009-2010."
+        },
+        {
+            "ExhTitle": "A Bouquet of French Manuscripts: Remembering Eleanor Spencer",
+            "ExhibBeginDate": "1994-01-18",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "January 18, 1994-April 10, 1994",
+            "ExhibEndDate": "1994-04-10",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 39,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Bouquet of French Manuscripts: Remembering Eleanor Spencer. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 42029,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.288.41_Fp_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.288.41_Fp_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.288.41_Fp_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.288.41_Fp_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.288.41_Fp_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, tempera paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 25205,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.288.41R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Seguin family, 19th century [mode of acquisition unknown]; L\u00e9on Gruel, Paris, late 19th-early 20th century [mode of acquisition unknown]; Henry Walters, Baltimore, 1895, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25205",
+    "SortNumber": "W        288   41R                                      ",
+    "Style": "International Gothic",
+    "Title": "Leaf from Book of Hours"
+}

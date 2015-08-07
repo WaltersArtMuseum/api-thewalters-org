@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. James E. Bogle, 2010",
+    "Culture": null,
+    "DateBeginYear": 1838,
+    "DateEndYear": 1870,
+    "DateText": "ca. 1850-1870",
+    "Description": null,
+    "Dimensions": "H: 11 7/16 x W: 7 1/16 in. (29 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exhibition of Thai Paintings from James Bogle's Collection",
+            "ExhibBeginDate": "1981",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "Fall 1981 and Fall 2002",
+            "ExhibEndDate": "2002",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2501,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Exhibition of Thai Paintings from James Bogle's Collection. Lycoming College Gallery, Williamsport. 1981-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29182,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/REF_2010.12.28_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/REF_2010.12.28_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/REF_2010.12.28_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/REF_2010.12.28_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/REF_2010.12.28_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Miscellaneous",
+    "Medium": "pigments and gilt on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 81932,
+    "ObjectName": "paintings",
+    "ObjectNumber": "2010.12.28",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Royal Art, New Road, Bangkok, Thailand; Collection of James E. Bogle, Philadelphia, Pennsylvania, May 10, 2002, by purchase; Walters Art Museum, 2010, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81932",
+    "SortNumber": "  2010    12   28                                       ",
+    "Style": "Rattanakosin",
+    "Title": "Ramakien Drawing"
+}

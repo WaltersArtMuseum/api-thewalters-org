@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Robert Garrett, 1943",
+    "Culture": "Coptic",
+    "DateBeginYear": 300,
+    "DateEndYear": 599,
+    "DateText": "4th-6th century",
+    "Description": null,
+    "Dimensions": "H: 4 1/16 x W: 5 1/4 in. (10.32 x 13.34 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38658,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2288_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2288_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2288_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2288_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2288_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, inlaid silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4069,
+        "LocationString": null
+    },
+    "ObjectID": 32074,
+    "ObjectName": "vessels",
+    "ObjectNumber": "54.2288",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Robert Garrett, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1943, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32074",
+    "SortNumber": "    54  2288                                            ",
+    "Style": null,
+    "Title": "Small Liturgical Vessel"
+}

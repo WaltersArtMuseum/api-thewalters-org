@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. M. A. Gibson, 1988",
+    "Culture": null,
+    "DateBeginYear": 1750,
+    "DateEndYear": 1850,
+    "DateText": "1750-1850",
+    "Description": "Nearly 20 scenes from the life of the Buddha are presented here, in chronological order.",
+    "Dimensions": "H: 84 5/8 x W: 67 5/16 in. (215 x 171 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Unearthly Elegance: Buddhist Art from the Griswold Collection",
+            "ExhibBeginDate": "1995-05-25",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "May 25, 1995 - August 20, 1995",
+            "ExhibEndDate": "1995-08-20",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 945,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Unearthly Elegance: Buddhist Art from the Griswold Collection. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Prathet Thai\\regions\\Bankok Metropolis\\provinces\\Krung Thep Mahanakhon\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500489,
+            "GeographyTerm": "Krung Thep",
+            "Latitude": "13 44",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 13.733,
+            "Longitude": "100 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46166,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_35.143_TopBot_DD_2013_merged.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_35.143_TopBot_DD_2013_merged.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_35.143_TopBot_DD_2013_merged.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_35.143_TopBot_DD_2013_merged.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_35.143_TopBot_DD_2013_merged.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 39712,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.143_Top_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.143_Top_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.143_Top_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.143_Top_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.143_Top_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 39710,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.143_Bot_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.143_Bot_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.143_Bot_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.143_Bot_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.143_Bot_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Life Story of the Buddha",
+    "Medium": "pigment on cotton",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5290,
+        "LocationString": null
+    },
+    "ObjectID": 8347,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.143",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Mrs. M. A. Gibson, Williamsville, New York [date and mode of acquisition unknown]; Walters Art Museum, 1988, by gift.",
+    "PublicAccessDate": "2012-06-15T22:00:00.833",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8347",
+    "SortNumber": "    35   143                                            ",
+    "Style": null,
+    "Title": "Scenes from the Life of the Buddha"
+}

@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ishiguro Masatsune (Japanese, 1760-1828)",
+            "CreatorID": 2262,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1760,
+    "DateEndYear": 1828,
+    "DateText": "1760-1828",
+    "Description": "This fuchi is decorated with the autumn motif of herons and reeds. The background is a fish egg pattern (\"nanako-ji\"). The matching kashira is Walters 51.1107.",
+    "Dimensions": "1 7/16 in. (3.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16150,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1106_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1106_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1106_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1106_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1106_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 16149,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1106_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1106_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1106_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1106_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1106_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 16151,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1106_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1106_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1106_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1106_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1106_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u77f3\u9ed2\u653f\u5e38; [Translation] Ishiguro Masatsune; [Number] In pencil: 809",
+    "Keywords": "animal; bird; heron; plant; reed",
+    "Medium": "shibuichi, gold, silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 23183,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1106",
+    "OnView": 0,
+    "Period": "Edo-Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-23T17:00:47.163",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 12707,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/23183",
+    "SortNumber": "    51  1106                                            ",
+    "Style": "Ishiguro School",
+    "Title": "Fuchi with Herons and Reeds"
+}

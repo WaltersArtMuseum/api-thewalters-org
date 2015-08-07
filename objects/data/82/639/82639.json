@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1673,
+    "DateEndYear": 1673,
+    "DateText": "1083 AH/AD 1673",
+    "Description": "This binding from Walters manuscript W.590 is composed of light brown goatskin and has a flap. It is decorated with a gold-tooled oval central medallion, pendants, and cornerpieces. The pastedowns is of colored paper.",
+    "Dimensions": "Folio H: 11 x W: 6 5/16 in. (28 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31398,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.590.binding_ExtTop_DD_Upper board outside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31397,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.590.binding_BotExt_DD_Lower board outside flap open.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Codex; Colophon; Headpiece; Iran; Islamic; Manuscript; Scripture",
+    "Medium": "light brown gold-tooled goatskin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 82639,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.590.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Muhammad Afandi Tarabizani [date and mode of acquisition unknown] [see fol. 2a]; Ahmad ibn 'Abd Allah al-Kadharuni [date and mode of acquisition unknown] [see fol. 2a]; Isma'il al-Sayyid 'Ata' Allah al-Maliki al-Husayni, 1113 AH/AD 1701 [mode of acquisition unknown] [see seal on fol. 2a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/82639",
+    "SortNumber": "W        590binding                                     ",
+    "Style": null,
+    "Title": "Binding from Glossary of Islamic Legal Terminology"
+}

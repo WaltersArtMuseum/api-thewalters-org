@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hododa Company (Japanese)",
+            "CreatorID": 2559,
+            "Gender": "male",
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Gift of Stephen W. Fisher, 1995",
+    "Culture": null,
+    "DateBeginYear": 1878,
+    "DateEndYear": 1902,
+    "DateText": "ca. 1890",
+    "Description": "This is an example of Satsuma ware.",
+    "Dimensions": "17 1/2 x 13 9/16 in. (44.5 x 34.5 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Centennial Exhibition Philadelphia",
+            "ExhibBeginDate": "1876-01-01",
+            "ExhibBeginYear": 1876,
+            "ExhibDisplayDate": "May 10, 1876- November 10, 1876",
+            "ExhibEndDate": "1876-11-10",
+            "ExhibEndYear": 1876,
+            "ExhibitionID": 244,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Centennial Exhibition Philadelphia. Memorial Hall, Philadelphia, Philadelphia. 1876."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Kanagawa-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491060,
+            "GeographyTerm": "Yokohama",
+            "Latitude": "35 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.466,
+            "Longitude": "139 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14686,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_49.2712_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_49.2712_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_49.2712_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_49.2712_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_49.2712_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Satsuma Hododa; [Seal] Shimazu mon.",
+    "Keywords": "Buddhism; sage; Arhat; plant; bamboo",
+    "Medium": "stoneware with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1935,
+        "LocationString": null
+    },
+    "ObjectID": 12462,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2712",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Philadelphia Centennial Exhibition, 1876 (?); Edwards Collection, Philadelphia; Stephen W. Fisher, Baltimore, 1995 (?), by purchase; Walters Art Museum, 1995, by gift.",
+    "PublicAccessDate": "2009-04-02T15:07:07.723",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12462",
+    "SortNumber": "    49  2712                                            ",
+    "Style": null,
+    "Title": "Vase with Arahats and Sages in a Bamboo Grove"
+}

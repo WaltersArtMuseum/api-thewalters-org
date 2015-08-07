@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Zahir al-Din Muhammad Babur (1483-1530)",
+            "CreatorID": 7547,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": null,
+    "Dimensions": "H: 12 5/8 x W: 8 1/4 in. (32 x 21 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Yoga: The Art of Transformation",
+            "ExhibBeginDate": "2013-10-19",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 19, 2013-January 26, 2014",
+            "ExhibEndDate": "2014-01-26",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3144,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Yoga: The Art of Transformation. Arthur M. Sackler Gallery, Smithsonian Institution., Washington, D.C.; Asian Art Museum, San Francisco; The Cleveland Museum of Art, Cleveland. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48349,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.596.21a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.596.21a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.596.21a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.596.21a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.596.21a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Persian; Timurid; Book; Calligraphy; Codex; Illustration; Manuscript; Miniature; India; Central Asia; History",
+    "Medium": "ink and pigments on re-margined paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6444,
+        "LocationString": null
+    },
+    "ObjectID": 91088,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.596.21A",
+    "OnView": 0,
+    "Period": "Mughal; Timurid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91088",
+    "SortNumber": "W        596   21A                                      ",
+    "Style": null,
+    "Title": "Leaf from Memoirs of Babur"
+}

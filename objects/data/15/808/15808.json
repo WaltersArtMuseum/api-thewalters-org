@@ -1,0 +1,94 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -472,
+    "DateEndYear": -448,
+    "DateText": "ca. 460 BC",
+    "Description": "This red-figure shoulder lekythos depicts a woman walking to the right, holding out a mirror in her right hand. She wears a chiton, mantle, and earring.",
+    "Dimensions": "at shoulder: 6 5/8 x 2 1/8 in. (16.8 x 5.4 cm) (h. x diam.);\r\nat mouth: 1 7/16 in. (3.6 cm) (diam.);\r\nat foot: 1 1/2 in. (3.75 cm) (diam.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4836,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.258_SideA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.258_SideA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.258_SideA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.258_SideA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.258_SideA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4835,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.258_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.258_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.258_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.258_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.258_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4834,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.258_Det_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.258_Det_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.258_Det_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.258_Det_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.258_Det_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5620,
+        "LocationString": null
+    },
+    "ObjectID": 15808,
+    "ObjectName": "lekythoi",
+    "ObjectNumber": "48.258",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-20T11:01:21.737",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15808",
+    "SortNumber": "    48   258                                            ",
+    "Style": "Attic",
+    "Title": "Shoulder Lekythos with Woman Holding a Mirror"
+}

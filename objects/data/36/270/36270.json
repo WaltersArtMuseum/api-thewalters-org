@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles \u00c9mile Jacque (French, 1813-1894)",
+            "CreatorID": 3706,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1878-1884",
+    "Culture": null,
+    "DateBeginYear": 1813,
+    "DateEndYear": 1884,
+    "DateText": "19th century",
+    "Description": "In a sunlit corner of a yard, poultry of various colors are perched on a mound of steaming straw.",
+    "Dimensions": "H: 8 1/16 x W: 12 3/16 in. (20.4 x 30.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24644,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.81_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.81_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.81_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.81_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.81_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: ch. Jacque",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3312,
+        "LocationString": null
+    },
+    "ObjectID": 36270,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.81",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "F\u00e9lix Ziem [date and mode of acquisition unknown]; William T. Walters, Baltimore, between 1878 and 1884, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 38439,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/36270",
+    "SortNumber": "    37    81                                            ",
+    "Style": null,
+    "Title": "Chickens"
+}

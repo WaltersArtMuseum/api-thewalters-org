@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "French",
+    "DateBeginYear": 1201,
+    "DateEndYear": 1300,
+    "DateText": "13th century",
+    "Description": "This type of reliquary is called a phylactery (amulet) after the smaller versions of the same shape that believers wore around their necks for personal protection. This phylactery may originally have rested on a sculpted base or have been suspended from a canopy above the altar. Relics were placed under the five large convex crystals, which acted as magnifying glasses.\r\n\r\n",
+    "Dimensions": "7 1/2 x 7 1/2 x 1 5/8 in. (19 x 19 x 4.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Magic Black and White: An Exhibition of Black and White Magic",
+            "ExhibBeginDate": "1960",
+            "ExhibBeginYear": 1960,
+            "ExhibDisplayDate": "1960",
+            "ExhibEndDate": "1960",
+            "ExhibEndYear": 1960,
+            "ExhibitionID": 509,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Magic Black and White: An Exhibition of Black and White Magic. Peabody Institute of the Johns Hopkins University, Baltimore. 1960."
+        },
+        {
+            "ExhTitle": "Reliquaries and Ritual: Medieval Objects of Devotion",
+            "ExhibBeginDate": "1984-12-04",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "December 4, 1984-January 22, 1985",
+            "ExhibEndDate": "1985-01-22",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2691,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Reliquaries and Ritual: Medieval Objects of Devotion. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Limousin\\departments\\Haute-Vienne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423931,
+            "GeographyTerm": "Limoges",
+            "Latitude": "45 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.833,
+            "Longitude": "001 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8633,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.139_SideA_DD_T07-2.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.139_SideA_DD_T07-2.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.139_SideA_DD_T07-2.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.139_SideA_DD_T07-2.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.139_SideA_DD_T07-2.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8634,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_53.139_SideB_DD_T07-2.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_53.139_SideB_DD_T07-2.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_53.139_SideB_DD_T07-2.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_53.139_SideB_DD_T07-2.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_53.139_SideB_DD_T07-2.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "engraved copper with gilding, rock crystals, and cabachons",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3864,
+        "LocationString": null
+    },
+    "ObjectID": 31506,
+    "ObjectName": "reliquaries",
+    "ObjectNumber": "53.139",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Joseph Brummer, New York; Joseph Brummer Sale, Parke-Bernet Galleries, New York, May 12, 1949, no. 383; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:35.13",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31506",
+    "SortNumber": "    53   139                                            ",
+    "Style": "Gothic",
+    "Title": "Phylactery"
+}

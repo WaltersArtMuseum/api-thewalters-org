@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1563,
+    "DateEndYear": 1563,
+    "DateText": "1563",
+    "Description": null,
+    "Dimensions": "H: 38 1/2 x W: 27 3/4 in. (97.8 x 70.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421717,
+            "GeographyTerm": "Antwerpen",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "004 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10566,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.367_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.367_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.367_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.367_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.367_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4509,
+        "LocationString": null
+    },
+    "ObjectID": 26892,
+    "ObjectName": "paintings; portraits",
+    "ObjectNumber": "37.367",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.363",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26892",
+    "SortNumber": "    37   367                                            ",
+    "Style": null,
+    "Title": "Portrait of a Woman"
+}

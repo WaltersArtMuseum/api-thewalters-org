@@ -1,0 +1,143 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -342,
+    "DateText": "664-342 BC",
+    "Description": null,
+    "Dimensions": "H: 3 3/4 x W: 1 5/16 x D: 2 1/16 in. (9.5 x 3.3 x 5.2 cm); H with base: 4 3/4 x W: 1 9/16 x d: 2 5/8 in. (12 x 4 x 6.6 cm)",
+    "Dynasty": "26th-30th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth)",
+            "ExhibBeginDate": "2014-09-12",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "Friday, September 12, 2014 - Sunday, November 01, 2015",
+            "ExhibEndDate": "2015-11-01",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3240,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Die Entstehung der Welt. \u00c4gyptens letzter Sch\u00f6pfungsmythos (The Origin of the World. Egypt\u2019s Last Creation Myth). Roemer- und Pelizaeus- Museum, Hildesheim; Kunsthalle Leoben, Leoben. 2014-2015."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44239,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.544_3QtrLft_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.544_3QtrLft_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.544_3QtrLft_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.544_3QtrLft_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.544_3QtrLft_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 44243,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.544_Lft_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.544_Lft_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.544_Lft_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.544_Lft_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.544_Lft_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 44241,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.544_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.544_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.544_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.544_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.544_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 44244,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.544_Rt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.544_Rt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.544_Rt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.544_Rt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.544_Rt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 44240,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.544_3QtrRt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.544_3QtrRt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.544_3QtrRt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.544_3QtrRt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.544_3QtrRt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 44242,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.544_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.544_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.544_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.544_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.544_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Out On Exhibition Loan",
+        "LocationID": 3499,
+        "LocationString": null
+    },
+    "ObjectID": 32404,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.544",
+    "OnView": 1,
+    "Period": "Late Period",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-11-30T22:00:00.96",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32404",
+    "SortNumber": "    54   544                                            ",
+    "Style": null,
+    "Title": "Priest Holding a Statue of the Goddess Neith"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 5 5/16 x W: 8 3/8 in. (13.5 x 21.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Untamed: The Art of Antoine-Louis Barye",
+            "ExhibBeginDate": "2007-02-11",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 11, 2007-April 13, 2008",
+            "ExhibEndDate": "2008-04-13",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 1956,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Untamed: The Art of Antoine-Louis Barye. The Walters Art Museum, Baltimore; Philbrook Museum of Art, Tulsa; The Henry Morrison Flagler Museum, Palm Beach. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9056,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2250_Fnt_NF_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2250_Fnt_NF_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2250_Fnt_NF_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2250_Fnt_NF_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2250_Fnt_NF_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pencil on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2281,
+        "LocationString": null
+    },
+    "ObjectID": 31033,
+    "ObjectName": "drawings; sketches",
+    "ObjectNumber": "37.2250",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Vildieu-Barye Collection; Fabius Fr\u00e8res, Paris [date and mode of acquisition unknown]; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31033",
+    "SortNumber": "    37  2250                                            ",
+    "Style": null,
+    "Title": "Sketches After Persian Miniatures"
+}

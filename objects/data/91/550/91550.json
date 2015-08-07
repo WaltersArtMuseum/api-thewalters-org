@@ -1,0 +1,70 @@
+{
+    "Classification": "Leather",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": "The portrait is thought to represent William, fourth earl Fitzwilliam of Ireland (1748-1833).",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52046,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_42.204_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_42.204_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_42.204_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_42.204_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_42.204_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6161,
+        "LocationString": null
+    },
+    "ObjectID": 91550,
+    "ObjectName": "cameos;portraits; boxes",
+    "ObjectNumber": "42.204.BOX",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91550",
+    "SortNumber": "    42   204BOX                                         ",
+    "Style": null,
+    "Title": "Portrait Cameo Box"
+}

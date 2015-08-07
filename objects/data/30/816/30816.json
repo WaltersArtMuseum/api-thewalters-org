@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco d'Antonio da Viterbo (Italian, ca. 1407-1478)",
+            "CreatorID": 2634,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1441,
+    "DateEndYear": 1450,
+    "DateText": "1441-1450",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 101, pp. 159-160.",
+    "Dimensions": "Painted surface H: 14 3/4 x W: 10 1/16 in. (37.4 x 25.6 cm); Panel H: 15 1/4 x W: 10 9/16 x D excluding cradle: 3/8 in. (38.7 x 26.9 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37165,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.686_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.686_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.686_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.686_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.686_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47107,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.686_XR_1959.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.686_XR_1959.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.686_XR_1959.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.686_XR_1959.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.686_XR_1959.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "paint and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3249,
+        "LocationString": null
+    },
+    "ObjectID": 30816,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.686",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 17 as School of Giotto]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30816",
+    "SortNumber": "    37   686                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

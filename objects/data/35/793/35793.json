@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paolo Anesi (Italian, 1697-1773)",
+            "CreatorID": 4119,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1697,
+    "DateEndYear": 1773,
+    "DateText": "1697-1773",
+    "Description": "This pleasing view of the Tiber in Rome depicts peaceful fishermen near the Ponte Rotto, or Broken Bridge, which linked the center of Rome to its outskirts. Today only one arch of the bridge is intact. This type of pleasant landscape painting was greatly appreciated by 17th-century patrons for private home decoration. For another view of the Tiber, by the famous Dutch painter Gaspar van Wittel, please see Walters 37.1175.  For more information on the present painting, please see Federico Zeri's 1976 catalogue \"Italian Paintings in the Walters Art Gallery\" vol. II,  no. 412, pp. 524.",
+    "Dimensions": "Painted surface H: 19 1/2 x W: 28 7/8 in. (49.5 x 73.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\rivers\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1441163,
+            "GeographyTerm": "Tevere",
+            "Latitude": "41 44",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.733,
+            "Longitude": "012 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37150,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1875_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1875_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1875_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1875_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1875_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3340,
+        "LocationString": null
+    },
+    "ObjectID": 35793,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.1875",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 228; 1897 catalogue: no. 477, as Gaspar van Wittel]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35793",
+    "SortNumber": "    37  1875                                            ",
+    "Style": null,
+    "Title": "View of the Tiber with Il Ponte Rotto"
+}

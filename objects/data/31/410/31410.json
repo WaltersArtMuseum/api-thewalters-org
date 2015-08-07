@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 15 1/2 x W: 20 1/16 in. (39.3 x 51 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421289,
+            "GeographyTerm": "Belgi\u00eb",
+            "Latitude": "50 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.833,
+            "Longitude": "004 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46829,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.804_Fnt_BW_H72.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.804_Fnt_BW_H72.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.804_Fnt_BW_H72.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.804_Fnt_BW_H72.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.804_Fnt_BW_H72.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Fit gemacht",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3357,
+        "LocationString": null
+    },
+    "ObjectID": 31410,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.804",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31410",
+    "SortNumber": "    37   804                                            ",
+    "Style": null,
+    "Title": "Scenes Along a River"
+}

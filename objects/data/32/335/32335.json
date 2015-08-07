@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": "This statuette of a sphinx wears the double-crown of Upper and Lower Egypt, the nemes headdress and uraeus.",
+    "Dimensions": "H: 3 7/8 x L: 3 3/4 in. (9.9 x 9.5 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 888,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_54.550_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_54.550_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_54.550_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_54.550_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_54.550_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 32335,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.550",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Henry Walters, Baltimore, 1924 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-08-04T14:54:12.003",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32335",
+    "SortNumber": "    54   550                                            ",
+    "Style": null,
+    "Title": "Sphinx"
+}

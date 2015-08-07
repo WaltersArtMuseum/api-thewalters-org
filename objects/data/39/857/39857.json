@@ -1,0 +1,130 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -1,
+    "DateText": "4th-1st century BC",
+    "Description": null,
+    "Dimensions": "H: 1 5/8 x W: 3/4 x D: 7/8 in. (4.1 x 1.92 x 2.15 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22435,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1715_3Qtr_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1715_3Qtr_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1715_3Qtr_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1715_3Qtr_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1715_3Qtr_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22438,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1715_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1715_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1715_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1715_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1715_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22439,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1715_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1715_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1715_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1715_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1715_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22440,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1715_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1715_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1715_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1715_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1715_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22436,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1715_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1715_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1715_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1715_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1715_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 22437,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1715_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1715_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1715_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1715_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1715_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with light blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1908,
+        "LocationString": null
+    },
+    "ObjectID": 39857,
+    "ObjectName": "pendants; amulets; figurines",
+    "ObjectNumber": "48.1715",
+    "OnView": 0,
+    "Period": "Late Period-Greco-Roman",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1930 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-01-22T15:10:45.327",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39857",
+    "SortNumber": "    48  1715                                            ",
+    "Style": null,
+    "Title": "Squatting Baboon"
+}

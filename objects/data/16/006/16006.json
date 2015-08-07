@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This piece is an example of Raku ware and is decorated in a black lead fluxed glaze with red areas.",
+    "Dimensions": "H: 3 3/4 in. (9.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Master Potters of Japan",
+            "ExhibBeginDate": "1984-04-03",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "April 3, 1984-June 17, 1984",
+            "ExhibEndDate": "1984-06-17",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 753,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Master Potters of Japan. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8565,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2119_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2119_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2119_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2119_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2119_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "low-fire ware with lead glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5728,
+        "LocationString": null
+    },
+    "ObjectID": 16006,
+    "ObjectName": "tea bowls",
+    "ObjectNumber": "49.2119",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.013",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16006",
+    "SortNumber": "    49  2119                                            ",
+    "Style": "Raku ware",
+    "Title": "Tea Bowl"
+}

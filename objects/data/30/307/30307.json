@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1910",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "5 3/16 in. (13.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54548,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_52.79_Fnt_BW_2201.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_52.79_Fnt_BW_2201.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_52.79_Fnt_BW_2201.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_52.79_Fnt_BW_2201.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_52.79_Fnt_BW_2201.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "partial gilding on iron",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4510,
+        "LocationString": null
+    },
+    "ObjectID": 30307,
+    "ObjectName": "keys (hardware)",
+    "ObjectNumber": "52.79",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1910 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-22T01:00:01.853",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30307",
+    "SortNumber": "    52    79                                            ",
+    "Style": null,
+    "Title": "Key"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1922",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1525,
+    "DateText": "1500-1525",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 191, pp. 282-283.",
+    "Dimensions": "Painted surface H: 12 3/8 x W: 9 5/8 x D: 3/8 in. (31.5 x 24.5 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Renaissance Gem Revealed: Petrarch's Triumphs Disbound",
+            "ExhibBeginDate": "2002-08-10",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "August 10, 2002-November 10, 2002",
+            "ExhibEndDate": "2002-11-10",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 97,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Renaissance Gem Revealed: Petrarch's Triumphs Disbound. The Walters Art Museum, Baltimore. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Verona\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434236,
+            "GeographyTerm": "Verona",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "011 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36984,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.464_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.464_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.464_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.464_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.464_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 38139,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.464",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1922 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38139",
+    "SortNumber": "    37   464                                            ",
+    "Style": null,
+    "Title": "Profile Portrait of a Poet (Petrarch (?))"
+}

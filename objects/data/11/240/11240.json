@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Xanto Avelli (Italian, ca. 1487-ca. 1542)",
+            "CreatorID": 4363,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1516,
+    "DateEndYear": 1540,
+    "DateText": "ca. 1528-1532",
+    "Description": "Venus, Roman goddess of love, was married to the blacksmith-god Vulcan. This plate shows him forging an arrow for Venus's son Cupid, god of love, who targets the hearts of both gods and humans. Gold-tipped arrows make them fall madly in love, while lead-tipped ones make them reject all advances. This is a fine example of Xanto Avelli's ability to compose the scene in graceful accommodation with the shape of the plate.",
+    "Dimensions": "H: 1 1/16 x W: 10 7/16 in. (2.7 x 26.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438822,
+            "GeographyTerm": "Urbino",
+            "Latitude": "43 43",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.716,
+            "Longitude": "012 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23026,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1492_Fnt_BW_.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1492_Fnt_BW_.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1492_Fnt_BW_.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1492_Fnt_BW_.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1492_Fnt_BW_.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46434,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.1492_Bot_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.1492_Bot_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.1492_Bot_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.1492_Bot_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.1492_Bot_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] On the back, between the footring, in blue-green: Vulcano ; [Signature] X",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4786,
+        "LocationString": null
+    },
+    "ObjectID": 11240,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.1492",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Seligmann [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-29T13:41:05.817",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11240",
+    "SortNumber": "    48  1492                                            ",
+    "Style": null,
+    "Title": "Plate with Vulcan, Venus, and Cupid"
+}

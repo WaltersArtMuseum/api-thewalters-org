@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": null,
+    "DateBeginYear": -1550,
+    "DateEndYear": -1069,
+    "DateText": "1550-1069 BC",
+    "Description": "Body of molded and glazed leaves.",
+    "Dimensions": "H: 1 15/16 x W: 1 7/16 in. (5 x 3.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6869,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.413-414+48.416+48.442_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1493,
+        "LocationString": null
+    },
+    "ObjectID": 11926,
+    "ObjectName": "cups",
+    "ObjectNumber": "48.442",
+    "OnView": 0,
+    "Period": "New Kingdom",
+    "Provenance": "MacGregor Sale, 1922, no. 197; Dikran Kelekian, Paris and New York [date and mode of acquistion unknown]; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11926",
+    "SortNumber": "    48   442                                            ",
+    "Style": null,
+    "Title": "Lotus Cup"
+}

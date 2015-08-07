@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Spanish",
+            "CreatorID": 6242,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum Purchase, 1958",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1500,
+    "DateText": "1475-1500",
+    "Description": null,
+    "Dimensions": "H: 12 15/16 x W: 14 9/16 x D: 1 3/8 in. (32.8 x 37 x 3.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\Valencia\\provinces\\Valencia\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1444694,
+            "GeographyTerm": "Valencia",
+            "Latitude": "39 29",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.483,
+            "Longitude": "000 24",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.4
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39087,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2106.10_Fnt_BW_H59.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2106.10_Fnt_BW_H59.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2106.10_Fnt_BW_H59.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2106.10_Fnt_BW_H59.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2106.10_Fnt_BW_H59.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with glaze and paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2428,
+        "LocationString": null
+    },
+    "ObjectID": 23230,
+    "ObjectName": "ceiling tiles",
+    "ObjectNumber": "48.2106.10",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William R. Hearst, San Simeon, California, ca. 1930, by purchase; Hearst estate, 1951, by bequest [inv. 2597, lot s/b 569, no. 90]; Walters Art Museum, 1958, by purchase.",
+    "PublicAccessDate": "2012-05-15T22:00:01.04",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23230",
+    "SortNumber": "    48  2106   10                                       ",
+    "Style": null,
+    "Title": "Ceiling tile (socarrat) with a dragon"
+}

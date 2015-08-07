@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jehan Georges Vibert (French, 1840-1902)",
+            "CreatorID": 4814,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1878-1884",
+    "Culture": null,
+    "DateBeginYear": 1858,
+    "DateEndYear": 1882,
+    "DateText": "ca. 1870",
+    "Description": "Formerly known as \"Entry of the Toreadors,\" this painting should be titled \"Toreros at Prayer before entering the Arena. \" Eduardo Zamacois and Vibert traveled to Spain and, in 1866, they entered in the Paris salon a collaborative work entitled \"Entree des Toreros.\" The Walters painting, however, originally bore the date of 1871.",
+    "Dimensions": "17 7/8 x 33 1/4 in. (45.4 x 84.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Magnificent Age: Masterpieces from the Walters Art Museum, Baltimore",
+            "ExhibBeginDate": "2002-06-16",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "June 16, 2002-January 11, 2004",
+            "ExhibEndDate": "2004-01-11",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2159,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Magnificent Age: Masterpieces from the Walters Art Museum, Baltimore. The Walters Art Museum, Baltimore; The Nelson-Atkins Museum of Art, Kansas City; Mint Museum of Art, Charlotte. 2002-2004."
+        },
+        {
+            "ExhTitle": "Cavaliers and Cardinals: Nineteenth Century French Anecdotal Painting",
+            "ExhibBeginDate": "1992-06-25",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "June 25, 1992- November 8, 1992",
+            "ExhibEndDate": "1992-11-08",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 3070,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Cavaliers and Cardinals: Nineteenth Century French Anecdotal Painting. Taft Museum of Art, Cincinnati; Corcoran Gallery of Art, Washington; Arnot Art Museum, Elmira. 1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41394,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.197_Fnt_TR_T05III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.197_Fnt_TR_T05III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.197_Fnt_TR_T05III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.197_Fnt_TR_T05III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.197_Fnt_TR_T05III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 375,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.197_FntCc_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.197_FntCc_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.197_FntCc_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.197_FntCc_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.197_FntCc_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 25456,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.197_Fnt_BW_H69.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.197_Fnt_BW_H69.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.197_Fnt_BW_H69.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.197_Fnt_BW_H69.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.197_Fnt_BW_H69.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "\"G. Vibert,\" signed lower left",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3322,
+        "LocationString": null
+    },
+    "ObjectID": 26248,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.197",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, between 1878 and 1884 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.58",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26248",
+    "SortNumber": "    37   197                                            ",
+    "Style": null,
+    "Title": "Toreros at Prayer before entering the Arena"
+}

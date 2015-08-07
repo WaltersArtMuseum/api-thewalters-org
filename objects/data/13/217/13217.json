@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 18 5/8 x W: 12 3/16 in. (47.3 x 31 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48404,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1740_Fnt_BW_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1740_Fnt_BW_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1740_Fnt_BW_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1740_Fnt_BW_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1740_Fnt_BW_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscriptions] In German: Luke 2:14; Matthew 2:13; Isaiah 53:7 prophesizing The Passion.",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3325,
+        "LocationString": null
+    },
+    "ObjectID": 13217,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1740",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13217",
+    "SortNumber": "    37  1740                                            ",
+    "Style": "Saxon School (?)",
+    "Title": "Repose on Flight into Egypt with Many Angels"
+}

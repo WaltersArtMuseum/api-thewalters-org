@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mustaf\u00e1 ibn al-Hajj Muhammad",
+            "CreatorID": 15708,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "'Ali Dede al-Busnawi (died 1007 AH/AD 1598)",
+            "CreatorID": 15707,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1670,
+    "DateEndYear": 1670,
+    "DateText": "1081 AH/AD 1670",
+    "Description": "Walters manuscript W.585, a work on Sufism in the form of questions entitled Khawatim al-hikam is by 'Ali Dede al-Busnawi (died 1007 AH/AD 1598). This particular Ottoman copy was written in Nasta'liq script by Mustaf\u00e1 ibn al-Hajj Muhammad in 1081 AH/AD 1670. The Arabic text begins with an illuminated headpiece (fol. 1b). The red leather binding with central lobed oval with arabesques on a gold ground is contemporary with the manuscript.",
+    "Dimensions": "Folio H: 7 7/8 x W: 4 15/16 in. (20 x 12.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23259,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.585.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.585.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.585.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.585.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.585.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Ottoman; Turkish; Book; Codex; Illumination; Manuscript; Ornament; Contemporary Binding; Turkey; Sufism",
+    "Medium": "ink and pigments on cream-colored, watermarked laid European paper covered with red leather with gold and pastedowns of marbled paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2334,
+        "LocationString": null
+    },
+    "ObjectID": 7580,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.585",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Muhammad ibn Zadah al-Ayyubi, 1117 AH/AD 1705 [mode of acquisition unknown] [ex libiris fol. 1a]; Vizier al-Shahid 'Ali Pasha, 1130 AH/AD 1717 (?) [mode of acquisition unknown] [waqf seal of the Vizier on fol. 1a (erased) and on fol. 210b dated 1130 AH/AD 1717 with former shelf mark 1173]; 'Ali [date and mode of acquisition unknown] [ex libiris fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79982,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79983,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 79984,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/7580",
+    "SortNumber": "W        585                                            ",
+    "Style": null,
+    "Title": "Three Hundred Sixty Sufi Questions"
+}

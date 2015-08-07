@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": "Cappadocian",
+    "DateBeginYear": -2112,
+    "DateEndYear": -2088,
+    "DateText": "ca. 2100 BC",
+    "Description": "This brown clay tablet is unglazed.",
+    "Dimensions": "H: 2 x W: 2 5/8 in. (5.1 x 6.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503177,
+            "GeographyTerm": "Cappadocia",
+            "Latitude": "38 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.5,
+            "Longitude": "036 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Ic Anadolu\\provinces\\Kayseri\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1502261,
+            "GeographyTerm": "Kayseri",
+            "Latitude": "38 42",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.7,
+            "Longitude": "035 28",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.466
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32561,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1465_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1465_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1465_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1465_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1465_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] From Buzutaja to [...], / Puzur-szadue, Aszszur-[...], Puszuken: / Because of the [...] of the [man?] / I confronted the city here and I got a tablet of the City / adressed to the primary assembly of the colony, which they bring (it) to you. / Therefore you should listen to the tablet of the City, / and you must confront the colony and (have it established) that it was the primary assembly of the colony, / and not I, who threw him into jail. / My dear brothers, take care and (get hold of) a tablet / of the Kanesz colony and a message from / the Puruszaddum colony, indicating that he cheated the Kanesz colony and (sold?) the iron / in Puruszhaddum. For that reason the primary assembly of the colony / [threw him into jail?]. Take care [...] / [to] the palace [... / [...] / [which] I gave to the palace, and to the palace [...] / held me back, and [...] 2 minas of silver to [...] / live; and for the orders of the palace, when I stayed / in jail you sold textiles for me. / When the iron and the textiles were sold in Aszszur-malik, / Kurub-Isztar, his brother Aszszur-imitti, son of Ikkupija, / Puzur-szadue and Aszszur-makik, son of Luzina, were my witnesses. / When the money was paid Ammurumbani, Szu-Kubum, / son of Aszszur-bel-awatim, Aszszur-malik son of Alahum, / Puzur-szadue and Aszszur-malik, son of Luzina, / went up to the palace together with (me) and I paid the money: / they are my witnesses. Seize the men and [lead them] to the Gate of the God / [...] in accordance with / [...] / [...] / of the iron he brought. / (he) said: also, take the iron [...] / of my partners [...] the iron [...] / and I will take [...] / I personaly will [...] our gate [...] / which I gave to him, Puzur-szadue [...]",
+    "Keywords": null,
+    "Medium": "clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1691,
+        "LocationString": null
+    },
+    "ObjectID": 10009,
+    "ObjectName": "tablets",
+    "ObjectNumber": "48.1465",
+    "OnView": 0,
+    "Period": "Old Assyrian",
+    "Provenance": "Dikran Kelekian, Paris and New York [claims found at Caesarea]; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10009",
+    "SortNumber": "    48  1465                                            ",
+    "Style": null,
+    "Title": "Cappadocian Tablet"
+}

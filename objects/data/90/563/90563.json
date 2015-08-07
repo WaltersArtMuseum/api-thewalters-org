@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1250,
+    "DateEndYear": 1299,
+    "DateText": "2nd half 13th century",
+    "Description": null,
+    "Dimensions": "Folio H: 7 5/8 x W: 5 3/8 in. (19.4 x 13.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448525,
+            "GeographyTerm": "Rheinland",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44934,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.69.92R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.69.92R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.69.92R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.69.92R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.69.92R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Binding; Inhabited initial; Musical notation; Devotion",
+    "Medium": "ink and pigments on medium- to heavy-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 90563,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.69.92R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Made for use in the Diocese of Constance after 1224; Used by the church of St. Mary of Strasbourg, 14th century; Owned by Dominicans in the 15th century(?); Martin Bassonier, 15th century, [mode of acquisition unknown; signature on back pastedown]; B\u00e9nigne-Charles F\u00e9vret de Saint M\u00e9min (1770-1852), France, [mode of acquisition unknown, bookplate on front pastedown]; L\u00e9on Gruel collection, Paris, late 19th or early 20th century, [mode of acquisition unknown]; Henry Walters, Baltimore, before 1931, [acquired from Gruel, mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/90563",
+    "SortNumber": "W         69   92R                                      ",
+    "Style": "Gothic",
+    "Title": "Decorated initial \"D\" (Dixit dominus)"
+}

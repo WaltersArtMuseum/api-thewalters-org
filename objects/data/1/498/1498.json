@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Louis-Jules-Frederic Villeneuve (French, 1796-1842)",
+            "CreatorID": 2270,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1828,
+    "DateEndYear": 1828,
+    "DateText": "1828",
+    "Description": null,
+    "Dimensions": "H: 7 13/16 x W: 10 5/8 in. (19.8 x 27 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "Artists as Travellers",
+            "ExhibBeginDate": "1988-01-05",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "January 5, 1988-June 5, 1988",
+            "ExhibEndDate": "1988-06-05",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2708,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artists as Travellers. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 105,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1327_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1327_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1327_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1327_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1327_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Villeneuve 1828\" in lower left; \"45\" in graphite, verso; partial watermark, \"J Whatman Turkey Mill\"",
+    "Keywords": "church; man; woman; devotion; landscape",
+    "Medium": "brown ink wash on cream, moderately thick, moderately textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2255,
+        "LocationString": null
+    },
+    "ObjectID": 1498,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1327",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T12:30:15.42",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1498",
+    "SortNumber": "    37  1327                                            ",
+    "Style": null,
+    "Title": "Chapel in the Mountains"
+}

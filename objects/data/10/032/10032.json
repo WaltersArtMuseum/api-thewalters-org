@@ -1,0 +1,83 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1550,
+    "DateEndYear": 1600,
+    "DateText": "1550-1600",
+    "Description": null,
+    "Dimensions": "5 3/4 in. (14.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Artful Dining: The Exhibition",
+            "ExhibBeginDate": "1994-07-30",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "July 30, 1994-October 31, 1994",
+            "ExhibEndDate": "1994-10-31",
+            "ExhibEndYear": 1994,
+            "ExhibitionID": 2747,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artful Dining: The Exhibition. The Walters Art Gallery, Baltimore. 1994."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5835,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_57.678_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_57.678_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_57.678_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_57.678_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_57.678_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "agate, copper alloy gilt, horn",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Chamber of Wonders",
+        "LocationID": 4425,
+        "LocationString": null
+    },
+    "ObjectID": 10032,
+    "ObjectName": "spoons; forks",
+    "ObjectNumber": "57.678",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:00.177",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10032",
+    "SortNumber": "    57   678                                            ",
+    "Style": null,
+    "Title": "Spoon and Fork with Heads of Minerva"
+}

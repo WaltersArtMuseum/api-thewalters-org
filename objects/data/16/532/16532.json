@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -300,
+    "DateEndYear": -101,
+    "DateText": "3rd-2nd century BC",
+    "Description": "Made by Greek artisans in the flourishing Hellenic trading colony of Naucratis in Egypt's delta, this flask's low relief decoration and darker shade of glaze in the background are characteristic of faience ware produced here. The shape of the vessel, the frieze of men running, and the lotus pattern were inspired by traditional Egyptian motifs.",
+    "Dimensions": "6 9/16 x 2 3/16 in. (16.6 x 5.5 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Misr Bahri\\governorates\\Al Buhayrah\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544039,
+            "GeographyTerm": "Kawm Ju\u2018ayf",
+            "Latitude": "30 54",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.9,
+            "Longitude": "030 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 36128,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.370_VwA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.370_VwA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.370_VwA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.370_VwA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.370_VwA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36129,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.370_VwB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.370_VwB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.370_VwB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.370_VwB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.370_VwB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 36130,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.370_VwC_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.370_VwC_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.370_VwC_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.370_VwC_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.370_VwC_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 10641,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.370_Prof_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.370_Prof_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.370_Prof_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.370_Prof_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.370_Prof_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 16532,
+    "ObjectName": "flasks (bottles)",
+    "ObjectNumber": "48.370",
+    "OnView": 1,
+    "Period": "Hellenistic-Ptolemaic",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.987",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16532",
+    "SortNumber": "    48   370                                            ",
+    "Style": null,
+    "Title": "Flask with Figures and Lotus"
+}

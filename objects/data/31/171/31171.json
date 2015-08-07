@@ -1,0 +1,79 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antonio da Negroponte (Greek, active in Italy, 15th century) (?)",
+            "CreatorID": 33435,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1915",
+    "Culture": null,
+    "DateBeginYear": 1445,
+    "DateEndYear": 1450,
+    "DateText": "1445-1450",
+    "Description": "See the descriptions of its companion panels 37.1178 and 37.1179.",
+    "Dimensions": "Painted surface H: 60 1/16 x W: 95 11/16 x D excluding cradle: 1/4 in. (152.5 x 243 x 0.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19246,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1180_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1180_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1180_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1180_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1180_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on wood (spruce) panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 31171,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.1180",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Cav. Marcello Galli-Dunn, Castello di Badia, Poggibonsi, Tuscany [date and mode of acquisition unknown]; Sale, Galleria Sangiorgi, Rome, May 2, 1905, no. 142; Henry Walters, Baltimore, prior to 1915 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 8986,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 16311,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/31171",
+    "SortNumber": "    37  1180                                            ",
+    "Style": null,
+    "Title": "The Reception of Helen at Troy by Priam and Hecuba"
+}

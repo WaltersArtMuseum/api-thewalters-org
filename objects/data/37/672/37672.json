@@ -1,0 +1,95 @@
+{
+    "Classification": "Miniatures",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William Grimaldi (English, 1751-1830)",
+            "CreatorID": 4163,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1789,
+    "DateEndYear": 1792,
+    "DateText": "1789-1792",
+    "Description": "Grimaldi, an English artist of Genoese descent, has portrayed La Fayette (1757-1834) wearing his uniform as colonel-general of the National Guard of Paris. In 1789, the marquis, who had championed the American Revolution, introduced to the National Assembly in Paris a declaration of rights based on the American model.",
+    "Dimensions": "H: 2 3/8 in. (6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Legacy of Lafayette",
+            "ExhibBeginDate": "1984-10-15",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "October 15, 1984-June 15, 1985",
+            "ExhibEndDate": "1985-06-15",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2971,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Legacy of Lafayette. Fraunces Tavern Museum, New York. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62455,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_38.109_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_38.109_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_38.109_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_38.109_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_38.109_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 62456,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_38.109_Rev_BW_H55.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_38.109_Rev_BW_H55.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_38.109_Rev_BW_H55.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_38.109_Rev_BW_H55.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_38.109_Rev_BW_H55.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "watercolor on ivory, gold frame, reverse is enameled white with gold inscription",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2374,
+        "LocationString": null
+    },
+    "ObjectID": 37672,
+    "ObjectName": "miniatures (paintings)",
+    "ObjectNumber": "38.109",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37672",
+    "SortNumber": "    38   109                                            ",
+    "Style": null,
+    "Title": "Portrait of the Marquise de La Fayette"
+}

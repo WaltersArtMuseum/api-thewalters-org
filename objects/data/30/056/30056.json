@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": null,
+    "Dimensions": "H: 1 3/4 in. (4.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kyushu-chiho\\prefectures\\Kumamoto-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493716,
+            "GeographyTerm": "Kumamoto",
+            "Latitude": "32 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.833,
+            "Longitude": "130 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 130.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20966,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.342_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.342_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.342_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.342_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.342_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 20967,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.342_Side_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.342_Side_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.342_Side_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.342_Side_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.342_Side_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8591,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.342_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.342_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.342_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.342_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.342_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 8590,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.342_MrkA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.342_MrkA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.342_MrkA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.342_MrkA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.342_MrkA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Transcription] higo udo gun odayama sei;  [Translation] Product of Odayama (kiln), Udo (district), Higo (province);  [Mark] Daimyo's kiln",
+    "Keywords": "duck",
+    "Medium": "porcelain with underglaze cobalt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1715,
+        "LocationString": null
+    },
+    "ObjectID": 30056,
+    "ObjectName": "incense containers; kogoi",
+    "ObjectNumber": "49.342",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.34",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30056",
+    "SortNumber": "    49   342                                            ",
+    "Style": "Oda ware",
+    "Title": "Incense Container (\"Kogo\") in the Form of a Mandarin Duck"
+}

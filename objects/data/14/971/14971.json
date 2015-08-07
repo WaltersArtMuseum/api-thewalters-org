@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -562,
+    "DateEndYear": -538,
+    "DateText": "ca. 550 BC",
+    "Description": "This figure belonged to the ushabti set of the \"Commander of the royal ships, Heka-em-sa-ef.\" The figure's beard with its curved tip conveys divinity and alludes to the belief that humans have a divine component that will be set free after they pass through the Court of the Dead.",
+    "Dimensions": "6 7/8 x 1 3/4 x 1 5/16 in. (17.5 x 4.5 x 3.3 cm)",
+    "Dynasty": "26th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mummified",
+            "ExhibBeginDate": "2008-11-15",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "November 15, 2008-November 8, 2013",
+            "ExhibEndDate": "2013-11-08",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2173,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mummified. The Walters Art Museum, Baltimore. 2008-2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10408,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.396_Fnt_BW_7957.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.396_Fnt_BW_7957.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.396_Fnt_BW_7957.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.396_Fnt_BW_7957.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.396_Fnt_BW_7957.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1470,
+        "LocationString": null
+    },
+    "ObjectID": 14971,
+    "ObjectName": "ushebtis; figurines; statuettes",
+    "ObjectNumber": "48.396",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T14:12:55.143",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14971",
+    "SortNumber": "    48   396                                            ",
+    "Style": null,
+    "Title": "Ushabti of Heka-em-sa-ef"
+}

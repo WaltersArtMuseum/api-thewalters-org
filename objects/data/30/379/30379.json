@@ -1,0 +1,120 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Charles Bargue (French, 1826-1883)",
+            "CreatorID": 4446,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1883",
+    "Culture": null,
+    "DateBeginYear": 1871,
+    "DateEndYear": 1895,
+    "DateText": "ca. 1883",
+    "Description": null,
+    "Dimensions": "H: 10 1/2 x W: 7 3/8 in. (26.7 x 18.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "Charles Bargue: The Art of Drawing",
+            "ExhibBeginDate": "2003-11-25",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "November 25, 2003-February 8, 2004",
+            "ExhibEndDate": "2004-02-08",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2627,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Charles Bargue: The Art of Drawing. Dahesh Museum of Art, New York. 2003-2004."
+        },
+        {
+            "ExhTitle": "The Orientalists",
+            "ExhibBeginDate": "1987-10-09",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "October 9, 1987-January 3, 1988",
+            "ExhibEndDate": "1988-01-03",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2706,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Orientalists. The Walters Art Gallery, Baltimore. 1987-1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 106,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1328_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1328_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1328_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1328_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1328_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"C. Bargue\" in black ink,  lower right",
+    "Keywords": "man; prayer; devotion; genre; biblical/religious",
+    "Medium": "charcoal on smooth, moderately thick, cream wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2253,
+        "LocationString": null
+    },
+    "ObjectID": 30379,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1328",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Goupil, Paris [date and mode of acquisition unknown]; William T. Walters, Baltimore, 1883, by purchase [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.817",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 2884,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 11703,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 33847,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30379",
+    "SortNumber": "    37  1328                                            ",
+    "Style": null,
+    "Title": "Arab Kneeling in Prayer"
+}

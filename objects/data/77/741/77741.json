@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "British",
+            "CreatorID": 16295,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1930",
+    "Culture": null,
+    "DateBeginYear": 1288,
+    "DateEndYear": 1312,
+    "DateText": "ca. 1300",
+    "Description": "This image expands the idea of \"play,\" encompassing not just the actions of the figures depicted but those of the artist too. Here, the scribe has accidentally left out a line of text, a common occurrence, usually corrected by simply adding the missing line elsewhere on the page. However this artist, perhaps the scribe himself, has used this error as an opportunity to have fun, and has drawn a figure hoisting the text into its proper place on the page.",
+    "Dimensions": "Folio H: 10 1/2 x W: 7 3/8 in. (26.7 x 18.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1471431,
+            "GeographyTerm": "Great Britain",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41723,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.102.39V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.102.39V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.102.39V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.102.39V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.102.39V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Grotesques; Devotion",
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 77741,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.102.39V",
+    "OnView": 0,
+    "Period": "Gothic",
+    "Provenance": "Henry Walters, Baltimore, ca. 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77741",
+    "SortNumber": "W        102   39V                                      ",
+    "Style": null,
+    "Title": "Scribal error corrected"
+}

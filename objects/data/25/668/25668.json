@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dutch",
+            "CreatorID": 6227,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Philip B. Perlman, 1960",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1725,
+    "DateText": "early 18th century",
+    "Description": "In imitation of the display of Chinese porcelains, pieces of blue and white glazed \"Delftware\" in similar shapes were arranged in decorative groupings over doors.",
+    "Dimensions": "14 7/8 in. (37.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Zuid-Holland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473605,
+            "GeographyTerm": "Delft",
+            "Latitude": "52 01",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.16,
+            "Longitude": "004 21",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.35
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55138,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2152_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2152_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2152_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2152_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2152_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4782,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2152_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2152_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2152_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2152_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2152_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with tin glazes",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: 17th-Century Dutch Cabinet Rooms",
+        "LocationID": 4381,
+        "LocationString": null
+    },
+    "ObjectID": 25668,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.2152",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Philip B. Perlman; Walters Art Museum, 1960, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.317",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25668",
+    "SortNumber": "    48  2152                                            ",
+    "Style": null,
+    "Title": "Delftware"
+}

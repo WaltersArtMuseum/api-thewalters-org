@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Henri Emilien Rousseau (French, 1875-1933)",
+            "CreatorID": 4271,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Bequest of Amy Allison Stirling, 1989",
+    "Culture": null,
+    "DateBeginYear": 1902,
+    "DateEndYear": 1902,
+    "DateText": "1902",
+    "Description": "Rousseau was born in Cairo in 1875 and trained with Jean-L\u00e9on G\u00e9r\u00f4me in Paris. In 1902, the year that he exhibited this painting at the salon of the Soci\u00e9t\u00e9 des Artistes Fran\u00e7ais, he won the second class medal and a scholarship for travel abroad. His works, recording France's colonial territories, are represented in French museums, including the Louvre. In this view of the Atlas Mountains seen at dawn, the artist has admirably captured the appearance of the light hitting the range.",
+    "Dimensions": "H: 58 1/16 x W: 38 1/4 in. (147.4 x 97.2 cm); Framed H: 49 3/4 x W: 69 1/4 in. (126.37 x 175.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exposition de Voyage et des Prix du Salon",
+            "ExhibBeginDate": "1902-05",
+            "ExhibBeginYear": 1902,
+            "ExhibDisplayDate": "May 1902-June 1902",
+            "ExhibEndDate": "1902-06",
+            "ExhibEndYear": 1902,
+            "ExhibitionID": 3096,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Exposition de Voyage et des Prix du Salon. 1902."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\mountain systems\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1530574,
+            "GeographyTerm": "Atlas Mountains",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51846,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.2639_Fnt_BW_T89.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.2639_Fnt_BW_T89.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.2639_Fnt_BW_T89.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.2639_Fnt_BW_T89.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.2639_Fnt_BW_T89.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3345,
+        "LocationString": null
+    },
+    "ObjectID": 33836,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2639",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Louis Muller [1844-1933], Sorrento, Baltimore [date and mode of acquisition unknown]; Amy Allison Stirling (Mrs. Lloyd Campbell), by inheritance [from her father]; Walters Art Museum, May 1989, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/33836",
+    "SortNumber": "    37  2639                                            ",
+    "Style": null,
+    "Title": "View of North Africa at Dawn"
+}

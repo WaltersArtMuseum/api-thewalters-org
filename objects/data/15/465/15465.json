@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pierre-\u00c9douard Fr\u00e8re (French, 1819-1886)",
+            "CreatorID": 4366,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1859",
+    "Culture": null,
+    "DateBeginYear": 1858,
+    "DateEndYear": 1858,
+    "DateText": "1858",
+    "Description": "A young girl is seated on a step in front of a doorway making a dress for a doll resting on her lap. At her left is a chair on which she has placed a miniature chest of drawers and some clothes, and on the floor is an open sewing box and a pair of scissors.",
+    "Dimensions": "H: 10 3/4 x W: 8 5/8 in. (27.3 x 21.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41146,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.24_Fnt_TR_T87II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.24_Fnt_TR_T87II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.24_Fnt_TR_T87II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.24_Fnt_TR_T87II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.24_Fnt_TR_T87II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 416,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.24_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.24_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.24_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.24_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.24_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: Ed Fr\u00e9re.; [Date] Lower left: 1858",
+    "Keywords": null,
+    "Medium": "oil on panel (mahogany)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3311,
+        "LocationString": null
+    },
+    "ObjectID": 15465,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.24",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sale, French and English Exhibition of Pictures, National Academy of Design, New York, October 29, 1859; William T. Walters, Baltimore, October 29, 1859, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15465",
+    "SortNumber": "    37    24                                            ",
+    "Style": null,
+    "Title": "The Little Dressmaker"
+}

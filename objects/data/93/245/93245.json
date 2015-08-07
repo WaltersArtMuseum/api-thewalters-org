@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jacobus Romanus (Italian, 1515-1560)",
+            "CreatorID": 5592,
+            "Gender": "male",
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Style of Giulio Romano (Italian, probably 1499-1546)",
+            "CreatorID": 3860,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1895",
+    "Culture": null,
+    "DateBeginYear": 1538,
+    "DateEndYear": 1562,
+    "DateText": "ca. 1550",
+    "Description": null,
+    "Dimensions": "Folio: 13/16 x 11/16 in. (2 x 1.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 59665,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.444.1v_Fp_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.444.1v_Fp_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.444.1v_Fp_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.444.1v_Fp_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.444.1v_Fp_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 59664,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.444.1v_FpCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.444.1v_FpCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.444.1v_FpCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.444.1v_FpCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.444.1v_FpCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Italy; bookbinding; jewelry; Rome; Renaissance; Jacobus Romanus; Giulio Romano; psalter",
+    "Medium": "gold, parchment, enamel and rubies",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 93245,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.444.1V",
+    "OnView": 0,
+    "Period": "High Renaissance",
+    "Provenance": "Henry Walters, Baltimore, after 1895 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/93245",
+    "SortNumber": "W        444    1V                                      ",
+    "Style": null,
+    "Title": "Leaf from Miniature Manuscript Used as a Pendant: Portrait of the Virgin"
+}

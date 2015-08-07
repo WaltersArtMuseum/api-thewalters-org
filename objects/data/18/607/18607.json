@@ -1,0 +1,101 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nanking School",
+            "CreatorID": 2320,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "L: 62 3/4 x W: 35 7/8 in. (159.4 x 91.1 cm)",
+    "Dynasty": "Ming [Ming]-Qing [Ch'ing Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4378,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_35.4_Fnt_BW_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_35.4_Fnt_BW_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_35.4_Fnt_BW_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_35.4_Fnt_BW_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_35.4_Fnt_BW_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] lower left; [Seal] lower left; [Seal] lower right",
+    "Keywords": null,
+    "Medium": "ink and color on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2409,
+        "LocationString": null
+    },
+    "ObjectID": 18607,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.4",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 7]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-23T10:08:17.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18607",
+    "SortNumber": "    35     4                                            ",
+    "Style": null,
+    "Title": "Country-scenes in Mountain Landscape"
+}

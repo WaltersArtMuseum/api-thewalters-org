@@ -1,0 +1,106 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "This folio from Walters manuscript W.660 is the left half of a world map showing the Americas.",
+    "Dimensions": "H: 11 13/16 x W: 8 7/8 in. (30 x 22.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 605803,
+            "GeographyTerm": "North and Central America",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1408716,
+            "GeographyTerm": "South America",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37652,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 0
+        },
+        {
+            "ID": 37621,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.660.2a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.660.2a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.660.2a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.660.2a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.660.2a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Book; Codex; Illumination; Illustration; Manuscript; Charts; Turkey; Science; Cartography; Geography",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78193,
+    "ObjectName": "illuminated mansucripts; folios (leaves)",
+    "ObjectNumber": "W.660.2A",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78193",
+    "SortNumber": "W        660    2A                                      ",
+    "Style": null,
+    "Title": "Left Half of a World Map Showing the Americas"
+}

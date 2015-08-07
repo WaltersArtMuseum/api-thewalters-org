@@ -1,0 +1,101 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek (?)",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman (?)",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1944",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": 50,
+    "DateText": "332 BC-AD 50",
+    "Description": null,
+    "Dimensions": "H: 5 1/8 in. (13 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54661,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.2293_Fnt_BW_H44.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.2293_Fnt_BW_H44.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.2293_Fnt_BW_H44.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.2293_Fnt_BW_H44.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.2293_Fnt_BW_H44.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 441,
+        "LocationString": null
+    },
+    "ObjectID": 3831,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.2293",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Stefano Bardini, Florence, until 1899 [sold]; Sale, Arthur Sambon, Paris, 1914, no. 73; Heeramaneck Galleries [date and mode of acquisition unknown]; Walters Art Museum, 1944, by purchase.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3831",
+    "SortNumber": "    54  2293                                            ",
+    "Style": "Hellenistic",
+    "Title": "Barbarian Soldier"
+}

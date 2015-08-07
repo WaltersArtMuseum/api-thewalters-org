@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -592,
+    "DateEndYear": -525,
+    "DateText": "ca. 580-525 BC",
+    "Description": "Depicted with cow features, the goddess Hathor was associated with sexuality, motherhood, and music. This sistrum, or rattle, is a masterwork of Egyptian faience, which is particularly fitting, as Hathor was also known as \"mistress of faience.\"",
+    "Dimensions": "6 1/16 x 3 1/16 x 1 3/8 in. (15.4 x 7.8 x 3.6 cm);\r\nmount: 1 13/16 x 2 7/8 x 2 1/4 in. (4.5 x 7.3 x 5.8 cm)",
+    "Dynasty": "26th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mistress of House Mistress of Heaven: Women in Ancient Egypt",
+            "ExhibBeginDate": "1996-10-19",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "October 19, 1996-May 18, 1997",
+            "ExhibEndDate": "1997-05-18",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 850,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Mistress of House Mistress of Heaven: Women in Ancient Egypt. Cincinnati Art Museum, Cincinnati; Brooklyn Museum, Brooklyn. 1996-1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10038,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T02.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T02.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T02.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T02.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T02.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9232,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T95III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T95III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T95III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T95III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.465_Fnt_TR_T95III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "faience; sistrum; rattle; goddess; ceremony; Hathor",
+    "Medium": "Egyptian faience with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3758,
+        "LocationString": null
+    },
+    "ObjectID": 18835,
+    "ObjectName": "sistra; rattles",
+    "ObjectNumber": "48.465",
+    "OnView": 1,
+    "Period": "Late Period",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.05",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18835",
+    "SortNumber": "    48   465                                            ",
+    "Style": null,
+    "Title": "Naos-sistrum"
+}

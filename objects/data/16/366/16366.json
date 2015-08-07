@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1986\r\n",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -301,
+    "DateText": "4th century BC",
+    "Description": "This relief was probably made for attachment to a vase and was originally painted. The maiden's running pose and windblown garment echo monumental reliefs and precious metalwork.",
+    "Dimensions": "3 3/4 x 2 15/16 x 9/16 in. (9.5 x 7.4 x 1.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11661,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2538_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2538_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2538_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2538_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2538_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "maiden ~ running",
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1692,
+        "LocationString": null
+    },
+    "ObjectID": 16366,
+    "ObjectName": "relief",
+    "ObjectNumber": "48.2538",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Ms. Areil Herman, Gallery Acanthus, New York; Walters Art Museum, 1986, by purchase.",
+    "PublicAccessDate": "2008-10-27T16:40:34.833",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16366",
+    "SortNumber": "    48  2538                                            ",
+    "Style": null,
+    "Title": "Appliqu\u00e9 Relief of a Running Maiden"
+}

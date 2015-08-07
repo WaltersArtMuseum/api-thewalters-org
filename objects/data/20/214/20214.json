@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This painting has an elaborate inscription and is a companion with Walters 35.83.",
+    "Dimensions": "H: 42 5/16 x W: 19 5/8 in. (107.4 x 49.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55745,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.88_Fnt_NF_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.88_Fnt_NF_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.88_Fnt_NF_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.88_Fnt_NF_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.88_Fnt_NF_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] Lower right; [Seal] Lower right",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on paper and brocade",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2410,
+        "LocationString": null
+    },
+    "ObjectID": 20214,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.88",
+    "OnView": 0,
+    "Period": "Edo-Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20214",
+    "SortNumber": "    35    88                                            ",
+    "Style": null,
+    "Title": "Man with Five Children and Two Tailed Turtles"
+}

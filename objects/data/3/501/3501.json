@@ -1,0 +1,107 @@
+{
+    "Classification": "Coins & Medals",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Roman",
+    "DateBeginYear": 203,
+    "DateEndYear": 257,
+    "DateText": "ca. 215-243",
+    "Description": "Together with 59.1 and 59.2, this piece was discovered in Egypt as part of a hoard that comprised about twenty similar medallions (now dispersed among various museums), eighteen gold ingots, and six hundred gold coins issued by Roman emperors from Severus Alexander (r. AD 222-235) to Constantius I (r. AD 293-306). One of the medallions, now in the Calouste Gulbenkian Museum in Lisbon, bears an inscription that possibly reads \"Olympic games of the year 274\", a date corresponding to AD 242-243. It is possible that the medallions were intended as prizes to be given out at that event. Alternatively, they may have been issued by Emperor Caracalla (ruled 198-217 AD), who is potrayed on the present one in profile, bearing a shield on his shoulder decorated with the image of Nike in a racing-chariot. The back depicts Caracalla's distant predecessor King Alexander of Macedon (r. 336-323 BC) in short chiton and chlamys (a cloak) hunting a boar. This depiction of a royal hunt was intended to emphasize the prowess that Alexander also showed in battle.",
+    "Dimensions": "3/16 x 2 1/4 in. (0.6 x 5.7 cm) (d. x diam.)",
+    "Dynasty": "Severan Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Alexander the Great: Treasures from an Epic Era of Hellenism",
+            "ExhibBeginDate": "2004-12-08",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "December 8, 2004-April 16, 2005",
+            "ExhibEndDate": "2005-04-16",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 2637,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Alexander the Great: Treasures from an Epic Era of Hellenism. Alexander S. Onassis Public Benefit Foundation (USA), New York. 2004-2005."
+        },
+        {
+            "ExhTitle": "The Search for Alexander",
+            "ExhibBeginDate": "1980-11-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "November 16, 1980-July 10, 1983",
+            "ExhibEndDate": "1983-07-10",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2896,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Search for Alexander. National Gallery of Art, Washington; The Art Institute of Chicago, Chicago; Museum of Fine Arts, Boston, Boston; Fine Arts Museums of San Francisco, San Francisco; New Orleans Museum of Art, New Orleans; Royal Ontario Museum, Toronto. 1980-1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Misr Bahri\\governorates\\Al Buhayrah\\bays\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543973,
+            "GeographyTerm": "Abu Qir, Khalij",
+            "Latitude": "31 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.333,
+            "Longitude": "030 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8924,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_59.3_Obv_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_59.3_Obv_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_59.3_Obv_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_59.3_Obv_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_59.3_Obv_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8925,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_59.3_Rev_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_59.3_Rev_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_59.3_Rev_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_59.3_Rev_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_59.3_Rev_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Treasury",
+        "LocationID": 3652,
+        "LocationString": null
+    },
+    "ObjectID": 3501,
+    "ObjectName": "medallions (medals)",
+    "ObjectNumber": "59.3",
+    "OnView": 1,
+    "Period": "Imperial Roman",
+    "Provenance": "[Found at Aboukir, Egypt, 1902]; P. Kytikas, Cairo [date of acquisition unknown], by purchase; Dikran Kelekian, Constantinople and Paris [date of acquisition unknown], by purchase; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:41.283",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3501",
+    "SortNumber": "    59     3                                            ",
+    "Style": "Hellenistic",
+    "Title": "Medallion with Roman Emperor Caracalla"
+}

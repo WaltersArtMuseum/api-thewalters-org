@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": -1550,
+    "DateEndYear": -1292,
+    "DateText": "1550-1292 BC",
+    "Description": null,
+    "Dimensions": "H: 6 15/16 in. (17.6 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Qina\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544585,
+            "GeographyTerm": "Al Uqsur",
+            "Latitude": "25 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 25.683,
+            "Longitude": "032 39",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.65
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 871,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_54.398_3Qtr_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_54.398_3Qtr_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_54.398_3Qtr_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_54.398_3Qtr_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_54.398_3Qtr_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, gilt, gold inlays",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 31186,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.398",
+    "OnView": 0,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-07-21T09:32:46.86",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31186",
+    "SortNumber": "    54   398                                            ",
+    "Style": null,
+    "Title": "Seated Amun"
+}

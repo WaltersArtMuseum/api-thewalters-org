@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by an anonymous donor, 2001",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "The archangel Raphael is depicted standing above a church built in his honor. The painting illustrates the dramatic highpoint in a story that explains Raphael's relationship to the church. According to legend, soon after the church's completion, the ground beneath the building began to shake, and it became evident that the structure was built on the back of a sea monster. Raphael speared the monster, saving the church and its congregation from destruction. Raphael's spear is shown descending down through the building; it is likely that the missing portion of the canvas featured the sea monster.",
+    "Dimensions": "H: 72 1/16 x W: 18 7/8 in. (183 x 48 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Angels of Light: Ethiopian Art from the Walters Art Museum",
+            "ExhibBeginDate": "2006-02-05",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 5, 2006-May 20, 2007",
+            "ExhibEndDate": "2007-05-20",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 1958,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Angels of Light: Ethiopian Art from the Walters Art Museum. Birmingham Museum of Art, Birmingham; Smith College Museum of Art, Northampton; Museum of Biblical Art, New York. 2006-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9210,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.13.2_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.13.2_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.13.2_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.13.2_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.13.2_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9214,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.13.2_DetA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.13.2_DetA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.13.2_DetA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.13.2_DetA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.13.2_DetA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9212,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_36.13.2_DetB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_36.13.2_DetB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_36.13.2_DetB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_36.13.2_DetB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_36.13.2_DetB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3812,
+        "LocationString": null
+    },
+    "ObjectID": 22195,
+    "ObjectName": "paintings",
+    "ObjectNumber": "36.13.2",
+    "OnView": 1,
+    "Period": "Modern",
+    "Provenance": "Paul Stewart, London [date and mode of acquisition unknown]; Sam Fogg, London [date and mode of acquisition unknown]; Walters Art Museum, 2001, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:16:11.427",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22195",
+    "SortNumber": "    36    13    2                                       ",
+    "Style": null,
+    "Title": "Archangel Raphael and the Miracle of the Sea Monster"
+}

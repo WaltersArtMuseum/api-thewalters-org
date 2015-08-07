@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Eug\u00e8ne Fran\u00e7ois Fines (French, b. 1826)",
+            "CreatorID": 7898,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1866 (?)",
+    "Culture": null,
+    "DateBeginYear": 1863,
+    "DateEndYear": 1863,
+    "DateText": "1863",
+    "Description": null,
+    "Dimensions": "H: 8 13/16 x W: 7 5/16 in. (22.4 x 18.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41621,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.2571_Fnt_TR_T02II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.2571_Fnt_TR_T02II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.2571_Fnt_TR_T02II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.2571_Fnt_TR_T02II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.2571_Fnt_TR_T02II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31001,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.2571_Fnt_BW_T02.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.2571_Fnt_BW_T02.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.2571_Fnt_BW_T02.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.2571_Fnt_BW_T02.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.2571_Fnt_BW_T02.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "\"Eug. Fines\" in ink, lower right",
+    "Keywords": "child; woman; prayer; peasant; genre; genre",
+    "Medium": "graphite with white heightening on gray, moderately thick, slightly textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2254,
+        "LocationString": null
+    },
+    "ObjectID": 35238,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.2571",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1866 (?), by purchase [from the artist, George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-02-16T14:53:00.53",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35238",
+    "SortNumber": "    37  2571                                            ",
+    "Style": null,
+    "Title": "Mother and Child"
+}

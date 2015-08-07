@@ -1,0 +1,155 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Honor\u00e9 Daumier (French, 1808-1879)",
+            "CreatorID": 7521,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1879,
+    "DateText": "mid 19th century",
+    "Description": "Three figures, facing right, read music held on a lectern as they sing. Visible in the background are a number of framed paintings suggesting that the scene transpires in the artist's studio rather than in a prison. In the 1878 exhibition, the picture was listed simply as \"Chanteurs.\"",
+    "Dimensions": "H: 19 3/4 x W: 24 1/8 in. (50.2 x 61.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exposition des Peintures et Dessins de H. Daumier",
+            "ExhibBeginDate": "1878",
+            "ExhibBeginYear": 1878,
+            "ExhibDisplayDate": "1878",
+            "ExhibEndDate": "1878",
+            "ExhibEndYear": 1878,
+            "ExhibitionID": 2408,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exposition des Peintures et Dessins de H. Daumier. Galerie Durand-Ruel, Paris. 1878."
+        },
+        {
+            "ExhTitle": "Exposition des Peintures, Aquarelles, Dessins et Lithographies de Maitres Francais de la Caricature et de la Peinture de Moeurs au XIX siecle",
+            "ExhibBeginDate": "1888",
+            "ExhibBeginYear": 1888,
+            "ExhibDisplayDate": "1888",
+            "ExhibEndDate": "1888",
+            "ExhibEndYear": 1888,
+            "ExhibitionID": 2415,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exposition des Peintures, Aquarelles, Dessins et Lithographies de Maitres Francais de la Caricature et de la Peinture de Moeurs au XIX siecle. \u00c9cole des beaux-arts, Paris, Paris. 1888."
+        },
+        {
+            "ExhTitle": "Daumier, 1808-1879",
+            "ExhibBeginDate": "1937",
+            "ExhibBeginYear": 1937,
+            "ExhibDisplayDate": "1937",
+            "ExhibEndDate": "1937",
+            "ExhibEndYear": 1937,
+            "ExhibitionID": 2376,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Daumier, 1808-1879. Pennsylvania Museum of Art, Philadelphia, Philadelphia. 1937."
+        },
+        {
+            "ExhTitle": "Undercover Stories in Art",
+            "ExhibBeginDate": "1980-04-20",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "April 20, 1980-June 1, 1980",
+            "ExhibEndDate": "1980-06-01",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2672,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Undercover Stories in Art. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62955,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.7_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.7_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.7_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.7_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.7_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 62954,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.7_FntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.7_FntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.7_FntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.7_FntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.7_FntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 46770,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.7_XR_1963.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.7_XR_1963.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.7_XR_1963.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.7_XR_1963.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.7_XR_1963.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 62953,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.7_BackCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.7_BackCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.7_BackCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.7_BackCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.7_BackCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: h.D.",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3500,
+        "LocationString": null
+    },
+    "ObjectID": 24079,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.7",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Latouche, 1878 [mode of acquisition unknown]; Mme. Bureau [date and mode of acquisition unknown]; Mrs. S. D. Warren Sale, American Art Association, New York, 1903, no. 110; H. Williams [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1903 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24079",
+    "SortNumber": "    37     7                                            ",
+    "Style": null,
+    "Title": "The Prison Choir"
+}

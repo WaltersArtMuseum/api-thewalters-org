@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23180,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_35.102A_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_35.102A_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_35.102A_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_35.102A_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_35.102A_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "colors on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80087,
+    "ObjectName": "paintings; folios (leaves); albums",
+    "ObjectNumber": "35.102A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama Pacific International Exposition, San Francisco, China Pavilion, 1915 [no. 332, as Ch'ou Shih-Chou]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-12-06T01:00:00.213",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80087",
+    "SortNumber": "    35   102A                                           ",
+    "Style": null,
+    "Title": "The Hunt Begins"
+}

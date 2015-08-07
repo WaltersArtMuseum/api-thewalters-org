@@ -1,0 +1,88 @@
+{
+    "Classification": "Enamels",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Rhenish",
+            "CreatorID": 5094,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Rhenish",
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "This piece is one of two small columns, or colonnettes, detached from the sides of a church-shaped reliquary shrine.  One column (Walters 44.597) has checkered trellis pattern of enamel filled with tiny crosses and is topped by a gilt capital ornamented with small cast birds.  The other column (Walters 44.598) has alternating, diagonal bands filled with cross ornament set within quatrefoils and a capital cast with an acanthus-leaf motif.",
+    "Dimensions": "9 1/2 x 1 1/2 x 1 1/2 in. (24.2 x 3.8 x 3.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Year 1200",
+            "ExhibBeginDate": "1970-02-12",
+            "ExhibBeginYear": 1970,
+            "ExhibDisplayDate": "February 12, 1970-May 10, 1970",
+            "ExhibEndDate": "1970-05-10",
+            "ExhibEndYear": 1970,
+            "ExhibitionID": 306,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Year 1200. The Metropolitan Museum of Art, New York. 1970."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448525,
+            "GeographyTerm": "Rheinland",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8357,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_44.597_Prof_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_44.597_Prof_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_44.597_Prof_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_44.597_Prof_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_44.597_Prof_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "champlev\u00e9 enamel on copper with gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3858,
+        "LocationString": null
+    },
+    "ObjectID": 7780,
+    "ObjectName": "columns (architectural elements)",
+    "ObjectNumber": "44.597",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Germeau, Paris; Joseph Brummer, Paris and New York, by purchase; Sale, Parke-Bernet, New York, April 23, 1949, no. 717; Walters Art Museum, 1949, by purchase.\r\n",
+    "PublicAccessDate": "2008-09-25T17:15:34.847",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 19139,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/7780",
+    "SortNumber": "    44   597                                            ",
+    "Style": "Romanesque",
+    "Title": "One of a Pair of Columns from a Shrine"
+}

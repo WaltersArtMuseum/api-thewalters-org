@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Russian",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "Christ, seen in the pose of the Just Judge, holds a Gospel book open to John 7:24: \"Do not judge by appearances, but judge with right  judgement.\" Above and below are bright red seraphim, while at the sides are the venerating figures of Sts. Peter, Paul, and two archangels. Surrounding them is a rich, gilt silver revetment (cover), densely patterned with scrolls and leaves. This vividly colored icon forms the center of a Deesis, a composition in which the figure of Christ is flanked by panels of the Virgin on the left and John the Baptist on the right.",
+    "Dimensions": "12 1/16 x 9 1/16 x 1 9/16 in. (30.7 x 23 x 4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        },
+        {
+            "ExhTitle": "A Millennium of Christianity: Russian Art from The Walters Art Gallery",
+            "ExhibBeginDate": "1988-12-15",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "December 15, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 563,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Millennium of Christianity: Russian Art from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 3912,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.1065B_Fnt_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.1065B_Fnt_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.1065B_Fnt_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.1065B_Fnt_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.1065B_Fnt_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52089,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Christ; gospel; St. Peter; St. Paul; Archangel; Virgin; John the Baptist; angels; saints; gospel; Angel",
+    "Medium": "tempera on wood panel with silver gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 585,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.1065B",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris, by purchase; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/585",
+    "SortNumber": "    37  1065B                                           ",
+    "Style": null,
+    "Title": "Christ Pantokrator"
+}

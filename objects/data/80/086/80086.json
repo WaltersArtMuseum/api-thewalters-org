@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1201,
+    "DateEndYear": 1250,
+    "DateText": "1st half 13th century",
+    "Description": null,
+    "Dimensions": "H: 9 13/16 x W: 6 5/16 in. (25 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52828,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.23_Fnt_DD_2013.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.23_Fnt_DD_2013.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.23_Fnt_DD_2013.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.23_Fnt_DD_2013.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.23_Fnt_DD_2013.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80086,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.23.binding",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80086",
+    "SortNumber": "W         23binding                                     ",
+    "Style": null,
+    "Title": "Psalter"
+}

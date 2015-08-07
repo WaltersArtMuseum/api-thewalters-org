@@ -1,0 +1,90 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "1st half 11th century AH/AD 17th century",
+    "Description": "Walters manuscript W.638 is an illuminated and illustrated copy of the Collection of poems (divan) by Shams al-Din Muhammad Hafiz al-Shirazi (flourished 8th century AH/AD 14th), written in the 1st half of the 11th century AH/AD 17th. There are 5 illustrations.",
+    "Dimensions": "Folio H: 9 7/16 x W: 5 5/16 in. (24 x 13.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 33404,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.638.binding_TopExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.638.binding_TopExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.638.binding_TopExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.638.binding_TopExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.638.binding_TopExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Codex; Illumination; Illustration; Manuscript; Sufism; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with dark brown leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2341,
+        "LocationString": null
+    },
+    "ObjectID": 14637,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.638",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "'Abd Allah al-Muradi, 1132 AH/AD 1719 [mode of acquisition unknown] [seal impression fol. 91b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83453,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83454,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83455,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83456,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83457,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83458,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83459,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83460,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/14637",
+    "SortNumber": "W        638                                            ",
+    "Style": null,
+    "Title": "Collection of Poems (Divan)"
+}

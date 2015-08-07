@@ -1,0 +1,119 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": "This snuff bottle is decorated with poems about wine in the winter and flowers in the spring.",
+    "Dimensions": "2 1/2 in. (6.4 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Chinese Snuff Bottles",
+            "ExhibBeginDate": "2000-10-25",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 25, 2000-February 5, 2001",
+            "ExhibEndDate": "2001-02-05",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 76,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Chinese Snuff Bottles. The Walters Art Gallery, Baltimore. 2000-2001."
+        },
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55757,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_47.300_Fnt_NF_H75.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_47.300_Fnt_NF_H75.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_47.300_Fnt_NF_H75.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_47.300_Fnt_NF_H75.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_47.300_Fnt_NF_H75.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 1
+        },
+        {
+            "ID": 49195,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/RG_47.300_VwA_DD_05212013.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/RG_47.300_VwA_DD_05212013.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/RG_47.300_VwA_DD_05212013.jpg",
+                "Small": "http://static.thewalters.org/images/RG_47.300_VwA_DD_05212013.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/RG_47.300_VwA_DD_05212013.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 100
+        },
+        {
+            "ID": 51302,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_47.300_Fnt_BW_C52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_47.300_Fnt_BW_C52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_47.300_Fnt_BW_C52.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_47.300_Fnt_BW_C52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_47.300_Fnt_BW_C52.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "blue glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2032,
+        "LocationString": null
+    },
+    "ObjectID": 36887,
+    "ObjectName": "snuff bottles",
+    "ObjectNumber": "47.300",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36887",
+    "SortNumber": "    47   300                                            ",
+    "Style": null,
+    "Title": "Snuff Bottle with Poems"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "English",
+    "DateBeginYear": 1118,
+    "DateEndYear": 1142,
+    "DateText": "ca. 1130",
+    "Description": "The vine-scrolls adorning this letter \"P\" spiral so hypnotically, one might overlook the blue dragons head in the upper part of the letterform and the profile human face emerging from a leaf at the tip of the letters tail.",
+    "Dimensions": "H: 15 3/16 x W: 11 1/8 in. (38.5 x 28.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Bible Before Luther",
+            "ExhibBeginDate": "1992-10-06",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "October 6, 1992-January 10, 1993",
+            "ExhibEndDate": "1993-01-10",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 88,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Bible Before Luther. The Walters Art Gallery, Baltimore. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Northumberland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468365,
+            "GeographyTerm": "Rochester",
+            "Latitude": "55 16",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 55.266,
+            "Longitude": "002 16",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.266
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37590,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.18.212R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.18.212R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.18.212R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.18.212R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.18.212R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Walters Art Museum; Romanesque; Inhabited initial; Scripture",
+    "Medium": "ink and pigments on cream-colored parchment of medium thickness",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 27129,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.18.212R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Priory scriptorium of Rochester Cathedral, England, 12th century [possible reference in catalog in Textus Roffensis, Rochester Cathedral Library Ms. A.3.5, fol. 230r; more certain reference in 1202 library catalog in British Library Ms. Royal 5 B.XII, fol. 2r];  Leon Gruel, Paris, before 1931 [mode of acquisition unknown, no. 1138];  Henry Walters, Baltimore, before 1931, by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27129",
+    "SortNumber": "W         18  212R                                      ",
+    "Style": "Romanesque",
+    "Title": "Initial \"P\" (Paulus et)"
+}

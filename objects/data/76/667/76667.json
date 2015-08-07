@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nicol\u00f2 Rondinello (Italian, ca. 1450-ca. 1510)",
+            "CreatorID": 7887,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1911",
+    "Culture": null,
+    "DateBeginYear": 1490,
+    "DateEndYear": 1500,
+    "DateText": "1490-1500",
+    "Description": "For more information on these panels, please see Federico Zeri's 1976 catalogue no. 171, pp. 255-256.",
+    "Dimensions": "Madonna and Child painted surface H including modern strip: 34 x W: 18 3/8 in. (86.3 x 46.7 cm); Madonna and Child surviving panel H: 34 x W: 18 x Approx. D: 1 3/16 in. (86.3 x 45.7 x 3 cm); Madonna and Child modern strip along left edge W: 3/8 in. (1 cm); St. Peter painted surface H including modern strip: 33 7/8 x W: 17 5/8 in. (86 x 44.8 cm); St. Peter surviving panel H: 33 7/8 x W: 16 13/16 x Approx. D: 1 1/16 in. (86 x 42.7 x 2.7 cm); St. Peter modern strip along left edge W: 13/16 in. (2.1 cm); St. Michael panel and painted surface H: 34 3/16 x W: 18 1/4 x Approx. D: 1 1/8 in. (86.8 x 46.3 x 2.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11355,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.517_Cntr_TR_T98IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.517_Cntr_TR_T98IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.517_Cntr_TR_T98IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.517_Cntr_TR_T98IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.517_Cntr_TR_T98IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 11356,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.517_LftSide_TR_T98IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.517_LftSide_TR_T98IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.517_LftSide_TR_T98IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.517_LftSide_TR_T98IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.517_LftSide_TR_T98IV.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 11357,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.517_RtSide_TR_T98IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.517_RtSide_TR_T98IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.517_RtSide_TR_T98IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.517_RtSide_TR_T98IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.517_RtSide_TR_T98IV.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3239,
+        "LocationString": null
+    },
+    "ObjectID": 76667,
+    "ObjectName": "triptychs; panel paintings",
+    "ObjectNumber": "37.517",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Arnoldo Corsi, Florence [date and mode of acquisition unknown]; Berenson [date and mode of acquisition unknown]; Henry Walters, Baltimore, ca. 1911 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-09-23T16:25:54.38",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 17237,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 76658,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 76659,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/76667",
+    "SortNumber": "    37   517                                            ",
+    "Style": null,
+    "Title": "Triptych with Madonna and Child Enthroned Between the Archangel Michael and Saint Peter"
+}

@@ -1,0 +1,428 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Master of the Vitae Imperatorum (Italian, active 1431-1459)",
+            "CreatorID": 4650,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1418,
+    "DateEndYear": 1442,
+    "DateText": "ca. 1430",
+    "Description": null,
+    "Dimensions": "folio: 6 x 4 in. (15.2 x 10.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Manuscript Painting in the Renaissance",
+            "ExhibBeginDate": "1989-10-03",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "October 3, 1989-January 7, 1990",
+            "ExhibEndDate": "1990-01-07",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 86,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Painting in the Renaissance. The Walters Art Gallery, Baltimore. 1989-1990."
+        },
+        {
+            "ExhTitle": "Making Music in Medieval Manuscripts",
+            "ExhibBeginDate": "1988-10-18",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "October 18, 1988-January 8, 1989",
+            "ExhibEndDate": "1989-01-08",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 109,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Making Music in Medieval Manuscripts. The Walters Art Gallery, Baltimore. 1988-1989."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Heavenly Bodies",
+            "ExhibBeginDate": "1988-07-26",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "July 26, 1988-October 9, 1988",
+            "ExhibEndDate": "1988-10-09",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heavenly Bodies. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437821,
+            "GeographyTerm": "Lombardia",
+            "Latitude": "45 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.666,
+            "Longitude": "009 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14259,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.332.289R_ObvDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.332.289R_ObvDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.332.289R_ObvDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.332.289R_ObvDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.332.289R_ObvDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2319,
+        "LocationString": null
+    },
+    "ObjectID": 13390,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.332",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L. S. Olschki;  Henry Walters, Baltimore, after 1910, by purchase [Cat. no. 74 of 1910, no. 12, inv. no. 30790, list of ca. 1912, no. 44];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 31114,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 31796,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 32413,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 32751,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 33093,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 33280,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34243,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35813,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36237,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36487,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38245,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38763,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39340,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39539,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39784,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 39962,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 40016,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 40354,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 41,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 2114,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 2578,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3045,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3291,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 3857,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4069,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4337,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 4769,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 5277,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6767,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7905,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 8023,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 9109,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10093,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10153,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10218,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10349,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10815,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 10909,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11598,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11804,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 11985,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 12664,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 12941,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 13457,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 13889,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14032,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 16786,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 17540,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 17853,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 18434,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19337,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20047,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20446,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 21731,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22381,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 22660,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 23024,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 23111,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 23405,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24445,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24730,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24958,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 26031,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 26048,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 26952,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 27419,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 28006,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 28109,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 28239,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 28260,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 28603,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 28863,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 29145,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 29250,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 30326,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 30352,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 30952,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/13390",
+    "SortNumber": "W        332                                            ",
+    "Style": null,
+    "Title": "Breviary"
+}

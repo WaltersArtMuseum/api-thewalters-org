@@ -1,0 +1,107 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1550,
+    "DateEndYear": -1086,
+    "DateText": "1550-1086 BC",
+    "Description": "In ancient Egypt, vessels were formed by heating powdered glass in a furnace around a clay core. Once the glass had melted around the core, glassmakers trailed threads of molten glass around the vessel and combed the trails with a pointed tool to create patterns.",
+    "Dimensions": "H: 3 1/2 in. (8.9 cm)",
+    "Dynasty": "18th-19th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking",
+            "ExhibBeginDate": "2007-12-01",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "December 1, 2007- November 9, 2008",
+            "ExhibEndDate": "2008-11-09",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2003,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Salviati and the Antique: Ancient Inspiration for Modern Glassmaking. The Walters Art Museum, Baltimore. 2007-2008."
+        },
+        {
+            "ExhTitle": "Egypt's Dazzling Sun: Amenhotep III and His World",
+            "ExhibBeginDate": "1992-07-01",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "July 1, 1992-May 31, 1993",
+            "ExhibEndDate": "1993-05-31",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 3068,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Egypt's Dazzling Sun: Amenhotep III and His World. The Cleveland Museum of Art, Cleveland; Kimbell Art Museum, Fort Worth; Galeries nationales du Grand Palais, Paris. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6461,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_47.45_Prof_TR_T90II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_47.45_Prof_TR_T90II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_47.45_Prof_TR_T90II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_47.45_Prof_TR_T90II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_47.45_Prof_TR_T90II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5902,
+        "LocationString": null
+    },
+    "ObjectID": 36138,
+    "ObjectName": "vases",
+    "ObjectNumber": "47.45",
+    "OnView": 0,
+    "Period": "New Kingdom",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.8",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36138",
+    "SortNumber": "    47    45                                            ",
+    "Style": null,
+    "Title": "Kohl Vase in the Shape of a Palm Column"
+}

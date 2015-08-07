@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. James E. Bogle, 2010",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 24 9/16 x W: 18 1/2 in. (62.4 x 47 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29186,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/REF_2010.12.31_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/REF_2010.12.31_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/REF_2010.12.31_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/REF_2010.12.31_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/REF_2010.12.31_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 57394,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_2010.12.31_BTFnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_2010.12.31_BTFnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_2010.12.31_BTFnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_2010.12.31_BTFnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_2010.12.31_BTFnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 100
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Life Story of the Buddha",
+    "Medium": "pigments on cloth",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 81935,
+    "ObjectName": "paintings",
+    "ObjectNumber": "2010.12.31",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Sale, Christie's, New York, March 27, 2003, lot 188; Collection of James E. Bogle, Philadelphia, Pennsylvania, April 21, 2003, by purchase; Walters Art Museum, 2010, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81935",
+    "SortNumber": "  2010    12   31                                       ",
+    "Style": "Rattanakosin",
+    "Title": "Buddha Preaching in Sankassa"
+}

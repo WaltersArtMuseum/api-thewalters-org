@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": "Italian",
+    "DateBeginYear": 1178,
+    "DateEndYear": 1202,
+    "DateText": "ca. 1190",
+    "Description": "This is one of seventy-two plaques from the large bronze door of the monastic church of San Clemente a Cas\u00e1uria, in southern Italy. They were commissioned by Joel, abbot from 1182 to 1191. This panel bears an interlace design, perhaps inspired by Islamic textiles or metalwork. A second panel, Walters 54.1058, depicts the three-turreted castle of Fare d'Abrile, one of 20 monastic properties represented on the door panels of this church.",
+    "Dimensions": "H: 10 9/16 x W: 10 7/16 x D: 1 1/8 in. (26.9 x 26.5 x 2.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Year 1200",
+            "ExhibBeginDate": "1970-02-12",
+            "ExhibBeginYear": 1970,
+            "ExhibDisplayDate": "February 12, 1970-May 10, 1970",
+            "ExhibEndDate": "1970-05-10",
+            "ExhibEndYear": 1970,
+            "ExhibitionID": 306,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Year 1200. The Metropolitan Museum of Art, New York. 1970."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1439905,
+            "GeographyTerm": "Abruzzi",
+            "Latitude": "42 15",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.25,
+            "Longitude": "013 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27135,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1057_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1057_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1057_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1057_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1057_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 27134,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.1057_Back_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.1057_Back_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.1057_Back_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.1057_Back_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.1057_Back_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3856,
+        "LocationString": null
+    },
+    "ObjectID": 6040,
+    "ObjectName": "doors; panels",
+    "ObjectNumber": "54.1057",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-09-25T17:15:35.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6040",
+    "SortNumber": "    54  1057                                            ",
+    "Style": "Romanesque",
+    "Title": "Door Panel with an Interlace Design"
+}

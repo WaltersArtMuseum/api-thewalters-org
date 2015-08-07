@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Gyokuzan (Japanese)",
+            "CreatorID": 6566,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1860,
+    "DateEndYear": 1900,
+    "DateText": "1860-1900",
+    "Description": "This is an example of Satsuma ware.",
+    "Dimensions": "26 7/8 in. (68.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5206,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2226_Fnt_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2226_Fnt_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2226_Fnt_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2226_Fnt_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2226_Fnt_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "Gyokuzan?",
+    "Keywords": null,
+    "Medium": "white stoneware with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6166,
+        "LocationString": null
+    },
+    "ObjectID": 25069,
+    "ObjectName": "vase",
+    "ObjectNumber": "49.2226",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.043",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25069",
+    "SortNumber": "    49  2226                                            ",
+    "Style": "Kutani",
+    "Title": "One of a Pair of Vases with Spring and Autumn Floral Sprays"
+}

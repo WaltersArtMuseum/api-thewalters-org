@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": null,
+    "Dimensions": "L: 6 3/8 in. (16.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Arts of Man",
+            "ExhibBeginDate": "1962-10-06",
+            "ExhibBeginYear": 1962,
+            "ExhibDisplayDate": "October 6, 1962-December 31, 1962",
+            "ExhibEndDate": "1962-12-31",
+            "ExhibEndYear": 1962,
+            "ExhibitionID": 796,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Arts of Man. Dallas Museum of Art, Dallas. 1962."
+        },
+        {
+            "ExhTitle": "Our Ancient Heritage: An Exhibit of Art and Artifacts from Egypt Mesopotamia Greece Roman Empire",
+            "ExhibBeginDate": "1963-10-07",
+            "ExhibBeginYear": 1963,
+            "ExhibDisplayDate": "October 7, 1963-November 27, 1963",
+            "ExhibEndDate": "1963-11-27",
+            "ExhibEndYear": 1963,
+            "ExhibitionID": 2194,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Our Ancient Heritage: An Exhibit of Art and Artifacts from Egypt Mesopotamia Greece Roman Empire. Philbrook Art Center, Tulsa. 1963."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62671,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.602_Lft_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.602_Lft_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.602_Lft_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.602_Lft_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.602_Lft_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 411,
+        "LocationString": null
+    },
+    "ObjectID": 4247,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.602",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-05-14T01:00:02.653",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4247",
+    "SortNumber": "    54   602                                            ",
+    "Style": null,
+    "Title": "Rearing Bull"
+}

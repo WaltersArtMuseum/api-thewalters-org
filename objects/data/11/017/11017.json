@@ -1,0 +1,83 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -525,
+    "DateText": "664 BC-525 BC",
+    "Description": "This thin rectangular plaque has hierolyphs shallowly incised on one surface. The back is rough. The feathery pattern typical of unpolished hippopotamus ivory appears in the recessed areas. The inscription, translated, reads: \"Making incense for Khonsu.\"",
+    "Dimensions": "H: 4 x W: 1 3/16 in. (10.2 x 3 cm)",
+    "Dynasty": "26th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Secret Signs: Egyptian Writing",
+            "ExhibBeginDate": "2003-08-16",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "August 16, 2003-March 21, 2004",
+            "ExhibEndDate": "2004-03-21",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2345,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Secret Signs: Egyptian Writing. The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54838,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_71.583_Fnt_BW_C82.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_71.583_Fnt_BW_C82.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_71.583_Fnt_BW_C82.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_71.583_Fnt_BW_C82.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_71.583_Fnt_BW_C82.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] Making incense for Khonsu",
+    "Keywords": null,
+    "Medium": "hippopotamus ivory inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1906,
+        "LocationString": null
+    },
+    "ObjectID": 11017,
+    "ObjectName": "plaques (flat objects)",
+    "ObjectNumber": "71.583",
+    "OnView": 0,
+    "Period": "Late Period, Saite",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11017",
+    "SortNumber": "    71   583                                            ",
+    "Style": null,
+    "Title": "Inscription"
+}

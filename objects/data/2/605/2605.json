@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Follower of Pieter Snayers (Flemish, 1592-1667)",
+            "CreatorID": 4353,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "H: 6 1/8 x W: 8 1/8 in. (15.6 x 20.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473997,
+            "GeographyTerm": "Flanders",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46788,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.338_Fnt_BW_H77.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.338_Fnt_BW_H77.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.338_Fnt_BW_H77.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.338_Fnt_BW_H77.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.338_Fnt_BW_H77.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3352,
+        "LocationString": null
+    },
+    "ObjectID": 2605,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.338",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 23236,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/2605",
+    "SortNumber": "    37   338                                            ",
+    "Style": null,
+    "Title": "Cavalry Battle"
+}

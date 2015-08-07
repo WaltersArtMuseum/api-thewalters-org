@@ -1,0 +1,107 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase [formerly part of the Walters Collection], 1942",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 299,
+    "DateText": "1st-3rd century",
+    "Description": "This gem displays an \"uroborus,\" (a serpent which swallows its own tail to create a closed circle) encircling a scarab beetle and a long inscription, which is made up of magical words. The reverse displays a Pataikos standing on crocodiles, flanked by the goddesses Isis and Nephthys. Above the god is a head of Hathor with a winged sun-disk. \r\n\r\nGems with magical icons and words were believed to be protective.",
+    "Dimensions": "H: 1 1/16 x W: 9/16 (2.66 x 1.38 x 0.02 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21700,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.872_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.872_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.872_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.872_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.872_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21701,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.872_Rev_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.872_Rev_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.872_Rev_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.872_Rev_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.872_Rev_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 21702,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_42.872_SideA_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_42.872_SideA_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_42.872_SideA_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_42.872_SideA_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_42.872_SideA_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "hematite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3769,
+        "LocationString": null
+    },
+    "ObjectID": 21196,
+    "ObjectName": "scaraboids; intaglios",
+    "ObjectNumber": "42.872",
+    "OnView": 1,
+    "Period": "Roman",
+    "Provenance": "Henry Walters, New York [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Mrs. Henry Walters Sale, Joseph Brummer, New York, 1942; Walters Art Museum, 1942, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:39.72",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21196",
+    "SortNumber": "    42   872                                            ",
+    "Style": null,
+    "Title": "Gnostic Gem with Scarab"
+}

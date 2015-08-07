@@ -1,0 +1,112 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Abu al-Hasan al-Shadhili (died 656 AH/AD 1258)",
+            "CreatorID": 16852,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "Walters manuscript W.578 is an illuminated manuscript of the well-known prayer called Hizb al-bahr (Litany of the sea) by Abu al-Hasan al-Shadhili (died 656 AH/AD 1258), the founder of the Shadhiliyah sufi order. It was copied in the 11th century AH/AD 17th in Ottoman Turkey. The text, on gold-sprinkled paper with tan tinted margins, is written in a variety of large-size scripts, including Thuluth, Muhaqqaq, Rayhan, and Tawqi', vocalized in black and blue. Illuminated rosettes with colored dots serve as verse markers.There is a bequest (waqf) statement (fol. 2a) in the name of Sultan 'Uthman Khan III (reigned 1168-1171 AH/AD 1754-1757), signed by Ibrahim Hanif, inspector of awqaf. The illuminated finispiece (fol. 7b) is inscribed with the basmalah and hamdalah in white Thuluth script in horizontal panels that frame a central lozenge containing Qur'anic verses in green and black Square Kufic. The binding of gold-sprinkled pink paper over pasteboard with central lobed gold-tooled medallion dates to the late 11th century AH/AD 17th or the 12th century AH/AD 18th. The fact that the flap is on the wrong side suggests that the manuscript may have been rebound at a later stage.",
+    "Dimensions": "Folio H: 12 3/8 x W: 8 7/16 in. (31.5 x 21.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Cross and the Crescent: Books from the Ottoman Age",
+            "ExhibBeginDate": "2003-03-01",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "March 1, 2003-May 18, 2003",
+            "ExhibEndDate": "2003-05-18",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 112,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Cross and the Crescent: Books from the Ottoman Age. The Walters Art Museum, Baltimore. 2003."
+        },
+        {
+            "ExhTitle": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum",
+            "ExhibBeginDate": "2007-02-03",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 3, 2007-April 29, 2007",
+            "ExhibEndDate": "2007-04-29",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 186,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Speaking the Word of God: Illuminated Korans from the Walters Art Museum. The Walters Art Museum, Baltimore. 2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23287,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.578.binding_ClsdTop_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.578.binding_ClsdTop_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.578.binding_ClsdTop_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.578.binding_ClsdTop_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.578.binding_ClsdTop_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Calligraphy; Codex; Illumination; Islamic; Manuscript; Ottoman; Prayer; Turkey",
+    "Medium": "ink and pigments on gold-sprinkled paper and tan tinted paper bound between pasteboard covered with gold-sprinkled pink paper with gold-tooled goatskin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2335,
+        "LocationString": null
+    },
+    "ObjectID": 11494,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.578",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Sultan 'Uthman Khan III, son of Mustafa II (reigned 1168-1171 AH/AD 1754-1757) [date and mode of acquisition unknown] [waqf entry in the name of the Sultan signed by Ibrahim Hanif, inspector of awqaf on fol. 2a and seals of the Sultan and the inspector erased]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 80025,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80026,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80124,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82636,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/11494",
+    "SortNumber": "W        578                                            ",
+    "Style": null,
+    "Title": "Prayer Book"
+}

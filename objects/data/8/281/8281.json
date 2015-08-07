@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Maria II Della Rovere, Duke of Urbino (Italian, 1548-1631)",
+            "CreatorID": 8327,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1585,
+    "DateEndYear": 1585,
+    "DateText": "1585",
+    "Description": null,
+    "Dimensions": "9 1/16 x 7 1/16 in. (23 x 18 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Marche\\provinces\\Pesaro e Urbino\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438820,
+            "GeographyTerm": "Pesaro",
+            "Latitude": "43 54",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.9,
+            "Longitude": "012 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2981,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.481.1V_OpnRev_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.481.1V_OpnRev_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.481.1V_OpnRev_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.481.1V_OpnRev_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.481.1V_OpnRev_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 8281,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.481.1V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Francesco Maria II, Duke of Urbino [made for]; Ferdinando Ongania, Venice [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8281",
+    "SortNumber": "W        481    1V                                      ",
+    "Style": null,
+    "Title": "Leaf from Dogale of Francesco della Rovere Mamiami"
+}

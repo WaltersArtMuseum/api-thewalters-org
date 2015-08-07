@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": "Roman",
+    "DateBeginYear": 75,
+    "DateEndYear": 100,
+    "DateText": "late 1st century",
+    "Description": "In Roman Egypt (30 BC-AD 324), artists adapted naturalistic painting styles to the ancient custom of making portrait masks for mummies. The portraits were often painted while the subject was in the prime of life and were hung in the home until the person's death. This practice continued in northern Egypt well into the Early Byzantine period.",
+    "Dimensions": "H: 15 1/2 x W: 8 1/16 in. (39.4 x 20.5 cm)",
+    "Dynasty": "Julio-Claudian Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mummy Portraits from Roman Egypt",
+            "ExhibBeginDate": "1967",
+            "ExhibBeginYear": 1967,
+            "ExhibDisplayDate": "1967",
+            "ExhibEndDate": "1967",
+            "ExhibEndYear": 1967,
+            "ExhibitionID": 2272,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mummy Portraits from Roman Egypt. The Detroit Institute of Arts, Detroit. 1967."
+        },
+        {
+            "ExhTitle": "Beyond the Pharaohs: Egypt and the Copts in the Second to Seventh Centuries A.D.",
+            "ExhibBeginDate": "1989-02-10",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "February 10, 1989-July 16, 1989",
+            "ExhibEndDate": "1989-07-16",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2718,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Beyond the Pharaohs: Egypt and the Copts in the Second to Seventh Centuries A.D.. Museum of Art, Rhode Island School of Design, Providence; The Walters Art Gallery, Baltimore. 1989."
+        },
+        {
+            "ExhTitle": "Egypt\u2019s Mysterious Book of the Faiyum",
+            "ExhibBeginDate": "2013-10-06",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 06, 2013-January 05, 2015",
+            "ExhibEndDate": "2014-01-05",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3193,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "Egypt\u2019s Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14702,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL8_32.3_Fnt_TR_T83III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL8_32.3_Fnt_TR_T83III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL8_32.3_Fnt_TR_T83III.jpg",
+                "Small": "http://static.thewalters.org/images/PL8_32.3_Fnt_TR_T83III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL8_32.3_Fnt_TR_T83III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "encaustic (wax, pigments) on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3800,
+        "LocationString": null
+    },
+    "ObjectID": 14067,
+    "ObjectName": "mummy portraits; death masks",
+    "ObjectNumber": "32.3",
+    "OnView": 1,
+    "Period": "Roman Imperial",
+    "Provenance": "H. Martyn Kennard, London [date of acquisition unknown], by purchase; Sale, Sotheby's, London, July 16, 1912; Henry Walters, Baltimore, 1913 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.47",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14067",
+    "SortNumber": "    32     3                                            ",
+    "Style": null,
+    "Title": "Mummy Portrait of a Man"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Girolamo di Benvenuto (Italian, 1470-1524)",
+            "CreatorID": 7137,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1503,
+    "DateEndYear": 1527,
+    "DateText": "ca. 1515",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 90, pp. 133-134.",
+    "Dimensions": "Painted surface H: 17 15/16 x W: 12 13/16 in. (45.5 x 32.6 cm); Panel H: 18 1/8 x W: 13 1/16 x D excluding cradle: 3/8 in. (46 x 33.2 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37179,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.743_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.743_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.743_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.743_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.743_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48162,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.743_XR_1967.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.743_XR_1967.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.743_XR_1967.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.743_XR_1967.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.743_XR_1967.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3248,
+        "LocationString": null
+    },
+    "ObjectID": 27990,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.743",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 127, as Gentile da Fabriano; 1897 catalogue: no. 325, as school of Ghirlandaio]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27990",
+    "SortNumber": "    37   743                                            ",
+    "Style": null,
+    "Title": "The Nativity and Saints"
+}

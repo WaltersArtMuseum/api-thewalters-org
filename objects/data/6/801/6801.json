@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Alfred Jacob Miller (American, 1810-1874)",
+            "CreatorID": 4486,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Dr. and Mrs. Gordon G. Heiner, 1997",
+    "Culture": null,
+    "DateBeginYear": 1840,
+    "DateEndYear": 1890,
+    "DateText": "ca. 1865",
+    "Description": null,
+    "Dimensions": "H: 10 1/4 x W: 16 1/8 in. (26 x 41 cm); Framed H: 17 5/16 x W: 23 5/16 x D: 1 15/16 in. (44 x 59.2 x 5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48090,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2750_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2750_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2750_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2750_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2750_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48643,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2750_Fnt_BW_T98.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2750_Fnt_BW_T98.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2750_Fnt_BW_T98.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2750_Fnt_BW_T98.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2750_Fnt_BW_T98.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3299,
+        "LocationString": null
+    },
+    "ObjectID": 6801,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2750",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Col. Gordon G. Heiner, Jr., Lexington, VA; inherited by Dr. Gordon Heiner, Baltimore; given to Walters Art Museum, 1997.",
+    "PublicAccessDate": "2014-03-21T01:00:02.497",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6801",
+    "SortNumber": "    37  2750                                            ",
+    "Style": null,
+    "Title": "Rocky Mountain Scene"
+}

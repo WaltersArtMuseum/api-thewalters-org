@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Stefano Maderno (Italian, 1576-1636) (?)",
+            "CreatorID": 4001,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1601,
+    "DateEndYear": 1900,
+    "DateText": "17th-19th century",
+    "Description": null,
+    "Dimensions": "H: 21 3/4 in. (55.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Greek Tradition in Painting and the Minor Arts",
+            "ExhibBeginDate": "1939-05-15",
+            "ExhibBeginYear": 1939,
+            "ExhibDisplayDate": "May 15, 1939-June 25, 1939",
+            "ExhibEndDate": "1939-06-25",
+            "ExhibEndYear": 1939,
+            "ExhibitionID": 2266,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Greek Tradition in Painting and the Minor Arts. Baltimore Museum of Art, Baltimore. 1939."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 35257,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.665_Fnt_NG_1995.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.665_Fnt_NG_1995.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.665_Fnt_NG_1995.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.665_Fnt_NG_1995.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.665_Fnt_NG_1995.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze with black varnish patina",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4200,
+        "LocationString": null
+    },
+    "ObjectID": 11368,
+    "ObjectName": "statuary groups",
+    "ObjectNumber": "54.665",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Jacques Seligmann, Paris, [date of acquisition unknown] by purchase; Henry Walters, Baltimore, 1911, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-22T00:30:00.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/11368",
+    "SortNumber": "    54   665                                            ",
+    "Style": null,
+    "Title": "Hercules and Antaeus"
+}

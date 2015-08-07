@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of Lorenzo di Credi (Italian, ca. 1456-1536)",
+            "CreatorID": 3805,
+            "Gender": "male",
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1510,
+    "DateText": "1500-1510",
+    "Description": "Lorenzo di Credi along with Leonardo da Vinci and Perugino studied with Verrochio in Florence. Following the death of his master in 1488, Credi became the head of his own workshop. This panel is a characteristic example of its production, placing \r\nthe vigorous figures of the saints within a delicate landscape.For more information on this piece, please see F. Zeri's 1976 catalogue no. 69, pp. 106-107.",
+    "Dimensions": "Painted surface H: 34 3/4 x W: 22 13/16 x D excluding cradle: 3/8 in. (88.2 x 58 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28586,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.570_Fnt_BW_H65.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.570_Fnt_BW_H65.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.570_Fnt_BW_H65.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.570_Fnt_BW_H65.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.570_Fnt_BW_H65.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46888,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.570_XR_1964.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.570_XR_1964.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.570_XR_1964.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.570_XR_1964.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.570_XR_1964.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on wood panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3250,
+        "LocationString": null
+    },
+    "ObjectID": 24920,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.570",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 430, as Lorenzo Lotto]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-10-14T10:49:46.893",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24920",
+    "SortNumber": "    37   570                                            ",
+    "Style": null,
+    "Title": "Saint Sebastian and Saint Francis of Assisi"
+}

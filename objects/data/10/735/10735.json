@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Christian",
+    "DateBeginYear": 1175,
+    "DateEndYear": 1225,
+    "DateText": "late 12th century-early 13th century",
+    "Description": "This manuscript is a glossed Gospel Book made in England in the late twelfth or early thirteenth century. The glosses contain commentaries on the Gospels written by several medieval theologians: Hrabanus Maurus and John Chrysostom on Matthew, Jerome and Bede on Mark, Ambrose and Bede on Luke, and Augustine on John. Written in Gothic script, the Gospels text is enlarged with smaller script employed for the glosses. The manuscript is decorated with simple illumination, consisting only of two large initials, and numerous smaller ones marking major divisions in the text. This Gospel Book is exceptional because it contains legal formularies of Oxford origin, written on five folios. The formulary mentions the kings Richard and John, and there are also references to the churches in Oxford and Northampton. The dates within the formulary are pieces of evidence that help date the manuscript. The binding in white deer skin over oak boards is original, and the remains of the original over cover are still preserved at the fore-edge of the lower board as well.",
+    "Dimensions": "Folio H: 13 1/16 \u00d7 W: 9 in. (33.2 \u00d7 22.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Early History of the Bible: Transmission of Sacred Scripture from Ancient Times to the Age of Painting",
+            "ExhibBeginDate": "2005-01-22",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "January 22, 2005-May 1, 2005",
+            "ExhibEndDate": "2005-05-01",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 2724,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Early History of the Bible: Transmission of Sacred Scripture from Ancient Times to the Age of Painting. The Walters Art Museum, Baltimore. 2005."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Oxfordshire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468718,
+            "GeographyTerm": "Oxford",
+            "Latitude": "51 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.766,
+            "Longitude": "001 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53803,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.15.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.15.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.15.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.15.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.15.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Manuscript; Book; Gloss; Illumination; Original binding; Walters Art Museum; Scripture; Theology; History; Legal",
+    "Medium": "ink and pigments on poorly prepared medium-weight parchment bound between oak boards covered with white deer skin with strap anchorage channels and remains of original alum-tawed leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2302,
+        "LocationString": null
+    },
+    "ObjectID": 10735,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.15",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "J. Reynoldes, England. Rowland Clegg-Hill, Shropshire. Henry Walters, Baltimore. By bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 91606,
+            "RelationType": "Child"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/10735",
+    "SortNumber": "W         15                                            ",
+    "Style": null,
+    "Title": "Glossed Gospels"
+}

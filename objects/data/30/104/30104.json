@@ -1,0 +1,118 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jamal al-Din Husayn Inju Shirazi",
+            "CreatorID": 19282,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Abu al-Fazl ibn Mubarak (1551-1602)",
+            "CreatorID": 19281,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1596,
+    "DateEndYear": 1600,
+    "DateText": "late 10th century AH/AD 16th century",
+    "Description": "These two Mughal paintings (Walters manuscript W.684) are originally from a copy of the Akbarnamah, the official history of the reign of the Mughal Emperor Akbar (reigned 964-1015 AH/AD 1556-1605), written by Abu al-Fazl ibn Mubarak (died 1011 AH/AD 1602). The manuscript from which the two paintings derive is divided largely between the British Library (Or. MS 2988) and the Chester Beatty Library (Ms. 3). This illustrated historical manuscript has been dated between the late 10th century AH/AD 16th to the initial years of the 11th century AH/AD 17th. The two Walters paintings are pasted over the central text panel of a page from Farhang-i Jahangiri, an imperial Persian language dictionary by Jamal al-Din Husayn Inju Shirazi (died 1035 AH/AD 1625-1626). This was done in the early 20th century by the French dealer Demotte.",
+    "Dimensions": "Folio H: 13 9/16 x W: 8 7/8 in. (34.5 x 22.5 cm); Image H: 9 1/4 x W: 5 3/16 in. (23.5 x 13.2 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Elephants",
+            "ExhibBeginDate": "1987-09-01",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "September 1, 1987-February 7, 1988",
+            "ExhibEndDate": "1988-02-07",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2871,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Elephants. The Walters Art Gallery, Baltimore. 1987-1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34116,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.684_DetA_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.684_DetA_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.684_DetA_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.684_DetA_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.684_DetA_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illumination; Illustration; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 30104,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.684",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Demotte [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 77508,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77509,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83671,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83672,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30104",
+    "SortNumber": "W        684                                            ",
+    "Style": null,
+    "Title": "Two Folios from the Akbarnama"
+}

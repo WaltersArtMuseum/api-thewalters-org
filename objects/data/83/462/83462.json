@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jamal al-Din Muhammad ibn Muhammad al-Aqsara'i (died 779 AH/AD 1378)",
+            "CreatorID": 19260,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Khalil Allah Isfarayini",
+            "CreatorID": 15713,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1561,
+    "DateEndYear": 1561,
+    "DateText": "969 AH/AD 1561",
+    "Description": "This folio from Walters manuscript W.588 contains a colophon that gives the date of copying and the scribe's name.",
+    "Dimensions": "H: 9 13/16 x W: 4 15/16 in. (25 x 12.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32992,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.588.309a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.588.309a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.588.309a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.588.309a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.588.309a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration] faraghtu min itm\u0101mih t\u0101si' shahr /1 / Rab\u012b' al-awwal sanat 969 /2 / k\u0101tibihu aqall 'ib\u0101 All\u0101h /3 / Khal\u012bl All\u0101h Isfar\u0101yin\u012b /4 / ghafara dhun\u016bbah wa-satar 'uy\u016bbah /5 / wa-al-hamd li-Ll\u0101h awwlan /6 / wa-\u0101khiran wa- /7 / z\u0101hiran /8 / wa-b\u0101tinan /9 / wa-sallam tasl\u012bman /10 / kath\u012bran /11 / [\u2026?] /12/",
+    "Keywords": "Arabic; Islamic; Book; Codex; Colophon; Manuscript; Iran; Science -- Medicine",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83462,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.588.309A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Muhammad Sadiq [date and mode of acquisition unknown] [ownership statement on fol. 1a]; Muhammad Shafi' al-Tabib [date and mode of acquisition unknown] [ownership statement and seal on fol. 1a]; 'Abd Allah Malti al-Tabib [date and mode of acquisition unknown] [private seal on fol. 1b]; 'Abbas Wasim, [1]144 AH [mode of acquisition unknown] [ownership statement and seal dated [1]144 AH on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83462",
+    "SortNumber": "W        588  309A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

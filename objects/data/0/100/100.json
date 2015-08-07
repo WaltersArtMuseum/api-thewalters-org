@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": null,
+    "DateBeginYear": -300,
+    "DateEndYear": -101,
+    "DateText": "3rd-2nd century BC",
+    "Description": "A round-bottom bowl bears ornament in low relief arranged in registers separated by smooth bands. On the underside is a rosette. Above is a band with pairs of vertical bars. Around the center of the body is a band in which winged griffins alternate with panels bearing either checkerboard or diamond patterns. A wave pattern appears above.",
+    "Dimensions": "H: 3 13/16 x Diam: 5 3/4 in. (9.7 x 14.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Misr Bahri\\governorates\\Al Buhayrah\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544039,
+            "GeographyTerm": "Kawm Ju\u2018ayf",
+            "Latitude": "30 54",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 30.9,
+            "Longitude": "030 35",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.583
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4877,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.364_Fnt_BW_C39.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.364_Fnt_BW_C39.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.364_Fnt_BW_C39.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.364_Fnt_BW_C39.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.364_Fnt_BW_C39.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1495,
+        "LocationString": null
+    },
+    "ObjectID": 100,
+    "ObjectName": "bowls",
+    "ObjectNumber": "48.364",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1922, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-08T12:48:09.72",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/100",
+    "SortNumber": "    48   364                                            ",
+    "Style": null,
+    "Title": "Bowl with Winged Griffins"
+}

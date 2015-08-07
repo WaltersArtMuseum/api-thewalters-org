@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Girolamo di Benvenuto (Italian, 1470-1524)",
+            "CreatorID": 7137,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1490,
+    "DateEndYear": 1500,
+    "DateText": "1490-1500",
+    "Description": "For more information on this panel, please see Federico Zeri's 1976 catalogue no. 89, p. 132.",
+    "Dimensions": "Painted surface H: 18 x W: 6 5/8 in. (45.7 x 16.8 cm); Panel H including original gold framing: 21 x W: 8 15/16 x D: 1 in. (53.4 x 22.7 x 2.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37177,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.732_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.732_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.732_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.732_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.732_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3248,
+        "LocationString": null
+    },
+    "ObjectID": 8586,
+    "ObjectName": "panel paintings; altarpieces",
+    "ObjectNumber": "37.732",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 334, as Bernardino da Perugia]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 33712,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/8586",
+    "SortNumber": "    37   732                                            ",
+    "Style": null,
+    "Title": "St. Anthony Abbot"
+}

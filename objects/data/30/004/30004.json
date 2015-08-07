@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Associated with the Painter of London E 342 (Greek, active ca. 475-450 BC)",
+            "CreatorID": 5527,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -465,
+    "DateEndYear": -455,
+    "DateText": "ca. 460 BC",
+    "Description": "The wings of the goddess Nike, who personified military victory as well as triumph in athletic or musical competitions, probably indicate her ability to bring swift victory. Like Eros, Nike was a familiar figure in Greek art. Scenes showing a flying Nike became very popular in the early 5th century BC, which was probably connected to the victory of the Greeks over the Persians at the battle of Marathon (490 BC).",
+    "Dimensions": "7 1/4 x 2 3/8 in. (18.4 x 6.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Things With Wings: Mythological Figures in Ancient Greek Art",
+            "ExhibBeginDate": "2005-10-12",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 12, 2005-November 26, 2006",
+            "ExhibEndDate": "2006-11-26",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2177,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Things With Wings: Mythological Figures in Ancient Greek Art. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Things With Wings: Mythological Figures in Ancient Greek Art",
+            "ExhibBeginDate": "2009-05-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "May 15, 2009-July 19, 2009",
+            "ExhibEndDate": "2009-07-19",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Things With Wings: Mythological Figures in Ancient Greek Art. Ward Museum, Salisbury. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4823,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.254_SideA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.254_SideA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.254_SideA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.254_SideA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.254_SideA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4822,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.254_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.254_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.254_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.254_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.254_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5677,
+        "LocationString": null
+    },
+    "ObjectID": 30004,
+    "ObjectName": "lekythoi",
+    "ObjectNumber": "48.254",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-02-18T12:11:35.083",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30004",
+    "SortNumber": "    48   254                                            ",
+    "Style": "Attic",
+    "Title": "Red-Figure Lekythos with Nike Holding a Band"
+}

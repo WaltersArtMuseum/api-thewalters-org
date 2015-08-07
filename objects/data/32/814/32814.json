@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Salviati (Italian, 1510-1563)",
+            "CreatorID": 7955,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1510,
+    "DateEndYear": 1563,
+    "DateText": "1510-1563",
+    "Description": "It is likely that this portrait was cut from a larger composition, as the edges of the circular canvas show no signs of having been stretched or tacked down. The original picture would, therefore, not have been a tondo (circular image) as it is now, but a larger, rectangular picture.\r\n\r\nThe unidentified sitter's black costume was fashionable in 16th-century Italy. The portrait was probably executed by Salviati when he was in Florence, working for Duke Cosimo de' Medici in the Palazzo Vecchio. He is best known for his depictions of historical or religious subjects, but he was also a fine interpreter of the human face.\r\n\r\nFor more information on this tondo, please see Federico Zeri, Italian Paintings in the Walters Art Gallery, 1976, no. 214, pp. 330-331.",
+    "Dimensions": "Painted surface Diam: 16 1/8 in. (41 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37100,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1105_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1105_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1105_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1105_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1105_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47181,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1105_XR_1964.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1105_XR_1964.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1105_XR_1964.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1105_XR_1964.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1105_XR_1964.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3303,
+        "LocationString": null
+    },
+    "ObjectID": 32814,
+    "ObjectName": "oil paintings; tondi",
+    "ObjectNumber": "37.1105",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-15T00:30:01.067",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32814",
+    "SortNumber": "    37  1105                                            ",
+    "Style": null,
+    "Title": "Portrait of a Young Man"
+}

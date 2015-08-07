@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Dutch",
+            "CreatorID": 6227,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1905",
+    "Culture": "Christian; Dutch",
+    "DateBeginYear": 1458,
+    "DateEndYear": 1482,
+    "DateText": "ca. 1470",
+    "Description": null,
+    "Dimensions": "Folio H: 4 7/16 \u00d7 W: 3 1/4 in. (11.2 \u00d7 8.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473491,
+            "GeographyTerm": "Utrecht",
+            "Latitude": "52 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.83,
+            "Longitude": "005 08",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.133
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55326,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.182.65R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.182.65R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.182.65R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.182.65R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.182.65R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Manuscript; Illumination; Miniature; Book; Devotion",
+    "Medium": "ink and pigments on very thin, finely finished parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 92026,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.182.65R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Gruel and Engelmann, Paris [1]; purchased by Henry Walters, Baltimore, 1905; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 96, bookplate on front pastedown",
+    "PublicAccessDate": "2013-12-05T01:00:02.953",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/92026",
+    "SortNumber": "W        182   65R                                      ",
+    "Style": null,
+    "Title": "St. Catherine of Alexandria"
+}

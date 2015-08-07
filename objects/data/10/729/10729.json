@@ -1,0 +1,212 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": null,
+    "Dimensions": "H: 4 5/16 x W: 3 1/8 in. (11 x 8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Manuscripts and Facsimiles",
+            "ExhibBeginDate": "1985-10-22",
+            "ExhibBeginYear": 1985,
+            "ExhibDisplayDate": "October 22, 1985-December 15, 1985",
+            "ExhibEndDate": "1985-12-15",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2020,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscripts and Facsimiles. The Walters Art Gallery, Baltimore. 1985."
+        },
+        {
+            "ExhTitle": "The Gothic Revival: The Illuminated Manuscript in Medieval and Modern Times",
+            "ExhibBeginDate": "1991-01-08",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "January 8, 1991-April 7, 1991",
+            "ExhibEndDate": "1991-04-07",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 93,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Gothic Revival: The Illuminated Manuscript in Medieval and Modern Times. The Walters Art Gallery, Baltimore. 1991."
+        },
+        {
+            "ExhTitle": "The Artful Book: Selections from a Contemporary Collection of Books by Artists",
+            "ExhibBeginDate": "2002-11-16",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "November 16, 2002-February 23, 2003",
+            "ExhibEndDate": "2003-02-23",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 173,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Artful Book: Selections from a Contemporary Collection of Books by Artists. The Walters Art Museum, Baltimore. 2002-2003."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14252,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.200.17V_RevDet_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.200.17V_RevDet_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.200.17V_RevDet_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.200.17V_RevDet_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.200.17V_RevDet_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2313,
+        "LocationString": null
+    },
+    "ObjectID": 10729,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.200",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 77588,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77589,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77590,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77591,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77592,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77593,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77594,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77595,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77596,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77597,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77598,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77599,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77600,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77601,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77602,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77603,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77604,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77605,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77606,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77607,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77608,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77609,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77610,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/10729",
+    "SortNumber": "W        200                                            ",
+    "Style": null,
+    "Title": "Alphabet Book"
+}

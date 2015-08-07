@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "John Opie (British, 1761-1807)",
+            "CreatorID": 4691,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": null,
+    "DateBeginYear": 1790,
+    "DateEndYear": 1799,
+    "DateText": "1790-1799",
+    "Description": "In this enchanting painting, two little boys play chess while a third looks on, perhaps waiting to play the winner. The chessboard juts out into our space, inviting us into the game as well. The artist, himself a child prodigy, captured the pure joy of play, reflecting a revolutionary new philosophy about the importance of play in childhood that was developing throughout Europe during the late 18th century. In place of stiff, corseted garments, looser unrestricting clothes, such as the green outfit worn here, allowed children to play freely at last.",
+    "Dimensions": "H: 27 13/16 x W: 3 5/8 in. (70.7 x 9.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Checkmate! Medieval People at Play",
+            "ExhibBeginDate": "2010-07-17",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "July 17, 2010-October 10, 2010",
+            "ExhibEndDate": "2010-10-10",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2829,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Checkmate! Medieval People at Play. The Walters Art Museum, Baltimore. 2010."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48753,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.215_Fnt_BW_H46.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.215_Fnt_BW_H46.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.215_Fnt_BW_H46.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.215_Fnt_BW_H46.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.215_Fnt_BW_H46.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "playing; children; games; chess",
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3296,
+        "LocationString": null
+    },
+    "ObjectID": 5255,
+    "ObjectName": "paintings; oil paintings",
+    "ObjectNumber": "37.215",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, after 1894 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5255",
+    "SortNumber": "    37   215                                            ",
+    "Style": null,
+    "Title": "The Game of Chess"
+}

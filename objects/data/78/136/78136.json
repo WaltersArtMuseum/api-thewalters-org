@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian () (?)",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1568,
+    "DateEndYear": 1592,
+    "DateText": "ca. 1580",
+    "Description": null,
+    "Dimensions": "8 11/16 x 6 5/16 in. (22 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11714,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.487_ClsdFnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red embossed leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78136,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.487.binding",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Zuane Badoer; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78136",
+    "SortNumber": "W        487binding                                     ",
+    "Style": null,
+    "Title": "Binding from Dogale of Zuane Badoer"
+}

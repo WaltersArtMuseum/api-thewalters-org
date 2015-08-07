@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Gallo-Roman",
+            "CreatorID": 4077,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1970",
+    "Culture": null,
+    "DateBeginYear": -100,
+    "DateEndYear": 100,
+    "DateText": "1st century BC-AD 1st century",
+    "Description": "Found in France, this circular bronze fibula relates to a number of others found in various parts of the Roman Empire, often in Roman campsites and forts. The round body of the fibula narrows towards the opening, where the ends are recurved and terminate in flattened buttons. The button ends are treated with hatched decoration, and the pin is filed with transverse lines at its upper end.",
+    "Dimensions": "H: 1 5/8 in. (4.13 cm) (w.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54668,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.2480_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.2480_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.2480_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.2480_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.2480_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 432,
+        "LocationString": null
+    },
+    "ObjectID": 19265,
+    "ObjectName": "fibulae",
+    "ObjectNumber": "54.2480",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Walters Art Museum, November 1970, by purchase [in Paris].",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19265",
+    "SortNumber": "    54  2480                                            ",
+    "Style": null,
+    "Title": "Fibula"
+}

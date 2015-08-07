@@ -1,0 +1,130 @@
+{
+    "Classification": "Resin, Wax & Composite",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -332,
+    "DateText": "664-332 BC",
+    "Description": "This is a representation of a deity, probably the god Shu.",
+    "Dimensions": "H: 1 5/8 x W: 1 7/8 x D: 13/16 in. (4.18 x 4.75 x 2.13 cm)",
+    "Dynasty": "26th-31st Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22934,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_75.18_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_75.18_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_75.18_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_75.18_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_75.18_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22935,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_75.18_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_75.18_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_75.18_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_75.18_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_75.18_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22932,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_75.18_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_75.18_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_75.18_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_75.18_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_75.18_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22936,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_75.18_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_75.18_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_75.18_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_75.18_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_75.18_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22937,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_75.18_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_75.18_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_75.18_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_75.18_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_75.18_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 22933,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_75.18_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_75.18_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_75.18_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_75.18_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_75.18_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": null,
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1906,
+        "LocationString": null
+    },
+    "ObjectID": 305,
+    "ObjectName": "figurines",
+    "ObjectNumber": "75.18",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/305",
+    "SortNumber": "    75    18                                            ",
+    "Style": null,
+    "Title": "Shu"
+}

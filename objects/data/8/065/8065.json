@@ -1,0 +1,131 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1661,
+    "DateEndYear": 1722,
+    "DateText": "1661-1722",
+    "Description": "The main subject on the body of this vase is a court interior in which musicians play and a dancing woman performs for the seated figure at the center. Two attendants hold large ceremonial fans above her head.\r\n\r\nAbove the court scene, a separate subject is displayed on the vase's neck. Here, three Star gods, or folk deities, are gathered in conversation. They are Shou [Shou], Fu [Fu], and Lu [Lu], representing the good fortunes of Longevity, Happiness, and High Rank, respectively.",
+    "Dimensions": "29 5/16 in. (74.5 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Imagining China: The View from England, 1550-1700",
+            "ExhibBeginDate": "2009-09-24",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "September 24, 2009-January 2, 2010",
+            "ExhibEndDate": "2010-01-02",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2088,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Imagining China: The View from England, 1550-1700. Folger Shakespeare Library, Washington. 2009-2010."
+        },
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14567,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2349_SideA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2349_SideA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2349_SideA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2349_SideA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2349_SideA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 14568,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2349_SideB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2349_SideB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2349_SideB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2349_SideB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2349_SideB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 14569,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2349_SideC_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2349_SideC_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2349_SideC_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2349_SideC_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2349_SideC_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 14570,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.2349_SideD_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.2349_SideD_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.2349_SideD_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.2349_SideD_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.2349_SideD_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6136,
+        "LocationString": null
+    },
+    "ObjectID": 8065,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2349",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-03-30T15:35:20.89",
+    "Reign": "Kangxi [K'ang-hsi] (1661-1722)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8065",
+    "SortNumber": "    49  2349                                            ",
+    "Style": null,
+    "Title": "Vase with Court Scene and Three Star Gods"
+}

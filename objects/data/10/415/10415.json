@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": null,
+    "Dimensions": "H: 9 3/8 x L: 39 1/2 in. (23.8 x 100.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55729,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.49_Fnt_NF_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.49_Fnt_NF_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.49_Fnt_NF_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.49_Fnt_NF_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.49_Fnt_NF_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription] At end on painting; [Seal] At end on painting; [Inscription] At end separately mounted; [Seal] At end separately mounted.",
+    "Keywords": null,
+    "Medium": "colors and ink on silk mounted on paper with bone jiku",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2410,
+        "LocationString": null
+    },
+    "ObjectID": 10415,
+    "ObjectName": "emakimono; hand scrolls",
+    "ObjectNumber": "35.49",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 331]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10415",
+    "SortNumber": "    35    49                                            ",
+    "Style": null,
+    "Title": "Three Mongols with a Horse"
+}

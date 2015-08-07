@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Narcisse Virgile Diaz de la Pe\u00f1a (French, 1807-1876)",
+            "CreatorID": 7221,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, before 1878",
+    "Culture": null,
+    "DateBeginYear": 1850,
+    "DateEndYear": 1855,
+    "DateText": "1850-1855",
+    "Description": "A voluptuous, fair-haired Venus teases her son Cupid by dangling his arrow beyond his reach.",
+    "Dimensions": "H: 26 11/16 x W: 15 1/2 in. (67.8 x 39.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Works of Antoine-Louis Barye",
+            "ExhibBeginDate": "1889-11-15",
+            "ExhibBeginYear": 1889,
+            "ExhibDisplayDate": "November 1889-1890",
+            "ExhibEndDate": "1890-01",
+            "ExhibEndYear": 1890,
+            "ExhibitionID": 631,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Works of Antoine-Louis Barye. American Art Gallery (New York), New York. 1889-1890."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46301,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.114_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.114_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.114_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.114_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.114_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: N Diaz",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3334,
+        "LocationString": null
+    },
+    "ObjectID": 32568,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.114",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Charles T. Yerkes [date and mode of acquisition unknown]; Charles T. Yerkes Sale, American Art Association, New York, April 1910, no. 53; William T. Walters, Baltimore, before 1878 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32568",
+    "SortNumber": "    37   114                                            ",
+    "Style": null,
+    "Title": "Cupid Disarmed"
+}

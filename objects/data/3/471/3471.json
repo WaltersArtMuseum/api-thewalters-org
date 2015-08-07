@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Attributed to Abraham Ragueneau (Dutch, 1623-after 1681)",
+            "CreatorID": 7152,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1643,
+    "DateEndYear": 1667,
+    "DateText": "ca. 1655",
+    "Description": null,
+    "Dimensions": "H: 20 x W: 10 1/2 in. (50.8 x 26.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46813,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.679_Fnt_BW_H45.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.679_Fnt_BW_H45.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.679_Fnt_BW_H45.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.679_Fnt_BW_H45.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.679_Fnt_BW_H45.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47106,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.679_XR_1951.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.679_XR_1951.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.679_XR_1951.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.679_XR_1951.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.679_XR_1951.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3348,
+        "LocationString": null
+    },
+    "ObjectID": 3471,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.679",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3471",
+    "SortNumber": "    37   679                                            ",
+    "Style": null,
+    "Title": "Portrait of a Boy"
+}

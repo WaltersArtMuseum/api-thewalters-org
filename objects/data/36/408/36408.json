@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-\u00c9mile Plassan (French, 1817-1903)",
+            "CreatorID": 3820,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1863/4 (?)",
+    "Culture": null,
+    "DateBeginYear": 1851,
+    "DateEndYear": 1875,
+    "DateText": "ca. 1863",
+    "Description": null,
+    "Dimensions": "8 5/16 x 6 9/16 in. (21.1 x 16.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 100,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1312_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1312_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1312_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1312_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1312_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"Plassan\" graphite, lower right; \"29\" graphite, lower edge, verso; \"31\" in graphite at top, verso",
+    "Keywords": "woman; prayer; devotion; genre",
+    "Medium": "black and red crayon with white heightening on beige, moderately thick, moderately textured, wove paper/ chinese materials",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2277,
+        "LocationString": null
+    },
+    "ObjectID": 36408,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1312",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1863 or 1864 (?), by purchase [from the artist]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T12:29:56.573",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36408",
+    "SortNumber": "    37  1312                                            ",
+    "Style": null,
+    "Title": "Woman Kneeling in Prayer Beside Bed"
+}

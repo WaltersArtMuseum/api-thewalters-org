@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nayarit",
+            "CreatorID": 16369,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2008",
+    "Culture": "Nayarit",
+    "DateBeginYear": -300,
+    "DateEndYear": 300,
+    "DateText": "300 BC-AD 300",
+    "Description": null,
+    "Dimensions": "H: 16 x W: 9 3/8 x D: 8 1/4 in. (40.6 x 23.8 x 21 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608942,
+            "GeographyTerm": "M\u00e9xico",
+            "Latitude": "23 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -102.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15293,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2817_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2817_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2817_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2817_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2817_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15294,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2817_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2817_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2817_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2817_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2817_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "reddish-orange earthenware with tan and black paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5507,
+        "LocationString": null
+    },
+    "ObjectID": 78440,
+    "ObjectName": "figures",
+    "ObjectNumber": "48.2817",
+    "OnView": 0,
+    "Period": "Late Pre-Classic",
+    "Provenance": "Ancient Art of the New World, New York [date and mode of acquisition unknown]; Private collection, May 1992 [mode of acquisition unknown]; Walters Art Museum, 2008, by gift.",
+    "PublicAccessDate": "2009-04-22T16:41:47",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78440",
+    "SortNumber": "    48  2817                                            ",
+    "Style": "Chinesco",
+    "Title": "Seated Male Figure with Arms Resting on Upraised Knees"
+}

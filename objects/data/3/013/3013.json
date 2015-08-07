@@ -1,0 +1,100 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Annibale Fontana (Italian, 1540-1587)",
+            "CreatorID": 4109,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1548,
+    "DateEndYear": 1582,
+    "DateText": "ca. 1560-1570",
+    "Description": "This engraved plaque, along with Walters 41.71, show scenes from the life of the mythological hero Hercules and were initially set into a sumptuous, gilded casket that belonged to the ducal Gonzaga family of Mantua. Hercules was famous for his strength and virtue, and princes often surrounded themselves with his image as an ideal for (and an idealized image of) themselves. This scene is from the Twelve Labors of Hercules, tasks given to him by King Eurystheus, who thought they were impossible to accomplish, including killing a many-headed hydra (dragon). At some point the casket was taken apart; eight related plaques are preserved.\r\n\r\nHercules's powerful musculature reveals Fontana's study of ancient sculpture. His reputation as a fine engraver of rock crystal was widespread. In 1585, the duke of Savoy commissioned from him a casket decorated with plaques similar to this for Archduchess Isabella on the occasion of her marriage.",
+    "Dimensions": "H: 4 1/16 x W: 5 1/4 in. (10.3 x 13.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "World of Wonder",
+            "ExhibBeginDate": "1971-11-08",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "November 8, 1971-January 31, 1972",
+            "ExhibEndDate": "1972-01-31",
+            "ExhibEndYear": 1972,
+            "ExhibitionID": 1994,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "World of Wonder. The Walters Art Gallery, Baltimore. 1971-1972."
+        },
+        {
+            "ExhTitle": "La Celeste Galleria dei Gonzaga. Il Museum dei duchi di Mantova tra Mantegna, Rubens e Guido Reni",
+            "ExhibBeginDate": "2002-09-22",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "September 22, 2002-January 12, 2003",
+            "ExhibEndDate": "2003-01-12",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 2617,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "La Celeste Galleria dei Gonzaga. Il Museum dei duchi di Mantova tra Mantegna, Rubens e Guido Reni. Palazzo Te, Mantua. 2002-2003."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lombardia\\provinces\\Milano\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1438033,
+            "GeographyTerm": "Milano",
+            "Latitude": "45 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.466,
+            "Longitude": "009 12",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.2
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9158,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_41.70_Fnt_TR_T01IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_41.70_Fnt_TR_T01IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_41.70_Fnt_TR_T01IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_41.70_Fnt_TR_T01IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_41.70_Fnt_TR_T01IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "rock crystal, enamel and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4522,
+        "LocationString": null
+    },
+    "ObjectID": 3013,
+    "ObjectName": "plaques",
+    "ObjectNumber": "41.70",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.08",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 21338,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/3013",
+    "SortNumber": "    41    70                                            ",
+    "Style": null,
+    "Title": "Plaque with Hercules Attacking the Lernean Hydra"
+}

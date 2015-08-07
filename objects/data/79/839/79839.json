@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Piri Reis (Turkish, 1465-1555)",
+            "CreatorID": 4846,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1658,
+    "DateEndYear": 1800,
+    "DateText": "late 11th century AH/AD 17th century-early 12th century AH/AD 18th century",
+    "Description": "This folio from Walters manuscript W.658 contains a map of the island of Sardinia (Sardinye).",
+    "Dimensions": "H: 13 3/8 x W: 9 7/16 in. (34 x 24 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1435862,
+            "GeographyTerm": "Sardegna",
+            "Latitude": "40 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.0,
+            "Longitude": "009 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21108,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.658.226b_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.658.226b_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.658.226b_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.658.226b_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.658.226b_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Art; Binding; Codex; Colophon; Headpiece; History; Illumination; Illustration; Islamic; Manuscript; Ornament; Painting; Turkish; Cartography; Geography",
+    "Medium": "ink and pigments on laid European paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79839,
+    "ObjectName": "illuminated manuscripts; folios (leaves); maps",
+    "ObjectNumber": "W.658.226B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Ahmad Afandi [date and mode of acquisition unknown] [see folio 4a]; Ali Afandi [date and mode of acquisiton unknown] [see folio 4a]; Sayyid Ali Qapudan [date and mode of acquisition unknown] [see folio 1a]; Sultan Mahmud Khan [date and mode of acquistion unknown] [waqf seal and followed by a bequest statement (now erased), and the seal of the inspector of wakfs, Mustaf\u00e1 Tahir, see folio 4a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79839",
+    "SortNumber": "W        658  226B                                      ",
+    "Style": null,
+    "Title": "Map of the Island of Sardinia"
+}

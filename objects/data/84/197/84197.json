@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Attributed to Attributed to Riza 'Abbasi (Persian, ca. 1565-1635)",
+            "CreatorID": 6741,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1640,
+    "DateEndYear": 1660,
+    "DateText": "mid 11th century AH/AD 17th century",
+    "Description": "This Safavid drawing of an old bearded man, Walters manuscript leaf W.686, is inscribed with the name of the famous Persian artist Riza-yi 'Abbasi (died 1044 AH/AD 1634). The name of the artist, written in black Nasta'liq script, appears in the lower right corner of the page. It was produced in the middle of the 11th century AH/AD 17th in Iran. Such drawings are often framed by poetic verses. This example is surrounded by panels of verses from a poem by 'Abd al-Rahman Jami (died 898 AH/AD 1492). It has been suggested that the man depicted is meant to represent the poet Jami himself.",
+    "Dimensions": "H: 11 1/4 x W: 6 7/8 in. (28.5 x 17.5 cm); Image H: 3 7/16 x W: 1 15/16 in. (8.7 x 5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38675,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.686.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.686.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.686.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.686.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.686.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Illustration; Drawing; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 84197,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.686.A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84197",
+    "SortNumber": "W        686A                                           ",
+    "Style": null,
+    "Title": "Old Man Kneeling"
+}

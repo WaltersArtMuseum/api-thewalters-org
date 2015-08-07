@@ -1,0 +1,100 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": "Ortokid",
+    "DateBeginYear": 1100,
+    "DateEndYear": 1199,
+    "DateText": "12th century",
+    "Description": "This openwork metal fitting shows a lion attacked by a snake, with a band of trefoil patterns forming the upper and lower borders; with two addorsed birds on top.",
+    "Dimensions": "H: 5 13/16 x L: 7 in. (14.8 x 17.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Heritage of Islam",
+            "ExhibBeginDate": "1982-03-03",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 3, 1982-April 5, 1984",
+            "ExhibEndDate": "1984-04-05",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 781,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Heritage of Islam. Houston Museum of Natural Science, Houston; California Academy of Sciences Museum, San Francisco; Science Museum of Minnesota, St. Paul; Smithsonian National Museum of Natural History, Washington; Brooklyn Museum, Brooklyn; Royal Ontario Museum, Toronto. 1982-1984."
+        },
+        {
+            "ExhTitle": "Exhibition of Persian Art",
+            "ExhibBeginDate": "1940-04-24",
+            "ExhibBeginYear": 1940,
+            "ExhibDisplayDate": "1940",
+            "ExhibEndDate": "1940",
+            "ExhibEndYear": 1940,
+            "ExhibitionID": 320,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exhibition of Persian Art. Iranian Institute, New York. 1940."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Yisra'el\\districts (national)\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489727,
+            "GeographyTerm": "Yerushalayim, Mehoz",
+            "Latitude": "31 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.75,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55800,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.446_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.446_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.446_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.446_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.446_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 459,
+        "LocationString": null
+    },
+    "ObjectID": 36044,
+    "ObjectName": "fittings; relief",
+    "ObjectNumber": "54.446",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 15253,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/36044",
+    "SortNumber": "    54   446                                            ",
+    "Style": null,
+    "Title": "Lion Attacked by a Snake"
+}

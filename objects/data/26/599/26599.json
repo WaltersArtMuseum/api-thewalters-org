@@ -1,0 +1,119 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1172,
+    "DateEndYear": 1228,
+    "DateText": "1172-1228",
+    "Description": null,
+    "Dimensions": "11 13/16 x 8 11/16 in. (30 x 22 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "For This is My Body: The Medieval Missal",
+            "ExhibBeginDate": "2006-11-04",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "November 4, 2006-January 28, 2007",
+            "ExhibEndDate": "2007-01-28",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 2725,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "For This is My Body: The Medieval Missal. The Walters Art Museum, Baltimore. 2006-2007."
+        },
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Umbria\\provinces\\Perugia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437439,
+            "GeographyTerm": "Assisi",
+            "Latitude": "43 04",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.66,
+            "Longitude": "012 37",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.616
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18188,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.75.166V_Fp_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.75.166V_Fp_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.75.166V_Fp_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.75.166V_Fp_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.75.166V_Fp_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 26599,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.75.166V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Church of San Nicolo, Assisi (?), late 12th-early 13th century; Joseph Baer, Frankfurt, 1912 [mode of acquisition unknown]; Leon Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26599",
+    "SortNumber": "W         75  166V                                      ",
+    "Style": "Gothic",
+    "Title": "Leaf from St. Francis Missal"
+}

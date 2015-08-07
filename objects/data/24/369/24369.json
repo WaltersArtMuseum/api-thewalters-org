@@ -1,0 +1,148 @@
+{
+    "Classification": "Ivory & Bone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Coptic",
+            "CreatorID": 6833,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1931",
+    "Culture": "Coptic",
+    "DateBeginYear": 300,
+    "DateEndYear": 399,
+    "DateText": "4th century",
+    "Description": "This carving of a partially nude woman draped in a cloth was most likely used to decorate a piece of household furniture.  The plaque, found at Alexandria (in Northern Egypt), was buried in the earth for many centuries, causing the mottled and flaking appearance of the bone.",
+    "Dimensions": "7 5/16 x 2 7/16 x 13/16 in. (18.6 x 6.2 x 2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Urban\\governorates\\Al-Iskandariyah\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543855,
+            "GeographyTerm": "Alexandria",
+            "Latitude": "31 12",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.2,
+            "Longitude": "029 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.9
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Urban\\governorates\\Al-Iskandariyah\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543855,
+            "GeographyTerm": "Alexandria",
+            "Latitude": "31 12",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.2,
+            "Longitude": "029 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 29.9
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 61382,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_71.34_Fnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_71.34_Fnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_71.34_Fnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_71.34_Fnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_71.34_Fnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 61380,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_71.34_3Qtr_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_71.34_3Qtr_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_71.34_3Qtr_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_71.34_3Qtr_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_71.34_3Qtr_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 61381,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_71.34_Back_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_71.34_Back_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_71.34_Back_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_71.34_Back_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_71.34_Back_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 6006,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_71.34_Fnt_BW_H52.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_71.34_Fnt_BW_H52.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_71.34_Fnt_BW_H52.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_71.34_Fnt_BW_H52.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_71.34_Fnt_BW_H52.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bone",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Out On Exhibition Loan",
+        "LocationID": 3499,
+        "LocationString": null
+    },
+    "ObjectID": 24369,
+    "ObjectName": "plaques",
+    "ObjectNumber": "71.34",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "[Found in Alexandria]; Dikran Kelekian, Constantinople, Paris, and New York [date of acquisition unknown], by purchase; Henry Walters, Baltimore, 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:35.677",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24369",
+    "SortNumber": "    71    34                                            ",
+    "Style": null,
+    "Title": "Plaque with a Female Figure"
+}

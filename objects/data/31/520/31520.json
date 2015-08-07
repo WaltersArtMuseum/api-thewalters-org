@@ -1,0 +1,94 @@
+{
+    "Classification": "Mosaics & Cosmati",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1974",
+    "Culture": "Roman",
+    "DateBeginYear": 100,
+    "DateEndYear": 300,
+    "DateText": "2nd-3rd century",
+    "Description": "With its counterpart (Walters 43.18), this fragment of a mosaic floor once decorated a Roman house. A bearded fish swims amidst wavy lines representing water. The diagonal layout of the background tesserae (marble cubes) indicates that these roundels were placed in the corners of a large floor composition.",
+    "Dimensions": "29 1/4 x 26 3/4 x 2 in. (74.3 x 68 x 5.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434986,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 58",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.966,
+            "Longitude": "012 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.666
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Tunis\\governorates\\Susah, Wilayat\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1541332,
+            "GeographyTerm": "Sousse",
+            "Latitude": "35 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.833,
+            "Longitude": "010 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.633
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45743,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_43.19_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_43.19_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_43.19_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_43.19_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_43.19_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4535,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_43.19_Fnt_BW_H74.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_43.19_Fnt_BW_H74.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_43.19_Fnt_BW_H74.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_43.19_Fnt_BW_H74.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_43.19_Fnt_BW_H74.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "marble tesserae",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Out On Exhibition Loan",
+        "LocationID": 3499,
+        "LocationString": null
+    },
+    "ObjectID": 31520,
+    "ObjectName": "mosaics",
+    "ObjectNumber": "43.19",
+    "OnView": 1,
+    "Period": "Roman",
+    "Provenance": "Fran\u00e7ois Goiran, Sousse, Tunisia;  Roger Goiran [date and mode of acquisition unknown];  Walters Art Museum, 1974, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:39.783",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31520",
+    "SortNumber": "    43    19                                            ",
+    "Style": null,
+    "Title": "Floor Mosaic Fragment with Fish in a Roundel"
+}

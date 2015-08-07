@@ -1,0 +1,75 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1906",
+    "Culture": null,
+    "DateBeginYear": 1600,
+    "DateEndYear": 1699,
+    "DateText": "17th century",
+    "Description": null,
+    "Dimensions": "68 1/2 x 32 1/16 in. (174 x 81.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\Yamanashi-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492133,
+            "GeographyTerm": "Yamanashi",
+            "Latitude": "35 44",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.733,
+            "Longitude": "138 33",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.55
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7452,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_64.176_Fnt_TR_T90III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_64.176_Fnt_TR_T90III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_64.176_Fnt_TR_T90III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_64.176_Fnt_TR_T90III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_64.176_Fnt_TR_T90III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gilded and polychromed wood with brocade lining",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 31221,
+    "ObjectName": "doors",
+    "ObjectNumber": "64.176",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Bunkio Matsuki Sale, 1906; Henry Walters, Baltimore, 1906, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:36.027",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 27240,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/31221",
+    "SortNumber": "    64   176                                            ",
+    "Style": null,
+    "Title": "Temple Door with Peacocks"
+}

@@ -1,0 +1,103 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the Islamic Acquisition Fund, 2000",
+    "Culture": "Islamic",
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "13th century AH/AD 19th century",
+    "Description": "This square-format manuscript, Walters W.853.1, is volume 1, containing chapters 1-18 (Surat al-fatihah through Surat al-kahf), of an illuminated two-volume Qur'an produced in Sub-Saharan (West) Africa in the 13th century AH/AD 19th. The text is written in Sudani script in dark brown ink with vocalization in red on loose leaves. Chapter headings are in reddish-brown ink. Three yellow dots outlined in red arranged in a triangular form separate verses. Polychrome circular medallions as well as square and rectangular devices in a variety of patterns and colors mark textual divisions. The leaves of the text are organized between two decorated boards with geometric compositions. The pages and boards are housed in a leather pouch (satchel).",
+    "Dimensions": "Folio H: 4 5/16 x W: 4 5/16 in. (11 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1530472,
+            "GeographyTerm": "Africa",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23266,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.853.1.binding_ClsdTop_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.853.1.binding_ClsdTop_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.853.1.binding_ClsdTop_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.853.1.binding_ClsdTop_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.853.1.binding_ClsdTop_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Book; Calligraphy; Codex; Illumination; Manuscript; Sub-Saharan (West) Africa",
+    "Medium": "ink and pigments on cream European laid paper (probably Italian) bound between boards fastened with leather, leather satchel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2506,
+        "LocationString": null
+    },
+    "ObjectID": 76611,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.853.1",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sam Fogg Rare Books and Manuscripts, London [date and mode of acquisition unknown]; Walters Art Museum, 2000, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 80070,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80071,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80072,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80073,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80074,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 80075,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82673,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 82674,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/76611",
+    "SortNumber": "W        853    1                                       ",
+    "Style": null,
+    "Title": "Qur'an"
+}

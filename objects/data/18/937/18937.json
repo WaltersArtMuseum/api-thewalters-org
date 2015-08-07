@@ -1,0 +1,112 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French (?)",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "English (?)",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Dr. Eleanor P. Spencer, 1970",
+    "Culture": null,
+    "DateBeginYear": 1818,
+    "DateEndYear": 1842,
+    "DateText": "ca. 1830",
+    "Description": "The Great Sphinx at Giza became a popular subject when Egyptomania swept Europe in the decades following Napoleon's military expedition to Egypt (1798-99). \r\n",
+    "Dimensions": "4 1/2 x 8 9/16 in. (11.4 x 21.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5575,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.2482_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.2482_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.2482_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.2482_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.2482_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, marble",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4250,
+        "LocationString": null
+    },
+    "ObjectID": 18937,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.2482",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dr. Eleanor P. Spencer, Paris [date and mode of acquisition unknown]; Walters Art Museum, 1970, by gift.",
+    "PublicAccessDate": "2008-09-25T17:14:37.363",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18937",
+    "SortNumber": "    54  2482                                            ",
+    "Style": "Empire",
+    "Title": "Recumbent Sphinx"
+}

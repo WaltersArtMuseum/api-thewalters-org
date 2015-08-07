@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "George Augustus Baker (American, 1821-1880)",
+            "CreatorID": 4986,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1821,
+    "DateEndYear": 1880,
+    "DateText": "19th century",
+    "Description": "This study relates to the girl on the left in the painting \"School Girls\" (WAM 37.1195). This work was formerly housed in one of William T. Walters' many drawings albums.",
+    "Dimensions": "H: 7 15/16 x W: 6 1/4 in. (20.2 x 15.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 50176,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1562_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1562_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1562_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1562_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1562_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36809,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1562_Fnt_BW_H58.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1562_Fnt_BW_H58.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1562_Fnt_BW_H58.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1562_Fnt_BW_H58.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1562_Fnt_BW_H58.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2248,
+        "LocationString": null
+    },
+    "ObjectID": 27424,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1562",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-02T00:30:01.053",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27424",
+    "SortNumber": "    37  1562                                            ",
+    "Style": null,
+    "Title": "Little Girl in a Red Bonnet"
+}

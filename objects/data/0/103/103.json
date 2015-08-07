@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francesco Rizzo da Santacroce (Italian, active late 15th-early 16th century)",
+            "CreatorID": 4727,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1508,
+    "DateEndYear": 1513,
+    "DateText": "1508-1513",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 179, pp. 266-267.",
+    "Dimensions": "Painted surface H: 18 5/8 x W: 26 3/8 x D: 9/16 in. (47.3 x 67 x 1.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29655,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.569_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.569_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.569_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.569_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.569_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47741,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.569_XR_1974.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.569_XR_1974.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.569_XR_1974.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.569_XR_1974.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.569_XR_1974.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3262,
+        "LocationString": null
+    },
+    "ObjectID": 103,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.569",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1881 catalogue: no. 90; 1897 catalogue: no. 439, as Vincenzo Catena]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/103",
+    "SortNumber": "    37   569                                            ",
+    "Style": null,
+    "Title": "Holy Family with Zacharias and the Young Saint John the Baptist"
+}

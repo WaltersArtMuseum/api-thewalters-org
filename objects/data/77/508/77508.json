@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Abu al-Fazl ibn Mubarak (1551-1602)",
+            "CreatorID": 19281,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1596,
+    "DateEndYear": 1600,
+    "DateText": "late 10th century AH/AD 16th century",
+    "Description": "This folio from Walters manuscript W.684 depicts execution by elephant.",
+    "Dimensions": "Folio H: 13 9/16 x W: 8 7/8 in. (34.5 x 22.5 cm); Image H: 9 1/4 x W: 5 3/16 in. (23.5 x 13.2 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Grand Mogul: Imperial Painting in India, 1600-1900",
+            "ExhibBeginDate": "1978-09-25",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "September 25, 1978-June 10, 1979",
+            "ExhibEndDate": "1979-06-10",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 2509,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Grand Mogul: Imperial Painting in India, 1600-1900. The Sterling and Francine Clark Art Institute, Williamstown; The Walters Art Gallery, Baltimore; Museum of Fine Arts, Boston, Boston; Asia House Gallery, New York. 1978-1979."
+        },
+        {
+            "ExhTitle": "Elephants",
+            "ExhibBeginDate": "1987-09-01",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "September 1, 1987-February 7, 1988",
+            "ExhibEndDate": "1988-02-07",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2871,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Elephants. The Walters Art Gallery, Baltimore. 1987-1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34117,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.684A.A_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.684A.A_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.684A.A_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.684A.A_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.684A.A_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Illumination; Illustration; Painting; India",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6427,
+        "LocationString": null
+    },
+    "ObjectID": 77508,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.684A.A",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Demotte [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/77508",
+    "SortNumber": "W        684A    A                                      ",
+    "Style": null,
+    "Title": "Execution by Elephant"
+}

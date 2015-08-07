@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1946",
+    "Culture": "Byzantine",
+    "DateBeginYear": 900,
+    "DateEndYear": 1099,
+    "DateText": "10th-11th century",
+    "Description": "Only one half of this hollow cross survives.",
+    "Dimensions": "H: 3 3/4 x W: 2 1/16 in. (9.5 x 5.3 cm)",
+    "Dynasty": "Macedonian Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        },
+        {
+            "ExhTitle": "Reliquaries and Ritual: Medieval Objects of Devotion",
+            "ExhibBeginDate": "1984-12-04",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "December 4, 1984-January 22, 1985",
+            "ExhibEndDate": "1985-01-22",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2691,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Reliquaries and Ritual: Medieval Objects of Devotion. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39116,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2308_Fnt_BW_H49.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2308_Fnt_BW_H49.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2308_Fnt_BW_H49.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2308_Fnt_BW_H49.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2308_Fnt_BW_H49.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 454,
+        "LocationString": null
+    },
+    "ObjectID": 7186,
+    "ObjectName": "reliquaries; crosses (objects)",
+    "ObjectNumber": "54.2308",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Leon Grinberg (\"A la Vieille Russie\"), New York, by purchase; Walters Art Museum, 1946, by purchase.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7186",
+    "SortNumber": "    54  2308                                            ",
+    "Style": null,
+    "Title": "Pectoral Reliquary Cross with the Virgin Orant and Four Busts of Saints"
+}

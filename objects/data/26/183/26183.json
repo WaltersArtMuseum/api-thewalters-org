@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1675,
+    "DateEndYear": 1750,
+    "DateText": "ca. 1700-1750",
+    "Description": null,
+    "Dimensions": "9 3/4 in. (24.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493437,
+            "GeographyTerm": "Kyushu-chiho",
+            "Latitude": "33 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.0,
+            "Longitude": "131 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 131.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6883,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1592_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1592_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1592_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1592_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1592_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "plant; bamboo",
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5729,
+        "LocationString": null
+    },
+    "ObjectID": 26183,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1592",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.747",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26183",
+    "SortNumber": "    49  1592                                            ",
+    "Style": "Hirado ware",
+    "Title": "Vase in the Form of a Bamboo Stalk"
+}

@@ -1,0 +1,154 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Austrian",
+            "CreatorID": 6521,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1150,
+    "DateEndYear": 1200,
+    "DateText": "2nd half 12th century",
+    "Description": "Binding is original. Plain alum-tawed leather over oak(?) boards; center fore-edge strap meant to fasten to pin on upper board missing; sewn on three alum-tawed straps; endbands of a single rolled alum-tawed core, worked with similar thread to main sewing; double blind lines on each band; saltire cross formed from two double lines on upper board; five small steel studs once on each board, with a six-petaled impression remaining from each of them.",
+    "Dimensions": "H: 10 3/16 x W: 7 3/16 in. (25.8 x 18.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1419772,
+            "GeographyTerm": "\u00d6sterreich",
+            "Latitude": "47 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.333,
+            "Longitude": "013 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40212,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 40213,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 40207,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 40206,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 40208,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_ForeEdge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_ForeEdge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_ForeEdge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_ForeEdge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_ForeEdge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 40209,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 40210,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 40211,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.30.binding_Ext_DD_Tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illustration; Manuscript; Miniature; Walters Art Museum; Romanesque; Original binding; Binding; Historiated initial; Inhabited initial; Caroline minuscule; Drawing; Gloss; Theology",
+    "Medium": "plain alum-tawed leather over oak(?) boards",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 88691,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.30.binding",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Made in Austria in the second half 12th century; Petrus de Anaso, Weyer, ca. 1500, [mode of acquisition unknown, inscription partially erased on front pastedown reading, \"Anno etc. 30. Liber dom.[?] Petri de Anaso dominum socio in hospitai Wienn[ensi]\"]; Johannus Hofulner(?) [date and mode of acquisition unknown] [sixteenth-century inscription on front pastedown reading, \"Hic libellus est Joh[annis] hofulner[?] de Wey[er]\"]; Abbey of Seitentetten, by early 20th century, [mode of acquisition unknown, seen by Hanns Swarzenski there]; Jacques Rosenthal, by 1928, cat. 90, no. 139 [mode of acquisition unknown]; Leo S. Olschki, after 1928 [mode of acquisition unknown, bookplate on front pastedown]; Henry Walters, Baltimore,  before 1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/88691",
+    "SortNumber": "W         30binding                                     ",
+    "Style": "Romanesque",
+    "Title": "Binding from Gloss on The lamentations of Jeremiah"
+}

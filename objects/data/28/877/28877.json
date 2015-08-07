@@ -1,0 +1,250 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ambrosius Aurelius Theodosius Macrobius (active ca. 395\u2013423)",
+            "CreatorID": 7555,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": "Flemish",
+    "DateBeginYear": 1163,
+    "DateEndYear": 1212,
+    "DateText": "ca. 1175-1200",
+    "Description": "This copy of Macrobius' Commentarii in somnium Scipionis was produced most likely in northeastern France in the late twelfth century. The manuscript includes seven major diagrams, of which four are original to the manuscript (fols. 38v, 41r, 43v, and 47v) and three others, including a map of the world, were added early in the history of the manuscript (fols. 64v, 65v, and 66r). Additional minor diagrams demonstrating relationships in philosophical ideas or other concepts introduced in the text appear throughout the manuscript in the margins, added by later hands.",
+    "Dimensions": "Overall H: 8 1/4 x 5 1/8 in. (21 x 13 cm); Folio H: 8 \u00d7 W: 4 1/2 in. (20.25 \u00d7 11.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Expanding World Views: A Millennium of Maps",
+            "ExhibBeginDate": "2001-10-20",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "October 20, 2001-January 20, 2002",
+            "ExhibEndDate": "2002-01-20",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 125,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Expanding World Views: A Millennium of Maps. The Walters Art Museum, Baltimore. 2001-2002."
+        },
+        {
+            "ExhTitle": "A World of Foreign Lands",
+            "ExhibBeginDate": "1992-07-05",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "July 5, 1992-October 4, 1992",
+            "ExhibEndDate": "1992-10-04",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 162,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A World of Foreign Lands. The Walters Art Gallery, Baltimore. 1992."
+        },
+        {
+            "ExhTitle": "Music in Manuscripts",
+            "ExhibBeginDate": "1996-08-22",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "August 22, 1996-January 5, 1997",
+            "ExhibEndDate": "1997-01-05",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 106,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Music in Manuscripts. The Walters Art Gallery, Baltimore. 1996-1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 60151,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W22_000138_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W22_000138_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W22_000138_300.jpg",
+                "Small": "http://static.thewalters.org/images/W22_000138_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W22_000138_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 60152,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W22_000139_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W22_000139_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W22_000139_300.jpg",
+                "Small": "http://static.thewalters.org/images/W22_000139_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W22_000139_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 60153,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W22_000140_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W22_000140_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W22_000140_300.jpg",
+                "Small": "http://static.thewalters.org/images/W22_000140_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W22_000140_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 60154,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W22_000141_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W22_000141_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W22_000141_300.jpg",
+                "Small": "http://static.thewalters.org/images/W22_000141_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W22_000141_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 60155,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/W22_000142_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/W22_000142_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/W22_000142_300.jpg",
+                "Small": "http://static.thewalters.org/images/W22_000142_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/W22_000142_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 14529,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.22.64V_RevDet_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.22.64V_RevDet_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.22.64V_RevDet_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.22.64V_RevDet_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.22.64V_RevDet_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Drawing; Humanistic; Manuscript; Astrology; Cosmology; Geography; Literature -- Prose; Philosophy",
+    "Medium": "ink and pigments on thin to medium-weight calfskin bound between calfskin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2296,
+        "LocationString": null
+    },
+    "ObjectID": 28877,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.22",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Franciscan ownership, 14th century [1]. Acquired by Abbot Luigi Celotti [ca. 1768-1846] [2], first half 19th century; Celotti Sale, Evans, London, 14 March 1825, no. 478; purchased by Thomas Thorpe [1791-1851], London, 1825. Acquired by Sir Thomas Phillipps [3]; Phillipps Sale, Sotheby's, London, April 27-May 2 1903, no. 749; purchased by Bernard Quaritch, 1903; purchased by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] notation on fol. 66r\r\n[2] \"Celotti\" added on front pastedown during first half of 19th century\r\n[3] Ms. 1029",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 10764,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20339,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 23820,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 30877,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 31388,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 31534,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90819,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 12612,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92596,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92597,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92598,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92599,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 92600,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/28877",
+    "SortNumber": "W         22                                            ",
+    "Style": "Romanesque",
+    "Title": "Commentarii in Somnium Scipionis"
+}

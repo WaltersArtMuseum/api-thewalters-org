@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -532,
+    "DateEndYear": -508,
+    "DateText": "ca. 520-510 BC",
+    "Description": "This vase may portray the common departure scene of two warriors in full armor leaving home for war, or it may represent a famous scene from \"The Iliad\" in which Priam, king of Troy, comes to claim and pay ransom for the body of his son Hector. Achilles, who killed Hector in single combat, greets the elderly king. Witnessing this scene are a second warrior, who stands next to Achilles, and another man, standing behind.",
+    "Dimensions": "12 11/16 x 8 1/16 in. (32.3 x 20.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Perif\u00e9reia Protevo\u00fasis\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431408,
+            "GeographyTerm": "Ath\u00ednai",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "023 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12020,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.13_SideA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.13_SideA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.13_SideA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.13_SideA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.13_SideA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12019,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.13_SideB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.13_SideB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.13_SideB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.13_SideB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.13_SideB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12017,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.13_DetA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.13_DetA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.13_DetA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.13_DetA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.13_DetA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 12018,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.13_DetB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.13_DetB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.13_DetB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.13_DetB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.13_DetB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1677,
+        "LocationString": null
+    },
+    "ObjectID": 10431,
+    "ObjectName": "amphorae",
+    "ObjectNumber": "48.13",
+    "OnView": 0,
+    "Period": "Archaic",
+    "Provenance": "Don Marcello Massarenti Collection, Rome, no. 231; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-09-25T17:13:39.86",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10431",
+    "SortNumber": "    48    13                                            ",
+    "Style": "Attic",
+    "Title": "Black-Figure Amphora"
+}

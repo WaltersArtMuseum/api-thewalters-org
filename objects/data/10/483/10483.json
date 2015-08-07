@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Raimondo de Capua (Italian, 1330-1399)",
+            "CreatorID": 7975,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Jacobus Macharius Venetus",
+            "CreatorID": 1978,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1458,
+    "DateEndYear": 1482,
+    "DateText": "ca. 1470",
+    "Description": null,
+    "Dimensions": "13 3/16 x 9 5/16 in. (33.5 x 23.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Siena\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440769,
+            "GeographyTerm": "Siena",
+            "Latitude": "43 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.316,
+            "Longitude": "011 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2937,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.350.1R_OpnObv_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.350.1R_OpnObv_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.350.1R_OpnObv_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.350.1R_OpnObv_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.350.1R_OpnObv_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 10483,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.350.1R",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Library of Gonzaga Marquis, dukes of Mantua [arms on fol. 110r];  Museo Cavaleri, Milan [date and mode of acquisition unknown] [stamp on fol. 1r];  Demoulard [publisher] [date and mode of acquisition unknown];  Pietro Vergani [date and mode of acquisition unknown];  Sale;  Charles Butler, Hatfield [date of acquisition unknown], by purchase; Sale;  William Morris [date of acquisition unknown], by purchase;  Sale, London, 1898, no. 345;  Laurence W. Hodson, 1898, by purchase;  Sale, London, 1906, no. 109;  Quaritch, 1906, by purchase;  Olschki [date and mode of acquisition unknown];  Henry Walters, Baltimore, after 1912 [inv. no. 30433, list of ca. 1912, no. 53];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10483",
+    "SortNumber": "W        350    1R                                      ",
+    "Style": null,
+    "Title": "Leaf from Legenda San Catherinae de Senis"
+}

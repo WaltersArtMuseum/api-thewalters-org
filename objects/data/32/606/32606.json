@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "1825-1875",
+    "Description": "This is an example of Kyoto ware.",
+    "Dimensions": "3 15/16 in. (10 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19771,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.938_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.938_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.938_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.938_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.938_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "marked with a spurious chinese reign date",
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1715,
+        "LocationString": null
+    },
+    "ObjectID": 32606,
+    "ObjectName": "whisk holder",
+    "ObjectNumber": "49.938",
+    "OnView": 0,
+    "Period": "Edo; Meiji",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.433",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32606",
+    "SortNumber": "    49   938                                            ",
+    "Style": "Kyoto ware",
+    "Title": "Tea Whisk Holder"
+}

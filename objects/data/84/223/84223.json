@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "'Abd Allah ibn Fadl",
+            "CreatorID": 7700,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Dioscorides Pedanius, of Anazarbos",
+            "CreatorID": 7876,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1224,
+    "DateEndYear": 1224,
+    "DateText": "Rajab 621 AH/AD 1224",
+    "Description": "This illustration from Walters manuscript leaf W.675 depicts two doctors preparing medicine. The text is written in partially vocalized Naskh script in brownish-black and red ink.",
+    "Dimensions": "H: 13 3/16 x W: 9 13/16 in. (33.5 x 24.9 cm); Framed H: 19 5/16 x W: 14 1/4 in. (49 x 36.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Baghdad\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489364,
+            "GeographyTerm": "Baghdad",
+            "Latitude": "33 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.35,
+            "Longitude": "044 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.416
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Baghdad\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489364,
+            "GeographyTerm": "Baghdad",
+            "Latitude": "33 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 33.35,
+            "Longitude": "044 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37274,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.675.A_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Islamic; Illustration; Manuscript; Iraq; Science",
+    "Medium": "ink and pigments on thick, laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 84223,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.675.A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84223",
+    "SortNumber": "W        675A                                           ",
+    "Style": null,
+    "Title": "Two Doctors Preparing Medicine"
+}

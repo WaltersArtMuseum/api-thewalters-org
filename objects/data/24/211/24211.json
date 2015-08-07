@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giuseppe Pastina (Italian, 1863-1942)",
+            "CreatorID": 3342,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1860,
+    "DateEndYear": 1869,
+    "DateText": "1860-1869",
+    "Description": "Looking across Lake Albano one sees, at the left, Castel Gandolfo, the summer residence of the popes. Standing against the horizon is Bernini's dome for the Castel Gandolfo church. At the right, towers Monte Cavo and slightly beyond, perched on the spur of the mountain, is Rocca di Papa. In the foreground, a peasant is packing rushes on the back of a mule and a \"contadina\" prepares her laundry. The scene appears to be in the morning, and mists are still rising from the water.",
+    "Dimensions": "H: 29 3/8 x W: 38 3/4 in. (74.6 x 98.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Long-term Loan to Mayor's Office",
+            "ExhibBeginDate": "2000-03-07",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "March 7, 2000-January 12, 2007",
+            "ExhibEndDate": "2007-01-12",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 522,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Long-term Loan to Mayor's Office. Office of Promotion and the Arts, Baltimore. 2000-2007."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\lakes\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1435218,
+            "GeographyTerm": "Albano, Lago",
+            "Latitude": "41 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.75,
+            "Longitude": "012 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48430,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1935_Fnt_BW_H44.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1935_Fnt_BW_H44.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1935_Fnt_BW_H44.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1935_Fnt_BW_H44.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1935_Fnt_BW_H44.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: E. Pastina",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3314,
+        "LocationString": null
+    },
+    "ObjectID": 24211,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1935",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 33290,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/24211",
+    "SortNumber": "    37  1935                                            ",
+    "Style": null,
+    "Title": "View of Castel Gandolfo"
+}

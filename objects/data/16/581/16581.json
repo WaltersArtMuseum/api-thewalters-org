@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -482,
+    "DateEndYear": -460,
+    "DateText": "ca. 470-460 BC",
+    "Description": "This white-ground shoulder lekythos depicts a mounted amazon dressed in a chitoniskos to the right. She holds a spear diagonally in her right hand; a bow and quiver hang on her back.",
+    "Dimensions": "9 3/4 x 2 13/16 in. (24.8 x 7.1 cm) (h. x max. diam.);\r\nat mouth: 2 in. (5.1 cm) (diam.);\r\nat foot: 1 15/16 in. (4.9 cm) (diam.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4790,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.231_SideA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.231_SideA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.231_SideA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.231_SideA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.231_SideA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4789,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.231_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.231_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.231_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.231_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.231_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4788,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.231_Det_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.231_Det_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.231_Det_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.231_Det_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.231_Det_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4791,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.231_SideADet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.231_SideADet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.231_SideADet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.231_SideADet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.231_SideADet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1696,
+        "LocationString": null
+    },
+    "ObjectID": 16581,
+    "ObjectName": "lekythoi",
+    "ObjectNumber": "48.231",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-20T11:01:03.72",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16581",
+    "SortNumber": "    48   231                                            ",
+    "Style": "Attic",
+    "Title": "Lekythos Depciting Mounted Amazon"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Yadkar al-Katib",
+            "CreatorID": 8280,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Nizami Ganjavi (Azerbaijani, died 605 AH/AD 1209)",
+            "CreatorID": 7689,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1528,
+    "DateEndYear": 1825,
+    "DateText": "Folio: 934-935 AH/AD 1528-1529; Miniature repainted: 12th-early 13th century AH/AD 18th-early 19th century",
+    "Description": "This folio from Walters manuscript W.607 depicts Bahram Gur in the yellow pavilion.",
+    "Dimensions": "H: 11 13/16 x W: 7 1/16 in. (30 x 18 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27263,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.607.154A_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.607.154A_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.607.154A_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.607.154A_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.607.154A_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Headpiece; Illumination; Illustration; Manuscript; Painting; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on cream-colored laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81244,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.607.154A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81244",
+    "SortNumber": "W        607  154A                                      ",
+    "Style": null,
+    "Title": "Bahram Gur in the Yellow Pavilion"
+}

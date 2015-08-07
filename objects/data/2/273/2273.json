@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Dr. Frederick G. Stern, 1984",
+    "Culture": null,
+    "DateBeginYear": -462,
+    "DateEndYear": -400,
+    "DateText": "ca. 450-400 BC",
+    "Description": "This askos has a rounded flaring rim, painted black. It's neck has a concave profile and is glazed black outside and inside. It has a single strap handle. It has a duck body with a flat base, black on the exterior and is reserved on the underside. The bill, eye, and details of the wings are black. The irises of the eyes are reserved.",
+    "Dimensions": "2 15/16 x 2 5/16 x 4 9/16 in. (7.5 x 5.9 x 11.6 cm) (h. x max. w. x l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4811,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2516_LftSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2516_LftSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2516_LftSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2516_LftSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2516_LftSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4810,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2516_Fnt_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2516_Fnt_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2516_Fnt_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2516_Fnt_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2516_Fnt_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4812,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2516_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2516_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2516_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2516_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2516_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4809,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2516_Back_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2516_Back_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2516_Back_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2516_Back_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2516_Back_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1686,
+        "LocationString": null
+    },
+    "ObjectID": 2273,
+    "ObjectName": "askoi",
+    "ObjectNumber": "48.2516",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Dr. Frederick G. Stern, Potomac, Maryland [date and mode of acquisition unknown]; Walters Art Museum, 1984, by gift.",
+    "PublicAccessDate": "2009-04-20T11:02:29.097",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2273",
+    "SortNumber": "    48  2516                                            ",
+    "Style": "Attic",
+    "Title": "Duck Askos"
+}

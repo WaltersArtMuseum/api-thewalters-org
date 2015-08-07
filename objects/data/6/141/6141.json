@@ -1,0 +1,158 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": {
+        "CollectionID": 7,
+        "Name": "18th and 19th Century Art"
+    },
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thomas Cromwell Corner (American, 1865-1938)",
+            "CreatorID": 4398,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Commissioned from the artist, 1938",
+    "Culture": null,
+    "DateBeginYear": 1938,
+    "DateEndYear": 1938,
+    "DateText": "1938",
+    "Description": "In this posthumous portrait the founder of the Walters Art Museum, Henry Walters (1848-1931), is shown with three objects from his collection: a Mosan enamel plaque of the 12th century (44.101), a Limoges enamel reliquary of the 13th century (44.288), and a German brass statuette of St. Sebastian of the early 16th century (53.34). Henry is shown wearing the same stick-pin decorated with a Carthaginian stater that appears in another posthumous portrait commissioned from Frank O. Salisbury (37.2000). This stick-pin is now in the museum's collection (59.699).",
+    "Dimensions": "H: 45 11/16 x W: 38 9/16 in. (116 x 98 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Rye to Raphael: The Walters Story",
+            "ExhibBeginDate": "2014-10-26",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "October 26, 2014 -  April 17, 2016",
+            "ExhibEndDate": "2016-04-17",
+            "ExhibEndYear": 2016,
+            "ExhibitionID": 3300,
+            "LocationID": 6236,
+            "NonWAMExhibition": false,
+            "Textblock": "From Rye to Raphael: The Walters Story. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2014-2016."
+        },
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "Touch and the Enjoyment of Sculpture: Exploring the Appeal of Renaissance Statuettes",
+            "ExhibBeginDate": "2012-01-21",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "January 21, 2012-April 15, 2012",
+            "ExhibEndDate": "2012-04-15",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3137,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Touch and the Enjoyment of Sculpture: Exploring the Appeal of Renaissance Statuettes. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 619793,
+            "GeographyTerm": "United States",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "098 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -98.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 61538,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1682_ATFnt_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1682_ATFnt_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1682_ATFnt_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1682_ATFnt_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1682_ATFnt_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 61537,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1682_ATFntCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1682_ATFntCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1682_ATFntCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1682_ATFntCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1682_ATFntCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 61536,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1682_ATBackCc_DD_T14.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1682_ATBackCc_DD_T14.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1682_ATBackCc_DD_T14.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1682_ATBackCc_DD_T14.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1682_ATBackCc_DD_T14.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 36606,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1682_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1682_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1682_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1682_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1682_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        },
+        {
+            "ID": 14683,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1682_Fnt_NF_C38.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1682_Fnt_NF_C38.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1682_Fnt_NF_C38.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1682_Fnt_NF_C38.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1682_Fnt_NF_C38.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Signed and dated] Lower left: Thos. C. Corner / 1938",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Fourth Floor: From Rye to Raphael, the Walters Story",
+        "LocationID": 6660,
+        "LocationString": null
+    },
+    "ObjectID": 6141,
+    "ObjectName": "paintings; portraits",
+    "ObjectNumber": "37.1682",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Walters Art Museum, 1938, by commission from the artist.",
+    "PublicAccessDate": "2013-01-17T16:50:17.983",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/6141",
+    "SortNumber": "    37  1682                                            ",
+    "Style": null,
+    "Title": "Portrait of Henry Walters"
+}

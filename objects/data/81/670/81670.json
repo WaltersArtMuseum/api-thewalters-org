@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1738,
+    "DateEndYear": 1738,
+    "DateText": "1151 AH/AD 1738",
+    "Description": "This lacquer binding from Walters manuscript W.573 is original to the manuscript.",
+    "Dimensions": "Folio H: 1 15/16 x W: 1 3/4 in. (5 x 4.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28647,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.573.binding_Fnt_DD_T10_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Book; Codex; Manuscript; Iran; Scripture",
+    "Medium": "lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81670,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.573.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81670",
+    "SortNumber": "W        573binding                                     ",
+    "Style": null,
+    "Title": "Binding from Qur'an"
+}

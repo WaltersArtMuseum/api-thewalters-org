@@ -1,0 +1,119 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": null,
+    "DateBeginYear": -532,
+    "DateEndYear": -508,
+    "DateText": "ca. 520 BC",
+    "Description": "The scene depicts the third of Herakles' labors, the capture of the wild Erymanthian boar. The victorious hero has brought the boar alive to the king who had demanded the labor, and, as Herakles holds the boar aloft, King Eurystheus cowers below in a storage jar. Two female figures watch the scene. On the back, the wine-god Dionysus holds out a \"kantharos\" (a deep two-handled cup) of wine to a maenad, one of his female followers, flanked by dancing satyrs.",
+    "Dimensions": "H: 16 13/16 x Diam: 11 3/16 in. (42.7 x 28.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heroes: Mortals and Myths in Ancient Greece",
+            "ExhibBeginDate": "2009-10-11",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "October 11, 2009-January 2, 2011",
+            "ExhibEndDate": "2011-01-02",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2089,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heroes: Mortals and Myths in Ancient Greece. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville; San Diego Museum Of Art, San Diego; Alexander S. Onassis Public Benefit Foundation (USA), New York. 2009-2011."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Perif\u00e9reia Protevo\u00fasis\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431408,
+            "GeographyTerm": "Ath\u00ednai",
+            "Latitude": "38 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.0,
+            "Longitude": "023 44",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.733
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12061,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.253_SideA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.253_SideA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.253_SideA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.253_SideA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.253_SideA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12062,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.253_SideB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.253_SideB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.253_SideB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.253_SideB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.253_SideB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12059,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.253_DetA_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.253_DetA_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.253_DetA_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.253_DetA_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.253_DetA_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 12060,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.253_DetB_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.253_DetB_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.253_DetB_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.253_DetB_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.253_DetB_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "amphora; Herakles; Hercules; Mythology",
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3647,
+        "LocationString": null
+    },
+    "ObjectID": 35560,
+    "ObjectName": "amphorae",
+    "ObjectNumber": "48.253",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.94",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35560",
+    "SortNumber": "    48   253                                            ",
+    "Style": "Attic",
+    "Title": "Herakles and the Erymanthian Boar"
+}

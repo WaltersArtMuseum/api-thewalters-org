@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mongolian",
+            "CreatorID": 8298,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "Each figure in this painting is under an elaborate  arch with inscriptions in both Mongolian and Chinese. At the far right is an inscription in Chinese providing the title of the manuscript, Sutra of Ten-Thousand Buddha Names. At the far left is a  Mongolian inscription. The piece is in a wood frame covered with brocade. The figures are Palden Lhamo (Shri Devi in Sanscrit, the protector goddess) in the center, flanked by (left to right): Goddess of Spring, Goddess of Autumn, Goddess of Summer, and Goddess of Winter.",
+    "Dimensions": "H: 6 15/16 x L: 23 3/4 in. (17.7 x 60.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\autonomous regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1476133,
+            "GeographyTerm": "Xizang Zizhiqu",
+            "Latitude": "29 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.0,
+            "Longitude": "088 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 88.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Zhonghua\\autonomous regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1476133,
+            "GeographyTerm": "Xizang Zizhiqu",
+            "Latitude": "29 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.0,
+            "Longitude": "088 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 88.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25135,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.91_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.91_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.91_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.91_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.91_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscriptions] At right in Chinese \"Wang fu ming jing\"; [Inscriptions] At left in Mongolian",
+    "Keywords": null,
+    "Medium": "wash colors on paper mounted on panel in wood frame with brocade",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2424,
+        "LocationString": null
+    },
+    "ObjectID": 29183,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.91",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-04-13T16:18:25.693",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29183",
+    "SortNumber": "    35    91                                            ",
+    "Style": null,
+    "Title": "Manuscript Cover with Lhamo Flanked by Four Goddesses"
+}

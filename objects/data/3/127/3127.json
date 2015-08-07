@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Colmar Painter (Greek, active ca. 500-475 BC) (?)",
+            "CreatorID": 6255,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1945",
+    "Culture": null,
+    "DateBeginYear": -522,
+    "DateEndYear": -498,
+    "DateText": "ca. 510 BC",
+    "Description": "The tondo of the kylix shows a youthful warrior with long curly hair. He is nude except for his Attic helmet and holds a spear and a large round shield decorated with a horse, of which only the back is visible. He seems to be running from an enemy on the left: his head, shield, and spear are turned backwards (left), while he is fleeing in the opposite direction. The artist skillfully explores the various angles of the twisted body and fits it nicely into the circular shape of the tondo. The inscription in red translates to: \"the boy is beautiful.\"",
+    "Dimensions": "With handles H: 5 x W: 15 11/16 x Diam: 12 5/16 in. (12.7 x 39.8 x 31.3 cm); H at rim: 4 3/4 in. (12 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Heroes: Mortals and Myths in Ancient Greece",
+            "ExhibBeginDate": "2009-10-11",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "October 11, 2009-January 2, 2011",
+            "ExhibEndDate": "2011-01-02",
+            "ExhibEndYear": 2011,
+            "ExhibitionID": 2089,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heroes: Mortals and Myths in Ancient Greece. The Walters Art Museum, Baltimore; Frist Center for the Visual Arts, Nashville; San Diego Museum Of Art, San Diego; Alexander S. Onassis Public Benefit Foundation (USA), New York. 2009-2011."
+        },
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14329,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1920_Det_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1920_Det_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1920_Det_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1920_Det_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1920_Det_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4705,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1920_Fnt_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1920_Fnt_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1920_Fnt_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1920_Fnt_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1920_Fnt_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] In the tondo to the right of the warrior: HO \u03a0\u0391\u0399\u03a3; [Transcription] In the tondo between the warrior's legs: \u039a\u0391\u039b\u039f\u03a3",
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5805,
+        "LocationString": null
+    },
+    "ObjectID": 3127,
+    "ObjectName": "kylikes",
+    "ObjectNumber": "48.1920",
+    "OnView": 0,
+    "Period": "Archaic",
+    "Provenance": "Somz\u00e9e Collection, Brussels [date and mode of acquisition unknown]; Sale, May 20-25, 1901, no. 36; Sale, H\u00f4tel Drouot, 1910, no. 146; Jerome Stonborough, before 1940 [mode of acquisition unknown]; Sale, Parke-Bernet Galleries, October 18, 1940, no. 82; Charles L. Morley, New York [date and mode of acquisition unknown]; Walters Art Museum, 1945, by purchase.",
+    "PublicAccessDate": "2009-03-16T12:57:29.24",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3127",
+    "SortNumber": "    48  1920                                            ",
+    "Style": "Attic",
+    "Title": "Running Warrior"
+}

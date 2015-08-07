@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Francis Hopkinson Smith (American, 1838-1915)",
+            "CreatorID": 3649,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters or Henry Walters before 1895",
+    "Culture": null,
+    "DateBeginYear": 1885,
+    "DateEndYear": 1909,
+    "DateText": "ca. 1897",
+    "Description": "Smith was born on St. Paul Street, Baltimore. He trained initially as an engineer but later taught himself to paint in watercolors. He traveled extensively, producing watercolors which were reproduced in deluxe \"travel books,\" such as \"Gondola Days\" (1897) and \"The Venice of To-Day\" (1897) as well as various magazines. He was also the author of many popular books.\r\n\r\nThe artist regarded this view of the Grand Canal showing the 17th-century church, Santa Maria della Salute, as one of his masterpieces.\r\n",
+    "Dimensions": "H: 31 5/8 x W: 20 7/8 in. (80.3 x 53 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        },
+        {
+            "ExhTitle": "Venice: The American View, 1860-1920",
+            "ExhibBeginDate": "1984-10-20",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "October 20, 1984-January 20, 1985",
+            "ExhibEndDate": "1985-01-20",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2964,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Venice: The American View, 1860-1920. Fine Arts Museums of San Francisco, San Francisco. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54269,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.1109_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.1109_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.1109_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.1109_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.1109_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 32889,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1109_Fnt_BW_5055.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1109_Fnt_BW_5055.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1109_Fnt_BW_5055.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1109_Fnt_BW_5055.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1109_Fnt_BW_5055.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "ll[Signature] Lower right: F. Hopkinson Smith",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3329,
+        "LocationString": null
+    },
+    "ObjectID": 28826,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1109",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. or Henry Walters, Baltimore, before 1895 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-01T12:01:45.707",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28826",
+    "SortNumber": "    37  1109                                            ",
+    "Style": null,
+    "Title": "\"Over a Balcony,\" View of the Grand Canal, Venice"
+}

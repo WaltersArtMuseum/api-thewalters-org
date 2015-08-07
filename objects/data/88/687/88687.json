@@ -1,0 +1,154 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Austrian",
+            "CreatorID": 6521,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1499,
+    "DateText": "15th century",
+    "Description": "Binding is non-original. Austrian fifteenth-century beech boards covered with brown calfskin stamped with inscribed scrolls containing German poetic inscriptions; Clarkson notes in the Walters file that letters are raised and therefore cannot have been directly impressed with movable type as suggested by Miner and Goldschmidt; much restored; pastedowns of manuscript waste: front pastedown in twelfth-century Gothic bookhand (1 Chronicles, 2:33-43), back pastedown in fifteenth-century German cursive hybrid bookhand (breviary).",
+    "Dimensions": "Page H: 10 7/16 x W: 6 11/16 in. (26.5 x 17 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\\u00d6sterreich\\states\\Nieder\u00f6sterreich\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1420314,
+            "GeographyTerm": "Melk",
+            "Latitude": "48 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.233,
+            "Longitude": "015 21",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 15.35
+        }
+    ],
+    "Images": [
+        {
+            "ID": 40232,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 40233,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 40228,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 40227,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 40229,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_ForeEdge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_ForeEdge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_ForeEdge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_ForeEdge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_ForeEdge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 40234,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 40230,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 40231,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.33.binding_Ext_DD_Tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Manuscript; Miniature; Walters Art Museum; Romanesque; Binding; Inhabited initial; Devotion; Liturgy",
+    "Medium": "Austrian fifteenth-century beech boards covered with brown calfskin stamped with inscribed scrolls containing German poetic inscriptions",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 88687,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.33.binding",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Benedictine abbey of Melk or Seitenstetten [patron saints of Melk - Peter and Paul, and Cholomannus (fol. 212r), liturgy for use in Melk diocese] [made for the abbey];  [textual additions and corrections in 13th-15th century hands];  [rear pastedown is 15th-century breviary folio];  Seitenstetten Stiftsbibliothek, 1913 [date and mode of acquisition unknown] [Ms. 127, described in 1913 Swarzenski publication];  Jacques Rosenthal [bookplate on inside of upper binding] [cat. 90, 1928 no. 167];  Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/88687",
+    "SortNumber": "W         33binding                                     ",
+    "Style": "Romanesque",
+    "Title": "Binding from Melk Missal"
+}

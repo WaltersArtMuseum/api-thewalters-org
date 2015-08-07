@@ -1,0 +1,82 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1907",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1900,
+    "DateText": "18th-19th century",
+    "Description": "This rui scepter is carved from a faintly green nephrite and is adorned with figures with an attached tassel of coral beads, a lotus blossom in gold and blue enamel and a jade ring.",
+    "Dimensions": "14 in. (35.56 cm) (l.)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4499,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_42.272_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_42.272_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_42.272_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_42.272_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_42.272_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10392,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_42.272_Fnt_BW_1812.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_42.272_Fnt_BW_1812.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_42.272_Fnt_BW_1812.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_42.272_Fnt_BW_1812.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_42.272_Fnt_BW_1812.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "nephrite",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 18065,
+    "ObjectName": "scepters",
+    "ObjectNumber": "42.272",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, 1907 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.073",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18065",
+    "SortNumber": "    42   272                                            ",
+    "Style": null,
+    "Title": "Scepter"
+}

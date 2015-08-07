@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters before 1931",
+    "Culture": null,
+    "DateBeginYear": 1460,
+    "DateEndYear": 1460,
+    "DateText": "1460",
+    "Description": null,
+    "Dimensions": "H: 8 1/16 x W: 5 3/16 in. (20.5 x 13.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\vallies\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431344,
+            "GeographyTerm": "Val de Loire",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 35469,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.304.59r_Det_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.304.59r_Det_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.304.59r_Det_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.304.59r_Det_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.304.59r_Det_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28978,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.304.59R_Fp_BW_H51.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.304.59R_Fp_BW_H51.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.304.59R_Fp_BW_H51.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.304.59R_Fp_BW_H51.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.304.59R_Fp_BW_H51.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gouache on vellum",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81875,
+    "ObjectName": "folios (leaves); illuminated manuscripts",
+    "ObjectNumber": "W.304.59R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Dedication to Jean Bourr\u00e9, 1472; Carmelites at Rennes, 1651; A. M. Labouch\u00e8re, ca. 1820; Jean-Baptiste-Joseph Barrois of Lille; Bertram, 4th Earl of Ashburnham, 1849; Sotheby\u2019s, London 12 June 1901, lot 273; Jacques Rosenthal, Munich; Leo S. Olschki, Florence; Henry Walters, Baltimore, ca. 1902-1931, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81875",
+    "SortNumber": "W        304   59R                                      ",
+    "Style": null,
+    "Title": "St. Augustine in His Study"
+}

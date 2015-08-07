@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hafiz (Persian, flourished 8th century AH/AD 14th century)",
+            "CreatorID": 15730,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "This folio from Walters manuscript W.633 is the right side of a double-page illustration, depicting a tavern scene (perhaps in Shiraz) with jars of wine and musicians.",
+    "Dimensions": "H: 5 1/2 x W: 3 9/16 in. (14 x 9 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Fars\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1508050,
+            "GeographyTerm": "Shiraz",
+            "Latitude": "29 38",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.633,
+            "Longitude": "052 34",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 52.566
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33269,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.633.171b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.633.171b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.633.171b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.633.171b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.633.171b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Sufism; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 83446,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.633.171B",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Muhammad ibn Mustaf\u00e1 [date and mode of acquisition unknown] [ownership statement on fol. 1a]; Muhammad Riza Javahid Zamuni (?) [date and mode of acquisition unknown] [seal impression on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83446",
+    "SortNumber": "W        633  171B                                      ",
+    "Style": null,
+    "Title": "Double-page Illustration"
+}

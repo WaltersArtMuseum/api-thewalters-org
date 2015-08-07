@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greco-Egyptian",
+            "CreatorID": 16251,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": null,
+    "Dimensions": "H: 8 1/8 x W: 2 5/8 in. (20.7 x 6.6 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4878,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.365_Fnt_BW_C39.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.365_Fnt_BW_C39.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.365_Fnt_BW_C39.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.365_Fnt_BW_C39.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.365_Fnt_BW_C39.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1465,
+        "LocationString": null
+    },
+    "ObjectID": 9383,
+    "ObjectName": "vessels; jars",
+    "ObjectNumber": "48.365",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "MacGregor Collection Sale, 1922, no. 210; Dikran Kelekian, New York and Paris, 1922, by purchase; Henry Walters, Baltimore, 1922, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-09T14:13:11.05",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9383",
+    "SortNumber": "    48   365                                            ",
+    "Style": null,
+    "Title": "Vessel with Garlands and Griffins"
+}

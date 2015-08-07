@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Phillippe de Champaigne (French, 1602-1674)",
+            "CreatorID": 4102,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1640,
+    "DateEndYear": 1659,
+    "DateText": "1640-1659",
+    "Description": "This head of a man is painted on a piece of irregular canvas that has probably been cut from a larger painting, probably one of Philippe de Champaigne's lost group portraits of the mayor and aldermen of Paris. The sitter may be Sebastian Cramoisy, an alderman of the city of Paris of whom other portraits exist. The qualities of Champaigne as a portraitist come out in his observation of individual quirks such as the tensions around the sitter's left eye.",
+    "Dimensions": "15 3/4 x 13 3/8 in. (40 x 33.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4262,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.842_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.842_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.842_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.842_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.842_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47117,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.842_XR_1959.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.842_XR_1959.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.842_XR_1959.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.842_XR_1959.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.842_XR_1959.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 36606,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.842",
+    "OnView": 0,
+    "Period": "Baroque",
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.66",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36606",
+    "SortNumber": "    37   842                                            ",
+    "Style": null,
+    "Title": "Portrait of an Alderman of the City of Paris"
+}

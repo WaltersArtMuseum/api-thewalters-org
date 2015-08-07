@@ -1,0 +1,119 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Byzantine; Christian",
+    "DateBeginYear": 1087,
+    "DateEndYear": 1088,
+    "DateText": "1087-88",
+    "Description": "This miniature once formed part of a psalter where it faced the beginning of Psalm 77 (78), which in Byzantine usage opened the second half of the Psalms. It is a cutting from a volume on Mount Athos, Vatopedi Monastery MS 761. The latter manuscript can be dated precisely: the table on its fols. 3r-4v gives the dates of Easter for the years 6896-6919 (as calculated from the Creation of the world). The first of these corresponds to 1087-1088 CE and must be the year when the psalter was made.",
+    "Dimensions": "Folio H: 4 5/8 x W: 3 9/16 in. (11.7 x 9.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "Byzantium: Faith and Power (1261-1557)",
+            "ExhibBeginDate": "2004-04-23",
+            "ExhibBeginYear": 2004,
+            "ExhibDisplayDate": "March 23, 2004-July 5, 2004",
+            "ExhibEndDate": "2004-07-05",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 63,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Byzantium: Faith and Power (1261-1557). The Metropolitan Museum of Art, New York. 2004."
+        },
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52539,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.530.B.111R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.530.B.111R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.530.B.111R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.530.B.111R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.530.B.111R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52540,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.530.B.111V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.530.B.111V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.530.B.111V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.530.B.111V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.530.B.111V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Illumination; Manuscript; Miniature; Painting; Walters Art Museum; Devotion; Scripture",
+    "Medium": "ink and pigments on high quality parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6434,
+        "LocationString": null
+    },
+    "ObjectID": 8341,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.530.B",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "[Folio 111 in Mount Athos, Vatopedi MS 716 (formerly MS 609)]; Leon Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8341",
+    "SortNumber": "W        530B                                           ",
+    "Style": "Byzantine",
+    "Title": "Moses Receiving the Law"
+}

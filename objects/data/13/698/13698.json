@@ -1,0 +1,137 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Anton Koberger (German, late 15th century)",
+            "CreatorID": 3059,
+            "Gender": null,
+            "Role": "Publisher"
+        },
+        {
+            "ConcatDisplayName": "Stephen Fridolin (German)",
+            "CreatorID": 18341,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1491,
+    "DateEndYear": 1491,
+    "DateText": "1491",
+    "Description": "This illustration shows when King Herod realized that the Magi were not returning to tell him of the whereabouts of the Christ Child, and so he commanded that all children aged two years or younger in the city of Bethlehem be executed. The slain innocents were early regarded as the first martyrs, baptized by blood. During the Middle Ages, the slaughtered babies were said to number 144,000, a symbolic number taken from the Book of Revelation. In this colored woodcut, the scene of slaughter occupies the foreground, while in the background the Holy Family has already escaped and are on their way to Egypt, where they would remain until the death of Herod.",
+    "Dimensions": "Cradle H: 7 3/4 \u00d7 W: 17 \u00d7 D: 14 1/8 in. (19.69 \u00d7 43.18 \u00d7 35.88 cm); Book Box H: 15 3/8 \u00d7 W: 10 3/4 \u00d7 D: 5 in. (39.05 \u00d7 27.31 \u00d7 12.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Art of Empathy: The Cummer Mother of Sorrows in Context",
+            "ExhibBeginDate": "2013-11-26",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "November 26, 2013-February 16, 2014",
+            "ExhibEndDate": "2014-02-16",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 2638,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Art of Empathy: The Cummer Mother of Sorrows in Context. The Cummer Museum of Art and Gardens, Jacksonville. 2013-2014."
+        },
+        {
+            "ExhTitle": "The Christmas Story: Picturing the Birth of Christ in Medieval Manuscripts",
+            "ExhibBeginDate": "2009-12-05",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "December 5, 2009-February 28, 2010",
+            "ExhibEndDate": "2010-02-28",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2825,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Christmas Story: Picturing the Birth of Christ in Medieval Manuscripts. The Walters Art Museum, Baltimore. 2009-2010."
+        },
+        {
+            "ExhTitle": "Book Arts in the Age of Durer",
+            "ExhibBeginDate": "2000-10-15",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 15, 2000-January 21, 2001",
+            "ExhibEndDate": "2001-01-21",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 2595,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Book Arts in the Age of Durer. Baltimore Museum of Art, Baltimore. 2000-2001."
+        },
+        {
+            "ExhTitle": "Paradise Imagined: Images of the Garden in the Islamic and Christian World",
+            "ExhibBeginDate": "2012-06-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "Saturday, June 30, 2012 - Sunday, September 23, 2012",
+            "ExhibEndDate": "2012-09-23",
+            "ExhibEndYear": 2012,
+            "ExhibitionID": 3171,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Paradise Imagined: Images of the Garden in the Islamic and Christian World. The Walters Art Museum, Baltimore. 2012."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Bayern\\districts (national)\\Mittelfranken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1449915,
+            "GeographyTerm": "Noremburg",
+            "Latitude": "49 27",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.45,
+            "Longitude": "011 04",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.66
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45405,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_91.1086_159-160_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_91.1086_159-160_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_91.1086_159-160_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_91.1086_159-160_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_91.1086_159-160_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 45406,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_91.1086_160_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_91.1086_160_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_91.1086_160_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_91.1086_160_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_91.1086_160_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2498,
+        "LocationString": null
+    },
+    "ObjectID": 13698,
+    "ObjectName": "incunabulum",
+    "ObjectNumber": "91.1086",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Acquired by Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2014-11-25T01:00:00.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13698",
+    "SortNumber": "    91  1086                                            ",
+    "Style": null,
+    "Title": "Schatzbehalter der wahren Reichtumer des Heils"
+}

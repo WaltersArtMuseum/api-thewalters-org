@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Isidore of Seville (Spain, 570-636)",
+            "CreatorID": 5316,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "After Saint Bede, the Venerable (673-735)",
+            "CreatorID": 8737,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "After Saint Abbo of Fleury (ca. 945 - 1004)",
+            "CreatorID": 15152,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "The zodiac is the belt of twelve constellations through which the seven planetary bodies--the Sun, the Moon, and the five known planets--appear to pass during the course of a year. This wheel-shaped diagram shows the Earth at center, surrounded by the names of the months, the corresponding twelve signs of the zodiac, and an inscription explaining the relationships among the seven planetary bodies, the constellations of the zodiac, and the passage of time and its cyclical nature. Because it is the only illustration in this manuscript depicted on a blank page and the sole illustration that includes detailed, extensively colored figural imagery, the zodiacal diagram serves both as a frontispiece to the manuscript as a whole, and as an overview of the scientific and theological ideas presented in it.\r\n\r\nThe signs of the zodiac were developed in the ancient Near East as navigational aids and entered the medieval repertoire through the intermediary of classical art. Although Greco-Roman traditions of representation carried considerable authority, medieval depictions of the zodiacal signs often departed from their classical models. Here, the twins of Gemini are portrayed not as nude youths but as armed, mail-clad soldiers carrying a single shield. Rather than eight legs and two claws or pincers, the scorpion of Scorpio has the wings of a bird or dragon and a pair of long, curving necks, each terminating in a snake-like head.",
+    "Dimensions": "H: 10 1/2 \u00d7 D: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56083,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.1R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.1R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.1R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.1R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.1R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10797,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.73.1R_OpnObv_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.73.1R_OpnObv_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.73.1R_OpnObv_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.73.1R_OpnObv_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.73.1R_OpnObv_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 31103,
+    "ObjectName": "illuminated manuscript",
+    "ObjectNumber": "W.73.1R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31103",
+    "SortNumber": "W         73    1R                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagram of the Zodiac"
+}

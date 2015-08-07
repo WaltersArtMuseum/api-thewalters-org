@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Russian",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1625,
+    "DateText": "early 17th century",
+    "Description": "The lower three rows of this set of icons form an extended 'Deesis:' an image of Christ enthroned in majesty, flanked by the Virgin to His right, John the Baptist to His left, and legions of other saints, all interceding with Him on behalf of humanity.\r\nThe images in the upper two rows correspond to church holidays. They are in chronological order from left to right across the three panels, interrupted by a scene on the top row of the central panel that shows the Trinity surrounded by Old Testament prophets. In the highest row of the left panel, from left to right, are the Hospitality of Abraham (Gen. 18:1-15), the Birth of the Virgin, the Presentation of the Virgin in the Temple, an illustration of the hymn \"The Prophets from Above\" (in which the Virgin is praised as the fulfillment of the prophesies of the Old Testament), and the Annunciation. The sequence continues on the right panel with the Nativity, an illustration of the Christmas hymn \"What shall we offer Thee, O Christ\", the Presentation of Christ in the Temple, the Young Christ in the Synagogue (Luke 4:16-30), and the Baptism of Christ.  In the second row, running across all three panels, are the Raising of Lazarus, the Entry into Jerusalem (Palm Sunday), the Transfiguration, the Last Supper, the Washing of the Feet, the Crucifixion, the Deposition and Lamentation of Christ, the Resurrection, the Women at the Tomb, the Incredulity of Thomas, the Ascension, Pentecost, the Dormition of the Virgin, the Exaltation of the Cross, and the Protecting Veil (Pokrov) of the Virgin.",
+    "Dimensions": "H left panel: 7 3/4 x W: 6 3/4 in. (19.7 x 17.2 cm);\r\nH center panel: 7 3/4 x W: 6 13/16 in. (19.7 x 17.3 cm);\r\nH right panel: 7 5/8 x W: 6 5/8 in. (19.4 x 16.9 cm)",
+    "Dynasty": "House of Romanov",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38576,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.604_Fnt_BW_5080.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.604_Fnt_BW_5080.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.604_Fnt_BW_5080.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.604_Fnt_BW_5080.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.604_Fnt_BW_5080.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 46892,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.604_XR_DateUnk.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.604_XR_DateUnk.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.604_XR_DateUnk.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.604_XR_DateUnk.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.604_XR_DateUnk.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 891,
+        "LocationString": null
+    },
+    "ObjectID": 26601,
+    "ObjectName": "icons; triptychs",
+    "ObjectNumber": "37.604",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-04-18T22:00:00.693",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26601",
+    "SortNumber": "    37   604                                            ",
+    "Style": null,
+    "Title": "Great Deesis and Church Feasts"
+}

@@ -1,0 +1,200 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum Purchase",
+    "Culture": null,
+    "DateBeginYear": 1507,
+    "DateEndYear": 1507,
+    "DateText": "1507",
+    "Description": "This large-scale manuscript contains the first eight Old Testament books, Genesis through Ruth. The date of completion is given as February 2, 1507. The illumination of the Creation within a cosmographic scheme is based in part on the woodcut illustrations of the Creation in the 1483 Koberger Bible and the 1493 Nuremberg chronicle by the same printer. Large historiated initials mark the beginning of each book. This large-format form of the Bible was revived in the low countries and Rhineland in the mid fifteenth century; later in the century such books were being made in southeast Germany and Bohemia. The style of the miniatures in this manuscript is typical of upper Austrian miniature painting of the later fifteenth century.",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Early History of the Bible",
+            "ExhibBeginDate": "2007-12-10",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "December 10, 2007-March 9, 2008",
+            "ExhibEndDate": "2008-03-09",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 128,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Early History of the Bible. Phoenix Art Museum, Phoenix. 2007-2008."
+        },
+        {
+            "ExhTitle": "Heavenly Bodies",
+            "ExhibBeginDate": "1988-07-26",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "July 26, 1988-October 9, 1988",
+            "ExhibEndDate": "1988-10-09",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heavenly Bodies. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "The Bible Before Luther",
+            "ExhibBeginDate": "1992-10-06",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "October 6, 1992-January 10, 1993",
+            "ExhibEndDate": "1993-01-10",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 88,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Bible Before Luther. The Walters Art Gallery, Baltimore. 1992-1993."
+        },
+        {
+            "ExhTitle": "The Book and the Author: Portraits of the Evangelists in Eastern and Western Manuscripts",
+            "ExhibBeginDate": "1990-10-09",
+            "ExhibBeginYear": 1990,
+            "ExhibDisplayDate": "October 9, 1990-January 6, 1991",
+            "ExhibEndDate": "1991-01-06",
+            "ExhibEndYear": 1991,
+            "ExhibitionID": 31,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Book and the Author: Portraits of the Evangelists in Eastern and Western Manuscripts. The Walters Art Gallery, Baltimore. 1990-1991."
+        },
+        {
+            "ExhTitle": "Manuscript Sleuthing: Discoveries of a Curator",
+            "ExhibBeginDate": "1995-02-15",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 15, 1995-May 21, 1995",
+            "ExhibEndDate": "1995-05-21",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 174,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Sleuthing: Discoveries of a Curator. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1419772,
+            "GeographyTerm": "\u00d6sterreich",
+            "Latitude": "47 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.333,
+            "Longitude": "013 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 13.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Cesk\u00e1 Republika\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448473,
+            "GeographyTerm": "Cechy",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54118,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.805.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.805.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.805.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.805.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.805.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Colophon; Illumination; Manuscript; Miniature; Walters Art Museum; Gothic; Original binding; Binding; Historiated initial; Scripture",
+    "Medium": "ink and pigments on cream-colored parchment of medium thickness covered with blind-stamped, tanned leather over heavy wooden boards, sewn in six bands",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2337,
+        "LocationString": null
+    },
+    "ObjectID": 29703,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.805",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Made for monastic use, probably Cistercian or Carthusian, in Bohemia (?) finished on February 2, 1507; Unknown monastic owner, 18th century [\"Nr. 78\" written on front pastedown]; Sale, Sotheby's, London, November 9, 1931, [lot 216, to Marks (?)]; E. Dawson, Los Angeles [date and mode of acquisition unknown]; Otto Ege, Cleveland, 1932, by purchase; Sale, Sotheby's London, December 11, 1984, no. 54; Walters Art Museum, 1984, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 78058,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88777,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88778,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88779,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88780,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88781,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88782,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88783,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88784,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 88785,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 90571,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/29703",
+    "SortNumber": "W        805                                            ",
+    "Style": null,
+    "Title": "Bible (part)"
+}

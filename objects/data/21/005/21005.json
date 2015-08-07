@@ -1,0 +1,208 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Follower of Zanino di Pietro (Italian, active from 1389, died before 1448)",
+            "CreatorID": 7755,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1425,
+    "DateEndYear": 1463,
+    "DateText": "mid 15th century (before 1463)",
+    "Description": null,
+    "Dimensions": "folio: 4 1/8 x 2 15/16 in. (10.5 x 7.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "God's Minstrel: St. Francis of Assisi",
+            "ExhibBeginDate": "1982-03-06",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "March 6, 1982-April 25, 1982",
+            "ExhibEndDate": "1982-04-25",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 386,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "God's Minstrel: St. Francis of Assisi. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Dressed in Gold: Books of the Italian Renaissance",
+            "ExhibBeginDate": "2005-10-15",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 15, 2005-January 8, 2006",
+            "ExhibEndDate": "2006-01-08",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 470,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Dressed in Gold: Books of the Italian Renaissance. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "The Illuminated Initial",
+            "ExhibBeginDate": "1991-10-08",
+            "ExhibBeginYear": 1991,
+            "ExhibDisplayDate": "October 8, 1991-January 5, 1992",
+            "ExhibEndDate": "1992-01-05",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Illuminated Initial. The Walters Art Gallery, Baltimore. 1991-1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Puglia\\provinces\\Taranto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1441043,
+            "GeographyTerm": "Taranto",
+            "Latitude": "40 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.466,
+            "Longitude": "017 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 17.216
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14520,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.322.217R_ObvDet_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.322.217R_ObvDet_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.322.217R_ObvDet_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.322.217R_ObvDet_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.322.217R_ObvDet_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2319,
+        "LocationString": null
+    },
+    "ObjectID": 21005,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.322",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Anna Colonna di Paliano [wife of Gian Antonio Orsini, Prince of Taranto] (d. 1469), Taranto, prior to 1469 [Anna mentioned in prayers, heraldry on fol. 50r, specific saints in calendar indicate Taranto as place of origin]; Peter Mari\u00e9, France [date of acquisition unknown], by purchase; Sale, New York, 1903, no. 574; George Richmond, 1903, by purchase; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 5316,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 6086,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 7579,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 8619,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14250,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 14609,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 15997,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 17711,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19037,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19221,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 19656,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20440,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 20886,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 24835,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 26907,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 27761,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 29852,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 31919,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34636,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 34954,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35275,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 35922,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 36962,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 38986,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 40825,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/21005",
+    "SortNumber": "W        322                                            ",
+    "Style": "International Gothic",
+    "Title": "Book of Hours"
+}

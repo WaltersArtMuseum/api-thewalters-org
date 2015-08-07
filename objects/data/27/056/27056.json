@@ -1,0 +1,70 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 400,
+    "DateEndYear": 600,
+    "DateText": "5th-6th century",
+    "Description": null,
+    "Dimensions": "H: 2 11/16 in. (6.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Rh\u00f4ne-Alpes\\departments\\Rh\u00f4ne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1430803,
+            "GeographyTerm": "Lyon",
+            "Latitude": "45 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.766,
+            "Longitude": "004 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38138,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_41.244_Fnt_BW_H53.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_41.244_Fnt_BW_H53.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_41.244_Fnt_BW_H53.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_41.244_Fnt_BW_H53.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_41.244_Fnt_BW_H53.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "chalcedony",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 842,
+        "LocationString": null
+    },
+    "ObjectID": 27056,
+    "ObjectName": "knife handles",
+    "ObjectNumber": "41.244",
+    "OnView": 0,
+    "Period": "Early Medieval",
+    "Provenance": "Joseph Brummer; Brummer Sale, New York, Pt. III, June, 1949, no. 50 [also Pt. I, no. 237]; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2012-03-15T22:00:01.113",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27056",
+    "SortNumber": "    41   244                                            ",
+    "Style": null,
+    "Title": "Knife Handle in the Shape of a Shrimp"
+}

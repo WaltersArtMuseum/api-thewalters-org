@@ -1,0 +1,119 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters (?)",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 200,
+    "DateText": "1st-2nd century",
+    "Description": null,
+    "Dimensions": "H: 2 3/16 x W: 7/8 x D: 5/8 in. (5.5 x 2.16 x 1.56 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Serapis: The Creation of a God",
+            "ExhibBeginDate": "2002-04-02",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 2, 2002-November 17, 2002",
+            "ExhibEndDate": "2002-11-17",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 309,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Serapis: The Creation of a God. The Walters Art Museum, Baltimore. 2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22631,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1436_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1436_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1436_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1436_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1436_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22630,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1436_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1436_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1436_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1436_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1436_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22632,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1436_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1436_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1436_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1436_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1436_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22633,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1436_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1436_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1436_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1436_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1436_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 410,
+        "LocationString": null
+    },
+    "ObjectID": 12892,
+    "ObjectName": "amulets; pendants; amulet-pendants",
+    "ObjectNumber": "57.1436",
+    "OnView": 0,
+    "Period": "Roman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown] (?); Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-17T15:10:01.847",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12892",
+    "SortNumber": "    57  1436                                            ",
+    "Style": null,
+    "Title": "Harpocrates-Eros with Falcon , Jackal, Falcon and Serpent"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Christian Eduard B\u00f6ttcher (German, 1818-1889)",
+            "CreatorID": 4190,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1838,
+    "DateEndYear": 1889,
+    "DateText": "19th century",
+    "Description": "Domestic scenes were standard subjects for D\u00fcsseldorf painters in the mid-century.",
+    "Dimensions": "H: 6 1/4 x W: 7 1/2 in. (15.9 x 19 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Medley of German Drawings",
+            "ExhibBeginDate": "1996-04-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "April 17, 1996-September 1, 1996",
+            "ExhibEndDate": "1996-09-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2179,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medley of German Drawings. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\states\\Nordrhein-Westfalen\\districts (national)\\D\u00fcsseldorf\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1453070,
+            "GeographyTerm": "D\u00fcsseldorf",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "006 47",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 6.783
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48020,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1260_Fnt_BW_V82.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1260_Fnt_BW_V82.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1260_Fnt_BW_V82.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1260_Fnt_BW_V82.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1260_Fnt_BW_V82.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: CE Bottcher",
+    "Keywords": null,
+    "Medium": "pencil and wash on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5302,
+        "LocationString": null
+    },
+    "ObjectID": 8672,
+    "ObjectName": "drawings",
+    "ObjectNumber": "37.1260",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8672",
+    "SortNumber": "    37  1260                                            ",
+    "Style": null,
+    "Title": "Peasant Family"
+}

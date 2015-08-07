@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1100,
+    "DateEndYear": 1899,
+    "DateText": "Shards: 12th-15th century; Mounting: 18th-19th century",
+    "Description": "These shards of broken pottery likely date to the Song Dynasty.  They were prized for their rich blue and purple colors.  The shards were collected and mounted to show off their coloration.  This may have taken place at the end fo the 18th century during the Qianlong [Ch'ien-lung] emperor's reign.",
+    "Dimensions": "11 x 16 1/8 x 1 1/2 in. (27.94 x 40.96 x 3.81 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5083,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1299_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1299_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1299_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1299_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1299_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6148,
+        "LocationString": null
+    },
+    "ObjectID": 17201,
+    "ObjectName": "panels",
+    "ObjectNumber": "49.1299",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.59",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 17855,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 29844,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 33113,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/17201",
+    "SortNumber": "    49  1299                                            ",
+    "Style": null,
+    "Title": "Framed Panel with Jun [Ch\u00fcn] Ware Shards"
+}

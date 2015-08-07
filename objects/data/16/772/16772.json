@@ -1,0 +1,136 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean-Claude Duplessis le P\u00e8re (French and Italian, ca. 1695-1774)",
+            "CreatorID": 2977,
+            "Gender": "male",
+            "Role": "Designer"
+        },
+        {
+            "ConcatDisplayName": "Vincennes Porcelain Manufactory (French, active ca. 1740-1756)",
+            "CreatorID": 4819,
+            "Gender": null,
+            "Role": "Manufacturer"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1745,
+    "DateEndYear": 1756,
+    "DateText": "after 1745",
+    "Description": null,
+    "Dimensions": "H: 6 1/4 in. (15.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Val-de-Marne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427181,
+            "GeographyTerm": "Vincennes",
+            "Latitude": "48 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.85,
+            "Longitude": "002 27",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.45
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Val-de-Marne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427181,
+            "GeographyTerm": "Vincennes",
+            "Latitude": "48 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.85,
+            "Longitude": "002 27",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.45
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46478,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.670_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.670_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.670_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.670_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.670_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 9522,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.670_Fnt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.670_Fnt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.670_Fnt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.670_Fnt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.670_Fnt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 9523,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.670_Prof_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.670_Prof_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.670_Prof_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.670_Prof_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.670_Prof_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 9521,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.670_Back_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.670_Back_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.670_Back_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.670_Back_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.670_Back_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 46477,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.670_48.671_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.670_48.671_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.670_48.671_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.670_48.671_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.670_48.671_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 10
+        }
+    ],
+    "Inscriptions": "Visible marks. [Factory Mark] Intertwined Lls with dot below in blue",
+    "Keywords": null,
+    "Medium": "soft-paste porcelain, enamel, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2124,
+        "LocationString": null
+    },
+    "ObjectID": 16772,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.670",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:37.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16772",
+    "SortNumber": "    48   670                                            ",
+    "Style": null,
+    "Title": "One of a Pair of Vases (Urne Duplessis)"
+}

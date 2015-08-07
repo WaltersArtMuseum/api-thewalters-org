@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pascal Adolphe Jean Dagnan-Bouveret (French, 1852-1929)",
+            "CreatorID": 5289,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1886",
+    "Culture": null,
+    "DateBeginYear": 1884,
+    "DateEndYear": 1884,
+    "DateText": "1884",
+    "Description": "A young musician is shown from slightly below the waist, posed with his violin and bow. The picture is thinly painted, allowing the wood ground to appear, particularly in the background. A couple of pictures entitled \"Petit joueur de violon\" of 1884-5 are mentioned in \"Catalogue des oeuvres de Dagnan-Bouveret (peintures),\" Paris, Institut de France, 1930.",
+    "Dimensions": "H: 9 15/16 x W: 7 11/16 in. (25.2 x 19.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Magnificent Age: Masterpieces from the Walters Art Museum, Baltimore",
+            "ExhibBeginDate": "2002-06-16",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "June 16, 2002-January 11, 2004",
+            "ExhibEndDate": "2004-01-11",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2159,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Magnificent Age: Masterpieces from the Walters Art Museum, Baltimore. The Walters Art Museum, Baltimore; The Nelson-Atkins Museum of Art, Kansas City; Mint Museum of Art, Charlotte. 2002-2004."
+        },
+        {
+            "ExhTitle": "Against the Modern: Dagnan-Bouveret and the Transformation of Academic Art",
+            "ExhibBeginDate": "2002-09-10",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "September 10, 2002-February 9, 2003",
+            "ExhibEndDate": "2003-02-09",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 2616,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Against the Modern: Dagnan-Bouveret and the Transformation of Academic Art. National Academy Museum and School of Fine Arts, New York; Society of the Four Arts, Palm Beach. 2002-2003."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41148,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.28_Fnt_TR_T05II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.28_Fnt_TR_T05II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.28_Fnt_TR_T05II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.28_Fnt_TR_T05II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.28_Fnt_TR_T05II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 24587,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.28_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.28_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.28_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.28_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.28_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature] Lower left: P.A.J. Dagnan-B; [Date] Lower left: 1884; [Label] On reverse, label of Gustav Reichard's Art Room, New York",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3314,
+        "LocationString": null
+    },
+    "ObjectID": 24467,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.28",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gustave Reichard's Art Room, New York [date and mode of acquisition unknown]; Mrs. Mary J. Morgan Sale, New York, 1886, no. 81; William T. Walters, Baltimore, 1886, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24467",
+    "SortNumber": "    37    28                                            ",
+    "Style": null,
+    "Title": "The Musician"
+}

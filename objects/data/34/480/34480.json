@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1725,
+    "DateText": "1700-1725",
+    "Description": "This is an example of \"famille verte\" porcelain.",
+    "Dimensions": "17 1/4 in. (43.82 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5223,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.2348_Fnt_BW_PL90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.2348_Fnt_BW_PL90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.2348_Fnt_BW_PL90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.2348_Fnt_BW_PL90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.2348_Fnt_BW_PL90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1945,
+        "LocationString": null
+    },
+    "ObjectID": 34480,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.2348",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown];  Henry Walters, Baltimore, 1894, by inheritance;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.137",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34480",
+    "SortNumber": "    49  2348                                            ",
+    "Style": null,
+    "Title": "Vase"
+}

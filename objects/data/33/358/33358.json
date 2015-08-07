@@ -1,0 +1,99 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "al-Hajj Ahmad Isma'il",
+            "CreatorID": 15705,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "12th century AH/AD 18th century",
+    "Description": "Walters manuscript W.574 is a miniature copy of the Qur'an copied in Iran by a certain Ahmad Isma'il in the 12th century AH/AD 18th century.",
+    "Dimensions": "Folio H: 3 3/8 x W: 1 15/16 in. (8.5 x 5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34867,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.574_Det_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.574_Det_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.574_Det_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.574_Det_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.574_Det_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Book; Codex; Manuscript; Iran",
+    "Medium": "ink and pigments on very thin parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2334,
+        "LocationString": null
+    },
+    "ObjectID": 33358,
+    "ObjectName": "illumianted manuscripts",
+    "ObjectNumber": "W.574",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81669,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81671,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81672,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81673,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/33358",
+    "SortNumber": "W        574                                            ",
+    "Style": null,
+    "Title": "Qur'an"
+}

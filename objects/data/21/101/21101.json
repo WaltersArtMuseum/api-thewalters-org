@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French (?)",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1650,
+    "DateEndYear": 1700,
+    "DateText": "2nd half 17th century",
+    "Description": null,
+    "Dimensions": "H: 22 3/4 x W: 17 1/2 in. (57.8 x 44.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45575,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.858_Fnt_BW_C39.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.858_Fnt_BW_C39.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.858_Fnt_BW_C39.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.858_Fnt_BW_C39.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.858_Fnt_BW_C39.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47889,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.858_XR_1976.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.858_XR_1976.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.858_XR_1976.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.858_XR_1976.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.858_XR_1976.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3359,
+        "LocationString": null
+    },
+    "ObjectID": 21101,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.858",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21101",
+    "SortNumber": "    37   858                                            ",
+    "Style": null,
+    "Title": "Portrait-bust of a Man"
+}

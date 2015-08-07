@@ -1,0 +1,127 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Albert Cousins, 1982",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -332,
+    "DateText": "664-332 BC",
+    "Description": "Large Djed-pillars such as this were used for the living in festival or temple contexts, but were also attached to the body of a deceased. Usually, they were used as part of an amulet set, which included more than one of these pillars. This pillar dates in the Late Period (664-332 BC), and is excellent example for the high quality of amulet production of the 26th Dynasty (664-525 BC).",
+    "Dimensions": "H: 4 1/8 x W: 1 1/4 x D: 7/16 in. (10.45 x 3.1 x 1.08 cm)",
+    "Dynasty": "26th Dynasty (?)",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\Frontier\\governorates\\Matruh\\ruins\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543599,
+            "GeographyTerm": "Saqq\u00e2ra",
+            "Latitude": "29 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.85,
+            "Longitude": "031 13",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.216
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21274,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2864_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2864_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2864_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2864_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2864_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21273,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2864_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2864_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2864_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2864_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2864_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 21275,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2864_LftSide_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2864_LftSide_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2864_LftSide_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2864_LftSide_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2864_LftSide_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 21276,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.2864_RtSide_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.2864_RtSide_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.2864_RtSide_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.2864_RtSide_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.2864_RtSide_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with light-green glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1897,
+        "LocationString": null
+    },
+    "ObjectID": 80069,
+    "ObjectName": "amulets",
+    "ObjectNumber": "48.2864",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "[Possibly excavated at Saqqara and sold at the art market in Cairo in the early 20th century]; Mr. Albert Cousins [date and mode of acquisition unknown]; Walters Art Museum, 1982, by gift.",
+    "PublicAccessDate": "2009-09-17T15:10:01.847",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 9416,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 27507,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/80069",
+    "SortNumber": "    48  2864                                            ",
+    "Style": null,
+    "Title": "Djed-Pillar"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "German",
+            "CreatorID": 6211,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Christian; German",
+    "DateBeginYear": 1280,
+    "DateEndYear": 1300,
+    "DateText": "late 13th century",
+    "Description": null,
+    "Dimensions": "Folio H: 5 1/16 \u00d7 W: 3 13/16 in. (12.9 \u00d7 9.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448485,
+            "GeographyTerm": "Deutschland",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "010 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 10.5
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1421650,
+            "GeographyTerm": "Vlaanderen",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52647,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.111.24R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.111.24R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.111.24R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.111.24R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.111.24R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Codex; Illumination; Manuscript; Binding; Book; Grotesques; Historiated initial; Walters Art Museum; Devotion; Scripture",
+    "Medium": "ink and pigments on medium-weight, cream-colored parchment with laid paper flyleaves",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 27585,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.111.24R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "[Made for Franciscan use in Cologne, late thirteenth century, Ripuarisch dialect points to Cologne region]; Augustinian nuns of St. Cecilia, Cologne, late 15th or 16th century [who added folios 1-23 and 261; Susanna Koull, 17th century [her name on front pastedown, Koull-Binsfelt family obituaries in calendar]; L.S. Olschki; Henry Walters, by purchase [L.S. Olschiki, no. 24].",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27585",
+    "SortNumber": "W        111   24R                                      ",
+    "Style": "Gothic",
+    "Title": "Initial D with Woman Holding an Ointment Jar; Hybrid Creature in Margins"
+}

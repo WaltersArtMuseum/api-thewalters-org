@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Workshop of the Nikosthenes Painter (Greek, active ca. 510-ca. 500 BC) (?)",
+            "CreatorID": 3715,
+            "Gender": null,
+            "Role": "Workshop"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -532,
+    "DateEndYear": -508,
+    "DateText": "ca. 520 BC",
+    "Description": "This kylix depicts a black-figure goat to the right with forelegs raised in the tondo.\r\n\r\nThe sides of the kylix depict red-figure eyes and eyebrows between a palmette with stem on either side. The front also depicts a nose.",
+    "Dimensions": "With handles H: 5 3/16 x Diam: 15 1/4 in. (13.1 x 38.7 cm); Diam at mouth: 12 1/16 in. (30.6 cm); Diam at foot: 4 3/4 in. (12.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4883,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.44_Fnt_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.44_Fnt_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.44_Fnt_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.44_Fnt_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.44_Fnt_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4882,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.44_Det_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.44_Det_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.44_Det_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.44_Det_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.44_Det_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4884,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.44_SideADet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.44_SideADet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.44_SideADet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.44_SideADet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.44_SideADet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4885,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.44_SideBDet_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.44_SideBDet_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.44_SideBDet_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.44_SideBDet_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.44_SideBDet_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5660,
+        "LocationString": null
+    },
+    "ObjectID": 20249,
+    "ObjectName": "kylikes",
+    "ObjectNumber": "48.44",
+    "OnView": 0,
+    "Period": "early Classical",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [1897 cat. no. 207]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-20T10:59:59.33",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/20249",
+    "SortNumber": "    48    44                                            ",
+    "Style": "Attic",
+    "Title": "Type A Kylix Depicting Eyes, Nose and Palmette"
+}

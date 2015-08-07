@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ok\u00e7uzade Mehmet Sah\u00ee (Islamic, died 1039 AH/AD 1629)",
+            "CreatorID": 18059,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "Walters manuscript W.667 is an Ottoman Turkish commentary on 40 verses of the Qur'an with hadith and verse citations by Ok\u00e7uzade Mehmet Sah\u00ee (died 1039 AH/AD 1629), copied in the 11th century AH/AD 17th. The text is written in Naskh script in black and red ink. The bequest (waqf) stamp of al-Wazir al-Shahid \"Ali Pasha, dated 1130 AH, appears on fols. 1a, 1b, and 2a. The name of a former owner, Sayyid Burhan al-Din, and his seal dated 1039 AH is found on fol. 1a. The text begins with an illuminated incipit with headpiece (fol. 1b). The dark brown goatskin binding with central lobed medallion filled with floral scroll work and outlined in gold is contemporary with the manuscript.",
+    "Dimensions": "Folio H: 9 5/8 x W: 5 5/16 in. (24.5 x 13.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28901,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.667.binding_Top_DD_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Islamic; Turkish; Book; Calligraphy; Codex; Manuscript; Medallion; Scripture",
+    "Medium": "ink and pigments on light green, creamy, and rose-tinted paper and laid European and non-European paper covered in dark-brown goatskin with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2342,
+        "LocationString": null
+    },
+    "ObjectID": 30411,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.667",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Sayyid Burhan al-Din [date and mode of acquisition unknown] [seal dated 1039 AH, on fol. 1a]; al-Wazir al-Shahid 'Ali Pasha [date and mode of acquisition unknown] [waqf-stamp dated 1130 AH on fols. 1a, 1b, 2a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 81206,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 81207,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/30411",
+    "SortNumber": "W        667                                            ",
+    "Style": null,
+    "Title": "Commentary on Select Verses of the Qur'an"
+}

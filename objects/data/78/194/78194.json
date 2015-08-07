@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": "This folio from Walters manuscript W.660 contains a map of the eastern Mediterranean and the Caspian Sea.",
+    "Dimensions": "H: 11 13/16 x W: 8 7/8 in. (30 x 22.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\seas\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1544964,
+            "GeographyTerm": "Caspian Sea",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "051 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 51.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\seas\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1544965,
+            "GeographyTerm": "Mediterranean Sea",
+            "Latitude": "31 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.5,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\Michigan\\counties\\Iron\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 669844,
+            "GeographyTerm": "Caspian",
+            "Latitude": "46 03",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.5,
+            "Longitude": "088 37",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -88.616
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37624,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.660.3b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.660.3b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.660.3b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.660.3b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.660.3b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Book; Codex; Illumination; Illustration; Manuscript; Charts; Turkey; Science; Cartography; Geography",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78194,
+    "ObjectName": "illuminated mansucripts; folios (leaves)",
+    "ObjectNumber": "W.660.3B",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78194",
+    "SortNumber": "W        660    3B                                      ",
+    "Style": null,
+    "Title": "Eastern Mediterranean and the Caspian Sea"
+}

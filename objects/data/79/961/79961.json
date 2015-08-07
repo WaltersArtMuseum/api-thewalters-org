@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1814,
+    "DateEndYear": 1815,
+    "DateText": "1230 AH/AD 1814-1815 (?)",
+    "Description": "This 19h-century lacquer binding from Walters manuscript W.567 has a floral composition on a gold field on the upper and lower boards. It appears to be contemporary with the manuscript. \r\n\r\nThe insides of both upper and lower boards are painted with a lobed, yellow central medallion and pendants on an orange field. They may have been painted slightly later, possibly in India (Kashmir).",
+    "Dimensions": "Folio H: 5 5/16 x W: 3 1/8 in. (13.5 x 8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1506306,
+            "GeographyTerm": "Jammu-Kashmir",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "075 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 75.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 20872,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.567.binding_ClsdTopVwA_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 20873,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.567.binding_TopInt_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.567.binding_TopInt_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.567.binding_TopInt_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.567.binding_TopInt_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.567.binding_TopInt_DD_300.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Book; Calligraphy; Codex; Headpiece; Illumination; Manuscript; Iran; Scripture",
+    "Medium": "lacquer",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 79961,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.567.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79961",
+    "SortNumber": "W        567binding                                     ",
+    "Style": null,
+    "Title": "Binding from Qur'an"
+}

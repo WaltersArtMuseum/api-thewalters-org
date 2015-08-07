@@ -1,0 +1,123 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Marilyn and Herbert Scher, 2003",
+    "Culture": null,
+    "DateBeginYear": -320,
+    "DateEndYear": -310,
+    "DateText": "320-310 BC",
+    "Description": "Vase painters in Apulia developed two major styles: the Plain style characterized by simple decoration and few figures, and the Ornate style, which featured multi-figure colorful scenes, lavish ornaments, and intricate floral compositions. A large female head is a typical decoration for drinking vessels like this one, small-scale vases, cups, and plates created in the Plain style.",
+    "Dimensions": "8 in. (20.32 cm); \r\n7 1/8 in. (18.1 cm) (max. w.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440814,
+            "GeographyTerm": "Puglia",
+            "Latitude": "41 15",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.25,
+            "Longitude": "016 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48770,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2763_SIdeA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2763_SIdeA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2763_SIdeA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2763_SIdeA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2763_SIdeA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48771,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2763_SideB_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2763_SideB_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2763_SideB_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2763_SideB_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2763_SideB_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48768,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2763_3QtrA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2763_3QtrA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2763_3QtrA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2763_3QtrA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2763_3QtrA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 48769,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2763_3QtrB_D_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2763_3QtrB_D_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2763_3QtrB_D_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2763_3QtrB_D_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2763_3QtrB_D_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 6567,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2763_VwA_TR_T03III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2763_VwA_TR_T03III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2763_VwA_TR_T03III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2763_VwA_TR_T03III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2763_VwA_TR_T03III.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3663,
+        "LocationString": null
+    },
+    "ObjectID": 27671,
+    "ObjectName": "kantharoi",
+    "ObjectNumber": "48.2763",
+    "OnView": 1,
+    "Period": "Hellenistic",
+    "Provenance": "Horia Puscasiu [date and mode of acquisition unknown]; Marilyn and Herbert Scher, Pikseville, 1984, by purchase; Walters Art Museum, 2003, by gift.",
+    "PublicAccessDate": "2008-09-25T17:13:40.267",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 9627,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/27671",
+    "SortNumber": "    48  2763                                            ",
+    "Style": null,
+    "Title": "Red-Figure Kantharos (Drinking Vessel) with Female Head"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1900,
+    "DateText": "late 12th century AH/AD 18th century-13th century AH/AD 19th century",
+    "Description": "This non-original binding from Walters manuscript W.628 may be attributable to late 12th-century AH/AD 18th or 13th-century AH/AD 19th Turkey. The binding is composed of red leather with  scalloped medallion and has gold-tooled decoration and borders.",
+    "Dimensions": "Folio H: 8 7/16 x W: 5 5/16 in. (21.5 x 13.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33258,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.628.binding_TopExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.628.binding_TopExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.628.binding_TopExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.628.binding_TopExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.628.binding_TopExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33257,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.628.binding_BotExtOpn_DD_FlapOpen.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.628.binding_BotExtOpn_DD_FlapOpen.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.628.binding_BotExtOpn_DD_FlapOpen.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.628.binding_BotExtOpn_DD_FlapOpen.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.628.binding_BotExtOpn_DD_FlapOpen.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Iran; Sufism; Literature -- Poetry",
+    "Medium": "red leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81877,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.628.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown] [Ex libris on upper board inside]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81877",
+    "SortNumber": "W        628binding                                     ",
+    "Style": null,
+    "Title": "Binding from Collection of Poems (Divan)"
+}

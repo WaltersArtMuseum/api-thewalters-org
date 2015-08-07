@@ -1,0 +1,111 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Islamic",
+            "CreatorID": 6768,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1732,
+    "DateEndYear": 1733,
+    "DateText": "1732-1733",
+    "Description": "This is part of the so-called \"Turkish Hunting Set\" consisting of the Ottoman rifle (Walters 51.84) and later European accessories contained within a large Parisian case (Walters 64.104).\r\n\r\nThe dagger fits inside a compartment in the butt of the rifle (Walters 51.84). The steel blade is false damascened with gold wire, a technique called \"koftgari\", to create foliate patterns and two partly legible Turkish couplet inscriptions. Two long sections of the blade are cut through, so that the middle section stands free and ends in a triangular leaf shaped section studded with gems. The grip, guard, and pommel are gilded silver, set emeralds and rubies, and engraved with abstract designs. \r\n",
+    "Dimensions": "H: 11 13/16 \u00d7 W: 1 3/4 \u00d7 D: 5/8 in. (30 \u00d7 4.44 \u00d7 1.65 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31421,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_51.76_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_51.76_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_51.76_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_51.76_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_51.76_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31419,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_51.76_DetA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_51.76_DetA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_51.76_DetA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_51.76_DetA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_51.76_DetA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 31422,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_51.76_MrkA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_51.76_MrkA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_51.76_MrkA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_51.76_MrkA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_51.76_MrkA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Transcription] 2 partly legible Turkish couplets",
+    "Keywords": null,
+    "Medium": "steel with gold wire, gilded silver, rubies (spinels), emeralds (beryls)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 389,
+        "LocationString": null
+    },
+    "ObjectID": 7477,
+    "ObjectName": "daggers",
+    "ObjectNumber": "51.76",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Acquired by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.",
+    "PublicAccessDate": "2008-09-25T17:15:21.223",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 14364,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 21516,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 40564,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 9184,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/7477",
+    "SortNumber": "    51    76                                            ",
+    "Style": null,
+    "Title": "Dagger from a Rifle Set"
+}

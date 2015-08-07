@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mesopotamian",
+            "CreatorID": 6353,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1941",
+    "Culture": null,
+    "DateBeginYear": -1834,
+    "DateEndYear": -1825,
+    "DateText": "1834-1825 BC",
+    "Description": "This head of a white clay cone is broken off at the base of the nail and is unglazed. The inscription features the name of Warad-sin, king of Larsa.",
+    "Dimensions": "H: 5 7/8 in. (15 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Al-\u2018Iraq\\governorates\\Dhi Qar\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489368,
+            "GeographyTerm": "Larsa",
+            "Latitude": "31 14",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.233,
+            "Longitude": "045 51",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 45.85
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32565,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1801_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1801_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1801_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1801_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1801_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1475,
+        "LocationString": null
+    },
+    "ObjectID": 16065,
+    "ObjectName": "nails; cones",
+    "ObjectNumber": "48.1801",
+    "OnView": 0,
+    "Period": "early Old Babylonian",
+    "Provenance": "Sadie Jones (Mrs. Henry Walters), New York [date and mode of acquisition unknown]; Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": "Warad-sin (1770-1758 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16065",
+    "SortNumber": "    48  1801                                            ",
+    "Style": null,
+    "Title": "Head of Cone Inscribed with the Name of Warad Sin, King of Larsa"
+}

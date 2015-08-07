@@ -1,0 +1,69 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Pete Nickolas, 1988",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1000,
+    "DateEndYear": 1100,
+    "DateText": "11th century",
+    "Description": "Compare Walters 55.65 and 55.96.",
+    "Dimensions": "Diam: 9/16 in. (1.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 10868,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_55.95_Obv_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_55.95_Obv_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_55.95_Obv_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_55.95_Obv_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_55.95_Obv_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 10869,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_55.95_Rev_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_55.95_Rev_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_55.95_Rev_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_55.95_Rev_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_55.95_Rev_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Seal] \u03a3\u03c6\u03c1\u03b1\u03b3\u1f76\u03c2 \u03b3\u03c1\u03b1\u03c6\u1f70\u03c2 \u03c0\u03b9\u03c3\u03c4\u03bf\u1fe6\u03c3\u03b1 \u03c4\u1f70\u03c2 \u0395\u1f50\u03c3\u03c4\u03c1\u03b1\u03c4\u1f77\u03bf\u03c5; [Translation] authenticating the letters of Eustratius",
+    "Keywords": null,
+    "Medium": "lead",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4186,
+        "LocationString": null
+    },
+    "ObjectID": 35868,
+    "ObjectName": "seals",
+    "ObjectNumber": "55.95",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Pete N. Nickolas (\"Helios Old World Antiques\"), Westminster, Maryland, by purchase; Walters Art Museum, 1988, by gift.",
+    "PublicAccessDate": "2008-09-25T17:15:35.317",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35868",
+    "SortNumber": "    55    95                                            ",
+    "Style": null,
+    "Title": "Seal with Saint Eustratius"
+}

@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -500,
+    "DateEndYear": -301,
+    "DateText": "5th-4th century BC",
+    "Description": "The Egyptians buried animal mummies in animal-shaped coffins carved from wood or formed from clay, but they also inserted some mummies into bronze figurines. Placed in subterranean animal cemeteries, these figurines served not only as coffins but also as a kind of reliquary with a ritual function.",
+    "Dimensions": "7 1/2 x 2 3/16 x 4 in. (19 x 5.5 x 10.2 cm)",
+    "Dynasty": "Ptolemaic Dynasty (?)",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mummified",
+            "ExhibBeginDate": "2008-11-15",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "November 15, 2008-November 8, 2013",
+            "ExhibEndDate": "2013-11-08",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 2173,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mummified. The Walters Art Museum, Baltimore. 2008-2013."
+        },
+        {
+            "ExhTitle": "The Egyptian Mummy: Secrets and Science",
+            "ExhibBeginDate": "1984-03-27",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "March 27, 1984-May 28, 1984",
+            "ExhibEndDate": "1984-05-28",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2945,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Egyptian Mummy: Secrets and Science. Maryland Science Center, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11832,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2120_Lft_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2120_Lft_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2120_Lft_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2120_Lft_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2120_Lft_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze, falcon bones, textile wrappings",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 408,
+        "LocationString": null
+    },
+    "ObjectID": 24868,
+    "ObjectName": "figurines; mummies; reliquaries",
+    "ObjectNumber": "54.2120",
+    "OnView": 0,
+    "Period": "Late Period-Greco-Roman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-11-19T17:21:47.6",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24868",
+    "SortNumber": "    54  2120                                            ",
+    "Style": null,
+    "Title": "Falcon Figure with Falcon Mummy"
+}

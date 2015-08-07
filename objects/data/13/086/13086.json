@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1300,
+    "DateEndYear": 1400,
+    "DateText": "1300-1400",
+    "Description": null,
+    "Dimensions": "Overall: 8 1/4 x 5 1/2 in. (21 x 14 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Decadent Decades: The Medieval Clothes Horse",
+            "ExhibBeginDate": "1989-01-10",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "January 10, 1989-April 9, 1989",
+            "ExhibEndDate": "1989-04-09",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2314,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Decadent Decades: The Medieval Clothes Horse. The Walters Art Gallery, Baltimore. 1989."
+        },
+        {
+            "ExhTitle": "Real People in the Middle Ages: Donor Portraits in Illuminated Manuscripts",
+            "ExhibBeginDate": "1987-04-07",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "April 7, 1987-June 14, 1987",
+            "ExhibEndDate": "1987-06-14",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 111,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Real People in the Middle Ages: Donor Portraits in Illuminated Manuscripts. The Walters Art Gallery, Baltimore. 1987."
+        },
+        {
+            "ExhTitle": "Age of Chivalry: Art in Plantagenet England 1200-1400",
+            "ExhibBeginDate": "1987-11-06",
+            "ExhibBeginYear": 1987,
+            "ExhibDisplayDate": "November 6, 1987-March 6, 1988",
+            "ExhibEndDate": "1988-03-06",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 3033,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Age of Chivalry: Art in Plantagenet England 1200-1400. Royal Academy of Arts, London. 1987-1988."
+        }
+    ],
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 16666,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.105.15R_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.105.15R_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.105.15R_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.105.15R_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.105.15R_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "colors on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 13086,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.105.15R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13086",
+    "SortNumber": "W        105   15R                                      ",
+    "Style": "Gothic",
+    "Title": "Leaf from Book of Hours"
+}

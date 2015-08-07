@@ -1,0 +1,131 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Julius Le Blanc Stewart (American, 1855-1919)",
+            "CreatorID": 7965,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Lawrence Houston, 1969",
+    "Culture": null,
+    "DateBeginYear": 1905,
+    "DateEndYear": 1905,
+    "DateText": "1905",
+    "Description": "Stewart was the son of the noted collector William H. Stewart, an expatriate from Philadelphia who resided in Paris. He studied with the artists his father had come to know Jean-L\u00e9on G\u00e9r\u00f4me, Eduardo Zamaco\u00efs, and Raimundo de Madrazo, becoming a fashionable, cosmopolitan portrait and genre painter.",
+    "Dimensions": "H: 36 5/8 x W: 28 in. (93 x 71.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Portraits Re-Examined: Dawoud Bey Project",
+            "ExhibBeginDate": "2008-12-06",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "December 6, 2008-February 16, 2009",
+            "ExhibEndDate": "2009-02-16",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2102,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Portraits Re-Examined: Dawoud Bey Project. The Walters Art Museum, Baltimore. 2008-2009."
+        },
+        {
+            "ExhTitle": "To Arrest the Ravages of Time: Caring for Art at the Walters",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 721,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "To Arrest the Ravages of Time: Caring for Art at the Walters. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51929,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2658_Fnt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2658_Fnt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2658_Fnt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2658_Fnt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2658_Fnt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 51930,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2658_FntCc_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2658_FntCc_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2658_FntCc_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2658_FntCc_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2658_FntCc_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 51928,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2658_Back_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2658_Back_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2658_Back_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2658_Back_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2658_Back_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 11813,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.2658_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.2658_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.2658_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.2658_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.2658_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3392,
+        "LocationString": null
+    },
+    "ObjectID": 32207,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.2658",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mr. and Mrs. Lawrence Houston, Washington, D.C.; given to Walters Art Museum, 1969.",
+    "PublicAccessDate": "2008-11-19T17:12:49.843",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32207",
+    "SortNumber": "    37  2658                                            ",
+    "Style": null,
+    "Title": "Study of Juliette"
+}

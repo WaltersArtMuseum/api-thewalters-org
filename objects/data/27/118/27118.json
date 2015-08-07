@@ -1,0 +1,125 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Austrian",
+            "CreatorID": 6521,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Master of the Maximilian Schoolbooks (active ca. 1445-1475)",
+            "CreatorID": 7693,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1959",
+    "Culture": null,
+    "DateBeginYear": 1435,
+    "DateEndYear": 1485,
+    "DateText": "ca. 1460",
+    "Description": null,
+    "Dimensions": "Folio H: 6 5/8 x W: 4 5/8 in. (16.8 x 11.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Book Arts in the Age of Durer",
+            "ExhibBeginDate": "2000-10-15",
+            "ExhibBeginYear": 2000,
+            "ExhibDisplayDate": "October 15, 2000-January 21, 2001",
+            "ExhibEndDate": "2001-01-21",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 2595,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Book Arts in the Age of Durer. Baltimore Museum of Art, Baltimore. 2000-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\\u00d6sterreich\\states\\Wien\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421142,
+            "GeographyTerm": "Wien",
+            "Latitude": "48 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.216,
+            "Longitude": "016 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.366
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\\u00d6sterreich\\states\\Wien\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421142,
+            "GeographyTerm": "Wien",
+            "Latitude": "48 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.216,
+            "Longitude": "016 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.366
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\Maryland\\counties\\Baltimore Independent City\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 647324,
+            "GeographyTerm": "Baltimore",
+            "Latitude": "39 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.283,
+            "Longitude": "076 36",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.6
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\United States\\states\\Maryland\\counties\\Baltimore Independent City\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 647324,
+            "GeographyTerm": "Baltimore",
+            "Latitude": "39 17",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.283,
+            "Longitude": "076 36",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.6
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44944,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.764.66V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.764.66V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.764.66V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.764.66V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.764.66V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Manuscript; Miniature; Walters Art Museum; Gothic; Devotion",
+    "Medium": "ink and pigments on medium-weight, clean, cream-colored parchment, well finished",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 27118,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.764.66V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Probably commissioned by a member of the court of Emperor Frederick III of Austria (1415-1493) for his son Prince Maximilian (1459-1519), Vienna, Austria, ca. 1460-65, with illuminations by the Master of the Maximilian Schoolbooks; Bernard Quaritch, London, 1910, [mode of acquisition unknown, no. 238]; C. G. Boerner, Leipzig, November 28, 1912, by purchase [Auction CX]; Jacques Rosenthal, Munich, 1928 [Catalog 90, no. 196] and 1929 [Catalog 91, no. 6], by purchase; Sale, H. P. Krauss, New York, 1959, [Catalog 88, no. 14]; Walters Art Museum, 1959, by purchase.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27118",
+    "SortNumber": "W        764   66V                                      ",
+    "Style": "Gothic",
+    "Title": "Christ Carrying the Cross"
+}

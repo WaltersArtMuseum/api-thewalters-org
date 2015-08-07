@@ -1,0 +1,94 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Christian; English",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": "This binding is not original to the manuscript but was added in the Eighteenth-century. It is made of gilt red morocco, with tooled spine and titled \"Biblia Latina M.ss sur Velin.\"",
+    "Dimensions": "H: 5 11/16 \u00d7 W: 3 3/4 in. (14.5 \u00d7 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55694,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.51.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.51.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.51.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.51.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.51.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 55664,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.51.binding_BotExt_DD_.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.51.binding_BotExt_DD_.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.51.binding_BotExt_DD_.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.51.binding_BotExt_DD_.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.51.binding_BotExt_DD_.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 55665,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.51.binding_Spine_DD_.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.51.binding_Spine_DD_.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.51.binding_Spine_DD_.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.51.binding_Spine_DD_.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.51.binding_Spine_DD_.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Book; Codex; Illumination; Miniature; Scripture",
+    "Medium": "eighteenth-century gilt red morocco",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 91990,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.51.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Owned by L\u00e9on Gruel, Paris. Henry Walters, Baltimore; by bequest to Walters Art Museum, 1931.\r\n",
+    "PublicAccessDate": "2014-01-07T01:00:02.81",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91990",
+    "SortNumber": "W         51binding                                     ",
+    "Style": null,
+    "Title": "Binding from Bible"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Persian",
+            "CreatorID": 3496,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1969",
+    "Culture": null,
+    "DateBeginYear": -900,
+    "DateEndYear": -701,
+    "DateText": "9th-8th century BC",
+    "Description": "In warfare the use of bronze for daggers and then swords encouraged an effective, slashing style of attack instead of thrust. Nevertheless, it would be supplanted by the still harder iron and then steel.",
+    "Dimensions": "H: 27 9/16 in. (70 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54666,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.2477_Fnt_BW_H70.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.2477_Fnt_BW_H70.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.2477_Fnt_BW_H70.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.2477_Fnt_BW_H70.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.2477_Fnt_BW_H70.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast and hammered bronze, iron residue",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 429,
+        "LocationString": null
+    },
+    "ObjectID": 29506,
+    "ObjectName": "swords",
+    "ObjectNumber": "54.2477",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Ezair, New York [date and mode of acquisition unknown]; Walters Art Museum, 1969, by purchase.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29506",
+    "SortNumber": "    54  2477                                            ",
+    "Style": null,
+    "Title": "Sword"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": "Barye has depicted two heads, one of which is the Indian wearing the conical turban in \"The Tiger Hunt,\" (Walters 27.176).",
+    "Dimensions": "3 x 5 1/4 in. (7.6 x 13.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Untamed: The Art of Antoine-Louis Barye",
+            "ExhibBeginDate": "2007-02-11",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "February 11, 2007-April 13, 2008",
+            "ExhibEndDate": "2008-04-13",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 1956,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Untamed: The Art of Antoine-Louis Barye. The Walters Art Museum, Baltimore; Philbrook Museum of Art, Tulsa; The Henry Morrison Flagler Museum, Palm Beach. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27808,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2241_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2241_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2241_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2241_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2241_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Stamp] Collection/ Vildieu-Barye.",
+    "Keywords": "head",
+    "Medium": "graphite on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2281,
+        "LocationString": null
+    },
+    "ObjectID": 32871,
+    "ObjectName": "sketches;drawings",
+    "ObjectNumber": "37.2241",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mme Vildieu-Barye; Fabius Fr\u00e8res, Paris; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:36.457",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32871",
+    "SortNumber": "    37  2241                                            ",
+    "Style": null,
+    "Title": "Two Sketches of Heads"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pseudo Pier Francesco Fiorentino (Italian, active 2nd half 15th century)",
+            "CreatorID": 17013,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1926",
+    "Culture": null,
+    "DateBeginYear": 1475,
+    "DateEndYear": 1500,
+    "DateText": "late 15th century",
+    "Description": "For more information on this painting, please see Zeri catalogue number 50, pp. 81-83.",
+    "Dimensions": "Painted surface H: 25 3/16 x W: 18 1/16 x D: 3/8 in. (63.9 x 45.8 x 0.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37078,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1028_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1028_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1028_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1028_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1028_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47167,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1028_XR_1992.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1028_XR_1992.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1028_XR_1992.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1028_XR_1992.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1028_XR_1992.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Madonna and Child",
+    "Medium": "tempera, oil, and gold on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 38490,
+    "ObjectName": "panel paintings",
+    "ObjectNumber": "37.1028",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1926, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38490",
+    "SortNumber": "    37  1028                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

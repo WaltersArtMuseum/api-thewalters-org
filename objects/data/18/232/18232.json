@@ -1,0 +1,101 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Style of Shen Zhou (Chinese, 1427-1509)",
+            "CreatorID": 16126,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Zha Shibiao (Chinese, 1615-1698)",
+            "CreatorID": 6924,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the Asian Art Acquisition Fund, 1996",
+    "Culture": null,
+    "DateBeginYear": 1675,
+    "DateEndYear": 1699,
+    "DateText": "ca. 1687",
+    "Description": "Shen Chou (1427-1509), a leading scholar-painter of the Ming Dynasty, was known for his spare brushwork.",
+    "Dimensions": "H: 14 15/16 x W: 10 13/16 in. (38 x 27.5 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23724,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.208A_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.208A_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.208A_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.208A_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.208A_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "In the style of Shih-t'ien Old Man (i.e. Shen Chou); Ch'a Shih-piao, native of Hsing-shang (i.e. Hsiu-ning County, Chiangsu Province); [Seal] Ch'a Erh-chan",
+    "Keywords": "landscape",
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 18232,
+    "ObjectName": "albums; folios (leaves); paintings",
+    "ObjectNumber": "35.208A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Fine Chinese Paintings, Calligraphy and Rubbings Sale (8474), Christie's, New York, September 18, 1996, lot no. 179; Walters Art Museum, 1996, by purchase.",
+    "PublicAccessDate": "2009-11-23T13:32:28.003",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 16831,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 20734,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 34305,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/18232",
+    "SortNumber": "    35   208A                                           ",
+    "Style": null,
+    "Title": "Chanting Poems in Leisure Among Pines"
+}

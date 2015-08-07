@@ -1,0 +1,82 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mr. Pierre Berry, 1990",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": "This print depicts a street of brothels in Yoshiwara, and shows men looking at courtesans (?).",
+    "Dimensions": "H: 9 13/16 x W: 14 3/8 in. (25 x 36.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\Tokyo\\neighborhoods\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1490441,
+            "GeographyTerm": "Akatsuka",
+            "Latitude": "35 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.766,
+            "Longitude": "139 39",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.65
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 16895,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.305_Fnt_DD_JP091.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.305_Fnt_DD_JP091.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.305_Fnt_DD_JP091.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.305_Fnt_DD_JP091.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.305_Fnt_DD_JP091.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] unsigned",
+    "Keywords": "Yoshiwara; brothel; beauties; courtesan",
+    "Medium": "pigments on mulberry paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 25491,
+    "ObjectName": "color woodcuts",
+    "ObjectNumber": "95.305",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Anonymous dealer, Kyoto [date and mode of acquisition unknown]; Mr. Pierre Berry, 1945, by purchase [from dealer in Kyoto]; Walters Art Museum, 1990, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/25491",
+    "SortNumber": "    95   305                                            ",
+    "Style": null,
+    "Title": "Street of Brothels in Yoshiwara"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1499,
+    "DateEndYear": 1499,
+    "DateText": "1499",
+    "Description": null,
+    "Dimensions": "folio: 9 7/16 x 6 in. (24 x 15.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Binding",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11709,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.406_ClsdFnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.406_ClsdFnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.406_ClsdFnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.406_ClsdFnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.406_ClsdFnt_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red Moroccan leather pressed with gold leaf",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78133,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.406.binding",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Raphael di Girolami, by commission [as an account of his ancestor, St. Zenobius, arms of his family fol. 1r]; Matteo Canonici Collection [date and mode of acquisition unknown], no. 273;  Rev. Walter Sneyd [date and mode of acquisition unknown] [bookplate front pastedown]; Sale, Rev. Walter Sneyd, 1835; Sale, London, 1903, no. 530; Quaritch, 1903, by purchase; Olschki [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78133",
+    "SortNumber": "W        406binding                                     ",
+    "Style": null,
+    "Title": "Binding from Vita Zenobii Juliani da Girolamis"
+}

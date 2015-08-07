@@ -1,0 +1,70 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Sumerian",
+            "CreatorID": 4252,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1941",
+    "Culture": null,
+    "DateBeginYear": -2136,
+    "DateEndYear": -2121,
+    "DateText": "2136-2121 BC",
+    "Description": "This tablet is plano-convex, and has an inscription of Gudea on two faces.",
+    "Dimensions": "H: 4 x W: 2 3/4 in. (10.2 x 7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1522050,
+            "GeographyTerm": "Mesopotamia",
+            "Latitude": "34 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.0,
+            "Longitude": "044 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 44.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 32498,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_41.221_VwA_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_41.221_VwA_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_41.221_VwA_UK.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_41.221_VwA_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_41.221_VwA_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]",
+    "Keywords": null,
+    "Medium": "limestone",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1464,
+        "LocationString": null
+    },
+    "ObjectID": 29432,
+    "ObjectName": "tablets",
+    "ObjectNumber": "41.221",
+    "OnView": 0,
+    "Period": "Lagash II",
+    "Provenance": "Sadie Jones (Mrs. Henry Walters), New York [date and mode of acquisition unknown]; Sale, Joseph Brummer, New York, 1941; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": "Gudea (ca. 2144-2124 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29432",
+    "SortNumber": "    41   221                                            ",
+    "Style": null,
+    "Title": "Stone Foundation Tablet with Inscription of Gudea"
+}

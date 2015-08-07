@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Gift of Mr. and Mrs. Michael Markides, 1996",
+    "Culture": "Orthodox Eastern",
+    "DateBeginYear": 1600,
+    "DateEndYear": 1699,
+    "DateText": "17th century",
+    "Description": "The smaller fragment (37.2751C) shows Christ as High Priest clad in episcopal vestments, blessing the bishop saints Basil of Caesarea, John Chrysostom (37.2751A), Gregory of Nazianzus, and Nicholas (37.2751B). The three pieces, now separate, once formed part of a two-winged door in the center of an iconostasis, the woodcarved and painted inner wall that separates the altar from the nave in Eastern Orthodox churches. Judging from other similar pieces, the missing part of the doors would have contained an image of the Annunciation. The style suggests that the paintings are the work of Paul Hierographos, active on Cyprus in the mid 17th century.",
+    "Dimensions": "fragment A: 33 1/16 x 18 5/16 x 2 9/16 in. (84 x 46.5 x 6.5 cm);\r\nfragment B: 32 1/2 x 16 15/16 x 1 3/4 in. (82.5 x 43 x 4.5 cm);\r\nfragment C: 15 9/16 x 11 13/16 in. (39.5 x 30 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\islands\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1474344,
+            "GeographyTerm": "Cyprus",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "033 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 33.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48814,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2751A_AftTrt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2751A_AftTrt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2751A_AftTrt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2751A_AftTrt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2751A_AftTrt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48815,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2751B_AftTrt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2751B_AftTrt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2751B_AftTrt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2751B_AftTrt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2751B_AftTrt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 48816,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.2751C_Fnt_BW_T98.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.2751C_Fnt_BW_T98.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.2751C_Fnt_BW_T98.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.2751C_Fnt_BW_T98.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.2751C_Fnt_BW_T98.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Christ as Great Priest; Saint Basil; Saint John Chrysostom; Saint Gregory the Theologian; Saint Nicholas",
+    "Medium": "tempera on carved panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 28228,
+    "ObjectName": "doors; icons",
+    "ObjectNumber": "37.2751",
+    "OnView": 0,
+    "Period": "Early Modern",
+    "Provenance": "Markides family, Cyprus, by inheritance; Mr. Michael Markides, Nicosia, Cyprus, and Catonsville, Maryland, 1951, by inheritance; Walters Art Museum, 1996, by gift.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28228",
+    "SortNumber": "    37  2751                                            ",
+    "Style": "Post-Byzantine",
+    "Title": "Fragments from Iconostasis Doors"
+}

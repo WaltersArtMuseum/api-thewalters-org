@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 236, p. 359.",
+    "Dimensions": "Painted surface H: 37 7/8 x W: 33 1/16 x D: 11/16 in. (96.2 x 84 x 1.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37122,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1680_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1680_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1680_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1680_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1680_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47881,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1680_XR_1970.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1680_XR_1970.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1680_XR_1970.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1680_XR_1970.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1680_XR_1970.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3271,
+        "LocationString": null
+    },
+    "ObjectID": 13493,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.1680",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown] [1897 catalogue: no. 248, as Sodoma]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13493",
+    "SortNumber": "    37  1680                                            ",
+    "Style": null,
+    "Title": "St. Jerome in the Wilderness"
+}

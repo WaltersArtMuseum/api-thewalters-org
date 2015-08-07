@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1722,
+    "DateText": "1700-1722",
+    "Description": "Dragons worked in underglaze relief. With a spurious reign mark of Xuanhe (1119-25).",
+    "Dimensions": "8 7/16 in. (21.5 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5072,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.121_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.121_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.121_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.121_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.121_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35114,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_49.121_Fnt_NG.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_49.121_Fnt_NG.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_49.121_Fnt_NG.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_49.121_Fnt_NG.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_49.121_Fnt_NG.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with white glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5714,
+        "LocationString": null
+    },
+    "ObjectID": 31870,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.121",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.277",
+    "Reign": "Kangxi [K'ang hsi]",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31870",
+    "SortNumber": "    49   121                                            ",
+    "Style": null,
+    "Title": "Vase"
+}

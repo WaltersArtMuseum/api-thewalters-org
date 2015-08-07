@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1578,
+    "DateEndYear": 1622,
+    "DateText": "ca. 1590-1610",
+    "Description": null,
+    "Dimensions": "12 1/8 x 5 9/16 in. (30.8 x 14.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Lazio\\provinces\\Roma\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1435075,
+            "GeographyTerm": "Roma",
+            "Latitude": "41 53",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.883,
+            "Longitude": "012 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4690,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.1489_Fnt_BW_H50.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.1489_Fnt_BW_H50.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.1489_Fnt_BW_H50.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.1489_Fnt_BW_H50.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.1489_Fnt_BW_H50.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] On the front, on either side of a shield flanked by harpies, the initials: G (C?) / B",
+    "Keywords": null,
+    "Medium": "earthenware with tin glaze (maiolica)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: Renaissance Ceramics",
+        "LocationID": 4788,
+        "LocationString": null
+    },
+    "ObjectID": 4948,
+    "ObjectName": "ewers",
+    "ObjectNumber": "48.1489",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:59.723",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4948",
+    "SortNumber": "    48  1489                                            ",
+    "Style": null,
+    "Title": "Ewer with Eagle on a Shield"
+}

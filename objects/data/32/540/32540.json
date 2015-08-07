@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "James Slie (English)",
+            "CreatorID": 2551,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Eleanor Taylor (English)",
+            "CreatorID": 1889,
+            "Gender": "female",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1997",
+    "Culture": "English",
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": "This English manuscript was made in the nineteenth century, using an extremely fine parchment. It contains the fifty-third chapter of the Book of Isaiah, in English translation. The small book is composed of eight folios written and decorated on the rectos, leaving the versos blank. Script and decoration suggest that the book was conceived to imitate the style of fourteenth- or fifteenth-century French illumination. The creators, Eleanor Taylor and James Slie, signed the book on the title page, and declared their intended revival of this tradition. Each folio is embellished with border decoration showing narratives of Christ's life, as well as zoomorphic and foliate motifs in a palette of blue, red, and gold leaf. The contemporary binding is painted with a coat of arms inscribed with the motto \"GANG WARILY\" (proceed with caution). Although the manuscript has traditionally been considered to be of English origin, the armorial shield points to a Scottish use.",
+    "Dimensions": "Folio H: 9 11/16 \u00d7 W: 7 3/8 in. (24.6 \u00d7 18.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Saint John's Bible: A Modern Vision through Medieval Methods",
+            "ExhibBeginDate": "2009-02-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "February 15, 2009-May 24, 2009",
+            "ExhibEndDate": "2009-05-24",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2059,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Saint John's Bible: A Modern Vision through Medieval Methods. The Walters Art Museum, Baltimore. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53834,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.842.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.842.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.842.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.842.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.842.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] James Slie; [Signature] Eleanor Taylor",
+    "Keywords": "Codex; Illumination; Manuscript; Binding; Original binding; Ornament; Heraldry; Scripture",
+    "Medium": "ink and pigments on extremely polished white parchment bound between boards covered with white leather",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2333,
+        "LocationString": null
+    },
+    "ObjectID": 32540,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.842",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Edward Ripley Duggan of Wilsey Rare Books, Oliveridge, NY [date and mode of acquisition unknown]; Walters Art Museum, 1997, by purchase.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32540",
+    "SortNumber": "W        842                                            ",
+    "Style": null,
+    "Title": "Chapter Fifty-Three of the Book of Isaiah"
+}

@@ -1,0 +1,70 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1913",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -332,
+    "DateText": "664-332 BC",
+    "Description": "This statue is a late interpretation of the god Min, with a grotesque Bes-like face.",
+    "Dimensions": "8 3/8 in. (21.2 cm)",
+    "Dynasty": "26th-31st Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al-Jizah\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1544370,
+            "GeographyTerm": "Mit Rahina",
+            "Latitude": "29 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.85,
+            "Longitude": "031 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 877,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_54.412_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_54.412_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_54.412_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_54.412_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_54.412_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 407,
+        "LocationString": null
+    },
+    "ObjectID": 40826,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.412",
+    "OnView": 0,
+    "Period": "Late Period",
+    "Provenance": "Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1913, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-07-21T09:32:46.86",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40826",
+    "SortNumber": "    54   412                                            ",
+    "Style": null,
+    "Title": "Min (?)"
+}

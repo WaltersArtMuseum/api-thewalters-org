@@ -1,0 +1,99 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kikugawa Hisahide (Japanese, ca. 1781-1825)",
+            "CreatorID": 6039,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1759,
+    "DateEndYear": 1837,
+    "DateText": "ca. 1771-1825",
+    "Description": "A Chinese-style lion (\"karashishi\") is shown on the right in copper. It is next to a waterfall on the left. Waterfalls are associated with deity Fud\u00f4 My\u00f4-\u00f4, who is depicted on the matching kashira, Walters 51.1101.",
+    "Dimensions": "1 7/16 in. (3.7 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15598,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1100_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1100_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1100_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1100_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1100_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15597,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1100_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1100_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1100_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1100_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1100_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 15599,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.1100_MrkA_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.1100_MrkA_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.1100_MrkA_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.1100_MrkA_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.1100_MrkA_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u83ca\u5ddd\u5357\u752b; [Translation] Kikugawa Nanpo",
+    "Keywords": "karashishi; waterfall",
+    "Medium": "shibuichi, copper, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4120,
+        "LocationString": null
+    },
+    "ObjectID": 33441,
+    "ObjectName": "fuchi; sword components; handles",
+    "ObjectNumber": "51.1100",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-21T15:39:19.087",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 30940,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/33441",
+    "SortNumber": "    51  1100                                            ",
+    "Style": null,
+    "Title": "Fuchi with a Lion near a Waterfall"
+}

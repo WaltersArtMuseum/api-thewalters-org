@@ -1,0 +1,87 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Bizen School (Japanese)",
+            "CreatorID": 4010,
+            "Gender": null,
+            "Role": "Metalworker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1288,
+    "DateEndYear": 1312,
+    "DateText": "ca. 1300",
+    "Description": "This Bizen style blade was cut down and remounted in the later 19th century. It was likely made by Kaytayama Ichimonji, and shows stylistic qualities indicative of Bizen-den work being done in Bitchu Province around 1300.",
+    "Dimensions": "mounted aikuchi: 22 1/8 in. (56.3 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chugoku\\prefectures\\Okayama-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1493118,
+            "GeographyTerm": "Bitchu",
+            "Latitude": "34 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 34.783,
+            "Longitude": "133 27",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 133.45
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55784,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_51.1216_Fnt_BW_T89.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_51.1216_Fnt_BW_T89.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_51.1216_Fnt_BW_T89.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_51.1216_Fnt_BW_T89.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_51.1216_Fnt_BW_T89.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Umetada Masaharu",
+    "Keywords": null,
+    "Medium": "dark brown lacquer, steel, silver, gold, shakudo, iron, bamboo, ray skin, shibuichi",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1385,
+        "LocationString": null
+    },
+    "ObjectID": 40428,
+    "ObjectName": "swords",
+    "ObjectNumber": "51.1216",
+    "OnView": 0,
+    "Period": "Kamakura",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 13265,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 32834,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 36168,
+            "RelationType": "Component"
+        },
+        {
+            "ObjectID": 79605,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/40428",
+    "SortNumber": "    51  1216                                            ",
+    "Style": "Bizen School",
+    "Title": "Short Sword (\"Wakizashi\") with Dark Brown Saya"
+}

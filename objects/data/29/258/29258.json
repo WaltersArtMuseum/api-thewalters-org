@@ -1,0 +1,107 @@
+{
+    "Classification": "Textiles",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 900,
+    "DateEndYear": 925,
+    "DateText": "early 10th century",
+    "Description": "This fragment of a garment was woven in an official factory and decorated with an Arabic inscription. Such honorific inscriptions on textiles are called \"tiraz\" in Arabic, and \"taraziden\" in Persian. They combine pious invocations to God, verses from the Qur'an, and sometimes names of caliphs. On this example appears the phrase \". . . of Allah, and favor and glory to the servant of Allah. . .,\" a formula used to introduce the name of a caliph, a ruler of the Abbasid dynasty.",
+    "Dimensions": "H: 4 15/16 x W: 4 7/8 x D: 1/16 in. (12.6 x 12.4 x 0.1 cm)",
+    "Dynasty": "Abbasid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Threshold to the Sacred: The Ark Door of Cairo\u2019s Ben Ezra Synagogue ",
+            "ExhibBeginDate": "2013-03-02",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "March 02, 2013-February 23, 2014",
+            "ExhibEndDate": "2014-02-23",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 2114,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Threshold to the Sacred: The Ark Door of Cairo\u2019s Ben Ezra Synagogue . The Walters Art Museum, Baltimore; Yeshiva University Museum, New York. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37316,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_83.543_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_83.543_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_83.543_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_83.543_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_83.543_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 14890,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_83.543_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_83.543_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_83.543_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_83.543_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_83.543_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Translation] of Allah, and favor and glory to the servant of Allah",
+    "Keywords": null,
+    "Medium": "linen, silk embroidery",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2995,
+        "LocationString": null
+    },
+    "ObjectID": 29258,
+    "ObjectName": "textiles; fragments; costume",
+    "ObjectNumber": "83.543",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Maurice Nahman, Cairo and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1928, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-03T17:16:18.07",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29258",
+    "SortNumber": "    83   543                                            ",
+    "Style": null,
+    "Title": "Fragment of a Tiraz"
+}

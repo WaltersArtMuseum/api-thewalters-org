@@ -1,0 +1,82 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Hiroshige II (Japanese, 1826-1869)",
+            "CreatorID": 3724,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Justine Lewis Keidel, 1991",
+    "Culture": null,
+    "DateBeginYear": 1868,
+    "DateEndYear": 1868,
+    "DateText": "1868",
+    "Description": null,
+    "Dimensions": "H: 13 15/16 x W: 9 9/16 in. (35.4 x 24.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Kanagawa-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1491060,
+            "GeographyTerm": "Yokohama",
+            "Latitude": "35 28",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.466,
+            "Longitude": "139 38",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.633
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18927,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.695A_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.695A_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.695A_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.695A_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.695A_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] oju Hiroshige hitsu",
+    "Keywords": "modern times",
+    "Medium": "pigments on mulberry paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 79680,
+    "ObjectName": "color woodcuts",
+    "ObjectNumber": "95.695A",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Justine Lewis Keidel [date and mode of acquisition unknown]; Walters Art Museum, 1991, by gift.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79680",
+    "SortNumber": "    95   695A                                           ",
+    "Style": "Yokohama School",
+    "Title": "Tax Collection Office"
+}

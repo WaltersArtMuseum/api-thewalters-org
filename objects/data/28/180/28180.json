@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "The Affecter (Greek, active ca. 540-520 BC)",
+            "CreatorID": 2722,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -552,
+    "DateEndYear": -518,
+    "DateText": "ca. 540-530 BC",
+    "Description": "The vase painter known as \"The Affecter\" had a long career, beginning before 550 BC and lasting into the 520s. His style is one of the most easily recognized in all of Greek vase-painting, characterized by thick figures with tiny heads and exaggerated, angular joints. Both sides of the amphora show scenes of the messenger-god Hermes leading the wine-god Dionysus towards a woman (perhaps Ariadne, wife of Dionysus) who welcomes them, in the company of satyrs.",
+    "Dimensions": "H: 23 5/8 x Diam: 10 5/8 in. (60 x 27 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Undercover Stories in Art",
+            "ExhibBeginDate": "1980-04-20",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "April 20, 1980-June 1, 1980",
+            "ExhibEndDate": "1980-06-01",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2672,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Undercover Stories in Art. The Walters Art Gallery, Baltimore. 1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8390,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.11_SideB_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.11_SideB_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.11_SideB_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.11_SideB_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.11_SideB_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8389,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.11_SideA_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.11_SideA_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.11_SideA_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.11_SideA_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.11_SideA_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3643,
+        "LocationString": null
+    },
+    "ObjectID": 28180,
+    "ObjectName": "amphorae",
+    "ObjectNumber": "48.11",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Don Marcello Massarenti Collection, Rome [no. 218]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.\r\n",
+    "PublicAccessDate": "2008-09-25T17:13:39.86",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28180",
+    "SortNumber": "    48    11                                            ",
+    "Style": "Attic",
+    "Title": "Black-Figure Amphora"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Uchikoshi Hirochika (Japanese, ca. 1825)",
+            "CreatorID": 6506,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1813,
+    "DateEndYear": 1837,
+    "DateText": "ca. 1825",
+    "Description": "This tsuba probably depicts the Chinese calligrapher Wang Xizhi [Wang Hsi-chih], who lived in the 4th century BC. He is shown with a long scroll in his hand and a boy attendant. The bird at the upper left is a crane raised by Wang Xizhi [Wang Hsi-chih].",
+    "Dimensions": "2 5/8 x 2 3/8 x 1/8 in. (6.6 x 6.08 x 0.35 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490882,
+            "GeographyTerm": "Mito",
+            "Latitude": "36 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.366,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12234,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.144_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.144_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.144_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.144_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.144_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12233,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.144_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.144_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.144_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.144_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.144_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12235,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.144_Mrk_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.144_Mrk_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.144_Mrk_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.144_Mrk_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.144_Mrk_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u5f18\u89aa; [Translation] Hirochika",
+    "Keywords": "Jurojin; animal; bird; crane; plant; tree; pine tree",
+    "Medium": "shibuichi, gold, silver, gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 495,
+        "LocationString": null
+    },
+    "ObjectID": 5358,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.144",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-31T15:10:17.023",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5358",
+    "SortNumber": "    51   144                                            ",
+    "Style": "Mito School",
+    "Title": "Tsuba with Wang Xizhi"
+}

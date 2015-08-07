@@ -1,0 +1,155 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -400,
+    "DateEndYear": -340,
+    "DateText": "ca. 399-343 BCE",
+    "Description": "The goddess Neith was worshipped in Egypt from the beginning of the 3rd millennium BC. Her main place of worship was in Sa\u00efs, in the eastern delta of Egypt. As a lower Egyptian goddess, she is normally equipped with the \"red crown.\" Her eyes, brows, and collar are inlayed with gold and electrum. Her pierced hands once held scepters.",
+    "Dimensions": "H with tang: 6 1/16 x W: 1 3/8 x D: 2 5/8 in. (15.4 x 3.5 x 6.6 cm); H without tang: 5 1/2 x W: 1 3/8 x D: 2 5/8 in. (14 x 3.5 x 6.6 cm)",
+    "Dynasty": "29th-30th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Egypt\u2019s Mysterious Book of the Faiyum",
+            "ExhibBeginDate": "2013-10-06",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 06, 2013-January 05, 2015",
+            "ExhibEndDate": "2014-01-05",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3193,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "Egypt\u2019s Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52939,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.397_FntAT_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.397_FntAT_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.397_FntAT_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.397_FntAT_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.397_FntAT_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 52938,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.397_BackAT_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.397_BackAT_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.397_BackAT_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.397_BackAT_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.397_BackAT_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8735,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.397_Rt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.397_Rt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.397_Rt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.397_Rt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.397_Rt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        },
+        {
+            "ID": 8734,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.397_Lft_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.397_Lft_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.397_Lft_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.397_Lft_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.397_Lft_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        },
+        {
+            "ID": 8731,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.397_3Qtr_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.397_3Qtr_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.397_3Qtr_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.397_3Qtr_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.397_3Qtr_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        },
+        {
+            "ID": 8732,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.397_Back_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.397_Back_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.397_Back_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.397_Back_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.397_Back_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        },
+        {
+            "ID": 8733,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.397_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.397_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.397_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.397_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.397_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze with gold and electrum inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3768,
+        "LocationString": null
+    },
+    "ObjectID": 30010,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.397",
+    "OnView": 1,
+    "Period": "Late Period, 29th-30th dynasty",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.377",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30010",
+    "SortNumber": "    54   397                                            ",
+    "Style": null,
+    "Title": "Statuette of Neith"
+}

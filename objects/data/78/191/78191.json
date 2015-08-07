@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "10th century AH/AD 16th century",
+    "Description": null,
+    "Dimensions": "H: 11 13/16 x W: 8 7/8 in. (30 x 22.5 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11744,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.660.1A-2B_OpnGp_TR_T97.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Book; Codex; Illumination; Illustration; Manuscript; Charts; Turkey; Science; Cartography; Geography",
+    "Medium": "ink and pigments on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78191,
+    "ObjectName": "illuminated mansucripts; folios (leaves)",
+    "ObjectNumber": "W.660.1A",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78191",
+    "SortNumber": "W        660    1A                                      ",
+    "Style": null,
+    "Title": "Leaf from Maritime Atlas"
+}

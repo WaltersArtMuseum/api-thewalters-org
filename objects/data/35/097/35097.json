@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1928",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 200,
+    "DateText": "1st-2nd century AD",
+    "Description": "Faience vessels with decorations in raised relief are typical of the early Roman Period in Egypt. Some have only vegetal patterns; others combine floral and geometric patterns with representations of animals. This vase may belong to a group which came from Memphis. The neck of the vase displays animals and fantastical creatures, the shoulder has a geometric pattern, and the lower portion of the body has a second frieze with lions, dogs and cats. The section above the foot has a vegetal pattern.",
+    "Dimensions": "6 1/16 in. (15.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Faience: The Colors of the Heavens",
+            "ExhibBeginDate": "2003-05-17",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "May 17, 2003-June 30, 2004",
+            "ExhibEndDate": "2004-06-30",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 10,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Faience: The Colors of the Heavens. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al-Jizah\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544370,
+            "GeographyTerm": "Mit Rahina",
+            "Latitude": "29 51",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.85,
+            "Longitude": "031 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 31.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11372,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1621_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1621_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1621_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1621_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1621_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "faience with blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1473,
+        "LocationString": null
+    },
+    "ObjectID": 35097,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.1621",
+    "OnView": 0,
+    "Period": "Roman",
+    "Provenance": "Dikran Kelekian, New York and Paris; Henry Walters, Baltimore, 1928, [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-29T12:35:42.797",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35097",
+    "SortNumber": "    48  1621                                            ",
+    "Style": null,
+    "Title": "Vase with Relief Decoration"
+}

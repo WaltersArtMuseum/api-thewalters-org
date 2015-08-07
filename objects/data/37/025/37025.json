@@ -1,0 +1,131 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ethiopian",
+            "CreatorID": 6264,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the W. Alton Jones Foundation Acquisition Fund, 1996",
+    "Culture": "Christian Highland Ethiopian",
+    "DateBeginYear": 1400,
+    "DateEndYear": 1499,
+    "DateText": "15th century",
+    "Description": "In a design typical of the 15th century, this cross uses an interior panel to represent sacred figures. Because it has been cast as a single piece with the shaft, it is likely that this cross represents a relatively early example of this form. The incised central panel features an image of Mary and the infant Christ on one side and the figures of two archangels on the other. The picture field, consisting of a short-armed cross, is surrounded by an interlacing web terminating in small crosses. The incised linear decoration accentuates the woven character of the design, conveying the impression that individual bands pass over and under each other as they encircle the central panel.\r\n\r\nThe cross's incorporation of an image of the Virgin Mary, whose veneration was formalized under Emperor Z\u00e4r'a Ya'eqob (reigned 1434-68), suggests that the object combined the functions of a processional cross and an icon. Krestos S\u00e4mra, a female saint who founded a monastery on Lake Tana in the mid-15th century, often prayed holding a cross that featured a picture of the Virgin and Child. By the 15th century, the devotional function of icons had radically influenced the traditional design of the processional cross.",
+    "Dimensions": "H: 9 1/4 x W: 5 11/16 in. (23.49 x 14.44 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Angels of Light: Ethiopian Art from the Walters Art Museum",
+            "ExhibBeginDate": "2006-02-05",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "February 5, 2006-May 20, 2007",
+            "ExhibEndDate": "2007-05-20",
+            "ExhibEndYear": 2007,
+            "ExhibitionID": 1958,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Angels of Light: Ethiopian Art from the Walters Art Museum. Birmingham Museum of Art, Birmingham; Smith College Museum of Art, Northampton; Museum of Biblical Art, New York. 2006-2007."
+        },
+        {
+            "ExhTitle": "Ethiopian Art at The Walters",
+            "ExhibBeginDate": "1996-08-14",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "August 14, 1996-December  1 ,1996",
+            "ExhibEndDate": "1996-12-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 955,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Ethiopian Art at The Walters. The Walters Art Gallery, Baltimore. 1996."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1541960,
+            "GeographyTerm": "Ityop'iya",
+            "Latitude": "08 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 8.0,
+            "Longitude": "039 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 39.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52304,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2892_SideB_TR_T01III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2892_SideB_TR_T01III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2892_SideB_TR_T01III.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2892_SideB_TR_T01III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2892_SideB_TR_T01III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 6984,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_54.2892_SideA_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_54.2892_SideA_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_54.2892_SideA_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_54.2892_SideA_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_54.2892_SideA_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "religion; ceremony; christianity; Mary; Christ Child; archangel; angel",
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 517,
+        "LocationString": null
+    },
+    "ObjectID": 37025,
+    "ObjectName": "processional crosses; sculpture",
+    "ObjectNumber": "54.2892",
+    "OnView": 0,
+    "Period": "Solomonic",
+    "Provenance": "Knopfelmacher Collection, New York; William Wright Gallery, New York; Walters Art Museum, 1996, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:16:11.443",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37025",
+    "SortNumber": "    54  2892                                            ",
+    "Style": null,
+    "Title": "Processional Cross"
+}

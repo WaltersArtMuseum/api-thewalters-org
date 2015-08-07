@@ -1,0 +1,91 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Husayn Va'iz Kashifi (died 1504-1505)",
+            "CreatorID": 19293,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1590,
+    "DateEndYear": 1620,
+    "DateText": "late 10th century AH/AD 16th century-early 11th century AH/AD 17th century",
+    "Description": "This illustration, Walters manuscript leaf W.692, is from a Mughal manuscript copy of Anvar-i Suhayli (The lights of Canopus), a collection of fables by Husayn ibn 'Ali Va'iz Kashifi (died 910 AH/AD 1504-1505). It dates to the late 10th century AH/AD 16th or early 11th century AH/AD 17th. The text narrates the fate of a man who, escaping from a wild camel, jumps into a well. There his predicament grows even more precarious when he lands on the heads of 4 snakes, grasps in desperation at a bush gnawed by two rats, and looks down to see dragon waiting to devour him should he fall.",
+    "Dimensions": "H: 13 3/16 x W: 8 1/4 in. (33.5 x 21 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34244,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.692_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.692_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.692_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.692_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.692_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19328,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.692_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.692_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.692_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.692_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.692_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Illustration; Manuscript; India; Literature -- Prose",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6427,
+        "LocationString": null
+    },
+    "ObjectID": 9478,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.692",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83800,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83801,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/9478",
+    "SortNumber": "W        692                                            ",
+    "Style": null,
+    "Title": "Single Leaf from Anvar-i Suhayli by Khashifi"
+}

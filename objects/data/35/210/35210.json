@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1899,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "2 1/2 x 4 13/16 in. (6.3 x 12.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 15547,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_52.163_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_52.163_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_52.163_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_52.163_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_52.163_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 15548,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_52.163_Top_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_52.163_Top_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_52.163_Top_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_52.163_Top_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_52.163_Top_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "unread   Gold plaque with inscription.",
+    "Keywords": "animal; monkey; cephalopod; octopus; plant; tree",
+    "Medium": "iron, gold, and silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 505,
+        "LocationString": null
+    },
+    "ObjectID": 35210,
+    "ObjectName": "boxes;covers",
+    "ObjectNumber": "52.163",
+    "OnView": 0,
+    "Period": "Meiji",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-04-21T15:39:57.713",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35210",
+    "SortNumber": "    52   163                                            ",
+    "Style": null,
+    "Title": "Covered Box Showing an Octopus and Monkey at Tug-of-War"
+}

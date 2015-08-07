@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2002",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "12th century AH/AD 18th century",
+    "Description": "This calligraphy page, Walters manuscript leaf W.912, is signed with the epithet Jawahir raqam.",
+    "Dimensions": "H: 17 1/8 x W: 9 9/16 in. (43.5 x 24.3 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34873,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.912_Back_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.912_Back_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.912_Back_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.912_Back_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.912_Back_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Calligraphy; Illumination; Illustration; Manuscript; Miniature; Painting; Album; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 84208,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.912.B",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84208",
+    "SortNumber": "W        912B                                           ",
+    "Style": "late Mughal",
+    "Title": "Calligraphy Page"
+}

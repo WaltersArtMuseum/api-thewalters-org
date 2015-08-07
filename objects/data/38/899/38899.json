@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Syrian",
+            "CreatorID": 3930,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1946",
+    "Culture": "Byzantine",
+    "DateBeginYear": 500,
+    "DateEndYear": 699,
+    "DateText": "6th-7th century",
+    "Description": null,
+    "Dimensions": "Diam: 1 3/8 in. (3.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2002-04-19",
+            "ExhibBeginYear": 2002,
+            "ExhibDisplayDate": "April 19, 2002-January 2, 2005",
+            "ExhibEndDate": "2005-01-02",
+            "ExhibEndYear": 2005,
+            "ExhibitionID": 246,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2002-2005."
+        },
+        {
+            "ExhTitle": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum",
+            "ExhibBeginDate": "2001-09-28",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "September 28, 2001-January 13, 2002",
+            "ExhibEndDate": "2002-01-13",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 2752,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Realms of Faith: Medieval and Byzantine Art from the Walters Art Museum. Frist Center for the Visual Arts, Nashville. 2001-2002."
+        },
+        {
+            "ExhTitle": "Sacred Souvenirs: Byzantine Pilgrimage Art",
+            "ExhibBeginDate": "1982-05-04",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 4, 1982-September 6, 1982",
+            "ExhibEndDate": "1982-09-06",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 717,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Sacred Souvenirs: Byzantine Pilgrimage Art. Dumbarton Oaks, Washington. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Suriyah\\governorates\\Hims\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1499767,
+            "GeographyTerm": "Qal'at Si'man",
+            "Latitude": "36 20",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.333,
+            "Longitude": "036 51",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 36.85
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39108,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1938_Fnt_BW_9014.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1938_Fnt_BW_9014.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1938_Fnt_BW_9014.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1938_Fnt_BW_9014.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1938_Fnt_BW_9014.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "unfired red clay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 885,
+        "LocationString": null
+    },
+    "ObjectID": 38899,
+    "ObjectName": "tokens",
+    "ObjectNumber": "48.1938",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Walters Art Museum, 1946, by purchase.",
+    "PublicAccessDate": "2012-08-31T22:00:01.063",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38899",
+    "SortNumber": "    48  1938                                            ",
+    "Style": null,
+    "Title": "Pilgrim Token from the Shrine of St. Symeon"
+}

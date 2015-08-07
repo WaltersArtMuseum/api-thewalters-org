@@ -1,0 +1,82 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1684,
+    "DateEndYear": 1684,
+    "DateText": "7192 AM/AD 1684",
+    "Description": "This binding from Walters manuscript W.592 is brown goatskin (with a flap). It is decorated with a blind-tooled central oval medallion and cornerpieces.",
+    "Dimensions": "Folio H: 6 5/16 x W: 4 5/16 in. (16 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31242,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.592.binding_ExtTopClsd_DD_Upper board outside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.592.binding_ExtTopClsd_DD_Upper board outside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.592.binding_ExtTopClsd_DD_Upper board outside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.592.binding_ExtTopClsd_DD_Upper board outside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.592.binding_ExtTopClsd_DD_Upper board outside.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 31243,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.592.binding_TopInt_DD_Upper board inside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.592.binding_TopInt_DD_Upper board inside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.592.binding_TopInt_DD_Upper board inside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.592.binding_TopInt_DD_Upper board inside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.592.binding_TopInt_DD_Upper board inside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Arabic; Binding; Book; Christian; Codex; Colophon; Egypt; Illumination; Illustration; Islamic; Manuscript; Scripture",
+    "Medium": "brown goatskin",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 82059,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.592.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Leon Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown] [Henry Walters Ex Libris book plate on the inside of the upper board]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/82059",
+    "SortNumber": "W        592binding                                     ",
+    "Style": null,
+    "Title": "Binding from Gospels"
+}

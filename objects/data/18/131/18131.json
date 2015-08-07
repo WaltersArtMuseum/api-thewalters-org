@@ -1,0 +1,101 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Kuroda Koryo (Japanese, 1822-1894) (?)",
+            "CreatorID": 6675,
+            "Gender": "female",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Otagaki Rengetsu (Japanese, 1791-1875) (?)",
+            "CreatorID": 17613,
+            "Gender": "female",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1878",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "This small teapot (kyusu) is inscribed with a \"waka\" poem by Rengetsu I.",
+    "Dimensions": "H: 4 13/16 in. (12.22 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Exposition Universelle",
+            "ExhibBeginDate": "1878-05-05",
+            "ExhibBeginYear": 1878,
+            "ExhibDisplayDate": "May 5, 1878-November 10, 1878",
+            "ExhibEndDate": "1878-11-10",
+            "ExhibEndYear": 1878,
+            "ExhibitionID": 2381,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Exposition Universelle. Paris. 1878."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kinki\\urban prefectures\\Kyoto\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492949,
+            "GeographyTerm": "Kyoto",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "135 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 135.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8619,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.891_Prof_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.891_Prof_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.891_Prof_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.891_Prof_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.891_Prof_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Poem] Yo no chiri o / yosoni harahite / yukusue no / chiyo o shimetaru / yado no matsukaze; [Translation] May the pine wind flowing, flowing, through the house, brush away the dust, of the ages",
+    "Keywords": "poem",
+    "Medium": "stoneware with rice-straw-ash glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2062,
+        "LocationString": null
+    },
+    "ObjectID": 18131,
+    "ObjectName": "teapots; kyusu",
+    "ObjectNumber": "49.891",
+    "OnView": 0,
+    "Period": "Edo; Meiji",
+    "Provenance": "Exposition Universelle, Paris, 1878; William T. Walters, Baltimore, 1878, by purchase; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-02-04T10:19:01.223",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18131",
+    "SortNumber": "    49   891                                            ",
+    "Style": "Kyoto ware",
+    "Title": "Teapot for Steeped Tea"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -25,
+    "DateEndYear": -1,
+    "DateText": "late 1st century BC",
+    "Description": "This pyxis, or cylindrical box, is an exquisite example of Roman luxury glassware, used to hold cosmetics or precious jewelry. Cylindrical in  shape with a knob on the cover; stratified: green, white, yellow, blue.",
+    "Dimensions": "with cover: 1 15/16 x 1 5/8 in. (4.91 x 4.06 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Yisra'el\\districts (national)\\Yerushalayim, Mehoz\\inhabited places\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1489737,
+            "GeographyTerm": "Yerushalayim",
+            "Latitude": "31 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.766,
+            "Longitude": "035 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33364,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.76_Fnt_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.76_Fnt_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.76_Fnt_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.76_Fnt_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.76_Fnt_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33365,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.76_VwA_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.76_VwA_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.76_VwA_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.76_VwA_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.76_VwA_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33366,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.76_VwB_DD_T11.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.76_VwB_DD_T11.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.76_VwB_DD_T11.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.76_VwB_DD_T11.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.76_VwB_DD_T11.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass, gold leaf",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1720,
+        "LocationString": null
+    },
+    "ObjectID": 14002,
+    "ObjectName": "boxes; covers; pxyides",
+    "ObjectNumber": "47.76",
+    "OnView": 0,
+    "Period": "Augustan",
+    "Provenance": "[Found near Jerusalem]; Dikran Kelekian, New York and Paris; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14002",
+    "SortNumber": "    47    76                                            ",
+    "Style": null,
+    "Title": "Pyxis"
+}

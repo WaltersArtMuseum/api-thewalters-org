@@ -1,0 +1,143 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1959",
+    "Culture": null,
+    "DateBeginYear": -552,
+    "DateEndYear": -528,
+    "DateText": "ca. 540 BC",
+    "Description": "Fikellura ware derives its name from a site on Rhodes, where one of the first examples was found, but it is now believed that the pottery was made in Miletus, a site on the coast of Asia Minor. The braided \"guilloche\" (interlacing bands) pattern on the neck and the band of crescents above the foot are typically East Greek. The main body of the vase is decorated with a delicate lattice pattern imitating fine embroidery.\r\n",
+    "Dimensions": "14 15/16 x 7 7/8 in. (38 x 20 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Ege kiyilari\\provinces\\Aydin Ili\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501693,
+            "GeographyTerm": "Miletus",
+            "Latitude": "37 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.5,
+            "Longitude": "027 18",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 27.3
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53849,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2114_SideA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2114_SideA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2114_SideA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2114_SideA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2114_SideA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 53847,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2114_3Qtr_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2114_3Qtr_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2114_3Qtr_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2114_3Qtr_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2114_3Qtr_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 53848,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2114_Rt_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2114_Rt_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2114_Rt_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2114_Rt_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2114_Rt_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 53850,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2114_SideB_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2114_SideB_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2114_SideB_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2114_SideB_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2114_SideB_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 6848,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.2114_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.2114_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.2114_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.2114_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.2114_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3644,
+        "LocationString": null
+    },
+    "ObjectID": 15111,
+    "ObjectName": "amphorae",
+    "ObjectNumber": "48.2114",
+    "OnView": 1,
+    "Period": "Archaic",
+    "Provenance": "Hesperia Art [Robert E. Hecht, Jr.], Philadelphia [date and mode of acquisition unknown]; Walters Art Museum, 1959, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.22",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15111",
+    "SortNumber": "    48  2114                                            ",
+    "Style": "Archaic",
+    "Title": "Fikellura Amphora"
+}

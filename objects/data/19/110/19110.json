@@ -1,0 +1,70 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "A \"torch\u00e8re\" is a tall, ornamental candlestick.",
+    "Dimensions": "62 in. (157.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5932,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_65.43_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_65.43_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_65.43_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_65.43_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_65.43_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "wood (walnut) with gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 16th Century Italian Art",
+        "LocationID": 4649,
+        "LocationString": null
+    },
+    "ObjectID": 19110,
+    "ObjectName": "torch\u00e8res (lamps)",
+    "ObjectNumber": "65.43",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Brummer Sale, New York, 1949; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:00.49",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19110",
+    "SortNumber": "    65    43                                            ",
+    "Style": null,
+    "Title": "\"Torch\u00e8re\" with Acanthus Leaves and Clawed Feet"
+}

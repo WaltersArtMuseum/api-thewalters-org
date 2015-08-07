@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1450,
+    "DateEndYear": 1500,
+    "DateText": "2nd half 15th century",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 174, pp. 260-261.",
+    "Dimensions": "Painted surface H: 35 7/16 x W: 27 11/16 x D excluding cradle: 1/4 in. (90 x 70.3 x 0.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29207,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.708_Fnt_BW_H74.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.708_Fnt_BW_H74.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.708_Fnt_BW_H74.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.708_Fnt_BW_H74.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.708_Fnt_BW_H74.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48159,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.708_XR_1963.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.708_XR_1963.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.708_XR_1963.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.708_XR_1963.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.708_XR_1963.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3260,
+        "LocationString": null
+    },
+    "ObjectID": 37608,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.708",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Marquess Filippo Marignoli, Rome and Spoleto, until 1898 [mode of acquisition unknown]; Marquess Francesco Marignoli, 1898 [mode of acqusition unknown];  Don Marcello Massarenti Collection, Rome, 1899 [1900 catalogue supplement: no. 9, as Buonconsiglio]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-05-20T13:45:35.73",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37608",
+    "SortNumber": "    37   708                                            ",
+    "Style": null,
+    "Title": "The Holy Family"
+}

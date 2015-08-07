@@ -1,0 +1,101 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Marco del Buono Giamberti (Italian, 1402-1489)",
+            "CreatorID": 3416,
+            "Gender": "male",
+            "Role": "Painter"
+        },
+        {
+            "ConcatDisplayName": "Apollonio di Giovanni di Tommaso (Italian, ca. 1415/1417-1465)",
+            "CreatorID": 2035,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Gift of the Dr. Francis D. Murnaghan Fund, 1973",
+    "Culture": null,
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "15th century",
+    "Description": "For more information on this piece, please see Federico Zeri's 1976 catalogue no. 47, pp. 77-79.",
+    "Dimensions": "Painted surface H: 16 13/16 x W: 32 1/16 x D: 13/16 in. (42.7 x 81.5 x 2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Art of Law: Legal Documents from the Collection of The Walters",
+            "ExhibBeginDate": "2006-01-14",
+            "ExhibBeginYear": 2006,
+            "ExhibDisplayDate": "January 14, 2006-April 9, 2006",
+            "ExhibEndDate": "2006-04-09",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 91,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Art of Law: Legal Documents from the Collection of The Walters. The Walters Art Museum, Baltimore. 2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 26066,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.2503_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.2503_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.2503_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.2503_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.2503_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "tempera on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3259,
+        "LocationString": null
+    },
+    "ObjectID": 39896,
+    "ObjectName": "panel paintings; fragments",
+    "ObjectNumber": "37.2503",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Justice James A. Murnaghan, Dublin, ca. 1920 [mode of acquisition unknown]; Dr. Francis Murnaghan Fund [date and mode of acquisition unknown]; Walters Art Museum, 1973, by gift.",
+    "PublicAccessDate": "2009-10-14T10:49:46.893",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39896",
+    "SortNumber": "    37  2503                                            ",
+    "Style": null,
+    "Title": "Episodes from the Story of Susannah"
+}

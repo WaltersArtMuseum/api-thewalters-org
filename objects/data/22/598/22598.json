@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of David Rosen, 1945",
+    "Culture": null,
+    "DateBeginYear": -242,
+    "DateEndYear": -218,
+    "DateText": "ca. 230 BC",
+    "Description": "Hadra vases are named for a cemetery in Hellenistic Alexandria, where such vessels held the ashes of the dead. Though shaped like an Athenian \"hydria,\" or water jug, its sparse decoration suggests inspiration from Macedonia, where metal \"hydriae\" draped with gold wreaths were deposited in royal tombs. The Ptolemaic rulers of Egypt after Alexander the Great's conquest were themselves Macedonians and may have inspired this custom.",
+    "Dimensions": "H: 14 7/16 x W: 14 15/16 x Diam: 9 7/8 in. (36.7 x 38 x 25.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        },
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8427,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1916_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1916_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1916_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1916_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1916_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8426,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.1916_Back_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.1916_Back_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.1916_Back_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.1916_Back_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.1916_Back_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5930,
+        "LocationString": null
+    },
+    "ObjectID": 22598,
+    "ObjectName": "hydriae; vases; jugs",
+    "ObjectNumber": "48.1916",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "David Rosen [date and mode of acquisition unknown]; Walters Art Museum, 1945, by gift.",
+    "PublicAccessDate": "2008-09-25T17:13:40.157",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/22598",
+    "SortNumber": "    48  1916                                            ",
+    "Style": "Hellenistic",
+    "Title": "Hadra Vase"
+}

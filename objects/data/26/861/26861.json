@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Partial museum purchase with funds provided by the S. & A.P. Fund, 1956 and partial gift of Mr. Robert E. Hecht, Jr., 1957",
+    "Culture": "Byzantine",
+    "DateBeginYear": 900,
+    "DateEndYear": 999,
+    "DateText": "10th century",
+    "Description": "This ceramic icon shows Saint Nicholas, framed by vine scrolls, raising his right hand in blessing and holding the Gospels in his left hand, which is covered as a sign of respect. This ceramic tile is one of the finest in the Walters collection, which includes over 1,000 fragments, the largest such group outside of Turkey.\r\n\r\nAlthough of unknown origin, this group of tiles is similar to ones known to have been made in Constantinople (now Istanbul). The tiles were most likely attached to a church wall as part of a frieze containing saint portraits and ornamented (non-iconic) pieces. Two further tiles in the museum belong to the same series as this one and carry images of Saint James (Walters 48.2086.9) and Saint Parascheve (?) (Walters 48.2086.14).",
+    "Dimensions": "H: 6 9/16 x W: 6 7/16 x D: 5/16 in. (16.7 x 16.4 x 0.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Byzantium, 330-1453",
+            "ExhibBeginDate": "2008-10-25",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "October 25, 2008-March 22, 2008",
+            "ExhibEndDate": "2008-03-22",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 1977,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Byzantium, 330-1453. Royal Academy of Arts, London. 2008."
+        },
+        {
+            "ExhTitle": "The Glory of Byzantium",
+            "ExhibBeginDate": "1997-03-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "March 11, 1997-July 6, 1997",
+            "ExhibEndDate": "1997-07-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 889,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Glory of Byzantium. The Metropolitan Museum of Art, New York. 1997."
+        },
+        {
+            "ExhTitle": "To Arrest the Ravages of Time: Caring for Art at the Walters",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 721,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "To Arrest the Ravages of Time: Caring for Art at the Walters. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6551,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.2086.1_Fnt_TR_T00.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.2086.1_Fnt_TR_T00.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.2086.1_Fnt_TR_T00.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.2086.1_Fnt_TR_T00.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.2086.1_Fnt_TR_T00.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "architecture; revetment; St. Nicholas; gospel; Byzantine art; ceramic; icon; saint",
+    "Medium": "ceramic with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3836,
+        "LocationString": null
+    },
+    "ObjectID": 26861,
+    "ObjectName": "ceramic tiles; icons",
+    "ObjectNumber": "48.2086.1",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Nikos Avgheris, Istanbul, ca. 1950, by purchase; Robert E. Hecht, Ruxton, Maryland, 1956, by purchase; Walters Art Museum, 1956, by purchase.",
+    "PublicAccessDate": "2008-12-01T14:12:37.16",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26861",
+    "SortNumber": "    48  2086    1                                       ",
+    "Style": "Middle Byzantine",
+    "Title": "Saint Nicholas"
+}

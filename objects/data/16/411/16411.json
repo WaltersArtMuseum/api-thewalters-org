@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Johann Michael Rottmayr (Austrian, 1654-1730)",
+            "CreatorID": 4803,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1724,
+    "DateText": "ca. 1712",
+    "Description": "This oil sketch depicting Christ being taken down from the cross is a study for a larger canvas commissioned for a private chapel in the monastery of Kremsm\u00fcnter in Austria. Rottmayr painted many altars and ceiling frescoes in churches throughout Austria. His extremely fluid brush strokes bind the composition together. Preliminary studies like this could be used to show a patron what the final altarpiece would look like before work was begun. They were increasingly appreciated as works of art and collected during the 18th century.",
+    "Dimensions": "44 1/2 x 26 15/16 in. (113 x 68.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Tiepolo Unveiled: The Restoration of a Masterpiece",
+            "ExhibBeginDate": "1996-05-12",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "May 12, 1996-October 6, 1996",
+            "ExhibEndDate": "1996-10-06",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2335,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Tiepolo Unveiled: The Restoration of a Masterpiece. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\\u00d6sterreich\\states\\Wien\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421142,
+            "GeographyTerm": "Wien",
+            "Latitude": "48 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.216,
+            "Longitude": "016 22",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 16.366
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4261,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.788_Fnt_SL.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.788_Fnt_SL.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.788_Fnt_SL.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.788_Fnt_SL.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.788_Fnt_SL.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Third Floor: 18th-Century Art",
+        "LocationID": 4781,
+        "LocationString": null
+    },
+    "ObjectID": 16411,
+    "ObjectName": "painting",
+    "ObjectNumber": "37.788",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:58.643",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/16411",
+    "SortNumber": "    37   788                                            ",
+    "Style": null,
+    "Title": "The Deposition from the Cross"
+}

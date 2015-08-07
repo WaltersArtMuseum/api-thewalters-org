@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tony Johannot (French, 1803-1852)",
+            "CreatorID": 3163,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1863 (?)",
+    "Culture": null,
+    "DateBeginYear": 1803,
+    "DateEndYear": 1852,
+    "DateText": "1st half 19th century",
+    "Description": null,
+    "Dimensions": "H: 9 3/16 x W: 7 3/16 in. (23.3 x 18.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        },
+        {
+            "ExhTitle": "French Painting from David to Courbet",
+            "ExhibBeginDate": "1950-02-01",
+            "ExhibBeginYear": 1950,
+            "ExhibDisplayDate": "February 1,1950- March 5, 1950",
+            "ExhibEndDate": "1950-03-05",
+            "ExhibEndYear": 1950,
+            "ExhibitionID": 441,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "French Painting from David to Courbet. The Detroit Institute of Arts, Detroit. 1950."
+        },
+        {
+            "ExhTitle": "A Supple Brush: The Flowering of Continental Watercolors",
+            "ExhibBeginDate": "1979-05-27",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "May 27, 1979-July 22, 1979",
+            "ExhibEndDate": "1979-07-22",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 404,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Supple Brush: The Flowering of Continental Watercolors. The Walters Art Gallery, Baltimore. 1979."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 96,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1304_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1304_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1304_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1304_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1304_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"23\" in graphite, verso; \"Tony Johannot\", brown ink, lower right",
+    "Keywords": "man; woman; child; prayer; genre; interior",
+    "Medium": "watercolor with graphite underdrawing and white heightening on cream, moderately thick, moderately textured wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2254,
+        "LocationString": null
+    },
+    "ObjectID": 15018,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1304",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Sale, H\u00f4tel Drouot, April 25, 1863; William T. Walters, Baltimore, 1863 (?), by purchase [George A. Lucas as agent]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-01T12:29:50.637",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15018",
+    "SortNumber": "    37  1304                                            ",
+    "Style": null,
+    "Title": "Old Man Blessing a Girl Kneeling"
+}

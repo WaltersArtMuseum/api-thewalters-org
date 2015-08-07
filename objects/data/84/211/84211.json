@@ -1,0 +1,70 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "early 12th century AH/AD 18th century",
+    "Description": "Walters manuscript leaf W.708, a painting depicting women in various states of undress bathing on the bank of a river, is attributable to the early 12th century AH/AD 18th. It was likely made in Rajasthan. The biscuit-colored border is gold-flecked.",
+    "Dimensions": "H: 10 1/4 x W: 9 7/16 in. (26 x 24 cm); Image H: 9 1/4 x W: 6 1/8 in. (23.5 x 15.5 cm)",
+    "Dynasty": "Rajput Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507105,
+            "GeographyTerm": "Rajasthan",
+            "Latitude": "26 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 26.0,
+            "Longitude": "074 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 74.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38697,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.708.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.708.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.708.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.708.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.708.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Rajput; Illustration; Miniature; Painting; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 84211,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.708.A",
+    "OnView": 0,
+    "Period": "Rajput",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/84211",
+    "SortNumber": "W        708A                                           ",
+    "Style": null,
+    "Title": "Women Bathing on the Bank of a River"
+}

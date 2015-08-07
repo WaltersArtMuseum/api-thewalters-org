@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1675,
+    "DateEndYear": 1725,
+    "DateText": "1675-1725",
+    "Description": "This is an example of \"famille verte\" porcelain.",
+    "Dimensions": "5 1/8 in. (13 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Masterpieces of Chinese Porcelain",
+            "ExhibBeginDate": "1980-10-16",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 16, 1980-January 11, 1981",
+            "ExhibEndDate": "1981-01-11",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2514,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Chinese Porcelain. The Walters Art Gallery, Baltimore. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5280,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.823_Fnt_BW_H56.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.823_Fnt_BW_H56.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.823_Fnt_BW_H56.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.823_Fnt_BW_H56.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.823_Fnt_BW_H56.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "spurious reign mark of Chenghua [Ch'eng-hua] (1464-1487)",
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1713,
+        "LocationString": null
+    },
+    "ObjectID": 35576,
+    "ObjectName": "dishes",
+    "ObjectNumber": "49.823",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.42",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35576",
+    "SortNumber": "    49   823                                            ",
+    "Style": "famille verte",
+    "Title": "Dish with Spreading Sides"
+}

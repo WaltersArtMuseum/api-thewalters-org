@@ -1,0 +1,83 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1945",
+    "Culture": null,
+    "DateBeginYear": -700,
+    "DateEndYear": -625,
+    "DateText": "7th-early 6th century BC",
+    "Description": "Aniconic; spiral broken off.",
+    "Dimensions": "H: 6 11/16 x W: 2 7/8 x D: 1 1/4 in. (17 x 7.3 x 3.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431620,
+            "GeographyTerm": "Vo\u00ed\u00f3t\u00eda",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14544,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.1922_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.1922_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.1922_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.1922_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.1922_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "yellow clay with black glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1689,
+        "LocationString": null
+    },
+    "ObjectID": 38799,
+    "ObjectName": "figurines",
+    "ObjectNumber": "48.1922",
+    "OnView": 0,
+    "Period": "Boiotian",
+    "Provenance": "Walters Art Museum, 1945, by purchase.",
+    "PublicAccessDate": "2009-06-30T09:23:51.813",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38799",
+    "SortNumber": "    48  1922                                            ",
+    "Style": null,
+    "Title": "Figurine with Pinched Face and Goemetric Decorations"
+}

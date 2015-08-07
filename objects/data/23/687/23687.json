@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Russian",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "17th century",
+    "Description": "In 1436, the two monks (later saints) Zosimus and Sabbatius founded the monastery of Solovki on an island in the White Sea, Northern Russia. This posthumous portrait shows them presenting to the Virgin and Child a detailed model of their foundation. Zosismus also holds a scrolls with the last words he addressed as advice to his monastic brethren from his deathbed.",
+    "Dimensions": "H: 12 5/16 x W: 10 3/4 x D: 1 5/16 in. (31.2 x 27.3 x 3.3 cm)",
+    "Dynasty": "House of Romanov",
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Millennium of Christianity: Russian Art from The Walters Art Gallery",
+            "ExhibBeginDate": "1988-12-15",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "December 15, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 563,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Millennium of Christianity: Russian Art from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4385,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.1186_Fnt_BW_H42.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.1186_Fnt_BW_H42.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.1186_Fnt_BW_H42.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.1186_Fnt_BW_H42.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.1186_Fnt_BW_H42.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47187,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1186_XR_1981.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1186_XR_1981.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1186_XR_1981.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1186_XR_1981.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1186_XR_1981.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Transcription] \u041d\u0435 \u0441\u043a\u043e\u0440\u0431\u0438\u0442\u0435 \u043e\u0443\u0431\u043e, \u0431\u0440\u0430\u0442\u0438\u044f \u043c\u043e\u044f, \u043d\u043e \u043f\u043e \u0441\u0435\u043c\u043e\u0443 \u0440\u0430\u0437\u043e\u0443\u043c\u0463\u0439\u0442\u0435, \u0430\u0449\u0435 \u0434\u0463\u043b\u0430 \u043c\u043e[\u044f] \u0443\u0433\u043e\u0434\u043d\u0430 \u0431\u0443\u0434\u0443[\u0442] \u043f(\u0435)\u0440\u0435\u0434 [\u0411\u043e\u0433\u043e\u043c]; [Translation] Do not grieve, my brethren, but understand from this that my works will be pleasing to God.",
+    "Keywords": null,
+    "Medium": "tempera on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3822,
+        "LocationString": null
+    },
+    "ObjectID": 23687,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.1186",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris, by purchase; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.66",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23687",
+    "SortNumber": "    37  1186                                            ",
+    "Style": null,
+    "Title": "Saints Zosimus and Sabbatius"
+}

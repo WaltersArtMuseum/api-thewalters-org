@@ -1,0 +1,92 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "This Mughal portrait set in an oval medallion, Walters manuscript leaf W.703, dates to the late11th century AH/AD 17th and represents the Mughal Emperor Shah Jahan (died 1076 AH/AD 1666). The portrait is comparable to other depictions of the ruler, including Walters W.700, which is inscribed with Shah Jahan's name, Shah Jahan Holding a Turban Ornament in the Los Angeles County Museum of Art (M.78.6.15), and the relief portrait bust of Shah Jahan in alabaster housed in the Riksmuseum, Amsterdam (12249). The portrait is flanked by 2 inscribed cartouches with a blue and pink stenciled floral border.",
+    "Dimensions": "H: 10 7/16 x W: 6 5/16 in. (26.5 x 16 cm); Image H: 5 7/8 x W: 3 1/8 in. (15 x 8 cm)",
+    "Dynasty": "Mughal Dynasty, Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38785,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.703.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.703.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.703.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.703.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.703.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Persian; Safavid; Calligraphy; Illumination; Illustration; Manuscript; Miniature; Painting; Album; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6428,
+        "LocationString": null
+    },
+    "ObjectID": 25950,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.703",
+    "OnView": 0,
+    "Period": "Mughal; Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 84217,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84218,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/25950",
+    "SortNumber": "W        703                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Portrait of Shah Jahan"
+}

@@ -1,0 +1,107 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Anatolian",
+            "CreatorID": 2190,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": "Hittite",
+    "DateBeginYear": -1412,
+    "DateEndYear": -1388,
+    "DateText": "ca. 1400 BC",
+    "Description": "Hittite hieroglyphs surround a figure in royal dress. The inscription, repeated in cuneiform around the rim, gives the seal owner's name: the Hittite ruler Tarkummuwa. This famous bilingual inscription provided the first clues for deciphering Hittite hieroglyphs.",
+    "Dimensions": "3/8 x 1 5/8 in. (1 x 4.2 cm) (h. x diam.)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8822,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1512_Fnt_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1512_Fnt_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1512_Fnt_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1512_Fnt_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1512_Fnt_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 38851,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_57.1512_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_57.1512_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_57.1512_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_57.1512_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_57.1512_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 8821,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_57.1512_Back_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_57.1512_Back_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_57.1512_Back_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_57.1512_Back_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_57.1512_Back_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Translation] In heiroglyphics: Tarkummuwa, King of Mera",
+    "Keywords": null,
+    "Medium": "silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6611,
+        "LocationString": null
+    },
+    "ObjectID": 5130,
+    "ObjectName": "seals",
+    "ObjectNumber": "57.1512",
+    "OnView": 0,
+    "Period": "Hittite",
+    "Provenance": "[Found at Smyrna, ca. 1850]; Iovanoff, Constantinople; Dikran Kelekian, New York and Paris; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:41.05",
+    "Reign": "Tarkummuwa",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5130",
+    "SortNumber": "    57  1512                                            ",
+    "Style": null,
+    "Title": "Seal of Tarkummuwa, King of Mera"
+}

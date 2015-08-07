@@ -1,0 +1,101 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Paul Delaroche (French, 1797-1856)",
+            "CreatorID": 6497,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Charles Fran\u00e7ois Jalabert (French, 1819-1901)",
+            "CreatorID": 4615,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, before 1884",
+    "Culture": null,
+    "DateBeginYear": 1853,
+    "DateEndYear": 1901,
+    "DateText": "after 1853",
+    "Description": "Two Romans watch as a girl who has refused to sacrifice to pagan deities is martyred by drowning. This copy of Delaroche's \"Christian Martyr Drowned in the Tiber during the Reign of Diocletian\" (1853, now in the State Hermitage Museum, St. Petersburg, Russia) was begun by Delaroche but completed by Jalabert, his most devoted pupil. Such collaboration of student with master was a common practice during the 19th century.",
+    "Dimensions": "H: 22 1/16 x W: 18 1/2 in. (56 x 47 cm); Framed H: 34 3/4 \u00d7 W: 31 1/4 \u00d7 D: 5 in. (88.27 \u00d7 79.38 \u00d7 12.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Nineteenth Century French Salon Paintings from Southern Collections",
+            "ExhibBeginDate": "1983-01-21",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "January 21, 1983-October 23, 1983",
+            "ExhibEndDate": "1983-10-23",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 2940,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Nineteenth Century French Salon Paintings from Southern Collections. High Museum of Art, Atlanta; Chrysler Museum of Art, Norfolk; North Carolina Museum of Art, Raleigh; The John and Mable Ringling Museum of Art, Sarasota. 1983."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10548,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.188_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.188_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.188_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.188_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.188_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] In pencil at top left: Esquisse Delaroche; [Signature] In pencil at top right: finit par Jalabert; [Signature] In paint at bottom left: D'apres P. Delaroche Ch. Jalabert",
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 3312,
+        "LocationString": null
+    },
+    "ObjectID": 23814,
+    "ObjectName": "oil paintings",
+    "ObjectNumber": "37.188",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, prior to 1884 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.567",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/23814",
+    "SortNumber": "    37   188                                            ",
+    "Style": null,
+    "Title": "The Christian Martyr"
+}

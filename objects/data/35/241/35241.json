@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Armenian",
+            "CreatorID": 6300,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1193,
+    "DateEndYear": 1193,
+    "DateText": "1193",
+    "Description": null,
+    "Dimensions": "Folio H: 10 3/8 \u00d7 W: 7 5/16 in. (26.4 \u00d7 18.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503185,
+            "GeographyTerm": "Cilicia",
+            "Latitude": "36 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.666,
+            "Longitude": "034 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 34.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 37666,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.538.276V_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.538.276V_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.538.276V_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.538.276V_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.538.276V_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on well finished, medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 35241,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.538.276V",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Bishop Karapet, Poghoskan hermitage, 1193, by commission [see dedicatory inscription, fol. 12v and colophon]; Catholicos John VI [Katholikos \u014chann\u0113s (Yovhann\u0113s VI)], before 1221 [mode of acquisition unknown]; Smbat (nephew of Catholicos John VI), 1221, by gift [presented at the patriarchal see of Hromkla, see colophon, fol. 314v]; In the possession of G\u0113vork', son of Nazluxan, in 1770, [mode of acquisition unknown; see inscription on upper board]; Khodja Hovannes (Y\u014dhann\u0113s), between 14th and 18th centuries, by gift [from Gevork']; Monastery of St. Thomas, between 14th and 18th centuries [mode of acquisition unknown, undated inscription on fol. 314r states that the manuscript was given to the Monastery of T'umay A\u1e59ak'eal (Apostle Thomas) in memory of Xaw\u010day Yovan\u0113s, his brother Yu\u0142ut'lu, father Inap, and mother Zatay]; Nazlu Khatun, 1770 [mode of acquisition unknown]; Ter Hohannes, late 18th/early 19th century [mode of acquisition unknown]; New Nakhijevan, Armenia, before 1889 to after 1903; Henry Walters, Baltimore, after 1903 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35241",
+    "SortNumber": "W        538  276V                                      ",
+    "Style": "Armenian",
+    "Title": "Marginal Ornament"
+}

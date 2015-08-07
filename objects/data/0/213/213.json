@@ -1,0 +1,87 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Thai",
+            "CreatorID": 2501,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift from Doris Duke Charitable Foundation's Southeast Asian Art Collection, 2002",
+    "Culture": null,
+    "DateBeginYear": 1875,
+    "DateEndYear": 1900,
+    "DateText": "late 19th century",
+    "Description": null,
+    "Dimensions": "H: 18 1/8 x W: 23 1/16 in. (46 x 58.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1500450,
+            "GeographyTerm": "Prathet Thai",
+            "Latitude": "15 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 15.0,
+            "Longitude": "100 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 100.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44747,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.236_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.236_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.236_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.236_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.236_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transcription] pho ch _ mae _ _ sang wai nai phra satsana \r\n[Translation] Father ... Mother ... commissioned for the religion",
+    "Keywords": "Vessantara Jataka",
+    "Medium": "pigments on wood",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1950,
+        "LocationString": null
+    },
+    "ObjectID": 213,
+    "ObjectName": "paintings",
+    "ObjectNumber": "35.236",
+    "OnView": 0,
+    "Period": "Rattanakosin",
+    "Provenance": "Doris Duke Charitable Foundation's Southeast Asian Art Collection [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2010-07-30T15:42:29.03",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 16268,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 34269,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 38529,
+            "RelationType": "See Also, Series"
+        },
+        {
+            "ObjectID": 38555,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/213",
+    "SortNumber": "    35   236                                            ",
+    "Style": null,
+    "Title": "Vessantara Jataka, Chapter 7: Jujaka and the Hermit Accala"
+}

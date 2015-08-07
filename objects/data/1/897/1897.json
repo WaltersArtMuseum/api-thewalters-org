@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1923",
+    "Culture": "Egyptian",
+    "DateBeginYear": -1351,
+    "DateEndYear": -1334,
+    "DateText": "1351-1334 BC",
+    "Description": "Situlae were vessels used to pour offerings of milk or water in purification rituals. They take the form of a human breast and were associated with the goddess Isis. \r\nSitulae were found in temple treasuries at Amarna, the city built by the pharaoh Akhenaten to honor Aten, the sun-disk deity. \r\n\r\nThis vessel continued to be used after the demise of Akhenaten and the king's birth name has been erased. It has a central field containing three columns of inscription executed in dark blue glaze.",
+    "Dimensions": "12 x 4 1/4 in. (30.48 x 10.8 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Millet and Barbizon Art",
+            "ExhibBeginDate": "1996",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "1996",
+            "ExhibEndDate": "1996",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 6,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Millet and Barbizon Art. Matsumoto City Museum, Matsumoto City; Tokuyama City Museum of Art and History, Tokuyama; Kasama Nichido Museum, Kasama City; Ishikawa Prefectural Museum of Art, Kanazawa. 1996."
+        },
+        {
+            "ExhTitle": "Pharaohs of the Sun: Akhenaten, Nefertiti, Tutankhamen",
+            "ExhibBeginDate": "1999-11-14",
+            "ExhibBeginYear": 1999,
+            "ExhibDisplayDate": "November 14, 1999-February 18, 2001",
+            "ExhibEndDate": "2001-02-18",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 2581,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Pharaohs of the Sun: Akhenaten, Nefertiti, Tutankhamen. Museum of Fine Arts, Boston, Boston; Los Angeles County Museum of Art, Los Angeles; The Art Institute of Chicago, Chicago; Rijksmuseum van Oudheden, Leiden. 1999-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12138,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_48.456_Prof_TR_98II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_48.456_Prof_TR_98II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_48.456_Prof_TR_98II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_48.456_Prof_TR_98II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_48.456_Prof_TR_98II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] \"High priest of Re-Harakhty, who rejoices on the horizon: Nefer-kheperu-Re Wa-en-Re, who satisfies Re (in his) temple, [Akh-en-jth], whose lifetime is long.\"",
+    "Keywords": null,
+    "Medium": "faience with blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3744,
+        "LocationString": null
+    },
+    "ObjectID": 1897,
+    "ObjectName": "vases",
+    "ObjectNumber": "48.456",
+    "OnView": 1,
+    "Period": "Amarna",
+    "Provenance": "Rev. William MacGregor Collection Sale, Sotheby's, London, 1922, no. 268; Dikran Kelekian, Paris and New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-19T15:46:31.627",
+    "Reign": "Akhenaten (1351-1334 BC)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/1897",
+    "SortNumber": "    48   456                                            ",
+    "Style": null,
+    "Title": "Situla with Erased Cartouche of Akhenaten"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Sculptor"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -1347,
+    "DateEndYear": -1301,
+    "DateText": "ca. 1335-1323 BC",
+    "Description": "The gold inlay on this statuette is especially noteworthy.",
+    "Dimensions": "6 11/16 x 1 13/16 x 1 5/16 in. (17 x 4.6 x 3.4 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Pharaohs of the Sun: Akhenaten, Nefertiti, Tutankhamen",
+            "ExhibBeginDate": "1999-11-14",
+            "ExhibBeginYear": 1999,
+            "ExhibDisplayDate": "November 14, 1999-February 18, 2001",
+            "ExhibEndDate": "2001-02-18",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 2581,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Pharaohs of the Sun: Akhenaten, Nefertiti, Tutankhamen. Museum of Fine Arts, Boston, Boston; Los Angeles County Museum of Art, Los Angeles; The Art Institute of Chicago, Chicago; Rijksmuseum van Oudheden, Leiden. 1999-2001."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 10987,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_54.401_Fnt_TR_T98IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_54.401_Fnt_TR_T98IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_54.401_Fnt_TR_T98IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_54.401_Fnt_TR_T98IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_54.401_Fnt_TR_T98IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze, gold inlay",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3793,
+        "LocationString": null
+    },
+    "ObjectID": 9205,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.401",
+    "OnView": 1,
+    "Period": "New Kingdom",
+    "Provenance": "Dikran Kelekian, New York and Paris; Henry Walters, Baltimore, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.377",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9205",
+    "SortNumber": "    54   401                                            ",
+    "Style": null,
+    "Title": "Standing Amen"
+}

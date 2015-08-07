@@ -1,0 +1,88 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek (?)",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Roman (?)",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -332,
+    "DateEndYear": -30,
+    "DateText": "332-30 BC",
+    "Description": null,
+    "Dimensions": "H: 5 7/8 in. (15 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431345,
+            "GeographyTerm": "Ell\u00e1s",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "022 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 22.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62614,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.1040_3Qtr_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.1040_3Qtr_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.1040_3Qtr_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.1040_3Qtr_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.1040_3Qtr_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "cast bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 424,
+        "LocationString": null
+    },
+    "ObjectID": 7281,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.1040",
+    "OnView": 0,
+    "Period": "Hellenistic",
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7281",
+    "SortNumber": "    54  1040                                            ",
+    "Style": null,
+    "Title": "Dancer"
+}

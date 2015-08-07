@@ -1,0 +1,131 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Oswald Achenbach (German, 1827-1905)",
+            "CreatorID": 5903,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1827,
+    "DateEndYear": 1905,
+    "DateText": "1827-1905",
+    "Description": "After studying at the D\u00fcsseldorf Academy and then with his brother, Andreas, Oswald Achenbach traveled through Germany, Switzerland, and particularly Italy, refining his abilities as a landscape artist. Drawing directly from nature, he played an important part in the spread of realist landscape painting in Germany.",
+    "Dimensions": "H: 10 x W: 16 1/4 in. (25.4 x 41.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        },
+        {
+            "ExhTitle": "A Medley of German Drawings",
+            "ExhibBeginDate": "1996-04-17",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "April 17, 1996-September 1, 1996",
+            "ExhibEndDate": "1996-09-01",
+            "ExhibEndYear": 1996,
+            "ExhibitionID": 2179,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Medley of German Drawings. The Walters Art Gallery, Baltimore. 1996."
+        },
+        {
+            "ExhTitle": "A Supple Brush: The Flowering of Continental Watercolors",
+            "ExhibBeginDate": "1979-05-27",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "May 27, 1979-July 22, 1979",
+            "ExhibEndDate": "1979-07-22",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 404,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Supple Brush: The Flowering of Continental Watercolors. The Walters Art Gallery, Baltimore. 1979."
+        },
+        {
+            "ExhTitle": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery",
+            "ExhibBeginDate": "1983-03-17",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "March 17, 1983-April 24, 1983",
+            "ExhibEndDate": "1983-04-24",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 432,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1983."
+        },
+        {
+            "ExhTitle": "Artists as Travellers",
+            "ExhibBeginDate": "1988-01-05",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "January 5, 1988-June 5, 1988",
+            "ExhibEndDate": "1988-06-05",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2708,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Artists as Travellers. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48075,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.961_Fnt_BW_T83.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.961_Fnt_BW_T83.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.961_Fnt_BW_T83.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.961_Fnt_BW_T83.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.961_Fnt_BW_T83.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Lower right: OW Achenbach",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2213,
+        "LocationString": null
+    },
+    "ObjectID": 30615,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.961",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30615",
+    "SortNumber": "    37   961                                            ",
+    "Style": null,
+    "Title": "Posilipo, Looking towards Naples"
+}

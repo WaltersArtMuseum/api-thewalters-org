@@ -1,0 +1,107 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Gustave David (French, 1824-1891)",
+            "CreatorID": 5217,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters, 1870",
+    "Culture": null,
+    "DateBeginYear": 1824,
+    "DateEndYear": 1824,
+    "DateText": "1824",
+    "Description": null,
+    "Dimensions": "H: 9 1/2 x W: 7 1/2 in. (24.1 x 19 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "French Masterworks on Paper",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1992",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 438,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "French Masterworks on Paper. The Walters Art Gallery, Baltimore. 1992."
+        },
+        {
+            "ExhTitle": "Italian Vistas: Selections from the Permanent Collection",
+            "ExhibBeginDate": "1992",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "1992",
+            "ExhibEndDate": "1993-03-22",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 429,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Italian Vistas: Selections from the Permanent Collection. The Walters Art Gallery, Baltimore. 1992-1993."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 93,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.1293_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.1293_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.1293_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.1293_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.1293_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"G. David\", watercolor, lower right; watermarked, \"J. Whatman Turkey Mill\" parallel to the longest dimension of the support",
+    "Keywords": "peasant; man; woman; prayer; devotion; genre",
+    "Medium": "watercolor over graphite on slightly textured, moderately thick, cream wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5458,
+        "LocationString": null
+    },
+    "ObjectID": 7176,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.1293",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore, 1870 [mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.8",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/7176",
+    "SortNumber": "    37  1293                                            ",
+    "Style": null,
+    "Title": "Italian Peasants"
+}

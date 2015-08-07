@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1512,
+    "DateText": "ca. 1500",
+    "Description": "For more information on this painting, please see Zeri catalogue number 68, pp. 103-105.",
+    "Dimensions": "Painted surface H: 23 x W: 65 x D excluding cradle: 3/8 in. (58.4 x 165.1 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Toscana\\provinces\\Firenze\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1440423,
+            "GeographyTerm": "Firenze",
+            "Latitude": "43 47",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 43.783,
+            "Longitude": "011 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 11.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28602,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_37.490_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_37.490_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_37.490_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_37.490_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_37.490_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3244,
+        "LocationString": null
+    },
+    "ObjectID": 4865,
+    "ObjectName": "oil paintings; cassoni",
+    "ObjectNumber": "37.490",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Marquess Filippo Marignoli, Rome and Spoleto, until 1898 [mode of acquisition unknown]; Marquess Francesco Marignoli, 1898 [mode of acquisition unknown]; Don Marcello Massarenti Collection, Rome, 1899 [mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-08-26T15:07:31.5",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4865",
+    "SortNumber": "    37   490                                            ",
+    "Style": null,
+    "Title": "The Trial and Stoning of the Elders"
+}

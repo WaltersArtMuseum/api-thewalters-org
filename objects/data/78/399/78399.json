@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tarascan",
+            "CreatorID": 31442,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2008",
+    "Culture": "Tarascan",
+    "DateBeginYear": 1200,
+    "DateEndYear": 1500,
+    "DateText": "AD 1200-1500",
+    "Description": null,
+    "Dimensions": "H: 8 3/4 x W: 10 x D: 7 in. (22.2 x 25.4 x 17.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 608942,
+            "GeographyTerm": "M\u00e9xico",
+            "Latitude": "23 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 23.0,
+            "Longitude": "102 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -102.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 13951,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2789_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2789_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2789_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2789_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2789_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic buffware with cream and orange paint",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5533,
+        "LocationString": null
+    },
+    "ObjectID": 78399,
+    "ObjectName": "vessels",
+    "ObjectNumber": "48.2789",
+    "OnView": 0,
+    "Period": "Late Post-Classic",
+    "Provenance": "Sale, Sotheby's, New York, May 16, 1989, lot 357; Merrin Gallery, New York [date and mode of acquisition unknown]; Private collection, May 1989 [mode of acquisition unknown]; Walters Art Museum, 2008, by gift.",
+    "PublicAccessDate": "2009-04-22T11:48:42.49",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78399",
+    "SortNumber": "    48  2789                                            ",
+    "Style": null,
+    "Title": "Spouted Vessel with Stirrup Handle"
+}

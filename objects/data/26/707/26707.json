@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1665,
+    "DateEndYear": 1689,
+    "DateText": "ca. 1677-1678",
+    "Description": null,
+    "Dimensions": "H: 18 3/4 x W: 14 13/16 in. (47.6 x 37.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45360,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.1736_Fnt_BW_H75.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.1736_Fnt_BW_H75.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.1736_Fnt_BW_H75.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.1736_Fnt_BW_H75.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.1736_Fnt_BW_H75.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47192,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1736_XR_1951_A.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1736_XR_1951_A.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1736_XR_1951_A.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1736_XR_1951_A.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1736_XR_1951_A.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 47193,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.1736_XR_1951_B.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.1736_XR_1951_B.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.1736_XR_1951_B.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.1736_XR_1951_B.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.1736_XR_1951_B.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4058,
+        "LocationString": null
+    },
+    "ObjectID": 26707,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1736",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-01-24T22:00:01.35",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/26707",
+    "SortNumber": "    37  1736                                            ",
+    "Style": null,
+    "Title": "Portrait of a Child of the Royal Blood"
+}

@@ -1,0 +1,104 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1590,
+    "DateEndYear": 1620,
+    "DateText": "late 10th century AH/AD 16th century-early 11th century AH/AD 17th century",
+    "Description": "This Safavid drawing, Walters manuscript leaf W.682, depicts a kneeling young man with a falcon. It dates to the late 10th century AH/AD 16th or early 11th century AH/AD 17th and was likely produced in Qazvin or Isfahan. Gilt and blue pigment are used to highlight the figure's clothing. Polychrome floral decoration in a decorative arch fills the upper portion of the composition.",
+    "Dimensions": "H: 12 5/8 x W: 8 1/4 in. (32 x 21 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Painting in Iran, Sixteenth to Seventeenth Centuries",
+            "ExhibBeginDate": "1992-04",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "April 1992-July 10, 1992",
+            "ExhibEndDate": "1992-07-10",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 3084,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Painting in Iran, Sixteenth to Seventeenth Centuries. The Walters Art Gallery, Baltimore. 1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Esfahan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507790,
+            "GeographyTerm": "Esfahan",
+            "Latitude": "32 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.683,
+            "Longitude": "051 41",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 51.683
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\\u00ceran\\provinces\\Zanjan\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507949,
+            "GeographyTerm": "Qazvin",
+            "Latitude": "36 16",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.266,
+            "Longitude": "050 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 50.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34239,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.682_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.682_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.682_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.682_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.682_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Safavid; Illustration; Miniature; Drawing; Iran",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6429,
+        "LocationString": null
+    },
+    "ObjectID": 31651,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.682",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-06-21T15:17:18.69",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83798,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83799,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/31651",
+    "SortNumber": "W        682                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Youth with a Falcon"
+}

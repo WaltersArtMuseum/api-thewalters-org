@@ -1,0 +1,203 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1401,
+    "DateEndYear": 1500,
+    "DateText": "9th century AH/AD 15th century",
+    "Description": "This original binding from Walters manuscript W.563 is composed of brown, gold-tooled leather (with a flap). The binding has a central lobed oval with pendants and cornerpieces, all with floral motifs, and a large border comprised of rectangular pieces with floral motifs. The doublures of reddish-brown leather are of similar design with filigree work on a blue ground. The fore-edge flap is inscribed with verses 77-80 from chapter 56 (Surat al-waqi'ah).",
+    "Dimensions": "Folio H: 15 3/4 x W: 12 3/16 in. (40 x 31 cm)",
+    "Dynasty": "Timurid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Bindings from the Islamic World",
+            "ExhibBeginDate": "1988-05-17",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "May 17, 1988-November 20, 1988",
+            "ExhibEndDate": "1988-11-20",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2730,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Bindings from the Islamic World. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28317,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutsideflap.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutsideflap.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutsideflap.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutsideflap.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutsideflap.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28316,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_TopClsd_DD_upperboardoutside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 28318,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_TopOpn_DD_upperboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_TopOpn_DD_upperboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_TopOpn_DD_upperboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_TopOpn_DD_upperboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_TopOpn_DD_upperboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 28308,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 28309,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutsideflap.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutsideflap.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutsideflap.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutsideflap.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_lowerboardoutsideflap.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 28311,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinside.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinside.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinside.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinside.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinside.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 28312,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinsideflap.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinsideflap.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinsideflap.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinsideflap.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_BotOpn_DD_lowerboardinsideflap.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 28313,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_Clsd_DD_spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_Clsd_DD_spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_Clsd_DD_spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_Clsd_DD_spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_Clsd_DD_spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        },
+        {
+            "ID": 28314,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_Fnt_DD_foreedge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_Fnt_DD_foreedge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_Fnt_DD_foreedge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_Fnt_DD_foreedge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_Fnt_DD_foreedge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 9
+        },
+        {
+            "ID": 28315,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_Top_DD_head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_Top_DD_head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_Top_DD_head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_Top_DD_head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_Top_DD_head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 10
+        },
+        {
+            "ID": 28310,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.563.binding_Bot_DD_tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 11
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Persian; Timurid; Book; Calligraphy; Codex; Illumination; Manuscript; Medallion; Original Binding; India; Central Asia; Scripture",
+    "Medium": "brown leather with gold and reddish-brown leather doublures",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81378,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.563.binding",
+    "OnView": 0,
+    "Period": "Timurid",
+    "Provenance": "Sultan 'Uthman Khan [date and mode of acquisition unknown] [erased bequest (waqf) statement and stamp on fol. 3a]; Sultan Bayezid II [date and mode of acquisition unknown] [seal on fol. 8a]; Dikran Kelekian, New York and Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81378",
+    "SortNumber": "W        563binding                                     ",
+    "Style": null,
+    "Title": "Binding from Qur'an"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Iranian",
+            "CreatorID": 6747,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1484,
+    "DateEndYear": 1484,
+    "DateText": "889 AH/AD 1484",
+    "Description": "This red leather binding with a flap is contemporary with the manuscript, Walters W.595. The binding has central ovals and cornerpieces. The central motif has an inner element shaped in the form of a diamond. The doublures are of light brown leather decorated with filigree work, central ovals, and cornerpieces.",
+    "Dimensions": "Folio H: 12 x W: 7 5/16 in. (30.5 x 18.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33002,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.595.binding_TopExtClsd_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33003,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.595.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.595.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.595.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.595.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.595.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33001,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.595.binding_BotIntOpn_DD_FlapOpen.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.595.binding_BotIntOpn_DD_FlapOpen.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.595.binding_BotIntOpn_DD_FlapOpen.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.595.binding_BotIntOpn_DD_FlapOpen.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.595.binding_BotIntOpn_DD_FlapOpen.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33000,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.595.binding_BotExtOpn_DD_FlapOpen.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.595.binding_BotExtOpn_DD_FlapOpen.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.595.binding_BotExtOpn_DD_FlapOpen.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.595.binding_BotExtOpn_DD_FlapOpen.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.595.binding_BotExtOpn_DD_FlapOpen.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Codex; Colophon; Illumination; Manuscript; Contemporary Binding; Iran; Science -- Medicine",
+    "Medium": "red leather with light brown leather doublures",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 83463,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.595.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "'Ali [date and mode of acquisition unknown] [ownership statement (min kutub) and seal on fol. 1a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/83463",
+    "SortNumber": "W        595binding                                     ",
+    "Style": null,
+    "Title": "Binding from Compendium of Medicine"
+}

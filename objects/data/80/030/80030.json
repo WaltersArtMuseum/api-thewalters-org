@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jalal al-Din Rumi, Maulana (Persian, 1207-1273)",
+            "CreatorID": 15727,
+            "Gender": null,
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Ahmad ibn Hajji Abi Bakr al-Katib",
+            "CreatorID": 15728,
+            "Gender": null,
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic; Persian",
+    "DateBeginYear": 1461,
+    "DateEndYear": 1461,
+    "DateText": "865 AH/AD 1461",
+    "Description": "This page from Walters manuscript W.625, which opens the book, has an illuminated medallion outlined in blue with radiating blue lines. The medallion is surrounded by illuminated floral decoration.",
+    "Dimensions": "H: 9 5/8 x W: 6 5/16 in. (24.5 x 16 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23089,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.625.1A_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.625.1A_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.625.1A_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.625.1A_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.625.1A_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Calligraphy; Codex; Colophon; Illumination; Illustration; Manuscript; New Abbasid Style; Iran; Sufism; Literature -- Poetry; Literature -- Prose",
+    "Medium": "ink and pigments on buff-colored laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80030,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.625.1A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80030",
+    "SortNumber": "W        625    1A                                      ",
+    "Style": null,
+    "Title": "Frontispiece with Illuminated Medallion"
+}

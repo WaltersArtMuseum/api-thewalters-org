@@ -1,0 +1,124 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Metalworker"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1775,
+    "DateText": "Porcelain: 15th-16th century; Mounts: mid 18th century",
+    "Description": "This porcelain lamp is from the Long Quan [Lung-ch'\u00fcan] celadon kilns.\r\n\r\nThe European practice of mounting porcelains with silver and gold embellishments began as early as the Middle Ages.  This custom reached its apogee in eighteenth-century France, where the taste for Asian exoticism as well as the extravagance of the Rococo style created a consumer desire for luxury objects typified by mounted porcelains.\r\nJapanese and Chinese porcelains emerged in the luxury markets of Europe following their import by the Dutch East India Company in the seventeenth century.  The French taste for these porcelains was further stimulated after the Siamese ambassadors visited the court of France in 1684 and 1686.  The ambassadors brought more than 1500 porcelains for Louis XIV, as well as numerous other ceramic wares for members of the court.  The royal family began collecting these objects, with the aristocracy of France quickly following suit.  By the beginning of the eighteenth century, Europe was inundated with an influx of Asian porcelains. \r\nThe simple elegance of porcelain appealed to wealthy Europeans not just for its aesthetic qualities, but also for the mysterious nature of its creation.  The recipe for porcelain eluded European artisans for centuries.  It was not until 1708 in Dresden that kaolin was found to be the missing ingredient. Even after this discovery, Europeans preferred their porcelains to be imported, enhancing their value through rarity and exoticism. The most prized porcelain wares in early eighteenth century were large vessels with single-color glazes, as these were the most difficult to transport and therefore the rarest.  However, these forms did not complement the extravagant Rococo fashion of the French elite's interiors.  The Rococo manner of the mid-eighteenth century is distinguished by playful superflousness, natural forms intertwined in ornate, asymmetrical designs, and colors such as pastels and gold.  The juxtaposition of Asian porcelains with Rococo gilded mounts adapted the eastern objects to the French interiors.  \r\n",
+    "Dimensions": "9 in. (22.9 cm)",
+    "Dynasty": "Ming [Ming] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25210,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1508_VwA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1508_VwA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1508_VwA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1508_VwA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1508_VwA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 25211,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1508_VwB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1508_VwB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1508_VwB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1508_VwB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1508_VwB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with glaze open work in paste celadon and French mounts",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1658,
+        "LocationString": null
+    },
+    "ObjectID": 2213,
+    "ObjectName": "lamps",
+    "ObjectNumber": "49.1508",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.67",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/2213",
+    "SortNumber": "    49  1508                                            ",
+    "Style": null,
+    "Title": "Celadon Lamp"
+}

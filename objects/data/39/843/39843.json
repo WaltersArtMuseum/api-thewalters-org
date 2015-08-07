@@ -1,0 +1,119 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1462,
+    "DateEndYear": -1338,
+    "DateText": "ca. 1450-1350 BCE",
+    "Description": "Although the manufacture of faience can be traced back to the predynastic period (the fourth millennium BC), the production of true glass did not emerge in Egypt until the early 18th Dynasty, around 1500 BC. Recent excavations and technical analysis support the hypothesis that the technology of glassmaking was imported from western Asia. Both raw glass, in the form of large ingots, and finished vessels were likely imported at an early stage, as were the artisans themselves. Within a short time, however, the Egyptians had developed a highly sophisticated industry that flourished under Amenhotep III (1390-1352 BC) and his successor, Akhenaten (1352-1336 BC). Polychrome glass seems to have been particularly esteemed by the court; large numbers of vessels have been found in the tombs of 18th Dynasty pharaohs. The contents of many glass flasks-fragrant essences dissolved in plant-based oils-confirm their status as objects of high luxury. \r\n\r\nIn addition to its use in jewelry, amulets, inlays, and architectural decoration, glass was used for vessels, particularly distinctively shaped perfume bottles. The two most common shapes take their names from distinctive types of Greek pottery: \"amphoriskos\" (little amphora) and \"krateriskos\" (little krater). The Walters \"amphoriskos\" (Walters 47.31), broad shouldered with a rounded base, has an opaque white ground; this \"krateriskos\" has a cobalt blue body decorated with white, yellow and light blue bands, two horizontal handles, applied to the shoulder, and a wide foot. Both are core-formed vessels; the technology of blown glass was as yet unknown. The molten mass, composed of silica and natron (heated to a temperature of around 1000\u00ba-1150\u00ba C), was wrapped around a clay or dung core that was later removed. Decorative bands were formed by pressing threads of colored glass onto the molten surface; combing the threads with a metal tool created decorative patterns.",
+    "Dimensions": "H: 3 1/8 x W: 2 3/16 x Diam: 1 7/8 in. (8 x 5.6 x 4.8 cm)",
+    "Dynasty": "18th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "An Exhibition of the Treasures of The Walters Art Gallery",
+            "ExhibBeginDate": "1967-03-15",
+            "ExhibBeginYear": 1967,
+            "ExhibDisplayDate": "March 15, 1967-April 15, 1967",
+            "ExhibEndDate": "1967-04-15",
+            "ExhibEndYear": 1967,
+            "ExhibitionID": 335,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "An Exhibition of the Treasures of The Walters Art Gallery. The Walters Art Museum, Baltimore; Smith College Museum of Art, Northampton; Pace Wildenstein Gallery, New York. 1967."
+        },
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        },
+        {
+            "ExhTitle": "Egypt's Dazzling Sun: Amenhotep III and His World",
+            "ExhibBeginDate": "1992-07-01",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "July 1, 1992-May 31, 1993",
+            "ExhibEndDate": "1993-05-31",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 3068,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Egypt's Dazzling Sun: Amenhotep III and His World. The Cleveland Museum of Art, Cleveland; Kimbell Art Museum, Fort Worth; Galeries nationales du Grand Palais, Paris. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Qina\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544563,
+            "GeographyTerm": "Thebes",
+            "Latitude": "25 41",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 25.683,
+            "Longitude": "032 40",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 32.666
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8384,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_47.32_Fnt_DD_T08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_47.32_Fnt_DD_T08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_47.32_Fnt_DD_T08.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_47.32_Fnt_DD_T08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_47.32_Fnt_DD_T08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 6451,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_47.32_Prof_TR_T90II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_47.32_Prof_TR_T90II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_47.32_Prof_TR_T90II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_47.32_Prof_TR_T90II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_47.32_Prof_TR_T90II.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Egyptian Art",
+        "LocationID": 3761,
+        "LocationString": null
+    },
+    "ObjectID": 39843,
+    "ObjectName": "vessels",
+    "ObjectNumber": "47.32",
+    "OnView": 1,
+    "Period": "New Kingdom, 18th dynasty",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.783",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39843",
+    "SortNumber": "    47    32                                            ",
+    "Style": null,
+    "Title": "\"Malqata Kateriskos\" Vessel"
+}

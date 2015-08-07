@@ -1,0 +1,75 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jan Baptiste Govaerts (Flemish, active ca.1713-1746)",
+            "CreatorID": 4260,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1720,
+    "DateEndYear": 1729,
+    "DateText": "1720-1729",
+    "Description": "This is the companion piece of \"Still Life with Dead Game\" (Walters 37.1900).",
+    "Dimensions": "14 1/4 x 17 7/8 in. (36.2 x 45.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\Antwerpen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421717,
+            "GeographyTerm": "Antwerpen",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "004 25",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.416
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4189,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_37.1751_Fnt_SL_T.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_37.1751_Fnt_SL_T.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_37.1751_Fnt_SL_T.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_37.1751_Fnt_SL_T.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_37.1751_Fnt_SL_T.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: 17th-Century Dutch Cabinet Rooms",
+        "LocationID": 4401,
+        "LocationString": null
+    },
+    "ObjectID": 25854,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.1751",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:36.237",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 38662,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/25854",
+    "SortNumber": "    37  1751                                            ",
+    "Style": null,
+    "Title": "Still Life with Dead Game Birds"
+}

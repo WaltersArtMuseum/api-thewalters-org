@@ -1,0 +1,83 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, ca. 1929",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1825,
+    "DateText": "early 19th century",
+    "Description": "The casket has been veneered in a technique known in Russia as \"Roman mosaic.\" Very thin sheets of malachite are cemented to the metal base, and any spaces left between the sheets are filled with a paste consisting of pulverized stone and cement. The surface is then polished. The artisans often exploited the veining of the stone to create symmetrical patterns by juxtaposing sheets cut from the same stone.",
+    "Dimensions": "H: 4 x W: 9 3/4 in. (10.2 x 24.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Faberg\u00e9 Menagerie",
+            "ExhibBeginDate": "2003-02-13",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "February 13, 2003-May 2, 2004",
+            "ExhibEndDate": "2004-05-02",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2062,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Faberg\u00e9 Menagerie. The Walters Art Museum, Baltimore; Columbus Museum of Art, Columbus; Portland Art Museum, Portland. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54691,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_57.1597_3Qtr_TR_T02.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_57.1597_3Qtr_TR_T02.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_57.1597_3Qtr_TR_T02.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_57.1597_3Qtr_TR_T02.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_57.1597_3Qtr_TR_T02.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "malachite, gilded bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4295,
+        "LocationString": null
+    },
+    "ObjectID": 27492,
+    "ObjectName": "boxes",
+    "ObjectNumber": "57.1597",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, ca. 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-31T01:00:02.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27492",
+    "SortNumber": "    57  1597                                            ",
+    "Style": null,
+    "Title": "Jewel Casket"
+}

@@ -1,0 +1,124 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Metalworker"
+        },
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Ceramicist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters, before 1897",
+    "Culture": null,
+    "DateBeginYear": 1700,
+    "DateEndYear": 1899,
+    "DateText": "Porcelain: 1st quarter 18th century; Mounts: 19th century",
+    "Description": "This is an example of blue and white porcelain.",
+    "Dimensions": "H of 49.1695: 13 5/8 in. (34.6 cm); H of 49.1700: 12 3/16 in. (31 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25543,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 25542,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_49.1695_49.1700_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "porcelain with underglaze blue, overglaze enamels and French mounts",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80949,
+    "ObjectName": "vases",
+    "ObjectNumber": "VO.123 (49.1695, 49.1700)",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore, prior to 1897 [mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-01-29T10:57:20.72",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80949",
+    "SortNumber": "VO       123                                            ",
+    "Style": null,
+    "Title": "Pair of Vases with a Blossoming Branch"
+}

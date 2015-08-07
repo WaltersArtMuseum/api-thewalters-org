@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1400,
+    "DateEndYear": 1499,
+    "DateText": "15th century",
+    "Description": null,
+    "Dimensions": "H: 14 in. (35.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421289,
+            "GeographyTerm": "Belgi\u00eb",
+            "Latitude": "50 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.833,
+            "Longitude": "004 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 48683,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.430_Fnt_BW_H56.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.430_Fnt_BW_H56.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.430_Fnt_BW_H56.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.430_Fnt_BW_H56.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.430_Fnt_BW_H56.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 49069,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.430_Fnt_BW_H56.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.430_Fnt_BW_H56.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.430_Fnt_BW_H56.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.430_Fnt_BW_H56.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.430_Fnt_BW_H56.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "hollow-cast yellow bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 532,
+        "LocationString": null
+    },
+    "ObjectID": 37498,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.430",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Charles Stein Collection Sale, Paris, 1899, no. 151; Jacques Seligmann, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/37498",
+    "SortNumber": "    54   430                                            ",
+    "Style": null,
+    "Title": "St. Augustine, Bishop of Hippo"
+}

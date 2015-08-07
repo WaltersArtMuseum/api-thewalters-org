@@ -1,0 +1,296 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nizami Ganjavi (Azerbaijani, died 605 AH/AD 1209)",
+            "CreatorID": 7689,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "mid 10th century AH/AD 16th century",
+    "Description": "Walters manuscript W.610 is an illuminated and illustrated copy of the Khamsah (quintet) of Nizami Ganjavi (died 605 AH/AD 1209) that was executed in Safavid Iran and dates to the middle of the 10th century AH/AD 16th. There are 6colophons in Arabic that supply neither the date nor the scribe's name (fols. 31b, 119a, 175a, 238a, 325a, and 371a). The text is written in black Nasta'liq script with section headings in blue. Twenty paintings attributable to the Shiraz school illustrate the text. The dark brown leather binding with central ovals and pendants, all brushed with gold, is original to the manuscript.",
+    "Dimensions": "Folio H: 12 13/16 x W: 7 7/8 in. (32.5 x 20 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Mything Persons: Historic Figures in Legends of East and West",
+            "ExhibBeginDate": "1998-05-02",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "May 2, 1998-August 9, 1998",
+            "ExhibEndDate": "1998-08-09",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 29,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Mything Persons: Historic Figures in Legends of East and West. The Walters Art Gallery, Baltimore. 1998."
+        },
+        {
+            "ExhTitle": "Masterpieces of Ornament",
+            "ExhibBeginDate": "1988-02-16",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "February 16, 1988-May 8, 1988",
+            "ExhibEndDate": "1988-05-08",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 2713,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Masterpieces of Ornament. The Walters Art Gallery, Baltimore. 1988."
+        },
+        {
+            "ExhTitle": "The Royal Style",
+            "ExhibBeginDate": "1988-11-29",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 29, 1988-February 12, 1989",
+            "ExhibEndDate": "1989-02-08",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2714,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Royal Style. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 33772,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.610.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.610.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.610.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.610.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.610.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 33773,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.610.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.610.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.610.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.610.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.610.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 33771,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.610.binding_Int_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.610.binding_Int_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.610.binding_Int_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.610.binding_Int_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.610.binding_Int_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 33770,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.610.binding_BotIntOpn_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.610.binding_BotIntOpn_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.610.binding_BotIntOpn_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.610.binding_BotIntOpn_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.610.binding_BotIntOpn_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 33769,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.610.binding_BotExtOpn_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.610.binding_BotExtOpn_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.610.binding_BotExtOpn_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.610.binding_BotExtOpn_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.610.binding_BotExtOpn_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Codex; Colophon; Illumination; Illustration; Manuscript; Medallion; Miniature; Ornament; Painting; Original Binding; Binding; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on laid paper covered with dark brown leather with gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2335,
+        "LocationString": null
+    },
+    "ObjectID": 22150,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.610",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 77700,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77701,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77702,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77703,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77704,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77705,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77706,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77707,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77708,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77709,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77710,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83594,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83595,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83596,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83597,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83598,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83599,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83600,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83601,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83602,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83603,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83604,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83605,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83606,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83607,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83608,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83609,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83610,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83611,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83612,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83613,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83614,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83615,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83616,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83617,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/22150",
+    "SortNumber": "W        610                                            ",
+    "Style": null,
+    "Title": "Five Poems (Quintet)"
+}

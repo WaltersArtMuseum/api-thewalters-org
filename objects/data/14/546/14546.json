@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Byzantine",
+    "DateBeginYear": 1440,
+    "DateEndYear": 1460,
+    "DateText": "mid 15th century",
+    "Description": "Illustrated Books of Hours in Greek are extremely rare. This example is also of interest because its miniatures show interaction between the Late Byzantine and Gothic artistic styles. It may have been copied on the island of Crete, which in the fifteenth century was ruled by Venice.",
+    "Dimensions": "Folio H: 3 5/8 \u00d7 W: 2 7/8 in. (9.2 \u00d7 7.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "The Cross and the Crescent: Books from the Ottoman Age",
+            "ExhibBeginDate": "2003-03-01",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "March 1, 2003-May 18, 2003",
+            "ExhibEndDate": "2003-05-18",
+            "ExhibEndYear": 2003,
+            "ExhibitionID": 112,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Cross and the Crescent: Books from the Ottoman Age. The Walters Art Museum, Baltimore. 2003."
+        },
+        {
+            "ExhTitle": "Byzantine Gold: Illumination in Greek Manuscripts",
+            "ExhibBeginDate": "1986-07-15",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "July 15, 1986- September 21, 1986",
+            "ExhibEndDate": "1986-09-21",
+            "ExhibEndYear": 1986,
+            "ExhibitionID": 2016,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Byzantine Gold: Illumination in Greek Manuscripts. The Walters Art Gallery, Baltimore. 1986."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Marmara\\provinces\\Istanbul\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501274,
+            "GeographyTerm": "Istanbul",
+            "Latitude": "41 02",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 41.33,
+            "Longitude": "028 57",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 28.95
+        }
+    ],
+    "Images": [
+        {
+            "ID": 53821,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.534.binding_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.534.binding_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.534.binding_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.534.binding_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.534.binding_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Illumination; Manuscript; Miniature; Codex; Devotion",
+    "Medium": "ink and pigments on medium-weight parchment bound between flush-grooved wooden boards covered with green patterned silk with traces of clasps on the back cover",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2381,
+        "LocationString": null
+    },
+    "ObjectID": 14546,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.534",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-02T01:00:02.9",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14546",
+    "SortNumber": "W        534                                            ",
+    "Style": null,
+    "Title": "Book of Hours"
+}

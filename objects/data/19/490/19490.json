@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Byzantine",
+            "CreatorID": 6640,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1985",
+    "Culture": "Byzantine",
+    "DateBeginYear": 500,
+    "DateEndYear": 699,
+    "DateText": "6th-7th century",
+    "Description": "This flask shows a shrouded figure, perhaps Lazarus, emerging from the partially opened doors of a tomb. On the reverse is a cross under an arch.  These two images evoked the pilgrim's belief in Christ's victory over death and the final resurrection of all believers.  The flask could be worn around the neck as a kind of protective souvenir.",
+    "Dimensions": "2 11/16 x 1 15/16 x 7/8 in. (6.8 x 4.9 x 2.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Memory and the Middle Ages",
+            "ExhibBeginDate": "1995-02-17",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 17, 1995-May 23,1995",
+            "ExhibEndDate": "1995-05-23",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 2528,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Memory and the Middle Ages. McMullen Museum of Art, Boston College, Chestnut Hill. 1995."
+        },
+        {
+            "ExhTitle": "King Herod's Dream: Caesarea on the Sea",
+            "ExhibBeginDate": "1988-03-23",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "March 23, 1988-January 14, 1990",
+            "ExhibEndDate": "1990-01-14",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 3005,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "King Herod's Dream: Caesarea on the Sea. Denver Museum of Natural History, Denver; Science Museum of Minnesota, St. Paul; Museum of Science, Boston, Boston; Canadian Museum of Civilization, Gatineau; Smithsonian National Museum of Natural History, Washington; Natural History Museum of Los Angeles, Los Angeles. 1988-1990."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions\\Ege kiyilari\\provinces\\Izmir Ili\\deserted settlements\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501639,
+            "GeographyTerm": "Ephesus",
+            "Latitude": "37 55",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.916,
+            "Longitude": "027 19",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 27.316
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12693,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2521_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2521_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2521_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2521_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2521_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12692,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2521_Back_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2521_Back_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2521_Back_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2521_Back_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2521_Back_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Early Byzantine Art",
+        "LocationID": 3802,
+        "LocationString": null
+    },
+    "ObjectID": 19490,
+    "ObjectName": "pilgrim flasks",
+    "ObjectNumber": "48.2521",
+    "OnView": 1,
+    "Period": "Late Antique",
+    "Provenance": "Clive Foss, Boston, by purchase; Walters Art Museum, 1985, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:34.94",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19490",
+    "SortNumber": "    48  2521                                            ",
+    "Style": null,
+    "Title": "Pilgrim Flask"
+}

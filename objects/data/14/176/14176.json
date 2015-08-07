@@ -1,0 +1,107 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "This diagram shows the positions of the Sun on the days of the solstices and equinoxes. The center constitutes the observer's position, facing south (the diagram's top). The thin yellow band framing the diagram is the horizon. Six yellow circles connected by three red arcs of decreasing size indicate sunrise (left) and sunset (right) at the summer solstice, the spring and autumn equinoxes, and the winter solstice respectively, while the arcs themselves show the Sun's path above the horizon on these days. At the arcs' midpoints are the midday Suns of the solstices and equinoxes. Six straight red lines on either side of the midday Suns indicate the Sun's positions at the third and ninth hours on these days.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Expanding World Views: A Millennium of Maps",
+            "ExhibBeginDate": "2001-10-20",
+            "ExhibBeginYear": 2001,
+            "ExhibDisplayDate": "October 20, 2001-January 20, 2002",
+            "ExhibEndDate": "2002-01-20",
+            "ExhibEndYear": 2002,
+            "ExhibitionID": 125,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Expanding World Views: A Millennium of Maps. The Walters Art Museum, Baltimore. 2001-2002."
+        },
+        {
+            "ExhTitle": "Living by the Book: Monks, Nuns, and Their Manuscripts",
+            "ExhibBeginDate": "2013-07-13",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "July 13, 2013 - September 29, 2013",
+            "ExhibEndDate": "2013-09-29",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3231,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Living by the Book: Monks, Nuns, and Their Manuscripts. 2013."
+        },
+        {
+            "ExhTitle": "Heavenly Bodies",
+            "ExhibBeginDate": "1988-07-26",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "July 26, 1988-October 9, 1988",
+            "ExhibEndDate": "1988-10-09",
+            "ExhibEndYear": 1988,
+            "ExhibitionID": 115,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Heavenly Bodies. The Walters Art Gallery, Baltimore. 1988."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 45958,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.3r_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.3r_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.3r_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.3r_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.3r_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 14176,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.3R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14176",
+    "SortNumber": "W         73    3R                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagram of the Solstices and Equinoxes"
+}

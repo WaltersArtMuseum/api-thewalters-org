@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Adrien Ysenbrandt (Flemish, ca. 1500-before 1551)",
+            "CreatorID": 5073,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1907",
+    "Culture": null,
+    "DateBeginYear": 1488,
+    "DateEndYear": 1550,
+    "DateText": "ca. 1500-1550",
+    "Description": null,
+    "Dimensions": "H: 23 13/16 x W: 19 3/4 in. (60.5 x 50.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters",
+            "ExhibBeginDate": "1981-11-01",
+            "ExhibBeginYear": 1981,
+            "ExhibDisplayDate": "November 1, 1981-February 1, 1982",
+            "ExhibEndDate": "1982-02-01",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 2517,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "New Light on Old Pictures: Dutch and Flemish Paintings from the Walters. The Walters Art Gallery, Baltimore. 1981-1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Vlaanderen\\provinces\\West-Vlaanderen\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421893,
+            "GeographyTerm": "Brugge",
+            "Latitude": "51 13",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.216,
+            "Longitude": "003 14",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.233
+        }
+    ],
+    "Images": [
+        {
+            "ID": 25726,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.266_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.266_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.266_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.266_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.266_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3354,
+        "LocationString": null
+    },
+    "ObjectID": 39103,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.266",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "E. Glaezner & Co., New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, January 26, 1907, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2011-12-22T00:30:00.167",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39103",
+    "SortNumber": "    37   266                                            ",
+    "Style": null,
+    "Title": "Virgin and Child with Two Angels in a Landscape"
+}

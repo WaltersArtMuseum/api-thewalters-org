@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase [formerly part of the Walters Collection], 1941",
+    "Culture": null,
+    "DateBeginYear": 1745,
+    "DateEndYear": 1749,
+    "DateText": "1745-1749",
+    "Description": "The \"marchands-merciers,\" or purveyors of the arts, frequently determined the course of fashion in 18th-century France. In this instance, a \"marchand-mercier\" has had a Chinese porcelain figure of the Buddhist monk Pu-tai Ho Shang and a cup mounted in an ormolu bower adorned with Vincennes porcelain flowers. The ormolu is stamped with the crowned \"C\" mark indicating that it was made between 1745 and 1749.",
+    "Dimensions": "14 in. (35.56 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Allure of Bronze",
+            "ExhibBeginDate": "1995-02-12",
+            "ExhibBeginYear": 1995,
+            "ExhibDisplayDate": "February 12, 1995-April 16, 1995",
+            "ExhibEndDate": "1995-04-16",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 34,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Allure of Bronze. The Walters Art Gallery, Baltimore. 1995."
+        },
+        {
+            "ExhTitle": "Chinese Porcelains in European Mounts",
+            "ExhibBeginDate": "1980-10-22",
+            "ExhibBeginYear": 1980,
+            "ExhibDisplayDate": "October 22, 1980-January 25, 1981",
+            "ExhibEndDate": "1981-01-25",
+            "ExhibEndYear": 1981,
+            "ExhibitionID": 2895,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Chinese Porcelains in European Mounts. China Institute, New York. 1980-1981."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62709,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_54.2261_Fnt_TR.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_54.2261_Fnt_TR.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_54.2261_Fnt_TR.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_54.2261_Fnt_TR.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_54.2261_Fnt_TR.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 795,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_54.2261_Fnt_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_54.2261_Fnt_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_54.2261_Fnt_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_54.2261_Fnt_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_54.2261_Fnt_UK.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 200
+        }
+    ],
+    "Inscriptions": "[Stamp] crowned C",
+    "Keywords": null,
+    "Medium": "Chinese porcelain, soft-paste porcelain, ormolu",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: European Porcelains",
+        "LocationID": 5325,
+        "LocationString": null
+    },
+    "ObjectID": 14256,
+    "ObjectName": "perfume bottles",
+    "ObjectNumber": "54.2261",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, New York [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Joseph Brummer, New York [date of acquisition unknown], by purchase; Walters Art Museum, 1941, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:14:37.347",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14256",
+    "SortNumber": "    54  2261                                            ",
+    "Style": null,
+    "Title": "Perfumer (Cassolette)"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Flemish",
+            "CreatorID": 6505,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of the William R. Hearst Foundation, 1957",
+    "Culture": null,
+    "DateBeginYear": 1290,
+    "DateEndYear": 1290,
+    "DateText": "1290",
+    "Description": null,
+    "Dimensions": "H: 18 15/16 x W: 13 5/8 in. (48.1 x 34.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Seeing Music in Medieval Manuscripts",
+            "ExhibBeginDate": "2014-06-28",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "June 28, 2014 - October 12, 2014",
+            "ExhibEndDate": "2014-10-12",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3316,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "Seeing Music in Medieval Manuscripts. 2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Belgi\u00eb\\regions\\Wallonie\\provinces\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1421516,
+            "GeographyTerm": "Hainaut, Province de",
+            "Latitude": "50 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 50.5,
+            "Longitude": "003 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 3.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11535,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.759.1V-2R_OpnGp_TR_T01IV.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.759.1V-2R_OpnGp_TR_T01IV.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.759.1V-2R_OpnGp_TR_T01IV.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.759.1V-2R_OpnGp_TR_T01IV.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.759.1V-2R_OpnGp_TR_T01IV.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78105,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.759.1V",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "Lady Marie de Viane at Cambron, 1290, by commission; First daughter of Lady Marie de Viane at Cambron [date of acquisition unknown], by gift; Convent of Saint Marie de Beaupr\u00e9 near Grammont, Belgium, until the French Revolution [mode of acquisition unknown]; John Ruskin, ca, 1853 [mode of acquisition unknown]; Sale, London (?), June 22, 1921, III, no. 67; Henry Yates Thompson, London [date and mode of acquisition unknown]; Sale, June 7, 1932, I, no. 15; A. Chester Beatty [date and mode of acquisition unknown]; William Randolph Hearst [date and mode of acquisition unknown]; William Randolph Hearst Foundation [date and mode of acquisition unknown]; Walters Art Museum, 1957, by gift.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78105",
+    "SortNumber": "W        759    1V                                      ",
+    "Style": "Gothic",
+    "Title": "Leaf from the Beaupr\u00e9 Antiphonary (Volume I)"
+}

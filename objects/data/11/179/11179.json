@@ -1,0 +1,92 @@
+{
+    "Classification": "Enamels",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Rhenish",
+            "CreatorID": 5094,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Rhenish",
+    "DateBeginYear": 1180,
+    "DateEndYear": 1185,
+    "DateText": "1180-1185",
+    "Description": "These plaques probably came from the St. Anno Shrine (1183) in Cologne.  The engraved heads were modeled on antique sources such as Roman gems and cameos fitted into large church-shaped shrines in this period.  Plaques of this type were used to conceal the joints in the metalwork.",
+    "Dimensions": "1 9/16 x 1 9/16 x 1/8 in. (3.9 x 3.9 x 0.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Year 1200",
+            "ExhibBeginDate": "1970-02-12",
+            "ExhibBeginYear": 1970,
+            "ExhibDisplayDate": "February 12, 1970-May 10, 1970",
+            "ExhibEndDate": "1970-05-10",
+            "ExhibEndYear": 1970,
+            "ExhibitionID": 306,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Year 1200. The Metropolitan Museum of Art, New York. 1970."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Deutschland\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1448525,
+            "GeographyTerm": "Rheinland",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8359,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_44.603_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_44.603_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_44.603_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_44.603_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_44.603_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "champlev\u00e9 enamel on copper with gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3858,
+        "LocationString": null
+    },
+    "ObjectID": 11179,
+    "ObjectName": "plaques",
+    "ObjectNumber": "44.603",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Paul Beumer, Berlin; Joseph Brummer, Paris and New York; Joseph Brummer Sale, Parke-Bernet Galleries, New York, April 20, 1949, no. 697; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:34.847",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 1256,
+            "RelationType": "See Also, Part of Set"
+        },
+        {
+            "ObjectID": 3040,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/11179",
+    "SortNumber": "    44   603                                            ",
+    "Style": "Romanesque",
+    "Title": "Plaque from a Shrine"
+}

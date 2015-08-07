@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Baba Shah ibn Sultan 'Ali iIsfahani (Iranian)",
+            "CreatorID": 18550,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1591,
+    "DateEndYear": 1591,
+    "DateText": "999 AH/AD 1591",
+    "Description": "This colophon from Walters manuscript W.643 explains the nature of the work and gives the name of the calligrapher and the date of copying as Rajab 999 AH/AD 1591.",
+    "Dimensions": "H: 8 7/8 x W: 5 1/8 in. (22.5 x 13.0 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28768,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.643.55a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.643.55a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.643.55a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.643.55a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.643.55a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Transliteration]  tammat hadh\u0101 [sic] al-ris\u0101lah al-shar\u012bfa[h] /1/ mushtamal [sic] 'al\u00e1 nik\u0101t lat\u012bfah /2/ f\u012b tafs\u012br aby\u0101t ma'naw\u012byah 'al\u00e1 /3/ al-sadr al-Mathaw\u012b al-Ma'naw\u012b /4/ qaddasa sirruhu al-'az\u012bz Jal\u0101l /5/ al-D\u012bn Muhammad al-R\u016bm\u012b 'alayhi /6/ al-rahmah wa-al-ghufr\u0101n /7/ 'al\u00e1 yad al-k\u0101tib al-faq\u012br B\u0101b\u0101 S\u0101h bn Sult\u0101n /8/ 'Al\u012b Isfah\u0101n\u012b /8/ f\u012b shahr Rajab al-murajjab /9/ sanat tis' wa-tis'\u012bn wa-tis'imi<'>ah /10/ al-hijr\u012byah al-nabaw\u012byah /11/",
+    "Keywords": "Sufi; Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Iran; Sufism",
+    "Medium": "ink and pigments on rose-tinted, laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 81414,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.643.55A",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Alllah Muhammad 'Ali, 1030 AH/AD 1620-1621 [mode of acquisition unknown] [Round seal in the center of fol. 1a]; Unknown owner, 22 Jum. II 1105 AH/AD 1694 [mode of acquisition unknown] [a note on fol. 1a]; Mahmud, 1115 AH/AD 1703-1704 [mode of acquisition unknown] [Square seal with name Mahmud (partially erased) and an inscription with the date on fol. 1a]; Husayn Shah Ghulami, Dhu al-Qa'dah 1127 AH/AD 1715 [mode of acquisition unknown] [Octagonal seal with name underneath an inscription giving the date on fol. 1a]; Husayn Qavam (?), Daftar, 1301 AH/AD 1883-1884 [mode of acquisition unknown] [ownership statement on fol. 2a]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, Baltimore, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/81414",
+    "SortNumber": "W        643   55A                                      ",
+    "Style": null,
+    "Title": "Colophon"
+}

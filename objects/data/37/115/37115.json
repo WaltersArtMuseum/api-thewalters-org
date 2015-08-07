@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1900,
+    "DateText": "12th-13th century AH/AD 18th-19th century",
+    "Description": "This painting, Walters manuscript leaf W.714, depicts a Mughal emperor, yet to be identified, seated in an inlaid chair of European design, on the bank of a brook in a rocky landscape. He is reading an unrolled document which may have been presented to him by the figure standing to his left. The standing figure bears some physiognomic resemblance to portraits of the Mughal emperor Akbar (reigned 963-1014 AH/AD 1556-1605). On the ground between the two figures is a crown and garment. A figure on horseback makes the gesture of surprise in the background. The painting was executed in India during the12th or 13th century AH/AD 18th or 19th. The polychrome floral borders surrounding the image are not much later than the image itself.",
+    "Dimensions": "H: 14 x W: 9 1/4 in. (35.5 x 23.5 cm); Image H: 7 3/8 x W: 4 1/4 in. (18.8 x 10.8 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38791,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.714.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.714.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.714.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.714.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.714.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Mughal; Illustration; Miniature; Painting; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6428,
+        "LocationString": null
+    },
+    "ObjectID": 37115,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.714",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83873,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83874,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/37115",
+    "SortNumber": "W        714                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Mughal Emperor with a Document"
+}

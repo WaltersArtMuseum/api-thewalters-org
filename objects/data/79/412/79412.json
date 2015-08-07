@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Salinar",
+            "CreatorID": 31449,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Salinar",
+    "DateBeginYear": -200,
+    "DateEndYear": 100,
+    "DateText": "200 BC-AD 100",
+    "Description": null,
+    "Dimensions": "H: 15 3/4 x W: 3 3/8 in. (40 x 8.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1415776,
+            "GeographyTerm": "Per\u00fa",
+            "Latitude": "10 00",
+            "LatitudeDirection": "S",
+            "LatitudeNumber": -10.0,
+            "Longitude": "076 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -76.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19134,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2852_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2852_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2852_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2852_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2852_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19135,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.2852_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.2852_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.2852_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.2852_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.2852_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ceramic orangeware",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5580,
+        "LocationString": null
+    },
+    "ObjectID": 79412,
+    "ObjectName": "bottles",
+    "ObjectNumber": "48.2852",
+    "OnView": 0,
+    "Period": "Early Horizon-Early Intermediate",
+    "Provenance": "The Merrin Gallery, New York [date and mode of acquisition unknown]; Private collection, 1992, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-07-21T09:32:46.86",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/79412",
+    "SortNumber": "    48  2852                                            ",
+    "Style": null,
+    "Title": "Figurative Bottle"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Copy after Francesco Guardi (Italian, 1712-1793)",
+            "CreatorID": 2647,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Veneto\\provinces\\Venezia\\inhabited places\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1434156,
+            "GeographyTerm": "Venezia",
+            "Latitude": "45 26",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.433,
+            "Longitude": "012 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 29664,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.602_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.602_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.602_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.602_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.602_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 48155,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.602_XR_1971.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.602_XR_1971.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.602_XR_1971.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.602_XR_1971.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.602_XR_1971.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3312,
+        "LocationString": null
+    },
+    "ObjectID": 39919,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.602",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39919",
+    "SortNumber": "    37   602                                            ",
+    "Style": null,
+    "Title": "View of St. Marks and Campanile from Canal"
+}

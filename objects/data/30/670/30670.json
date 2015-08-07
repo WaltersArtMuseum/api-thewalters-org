@@ -1,0 +1,83 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Venetian ()",
+            "CreatorID": 6200,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1942",
+    "Culture": null,
+    "DateBeginYear": 1550,
+    "DateEndYear": 1600,
+    "DateText": "1550-1600",
+    "Description": "Carved in relief, with a later gold mount.",
+    "Dimensions": "1 x 13/16 in. (2.54 x 2.06 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1433586,
+            "GeographyTerm": "Italia",
+            "Latitude": "42 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 42.833,
+            "Longitude": "012 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 12.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11958,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_42.1222_Fnt_TR_C79II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_42.1222_Fnt_TR_C79II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_42.1222_Fnt_TR_C79II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_42.1222_Fnt_TR_C79II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_42.1222_Fnt_TR_C79II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "onyx",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4525,
+        "LocationString": null
+    },
+    "ObjectID": 30670,
+    "ObjectName": "cameos",
+    "ObjectNumber": "42.1222",
+    "OnView": 1,
+    "Period": "Renaissance",
+    "Provenance": "Sale, Joseph Brummer [date and mode of acquisition unknown]; Walters Art Museum, 1942, by purchase.",
+    "PublicAccessDate": "2008-12-01T12:11:50.96",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/30670",
+    "SortNumber": "    42  1222                                            ",
+    "Style": null,
+    "Title": "Cameo Portrait of a Wreathed Lady"
+}

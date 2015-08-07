@@ -1,0 +1,107 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1925",
+    "Culture": "Greek",
+    "DateBeginYear": -212,
+    "DateEndYear": -138,
+    "DateText": "ca. 200-150 BC",
+    "Description": "One of the most flourishing workshops for Hellenistic terracottas was located on the western coast of Asia Minor at Myrina. This elegant Nike is a good representation of this fabric. The complicated twisted pose of this figure and the agitation of the wind-blown garment are distinctly Hellenistic and look to the \"Winged Victory of Samothrace\" created later in the 2nd century BC (Louvre Museum, Paris). Behind each arm is a slit where wings would once have been attached.",
+    "Dimensions": "10 7/8 x 5 1/4 x 4 7/16 in. (27.7 x 13.4 x 11.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Taste of Maryland: Art Collecting in Maryland 1800-1934",
+            "ExhibBeginDate": "1984-05-18",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "May 18, 1984-August 19, 1984",
+            "ExhibEndDate": "1984-08-19",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 170,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Taste of Maryland: Art Collecting in Maryland 1800-1934. The Walters Art Gallery, Baltimore. 1984."
+        },
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\T\u00fcrkiye\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503181,
+            "GeographyTerm": "Anadolu",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8487,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.295_VwB_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.295_VwB_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.295_VwB_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.295_VwB_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.295_VwB_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8486,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_48.295_VwA_DD_T06.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_48.295_VwA_DD_T06.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_48.295_VwA_DD_T06.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_48.295_VwA_DD_T06.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_48.295_VwA_DD_T06.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3681,
+        "LocationString": null
+    },
+    "ObjectID": 34282,
+    "ObjectName": "figurines",
+    "ObjectNumber": "48.295",
+    "OnView": 1,
+    "Period": "Greco-Roman",
+    "Provenance": "King and Parker; Joseph Brummer, 1925; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.953",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34282",
+    "SortNumber": "    48   295                                            ",
+    "Style": "Hellenistic",
+    "Title": "Nike"
+}

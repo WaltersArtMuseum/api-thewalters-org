@@ -1,0 +1,75 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Mrs. David Bruce, 1956",
+    "Culture": null,
+    "DateBeginYear": 600,
+    "DateEndYear": 799,
+    "DateText": "7th-8th century",
+    "Description": "Mold-made with traces of polychromy.",
+    "Dimensions": "H: 33 3/16 in. (84.3 cm)",
+    "Dynasty": "Tang [T'ang] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12140,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_49.2387_3Qtr_TR_T01II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_49.2387_3Qtr_TR_T01II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_49.2387_3Qtr_TR_T01II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_49.2387_3Qtr_TR_T01II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_49.2387_3Qtr_TR_T01II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware with glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1684,
+        "LocationString": null
+    },
+    "ObjectID": 4178,
+    "ObjectName": "figures",
+    "ObjectNumber": "49.2387",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Mrs. David Bruce, Georgetown, DC; Walters Art Museum, Baltimore, May, 1956, by gift.",
+    "PublicAccessDate": "2008-12-19T15:47:20.05",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 19249,
+            "RelationType": "See Also, One of a Pair"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4178",
+    "SortNumber": "    49  2387                                            ",
+    "Style": null,
+    "Title": "One of a Pair of Standing Officials"
+}

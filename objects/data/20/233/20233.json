@@ -1,0 +1,118 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Abu Sa'id al-Husayni",
+            "CreatorID": 19415,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Turkish",
+            "CreatorID": 2431,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1601,
+    "DateEndYear": 1700,
+    "DateText": "11th century AH/AD 17th century",
+    "Description": "These 2 leaves, Walters W.679, are Ottoman Turkish illustrations. One depicts the Prophet Muhammad praying at the Ka'bah, and the other depicts the Prophet Muhammad, 'Ali, and his young sons Hasan and Husayn. The illustrations were executed in the 11th century AH/AD 17th. They are presently mounted on the first and last leaves of an illuminated manuscript copied in Nasta'liq script in 798 AH/AD 1396 by Abu Sa'id al-Husayni.",
+    "Dimensions": "H: 9 13/16 x W: 5 7/8 in. (25 x 15 cm)",
+    "Dynasty": "Ottoman Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1501112,
+            "GeographyTerm": "T\u00fcrkiye",
+            "Latitude": "39 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 39.0,
+            "Longitude": "035 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 35.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 38772,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.679.Aa_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.679.Aa_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.679.Aa_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.679.Aa_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.679.Aa_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 0
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Ottoman; Turkish; Illumination; Illustration; Manuscript; Turkey",
+    "Medium": "ink and pigments on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 20233,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.679",
+    "OnView": 0,
+    "Period": "Ottoman",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 10698,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 77507,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84225,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 84226,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/20233",
+    "SortNumber": "W        679                                            ",
+    "Style": null,
+    "Title": "Two Leaves Depicting the Prophet Muhammad, Ali, and His Sons Hasan and Husayn"
+}

@@ -1,0 +1,82 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1912",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 100,
+    "DateText": "1st century",
+    "Description": "The cat-goddess Bastet could be depicted with the head of a lioness, adding an extra potency to her protection. The inscriptions indicate that this enthroned figure of the goddess was a New Year's gift, given to celebrate the beneficial annual flooding of the Nile River.",
+    "Dimensions": "10 1/8 in. (25.7 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4886,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.468_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.468_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.468_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.468_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.468_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35113,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.468_Fnt_NG_2717.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.468_Fnt_NG_2717.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.468_Fnt_NG_2717.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.468_Fnt_NG_2717.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.468_Fnt_NG_2717.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4516,
+        "LocationString": null
+    },
+    "ObjectID": 12694,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "48.468",
+    "OnView": 1,
+    "Period": "Roman",
+    "Provenance": "Dikran Kelekian, Paris and New York; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:40.05",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/12694",
+    "SortNumber": "    48   468                                            ",
+    "Style": null,
+    "Title": "Statuette of Bastet Enthroned"
+}

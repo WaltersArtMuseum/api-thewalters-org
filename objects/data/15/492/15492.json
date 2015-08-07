@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -1070,
+    "DateEndYear": -664,
+    "DateText": "1070-664 BC",
+    "Description": "It is very difficult to determine the color of the glaze because it is completely gone.",
+    "Dimensions": "H: 1 1/4 x W: 1/8 x D: 3/8 in. (3.1 x 0.32 x 1 cm)",
+    "Dynasty": "21st Dynasty-25th Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 21865,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1549_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1549_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1549_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1549_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1549_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 21866,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1549_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1549_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1549_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1549_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1549_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 21867,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1549_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1549_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1549_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1549_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1549_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 21864,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.1549_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.1549_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.1549_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.1549_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.1549_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 814,
+        "LocationString": null
+    },
+    "ObjectID": 15492,
+    "ObjectName": "amulets; amulet-pendant",
+    "ObjectNumber": "48.1549",
+    "OnView": 0,
+    "Period": "Third Intermediate-Late Period",
+    "Provenance": "Maurice Nahman, Cairo [date and mode of acquistion unknown]; Henry Walters, Baltimore, 1930 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-01-22T15:10:45.327",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/15492",
+    "SortNumber": "    48  1549                                            ",
+    "Style": null,
+    "Title": "Jackal Headed Anubis"
+}

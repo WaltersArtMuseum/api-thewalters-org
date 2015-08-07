@@ -1,0 +1,95 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1875,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 4 5/16 x W: 5 1/2 in. (10.9 x 13.9 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Works of Antoine-Louis Barye",
+            "ExhibBeginDate": "1889-11-15",
+            "ExhibBeginYear": 1889,
+            "ExhibDisplayDate": "November 1889-1890",
+            "ExhibEndDate": "1890-01",
+            "ExhibEndYear": 1890,
+            "ExhibitionID": 631,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Works of Antoine-Louis Barye. American Art Gallery (New York), New York. 1889-1890."
+        },
+        {
+            "ExhTitle": "The Essence of Line: French Drawings from Ingres to Degas",
+            "ExhibBeginDate": "2005-06-19",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "June 19, 2005-September 17, 2006",
+            "ExhibEndDate": "2006-09-17",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2069,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Essence of Line: French Drawings from Ingres to Degas. The Walters Art Museum, Baltimore; Baltimore Museum of Art, Baltimore; Birmingham Museum of Art, Birmingham; Tacoma Art Museum, Tacoma. 2005-2006."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 518,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_37.811_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_37.811_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_37.811_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_37.811_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_37.811_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "\"BARYE\" recto, upper right corner in red; \"Barye\" recto, upper left edge, vertically, in blue ink",
+    "Keywords": "animal",
+    "Medium": "watercolor over graphite underdrawing on slightly textured, moderately thick, cream wove paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2238,
+        "LocationString": null
+    },
+    "ObjectID": 13206,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.811",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. Walters, Baltimore [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1894, by inheritance; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:14:35.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13206",
+    "SortNumber": "    37   811                                            ",
+    "Style": null,
+    "Title": "Deer Walking"
+}

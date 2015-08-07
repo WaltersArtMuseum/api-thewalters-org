@@ -1,0 +1,88 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "After Shen Nanpin (Chinese, 1682-after 1760)",
+            "CreatorID": 18024,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "18th century",
+    "Description": null,
+    "Dimensions": "L: 42 3/4 x W: 20 1/2 in. (108.6 x 52.1 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 55742,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_35.85_Fnt_NF_C37.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_35.85_Fnt_NF_C37.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_35.85_Fnt_NF_C37.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_35.85_Fnt_NF_C37.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_35.85_Fnt_NF_C37.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Inscription]; [Seal]",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on paper and brocade",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2411,
+        "LocationString": null
+    },
+    "ObjectID": 19162,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.85",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-25T01:00:01.08",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19162",
+    "SortNumber": "    35    85                                            ",
+    "Style": "Nagasaki School",
+    "Title": "White Heron and Sparrows Among Flowers"
+}

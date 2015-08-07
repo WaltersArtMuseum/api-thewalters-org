@@ -1,0 +1,82 @@
+{
+    "Classification": "Enamels",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "French",
+    "DateBeginYear": 1240,
+    "DateEndYear": 1260,
+    "DateText": "mid 13th century",
+    "Description": "A chrismatory served as a container for the three vials of holy oil (or chrism) used in church rites. These were the oil for the consecration of priests and churches, the oil for confirmation of the young, and the oil for the last rites of the dying. This chrismatory, decorated with engraved busts of angels, would have been supported by gilded copper feet.",
+    "Dimensions": "H: 4 5/16 x W: 4 5/16 x D: 2 13/16 in. (11 x 10.9 x 7.1 cm)\r\nH with handle down: 3 3/4 in. (9.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Limousin\\departments\\Haute-Vienne\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423931,
+            "GeographyTerm": "Limoges",
+            "Latitude": "45 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.833,
+            "Longitude": "001 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8312,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_44.102_3Qtr_DD_T07-2.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_44.102_3Qtr_DD_T07-2.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_44.102_3Qtr_DD_T07-2.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_44.102_3Qtr_DD_T07-2.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_44.102_3Qtr_DD_T07-2.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8313,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_44.102_Back_DD_T07-2.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_44.102_Back_DD_T07-2.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_44.102_Back_DD_T07-2.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_44.102_Back_DD_T07-2.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_44.102_Back_DD_T07-2.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "box, holy oils\r\n",
+    "Medium": "champlev\u00e9 enamel on copper with gilding",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Romanesque and Gothic Art",
+        "LocationID": 3866,
+        "LocationString": null
+    },
+    "ObjectID": 5063,
+    "ObjectName": "liturgical vessels",
+    "ObjectNumber": "44.102",
+    "OnView": 1,
+    "Period": "Medieval",
+    "Provenance": "Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:15:34.77",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/5063",
+    "SortNumber": "    44   102                                            ",
+    "Style": "Gothic",
+    "Title": "Chrismatory"
+}

@@ -1,0 +1,119 @@
+{
+    "Classification": "Gold, Silver & Jewelry",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -1290,
+    "DateEndYear": -664,
+    "DateText": "1290-664 BC",
+    "Description": "Silver was not easily obtainable in Egypt and was probably more costly for ancient Egyptians to acquire than gold.",
+    "Dimensions": "H: 1 3/16 x W: 15/16 x D: 1/4 in. (3 x 2.4 x 0.7 cm)",
+    "Dynasty": "19th-25th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22604,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1429_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1429_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1429_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1429_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1429_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22605,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1429_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1429_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1429_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1429_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1429_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22607,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1429_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1429_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1429_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1429_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1429_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22606,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_57.1429_Rev_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_57.1429_Rev_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_57.1429_Rev_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_57.1429_Rev_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_57.1429_Rev_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "embossed silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Treasury",
+        "LocationID": 3649,
+        "LocationString": null
+    },
+    "ObjectID": 36817,
+    "ObjectName": "amulets; amulet pendant",
+    "ObjectNumber": "57.1429",
+    "OnView": 1,
+    "Period": "late New Kingdom-Third Intermediate",
+    "Provenance": "Henry Walters, Baltimore; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:41",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36817",
+    "SortNumber": "    57  1429                                            ",
+    "Style": null,
+    "Title": "Lionness Headed Usekh, So Called \"Aegis\""
+}

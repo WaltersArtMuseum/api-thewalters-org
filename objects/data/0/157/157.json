@@ -1,0 +1,91 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "12th century AH/AD 18th century",
+    "Description": "This painting from Walters manuscript leaf W.710, which represents a mixture of Mughal and Rajput styles, depicts 2 Indian girls dancing. It is attributable to the 12th century AH/AD 18th.",
+    "Dimensions": "H: 11 13/16 x W: 8 1/4 in. (30 x 21 cm); Image H: 7 1/2 x W: 4 3/4 in. (19 x 12 cm)",
+    "Dynasty": "Rajput Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34151,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.710.a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.710.a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.710.a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.710.a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.710.a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 34141,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.710_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.710_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.710_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.710_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.710_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Indian; Islamic; Mughal; Rajput; Illustration; Painting; Ragini; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6438,
+        "LocationString": null
+    },
+    "ObjectID": 157,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.710",
+    "OnView": 0,
+    "Period": "Rajput",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83794,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83795,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/157",
+    "SortNumber": "W        710                                            ",
+    "Style": "Mughal, Rajput",
+    "Title": "Single Leaf of Dancing Girls"
+}

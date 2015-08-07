@@ -1,0 +1,89 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "William de Brailes (English, active ca. 1230)",
+            "CreatorID": 3408,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1238,
+    "DateEndYear": 1262,
+    "DateText": "ca. 1250",
+    "Description": "Top and Bottom images: These images from Walters manuscript W.106 depict scenes from the story of Ruth. Naomi and her daughter-in-law Ruth were destitute. Ruth went to glean barley, following the reapers, in the fields of Boaz, who was a kinsman of Naomi's late husband. After Boaz shows Ruth kindness by allowing her to have some of the barley, Ruth sleeps at Boaz's feet and is taken to bed with him.",
+    "Dimensions": "H: 5 3/16 x W: 3 3/4 in. (13.2 x 9.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Bible Before Luther",
+            "ExhibBeginDate": "1992-10-06",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "October 6, 1992-January 10, 1993",
+            "ExhibEndDate": "1993-01-10",
+            "ExhibEndYear": 1993,
+            "ExhibitionID": 88,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Bible Before Luther. The Walters Art Gallery, Baltimore. 1992-1993."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\counties\\Oxfordshire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1468718,
+            "GeographyTerm": "Oxford",
+            "Latitude": "51 46",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.766,
+            "Longitude": "001 15",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -1.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31341,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.106.18r_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.106.18r_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.106.18r_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.106.18r_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.106.18r_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Translation] the inscription ABOVE the image reads: Ruth went to glean in Boaz's field. Boaz said to his reapers that they should leave the ears of the wheat so that Ruth would have no shame. Boaz asked her who she was and she said that she was a foreigner; [Transliteration] ruth ala grever al camp booz. booz dit a sas mescinins q[u'i]l lesessent cheir del ble q[ue] ruth n[']ust hunte. booz lui damaundi q[ui] ele asteit el dit q[ue] le asteit aliana. \r\n\r\n[Translation] the inscription BELOW the image reads: She went to Naomi with her wheat. Naomi looked at her and said to her that she should join with Boaz's young women and that she should sleep at Boaz's feet. Ruth did so. Boaz noticed her and took her to bed but he did not know her; [Transliteration] e[le] vint a noemie od sun ble. noemie la revea [e] lu dit q[u'e]le se ioinst as anceles booz e q[ue] ele se cuchast as pez booz. ruth le fist issi. booz la ap[er]ceut e prist cugir mei il ne la cunut.",
+    "Keywords": "Art; Book; Christian; Illumination; Manuscript; Painting",
+    "Medium": "ink and pigment on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 34803,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.106.18R",
+    "OnView": 0,
+    "Period": "Medieval",
+    "Provenance": "L\u00e9on Gruel, Paris [date and mode of acquisition unknown]; Henry Walters, Baltimore, June 6, 1903, by purchase [see The Diaries of George Lucas]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34803",
+    "SortNumber": "W        106   18R                                      ",
+    "Style": null,
+    "Title": "Top: Ruth Meets Boaz as she gleans (Ruth 2:4-16)"
+}

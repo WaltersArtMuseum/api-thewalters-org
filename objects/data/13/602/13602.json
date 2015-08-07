@@ -1,0 +1,70 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Antoine-Louis Barye (French, 1795 - 1875)",
+            "CreatorID": 6082,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": null,
+    "DateBeginYear": 1801,
+    "DateEndYear": 1900,
+    "DateText": "19th century",
+    "Description": null,
+    "Dimensions": "H: 2 15/16 x W: 4 9/16 in. (7.5 x 11.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 9048,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.2191_Fnt_NF_H59.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.2191_Fnt_NF_H59.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.2191_Fnt_NF_H59.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.2191_Fnt_NF_H59.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.2191_Fnt_NF_H59.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2238,
+        "LocationString": null
+    },
+    "ObjectID": 13602,
+    "ObjectName": "leaves; sketches; tracings",
+    "ObjectNumber": "37.2191",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Vildieu-Barye Collection; Fabius Fr\u00e8res, Paris [date and mode of acquisition unknown]; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2009-09-08T10:19:58.87",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/13602",
+    "SortNumber": "    37  2191                                            ",
+    "Style": null,
+    "Title": "Tracing of a Sketch of Horses Mating"
+}

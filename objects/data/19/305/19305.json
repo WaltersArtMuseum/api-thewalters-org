@@ -1,0 +1,101 @@
+{
+    "Classification": "Timepieces, Clocks & Watches",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Swiss",
+            "CreatorID": 6290,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Abraham-Louis Breguet (Swiss, 1747-1823)",
+            "CreatorID": 4610,
+            "Gender": "male",
+            "Role": "Clockmaker"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1783,
+    "DateEndYear": 1807,
+    "DateText": "ca. 1795",
+    "Description": "The Swiss, heart-shaped case is enameled with a scene of a child comforting a weeping woman.",
+    "Dimensions": "Diam: 2 1/8 in. (5.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Objects of Vertu: Precious Works of the Eighteenth Century",
+            "ExhibBeginDate": "1984-09-25",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "September 25, 1984-November 15, 1984",
+            "ExhibEndDate": "1984-11-15",
+            "ExhibEndYear": 1984,
+            "ExhibitionID": 2689,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Objects of Vertu: Precious Works of the Eighteenth Century. The Walters Art Gallery, Baltimore. 1984."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\\u00cele-de-France\\departments\\Ville de Paris, D\u00e9partment de\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1427186,
+            "GeographyTerm": "Paris",
+            "Latitude": "48 52",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 48.866,
+            "Longitude": "002 20",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.333
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46971,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_58.203_Fnt_NG_1111.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_58.203_Fnt_NG_1111.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_58.203_Fnt_NG_1111.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_58.203_Fnt_NG_1111.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_58.203_Fnt_NG_1111.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "gold, basse-taille and painted enamel case",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4284,
+        "LocationString": null
+    },
+    "ObjectID": 19305,
+    "ObjectName": "watches",
+    "ObjectNumber": "58.203",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Tiffany & Co., New York [Pub.: List, 1893, no. 29]; San Donato [date and mode of acquisition unknown]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/19305",
+    "SortNumber": "    58   203                                            ",
+    "Style": null,
+    "Title": "Heart-Shaped Watch"
+}

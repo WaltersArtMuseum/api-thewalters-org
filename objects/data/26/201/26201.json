@@ -1,0 +1,87 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Japanese",
+            "CreatorID": 6194,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 0,
+    "DateEndYear": 0,
+    "DateText": "n.d.",
+    "Description": "This kozuka depicts a typical inro of the Edo period and the accessories worn with it. At the bottom is a cloth bag that could have been used to carry coins. Above it is a bead (\"ojime\") that may be mother of pearl. The \"inro,\" or medicine case, is in the middle. It is decorated with chrysanthemums. The bead accompanying the inro is coral.  At the top is a malachite netsuke in the shape of a gourd. The cord that connects all of these pieces would have been used to secure them to the belt of a traditional kimono.",
+    "Dimensions": "3 3/4 in. (9.6 cm) (l.)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 14101,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.673_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.673_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.673_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.673_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.673_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 14100,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.673_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.673_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.673_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.673_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.673_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "none",
+    "Keywords": "inro; ojime; netsuke",
+    "Medium": "shakudo, gold, copper, coral, mother-of pearl (?)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4118,
+        "LocationString": null
+    },
+    "ObjectID": 26201,
+    "ObjectName": "kozuka; sword components; handles",
+    "ObjectNumber": "51.673",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-02-12T16:06:08.027",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 36549,
+            "RelationType": "See Also, Part of Set"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/26201",
+    "SortNumber": "    51   673                                            ",
+    "Style": null,
+    "Title": "Kozuka with Inro, Bag, and Netsuke"
+}

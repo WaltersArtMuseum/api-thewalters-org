@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1922",
+    "Culture": "Hindu",
+    "DateBeginYear": 1501,
+    "DateEndYear": 1600,
+    "DateText": "16th century",
+    "Description": "This betel-nut cutter is a richly engraved horseshoe-shaped loop with a broad cutter, and tapering round handles with knobs at the ends.",
+    "Dimensions": "L: 8 9/16 x W: 3 9/16 in. (21.8 x 9 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 24231,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_54.570_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_54.570_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_54.570_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_54.570_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_54.570_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 24230,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_54.570_Back_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_54.570_Back_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_54.570_Back_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_54.570_Back_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_54.570_Back_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "brass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 486,
+        "LocationString": null
+    },
+    "ObjectID": 10779,
+    "ObjectName": "nut cutters",
+    "ObjectNumber": "54.570",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Lockwood de Forest Sale, American Art Association, 1922, no. 69; Henry Walters, Baltimore, 1922, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-11-25T12:27:18.843",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/10779",
+    "SortNumber": "    54   570                                            ",
+    "Style": null,
+    "Title": "Betel-nut Cutter"
+}

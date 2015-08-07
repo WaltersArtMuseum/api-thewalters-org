@@ -1,0 +1,94 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Giovanni Agostino da Lodi (Italian, active ca. 1467-ca. 1524)",
+            "CreatorID": 8058,
+            "Gender": "male",
+            "Role": "Painter"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1911",
+    "Culture": null,
+    "DateBeginYear": 1510,
+    "DateEndYear": 1515,
+    "DateText": "1510-1515",
+    "Description": "For more information on this painting, please see Federico Zeri's 1976 catalogue no. 291, pp. 419-420.",
+    "Dimensions": "Painted surface H: 18 3/16 x W: 14 3/4 x D: 1/2 in. (46.2 x 37.5 x 1.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1437821,
+            "GeographyTerm": "Lombardia",
+            "Latitude": "45 40",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 45.666,
+            "Longitude": "009 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 9.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41517,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.545_Fnt_TR_T95II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.545_Fnt_TR_T95II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.545_Fnt_TR_T95II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.545_Fnt_TR_T95II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.545_Fnt_TR_T95II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37000,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.545_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.545_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.545_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.545_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.545_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 47739,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CON_37.545_XR_1974.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CON_37.545_XR_1974.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CON_37.545_XR_1974.jpg",
+                "Small": "http://static.thewalters.org/images/CON_37.545_XR_1974.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CON_37.545_XR_1974.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Inscription] On reverse on label: Dogana Di Firenze; [Date] On reverse on label: 12. Apr. II; [Inscription] On reverse on label: Bramantino 1140; [Number] On reverse on label: 4XXff; [Number] On reverse on a red sticker: 37352",
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3281,
+        "LocationString": null
+    },
+    "ObjectID": 3229,
+    "ObjectName": "oil paintings; panel paintings",
+    "ObjectNumber": "37.545",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Berenson, Florence [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1911 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-06-17T14:37:27.077",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/3229",
+    "SortNumber": "    37   545                                            ",
+    "Style": null,
+    "Title": "Madonna and Child"
+}

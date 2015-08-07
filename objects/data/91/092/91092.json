@@ -1,0 +1,154 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Faulkner",
+            "CreatorID": 8457,
+            "Gender": null,
+            "Role": "Binder"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1803,
+    "DateEndYear": 1827,
+    "DateText": "ca. 1815",
+    "Description": null,
+    "Dimensions": "Folio H: 11 13/16 x W: 7 7/8 in. (30 x 20 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\England\\metropolitan areas\\Greater London\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1469860,
+            "GeographyTerm": "London",
+            "Latitude": "51 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 51.5,
+            "Longitude": "000 10",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -0.166
+        }
+    ],
+    "Images": [
+        {
+            "ID": 49829,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_TopExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_TopExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_TopExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_TopExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_TopExt_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 49830,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_TopInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_TopInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_TopInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_TopInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_TopInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 49824,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_BotInt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_BotInt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_BotInt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_BotInt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_BotInt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 49823,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_BotExt_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_BotExt_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_BotExt_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_BotExt_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_BotExt_DD.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 49827,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Spine.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Spine.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Spine.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Spine.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Spine.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 49825,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_ForeEdge.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_ForeEdge.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_ForeEdge.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_ForeEdge.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_ForeEdge.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 49826,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Head.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Head.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Head.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Head.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Head.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        },
+        {
+            "ID": 49828,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Tail.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Tail.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Tail.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Tail.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.144.binding_Ext_DD_Tail.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 8
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "brown calf leather with later-blocked John Louis Goldsmid arms over millboard, by Faulkner ca. 1815, rebacked; twentieth-century blue marbled paper pastedowns and brown ribbon",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5024,
+        "LocationString": null
+    },
+    "ObjectID": 91092,
+    "ObjectName": "bindings",
+    "ObjectNumber": "W.144.binding",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Copied in England (probably London), ca. 1300-1325; Monastery of Sancti Gualtheri (cropped inscription with 16 November 1463 date, fol. 121r), [mode of acquisition unknown]; Ebenezer Mussel, London [date and mode of acquisition unknown]; His sale, London, 30 May 1766, no. 90 [inscription fol. 121r]; William Bayntum, London, 30 May 1766, by purchase; His sale, London, 4 June 1787; John Louis Goldsmid (his arms on binding), London, 4 June 1787, by purchase; Sale, Christie's, London, 11 December 1815, no. 293, to n. 69 bis in a French catalogue (ca. 1840); [Examined by Paulin Paris (notes on fol. b)]; Joseph Barrois collection (no. 22) [date and mode of acquisition unknown]; Fourth Earl of Ashburnham, London, 1849, by purchase [from Joseph Barrois]; His sale, Sotheby's, London, 11 June 1901, no. 241; C. Fairfax Murray, 1901-before 1912, by purchase; L. Rosenthal, 1912 [mode of acquisition unknown];  Leon Gruel, Paris, after 1912 [mode of acquisition unknown]; Henry Walters, Baltimore, before 1931, by purchase from Leon Gruel; Walters Art Museum, 1931, by bequest.\r\n\r\n[Other earlier ownership marks: no. 9 in red on back of first flyleaf, no. 37 on back flyleaf;  \"John Nele\" on front flyleaf.]",
+    "PublicAccessDate": "2013-06-10T13:27:45.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/91092",
+    "SortNumber": "W        144binding                                     ",
+    "Style": null,
+    "Title": "Binding from Les livres du gouvernement des roys et des princes"
+}

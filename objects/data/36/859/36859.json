@@ -1,0 +1,155 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": null,
+    "DateBeginYear": -676,
+    "DateEndYear": -392,
+    "DateText": "ca. 664 BC-404 BCE",
+    "Description": "This bronze statuette shows the falcon-headed god Horus trampling an antelope. The antelope, a desert animal sometimes associated with Horus's uncle Seth, is depicted in relief on the top of the base beneath Horus's two feet. According to ancient Egyptian mythology, Horus and Seth fought over who would become king following the death of Osiris, who was Horus's father and Seth's brother. A spear, once held in Horus's outstretched hands but now missing, would have pierced the antelope's head.  The deity wears a pleated shendyt-kilt with an elaborate belt and the hemhem-crown.",
+    "Dimensions": "H: 11 15/16 x W: 2 5/8 x D: 6 7/8 in. (30.3 x 6.7 x 17.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Egypt\u2019s Mysterious Book of the Faiyum",
+            "ExhibBeginDate": "2013-10-06",
+            "ExhibBeginYear": 2013,
+            "ExhibDisplayDate": "October 06, 2013-January 05, 2015",
+            "ExhibEndDate": "2014-01-05",
+            "ExhibEndYear": 2014,
+            "ExhibitionID": 3193,
+            "LocationID": 3574,
+            "NonWAMExhibition": false,
+            "Textblock": "Egypt\u2019s Mysterious Book of the Faiyum. The Walters Art Museum, Baltimore. 2013-2014."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 44178,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2069_3QtrLft_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2069_3QtrLft_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2069_3QtrLft_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2069_3QtrLft_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2069_3QtrLft_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 44183,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2069_Lft_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2069_Lft_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2069_Lft_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2069_Lft_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2069_Lft_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 44180,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2069_Back_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2069_Back_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2069_Back_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2069_Back_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2069_Back_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 44184,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2069_Rt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2069_Rt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2069_Rt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2069_Rt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2069_Rt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 44179,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2069_3QtrRt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2069_3QtrRt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2069_3QtrRt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2069_3QtrRt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2069_3QtrRt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 44182,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2069_Fnt_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2069_Fnt_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2069_Fnt_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2069_Fnt_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2069_Fnt_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        },
+        {
+            "ID": 44181,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2069_Det_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2069_Det_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2069_Det_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2069_Det_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2069_Det_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 7
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4056,
+        "LocationString": null
+    },
+    "ObjectID": 36859,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.2069",
+    "OnView": 0,
+    "Period": "Late Period, 26th-27th dynasty",
+    "Provenance": "Khawam [date and mode of acquistion unknown]; Henry Walters, Baltimore 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-11-05T01:00:01.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36859",
+    "SortNumber": "    54  2069                                            ",
+    "Style": null,
+    "Title": "Statuette of Horus Trampling Antelope-Form Seth"
+}

@@ -1,0 +1,99 @@
+{
+    "Classification": "Stone",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Tairona",
+            "CreatorID": 8572,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Anonymous gift, 2009",
+    "Culture": "Tairona",
+    "DateBeginYear": 1000,
+    "DateEndYear": 1550,
+    "DateText": "1000-1550",
+    "Description": null,
+    "Dimensions": "H: 6 3/4 x W: 1 1/2 in. (17.1 x 3.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\South America\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1414585,
+            "GeographyTerm": "Colombia",
+            "Latitude": "04 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 4.0,
+            "Longitude": "072 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -72.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 19213,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_41.331_3Qtr_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_41.331_3Qtr_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_41.331_3Qtr_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_41.331_3Qtr_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_41.331_3Qtr_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 19214,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_41.331_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_41.331_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_41.331_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_41.331_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_41.331_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "brown stone",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5592,
+        "LocationString": null
+    },
+    "ObjectID": 79433,
+    "ObjectName": "figures",
+    "ObjectNumber": "41.331",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Fine Arts of Ancient Lands, New York [date and mode of acquisition unknown]; Herbert L. Lucas, Los Angeles [date and mode of acquisition unknown]; Fine Arts of Ancient Lands, New York [date and mode of acquisition unknown]; Private collection, 1992, by purchase; Walters Art Museum, 2009, by gift.",
+    "PublicAccessDate": "2009-08-04T14:54:12.003",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 79434,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 79435,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 79436,
+            "RelationType": "Variation"
+        },
+        {
+            "ObjectID": 79437,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/79433",
+    "SortNumber": "    41   331                                            ",
+    "Style": null,
+    "Title": "Ancestral Figure"
+}

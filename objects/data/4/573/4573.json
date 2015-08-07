@@ -1,0 +1,75 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": -540,
+    "DateEndYear": -500,
+    "DateText": "540-500 BC",
+    "Description": "This hydria depicts the pursuits of a young Greek aristocrat. The central scene shows a frontal view of a four-horse chariot, or quadriga, which only the very wealthy could afford. The upper register shows young men in outdoor activities-running and horseback riding-essential for any young nobleman's upbringing. The bottom register depicts a deer and panther between florettes, a purely decorative form reminiscent of the earlier Corinthian style.",
+    "Dimensions": "H: 11 13/16 x W: 11 x Diam: 8 1/16 in. (30 x 28 x 20.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 62588,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_48.31_Fnt_BW_H61.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_48.31_Fnt_BW_H61.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_48.31_Fnt_BW_H61.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_48.31_Fnt_BW_H61.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_48.31_Fnt_BW_H61.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1649,
+        "LocationString": null
+    },
+    "ObjectID": 4573,
+    "ObjectName": "hydriae; vases; pitchers; jugs",
+    "ObjectNumber": "48.31",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-04-18T01:00:01.397",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 13953,
+            "RelationType": "Variation"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/4573",
+    "SortNumber": "    48    31                                            ",
+    "Style": "Attic",
+    "Title": "Black-Figure Hydria with a Quadriga"
+}

@@ -1,0 +1,88 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nur al-Din `Abd al-Rahman ibn Ahmad Jami (Persian, died 898 AH/AD 1492)",
+            "CreatorID": 15674,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "Haydar al-Husayni (Persian, active ca. 1557-1558)",
+            "CreatorID": 17749,
+            "Gender": "male",
+            "Role": "Scribe"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic; Persian",
+    "DateBeginYear": 1557,
+    "DateEndYear": 1558,
+    "DateText": "965 AH/AD 1557-1558",
+    "Description": "This folio from Walters manuscript W.642 is the right side of an illuminated double-page incipit from with the top panel inscribed with the title of the poem in white Tawqi'/Riqa' script on a gold background. The text area has interlinear gilt decoration with polychrome floral motifs. The illuminated borders are of a blue ground with gilt medallions and floral forms.",
+    "Dimensions": "H: 9 5/8 x W: 5 7/8 in. (24.5 x 15 cm)",
+    "Dynasty": "Safavid Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 27638,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.642.1b_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.642.1b_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.642.1b_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.642.1b_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.642.1b_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Safavid; Book; Calligraphy; Codex; Colophon; Illumination; Manuscript; Contemporary Binding; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on cream-colored, gold-sprinkled laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 80969,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.642.1B",
+    "OnView": 0,
+    "Period": "Safavid",
+    "Provenance": "Unknown collection [seal erased; original shelfmark of 3934 on on tail edge of codex]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80969",
+    "SortNumber": "W        642    1B                                      ",
+    "Style": null,
+    "Title": "Illuminated Double-page Incipit with Titlepiece"
+}

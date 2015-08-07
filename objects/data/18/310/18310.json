@@ -1,0 +1,119 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Mart\u00edn Rico y Ortega (Spanish, 1833-1908)",
+            "CreatorID": 6453,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1898",
+    "Culture": null,
+    "DateBeginYear": 1875,
+    "DateEndYear": 1875,
+    "DateText": "1875",
+    "Description": null,
+    "Dimensions": "H: 11 15/16 x W: 18 7/8 in. (30.4 x 48 cm); Framed H: 29 3/4 x W: 33 11/16 x D: 1 3/8 in. (75.5 x 85.5 x 3.5 cm); Travel frame H: 22 x W: 27 x D: 1 1/4 in. (55.88 x 68.58 x 3.18 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A Supple Brush: The Flowering of Continental Watercolors",
+            "ExhibBeginDate": "1979-05-27",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "May 27, 1979-July 22, 1979",
+            "ExhibEndDate": "1979-07-22",
+            "ExhibEndYear": 1979,
+            "ExhibitionID": 404,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Supple Brush: The Flowering of Continental Watercolors. The Walters Art Gallery, Baltimore. 1979."
+        },
+        {
+            "ExhTitle": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery",
+            "ExhibBeginDate": "1983-03-17",
+            "ExhibBeginYear": 1983,
+            "ExhibDisplayDate": "March 17, 1983-April 24, 1983",
+            "ExhibEndDate": "1983-04-24",
+            "ExhibEndYear": 1983,
+            "ExhibitionID": 432,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Connoisseur's Portfolio: Nineteenth-century Drawings and Watercolors in the Walters Art Gallery. The Walters Art Gallery, Baltimore. 1983."
+        },
+        {
+            "ExhTitle": "Martin Rico (1833-1908)",
+            "ExhibBeginDate": "2012-10-30",
+            "ExhibBeginYear": 2012,
+            "ExhibDisplayDate": "October 30, 2012-July 07, 2013",
+            "ExhibEndDate": "2013-07-07",
+            "ExhibEndYear": 2013,
+            "ExhibitionID": 3179,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Martin Rico (1833-1908). Museo Nacional del Prado, Madrid; Meadows Museum, Dallas. 2012-2013."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Espa\u00f1a\\regions\\Andaluc\u00eda\\provinces\\",
+            "GeoType": "Place Depicted",
+            "GeographyID": 1444057,
+            "GeographyTerm": "Sevilla",
+            "Latitude": "37 25",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 37.416,
+            "Longitude": "005 50",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -5.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41570,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_37.972_Fnt_TR_TII.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_37.972_Fnt_TR_TII.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_37.972_Fnt_TR_TII.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_37.972_Fnt_TR_TII.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_37.972_Fnt_TR_TII.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 37282,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.972_Fnt_BW_5130.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.972_Fnt_BW_5130.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.972_Fnt_BW_5130.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.972_Fnt_BW_5130.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.972_Fnt_BW_5130.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signed] Lower left: RICO",
+    "Keywords": null,
+    "Medium": "watercolor on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3305,
+        "LocationString": null
+    },
+    "ObjectID": 18310,
+    "ObjectName": "watercolors",
+    "ObjectNumber": "37.972",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William H. Stewart Sale, New York, February 3-4, 1898, no. 92; Henry Walters, Baltimore, February 1898, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2012-08-29T22:00:00.503",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/18310",
+    "SortNumber": "    37   972                                            ",
+    "Style": null,
+    "Title": "Seville"
+}

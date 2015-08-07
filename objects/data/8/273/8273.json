@@ -1,0 +1,76 @@
+{
+    "Classification": "Prints",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Katsukawa Shuntei (Japanese, 1770-1820)",
+            "CreatorID": 6273,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Koyama Hangoro",
+            "CreatorID": 14985,
+            "Gender": null,
+            "Role": "Publisher"
+        }
+    ],
+    "CreditLine": "Gift of Justine Lewis Keidel, 1991",
+    "Culture": null,
+    "DateBeginYear": 1770,
+    "DateEndYear": 1820,
+    "DateText": "1770-1820",
+    "Description": "In the lower right of the left print is Ningyoya Kouemon, a merchant and in the lower left is Adachi Motoemon. The right print shows Toma Saburouemon (in the lower right) and Genjiro no imooto [  ]tsuma (could this be Iori's wife Somenoi (?))(in the lower left).",
+    "Dimensions": null,
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 18631,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_95.609B_Fnt_DD_JP09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_95.609B_Fnt_DD_JP09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_95.609B_Fnt_DD_JP09.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_95.609B_Fnt_DD_JP09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_95.609B_Fnt_DD_JP09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Shuntei ga",
+    "Keywords": null,
+    "Medium": "pigments on mulberry paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2455,
+        "LocationString": null
+    },
+    "ObjectID": 8273,
+    "ObjectName": "color woodcuts",
+    "ObjectNumber": "95.609B",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Justine Lewis Keidel [date and mode of acquisition unknown]; Walters Art Museum, 1991, by gift.",
+    "PublicAccessDate": "2014-12-06T01:00:00.213",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8273",
+    "SortNumber": "    95   609B                                           ",
+    "Style": "Katsukawa School",
+    "Title": "Comic Ballad: Revenge at Tenka Teahouse"
+}

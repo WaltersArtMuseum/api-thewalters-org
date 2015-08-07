@@ -1,0 +1,137 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Cristoforo Majorana (Italian, active ca. 1480-1494)",
+            "CreatorID": 8347,
+            "Gender": "male",
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "Virgil (Roman, 70-19 BC)",
+            "CreatorID": 8356,
+            "Gender": "male",
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1458,
+    "DateEndYear": 1482,
+    "DateText": "ca. 1470",
+    "Description": null,
+    "Dimensions": "Folio H: 5 1/2 x W: 2 13/16 in. (14 x 7.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        },
+        {
+            "ExhTitle": "Manuscript Painting in the Renaissance",
+            "ExhibBeginDate": "1989-10-03",
+            "ExhibBeginYear": 1989,
+            "ExhibDisplayDate": "October 3, 1989-January 7, 1990",
+            "ExhibEndDate": "1990-01-07",
+            "ExhibEndYear": 1990,
+            "ExhibitionID": 86,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Manuscript Painting in the Renaissance. The Walters Art Gallery, Baltimore. 1989-1990."
+        },
+        {
+            "ExhTitle": "Renaissance Books and Manuscripts of the Humanist Age",
+            "ExhibBeginDate": "1994-11-03",
+            "ExhibBeginYear": 1994,
+            "ExhibDisplayDate": "November 3, 1994-February 12, 1995",
+            "ExhibEndDate": "1995-02-12",
+            "ExhibEndYear": 1995,
+            "ExhibitionID": 163,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Renaissance Books and Manuscripts of the Humanist Age. The Walters Art Gallery, Baltimore. 1994-1995."
+        },
+        {
+            "ExhTitle": "From Pen to Press: Experimentation and Innovation in the Age of Print [working title]",
+            "ExhibBeginDate": "2014-11-22",
+            "ExhibBeginYear": 2014,
+            "ExhibDisplayDate": "November 22, 2014 -  April 12, 2015",
+            "ExhibEndDate": "2015-04-12",
+            "ExhibEndYear": 2015,
+            "ExhibitionID": 3318,
+            "LocationID": 4570,
+            "NonWAMExhibition": false,
+            "Textblock": "From Pen to Press: Experimentation and Innovation in the Age of Print [working title]. 2014-2015."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Italia\\regions\\Campania\\provinces\\Napoli\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1434525,
+            "GeographyTerm": "Napoli",
+            "Latitude": "40 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 40.833,
+            "Longitude": "014 15",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 14.25
+        }
+    ],
+    "Images": [
+        {
+            "ID": 2952,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/ARG_W.400.54V_OpnRev_UK.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/ARG_W.400.54V_OpnRev_UK.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/ARG_W.400.54V_OpnRev_UK.jpg",
+                "Small": "http://static.thewalters.org/images/ARG_W.400.54V_OpnRev_UK.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/ARG_W.400.54V_OpnRev_UK.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and paint on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 32501,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.400.54V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "L. S. Olschki;  Henry Walters, Baltimore [date of acquisition unknown], by purchase;  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32501",
+    "SortNumber": "W        400   54V                                      ",
+    "Style": null,
+    "Title": "Leaf from Eclogues, Georgics and Aeneid"
+}

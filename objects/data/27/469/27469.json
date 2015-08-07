@@ -1,0 +1,89 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "English",
+            "CreatorID": 6197,
+            "Gender": null,
+            "Role": "Artist"
+        },
+        {
+            "ConcatDisplayName": "After Saint Bede, the Venerable (673-735)",
+            "CreatorID": 8737,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1175,
+    "DateEndYear": 1200,
+    "DateText": "late 12th century",
+    "Description": "In the diagram in the top half of the page, the observer's point-of-view is the North Pole. This diagram is similar to the one in the lower part of fol. 6v of this same manuscript, except that it also shows the Riphaean Mountains \u2013 a mythical range of peaks thought to mark the boundary between Asia and Europe, and the Arctic and North temperate zones -- represented as seven abstract, colored silhouettes resembling triangular game-pieces. The diagram in the bottom half of the page charts the course of the Moon through the zodiac, correlating the lunar or synodic months and the zodiacal signs. According to the De natura rerum (On the nature of things) of the English scholar, Bede (d. 735 CE), the Moon journeys through the zodiac thirteen times in twelve lunar months; thus, it runs through each zodiacal sign in a little over two days and six hours.",
+    "Dimensions": "H: 10 1/2 \u00d7 W: 6 1/8 in. (26.7 \u00d7 15.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "A World of Foreign Lands",
+            "ExhibBeginDate": "1992-07-05",
+            "ExhibBeginYear": 1992,
+            "ExhibDisplayDate": "July 5, 1992-October 4, 1992",
+            "ExhibEndDate": "1992-10-04",
+            "ExhibEndYear": 1992,
+            "ExhibitionID": 162,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A World of Foreign Lands. The Walters Art Gallery, Baltimore. 1992."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\United Kingdom\\countries\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1465656,
+            "GeographyTerm": "England",
+            "Latitude": "53 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 53.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56090,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.73.7R_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.73.7R_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.73.7R_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.73.7R_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.73.7R_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink and pigments on medium-weight parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 27469,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.73.7R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gruel and Englemann Collection, Paris [1]; acquired  by Henry Walters, Baltimore, 1903; by bequest to Walters Art Museum, 1931.\r\n\r\n[1] no. 131, bookplate on inside upper board",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/27469",
+    "SortNumber": "W         73    7R                                      ",
+    "Style": "Romanesque",
+    "Title": "Diagrams of the Terrestrial Climate Zones with the Riphaean Mountains and the Circuit of the Moon in the Zodiac"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Nicolas Bertin (French, 1668-1736)",
+            "CreatorID": 3476,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters with the Massarenti Collection, 1902",
+    "Culture": null,
+    "DateBeginYear": 1688,
+    "DateEndYear": 1712,
+    "DateText": "ca. 1700",
+    "Description": null,
+    "Dimensions": "H: 23 1/2 x W: 19 3/4 in. (59.7 x 50.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Neo-Classicism: Style and Motif",
+            "ExhibBeginDate": "1964-09-23",
+            "ExhibBeginYear": 1964,
+            "ExhibDisplayDate": "September 23, 1964-November 1, 1964",
+            "ExhibEndDate": "1964-11-01",
+            "ExhibEndYear": 1964,
+            "ExhibitionID": 2497,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Neo-Classicism: Style and Motif. The Cleveland Museum of Art, Cleveland. 1964."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46834,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.863_Fnt_BW_H46.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.863_Fnt_BW_H46.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.863_Fnt_BW_H46.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.863_Fnt_BW_H46.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.863_Fnt_BW_H46.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on canvas",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 3306,
+        "LocationString": null
+    },
+    "ObjectID": 8929,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.863",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Don Marcello Massarenti Collection, Rome [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-04-03T14:52:08.627",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8929",
+    "SortNumber": "    37   863                                            ",
+    "Style": null,
+    "Title": "Apollo Pierced by the Arrows of Two Amorini"
+}

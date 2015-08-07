@@ -1,0 +1,82 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "T'ung Tseng",
+            "CreatorID": 5848,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1788,
+    "DateEndYear": 1812,
+    "DateText": "ca. 1800",
+    "Description": null,
+    "Dimensions": "H: 49 13/16 x W: 21 15/16 in. (126.6 x 55.7 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23874,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.27_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.27_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.27_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.27_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.27_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23875,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.27_Mrk_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.27_Mrk_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.27_Mrk_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.27_Mrk_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.27_Mrk_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Inscription] At bottom; [Seal] At bottom",
+    "Keywords": null,
+    "Medium": "ink and colors on silk mounted on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2412,
+        "LocationString": null
+    },
+    "ObjectID": 36548,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.27",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 179]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/36548",
+    "SortNumber": "    35    27                                            ",
+    "Style": null,
+    "Title": "Pheasants, Rock, Tree Peonies, and Hydrangeas"
+}

@@ -1,0 +1,131 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949, and Gift of The Morgan Library & Museum, 2012",
+    "Culture": null,
+    "DateBeginYear": -1,
+    "DateEndYear": 2,
+    "DateText": "1st century BC-2nd century AD",
+    "Description": "The Book of the Faiyum is the modern name of a text that describes the Faiyum oasis as the mythical center of prosperity and ritual. The text was compiled during the Greco-Roman period, perhaps in the temple of the crocodile god Sobek in Shedet (Greek: Crocodilopolis; Arabic: Medinet el-Faiyum), but it may be based on precedents from earlier periods. The most famous copy of this text, known as the Boulaq/Hood/Amherst papyrus, consists of two papyrus scrolls with hieroglyphic text and illustrations. Portions of this papyrus are now in the Walters Art Museum (Baltimore), the Morgan Library & Museum (New York), and the Egyptian Museum (Cairo). Besides this and other hieroglyphic versions, there are also hieratic and Demotic copies on papyrus and an unillustrated hieroglyphic version inscribed on the walls of the Sobek temple in Kom Ombo (Upper Egypt).\r\n\r\nThe focal point of the Walters Art Museum's section of the book of the Faiyum is a long oval representing the Faiyum lake itself. Inside the lake, images of mythological figures including the crocodile god Sobek-Re, Osiris, and the solar child allude to stories of the creation of the world as well as the nightly regeneration of the sun god. Around the lake, forty-two deities are depicted, each representing an important cult site in Egypt. In this way, the book functions as a map of a ceremonial landscape centered in the Faiyum.",
+    "Dimensions": "H: 12 1/2 in. (31.8 cm)",
+    "Dynasty": "Ptolemaic Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Secret Signs: Egyptian Writing",
+            "ExhibBeginDate": "2003-08-16",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "August 16, 2003-March 21, 2004",
+            "ExhibEndDate": "2004-03-21",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 2345,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Secret Signs: Egyptian Writing. The Walters Art Museum, Baltimore. 2003-2004."
+        },
+        {
+            "ExhTitle": "Maps: Finding Our Place in the World",
+            "ExhibBeginDate": "2007-11-02",
+            "ExhibBeginYear": 2007,
+            "ExhibDisplayDate": "Novembe 2, 2007-June 8, 2008",
+            "ExhibEndDate": "2008-06-08",
+            "ExhibEndYear": 2008,
+            "ExhibitionID": 2037,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Maps: Finding Our Place in the World. The Field Museum, Chicago; The Walters Art Museum, Baltimore. 2007-2008."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\Misr\\regions\\As Said\\governorates\\Al-Fayyum\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544634,
+            "GeographyTerm": "Al Fayyum",
+            "Latitude": "29 19",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 29.316,
+            "Longitude": "030 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 56326,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.738.1C_Det_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.738.1C_Det_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.738.1C_Det_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.738.1C_Det_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.738.1C_Det_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 56327,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.738.1D_DetB_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.738.1D_DetB_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.738.1D_DetB_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.738.1D_DetB_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.738.1D_DetB_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 56328,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.738.1D_DetA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.738.1D_DetA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.738.1D_DetA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.738.1D_DetA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.738.1D_DetA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 56329,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_W.738.1E_DetA_DD_T13.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_W.738.1E_DetA_DD_T13.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_W.738.1E_DetA_DD_T13.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_W.738.1E_DetA_DD_T13.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_W.738.1E_DetA_DD_T13.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "red and black ink on papyrus",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 5022,
+        "LocationString": null
+    },
+    "ObjectID": 24264,
+    "ObjectName": "manuscripts; papyri; scrolls; bookrolls",
+    "ObjectNumber": "W.738",
+    "OnView": 0,
+    "Period": "Greco-Roman",
+    "Provenance": "Sections W.738.1A-E, W.738.2A, W.738.2B.1 and W.738.2C: purchased by Reverend William Frankland Hood [d. 1864], Deir el-Bahri. Sale, Sotheby, Wilkinson & Hodge, London, November 11, 1924, no. 134. Acquired by William Randolph Hearst [1863-1951], New York. Joseph Brummer, New York; Sale, Parke-Bernet Galleries, New York, May 11-13, 1949, no. 67; purchased by Walters Art Museum, 1949.\r\n\r\nSections W.738.2B.2-.3: present in Thebes, Egypt, until 1859; Lord Amherst of Hackney, Didlington Hall, Norfolk, England; purchased by Morgan Library and Museum, New York, 1912 [1]; given to Walters Art Museum, 2012.\r\n\r\n[1] At this time, these sections were mounted with other fragments as part of Amherst Egyptian Papyrus VIII.5",
+    "PublicAccessDate": "2014-01-28T01:00:01.42",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/24264",
+    "SortNumber": "W        738                                            ",
+    "Style": null,
+    "Title": "The Book of the Faiyum"
+}

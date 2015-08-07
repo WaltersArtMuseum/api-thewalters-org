@@ -1,0 +1,83 @@
+{
+    "Classification": "Glasswares",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of Hilda Holme, 1948",
+    "Culture": null,
+    "DateBeginYear": 301,
+    "DateEndYear": 500,
+    "DateText": "4th-5th century",
+    "Description": "Base, narrow neck, trefoil mouth. Handle and single cord near lip mottled red and green.",
+    "Dimensions": "H: 5 1/2 in. (14 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "3000 Years of Glass: Treasures from The Walters Art Gallery",
+            "ExhibBeginDate": "1982-05-15",
+            "ExhibBeginYear": 1982,
+            "ExhibDisplayDate": "May 15, 1982-September 15, 1982",
+            "ExhibEndDate": "1982-09-15",
+            "ExhibEndYear": 1982,
+            "ExhibitionID": 454,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "3000 Years of Glass: Treasures from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1982."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\seas\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544965,
+            "GeographyTerm": "Mediterranean Sea",
+            "Latitude": "31 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 31.5,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4641,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_47.394-395_Fnt_BW_H48.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_47.394-395_Fnt_BW_H48.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_47.394-395_Fnt_BW_H48.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_47.394-395_Fnt_BW_H48.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_47.394-395_Fnt_BW_H48.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "yellow-brown glass",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1668,
+        "LocationString": null
+    },
+    "ObjectID": 9999,
+    "ObjectName": "jugs",
+    "ObjectNumber": "47.394",
+    "OnView": 0,
+    "Period": "late Antique",
+    "Provenance": "Hilda Holme [date and mode of acquisition unknown]; Walters Art Museum, 1948, by gift.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/9999",
+    "SortNumber": "    47   394                                            ",
+    "Style": null,
+    "Title": "Jug with Trefoil Mouth"
+}

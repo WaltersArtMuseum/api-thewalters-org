@@ -1,0 +1,107 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase with funds provided by the S. & A.P. Fund, 1953",
+    "Culture": null,
+    "DateBeginYear": -720,
+    "DateEndYear": -680,
+    "DateText": "ca. 700 BC",
+    "Description": "Animals were popular motifs in the Geometric period. Horse figurines were common votive offerings at Olympia.",
+    "Dimensions": "3 9/16 x 3 1/8 x 11/16 in. (9 x 8 x 1.8 cm)\r\nmount 13/16 x 3 1/8 x 1 3/8 in. (2 x 7.9 x 3.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "In Search of Ancient Treasure: 40 Years of Collecting",
+            "ExhibBeginDate": "1978-01-29",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "January 29, 1978-April 17, 1978",
+            "ExhibEndDate": "1978-04-17",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 2507,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "In Search of Ancient Treasure: 40 Years of Collecting. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Pelop\u00f3nnisos\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1432271,
+            "GeographyTerm": "K\u00f3rinthos",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 41257,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2378_RtSide_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2378_RtSide_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2378_RtSide_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2378_RtSide_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2378_RtSide_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 5557,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.2378_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.2378_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.2378_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.2378_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.2378_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 41256,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2378_LftSide_DD_T12.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2378_LftSide_DD_T12.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2378_LftSide_DD_T12.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2378_LftSide_DD_T12.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2378_LftSide_DD_T12.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Greek Art",
+        "LocationID": 3637,
+        "LocationString": null
+    },
+    "ObjectID": 38931,
+    "ObjectName": "figurines",
+    "ObjectNumber": "54.2378",
+    "OnView": 1,
+    "Period": "Geometric",
+    "Provenance": "Elie Borowski; Walters Art Museum, 1953, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:13:40.69",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/38931",
+    "SortNumber": "    54  2378                                            ",
+    "Style": null,
+    "Title": "Geometric Horse Statuette"
+}

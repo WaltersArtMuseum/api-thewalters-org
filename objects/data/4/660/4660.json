@@ -1,0 +1,83 @@
+{
+    "Classification": "Precious Stones & Gems",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Greek",
+            "CreatorID": 6256,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1927",
+    "Culture": "Ptolemaic",
+    "DateBeginYear": -300,
+    "DateEndYear": -201,
+    "DateText": "3rd century BC",
+    "Description": "This piece is carved in the round, and set in a modern gold mount.",
+    "Dimensions": "7/8 x 9/16 x 9/16 in. (2.2 x 1.5 x 1.4 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age",
+            "ExhibBeginDate": "1988-11-20",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "November 20, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 2237,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "From Alexander to Cleopatra: Greek Art of the Hellenistic Age. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Discovery",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 6348,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_42.190_Fnt_TR_T88II.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_42.190_Fnt_TR_T88II.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_42.190_Fnt_TR_T88II.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_42.190_Fnt_TR_T88II.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_42.190_Fnt_TR_T88II.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "amethyst, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Ancient Treasury",
+        "LocationID": 3651,
+        "LocationString": null
+    },
+    "ObjectID": 4660,
+    "ObjectName": "gems;figurines",
+    "ObjectNumber": "42.190",
+    "OnView": 1,
+    "Period": "Ptolemaic-Hellenistic",
+    "Provenance": "Carmichael 375 (547), 1926, p. 42; Joseph Brummer, 1927; Henry Walters, Baltimore, 1927, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:13:39.563",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4660",
+    "SortNumber": "    42   190                                            ",
+    "Style": null,
+    "Title": "Head of Queen Arsinoe II (?)"
+}

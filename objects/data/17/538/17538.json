@@ -1,0 +1,95 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Roman",
+            "CreatorID": 6191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1906",
+    "Culture": null,
+    "DateBeginYear": 1,
+    "DateEndYear": 100,
+    "DateText": "AD 1st century",
+    "Description": null,
+    "Dimensions": "H: 4 9/16 x W: 2 1/8 x D: 1 9/16 in. (11.52 x 5.42 x 4.04 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Pompeii and The Roman Villa",
+            "ExhibBeginDate": "2008-10-19",
+            "ExhibBeginYear": 2008,
+            "ExhibDisplayDate": "October 19, 2008-October 2, 2009",
+            "ExhibEndDate": "2009-10-04",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 1979,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "Pompeii and The Roman Villa. National Gallery of Art, Washington; Los Angeles County Museum of Art, Los Angeles. 2008-2009."
+        }
+    ],
+    "Geographies": null,
+    "Images": [
+        {
+            "ID": 8778,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.748_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.748_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.748_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.748_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.748_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8777,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.748_Back_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.748_Back_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.748_Back_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.748_Back_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.748_Back_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze with patina",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Second Floor: Roman Art",
+        "LocationID": 3723,
+        "LocationString": null
+    },
+    "ObjectID": 17538,
+    "ObjectName": "statuettes",
+    "ObjectNumber": "54.748",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "De Prisco, Boscoreale/Canessa, 1906, by excavation; Henry Walters, Baltimore, 1906, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-06-22T12:03:17.243",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 3082,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        },
+        {
+            "ObjectID": 17425,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        },
+        {
+            "ObjectID": 40870,
+            "RelationType": "See Also, Contextualized (Preaccession)"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/17538",
+    "SortNumber": "    54   748                                            ",
+    "Style": null,
+    "Title": "Mercury"
+}

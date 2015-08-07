@@ -1,0 +1,75 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John and Berthe Ford, 2002",
+    "Culture": null,
+    "DateBeginYear": 1775,
+    "DateEndYear": 1800,
+    "DateText": "1775-1800",
+    "Description": "In the upper right part of the painting, Indrajit, a member of the demon army, is shown shooting an arrow at Rama's brother Lakshmana, who fires back. Rama is seen at far left, carried on the shoulders of his monkey ally Hanuman. At the very center of the painting, Hanuman is depicted again, tossing an enormous white boulder at the demons.",
+    "Dimensions": "8 3/8 x 12 1/2 in. (21.27 x 31.75 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Bharat\\states\\Himachal Pradesh\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1506246,
+            "GeographyTerm": "Kangra",
+            "Latitude": "32 04",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.66,
+            "Longitude": "076 16",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 76.266
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11656,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.902_Fnt_TR_AJ98.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.902_Fnt_TR_AJ98.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.902_Fnt_TR_AJ98.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.902_Fnt_TR_AJ98.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.902_Fnt_TR_AJ98.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "pigments and gold on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 6256,
+        "LocationString": null
+    },
+    "ObjectID": 12504,
+    "ObjectName": "miniatures (paintings)",
+    "ObjectNumber": "W.902",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "John and Berthe Ford, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 2002, by gift.",
+    "PublicAccessDate": "2008-09-25T17:09:36.403",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 601,
+            "RelationType": "See Also, Series"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/12504",
+    "SortNumber": "W        902                                            ",
+    "Style": null,
+    "Title": "Lakshmana Fights Indrajit"
+}

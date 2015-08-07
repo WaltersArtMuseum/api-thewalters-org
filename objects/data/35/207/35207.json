@@ -1,0 +1,106 @@
+{
+    "Classification": "Arms & Armor",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Uchikoshi Hirochika (Japanese, ca. 1825)",
+            "CreatorID": 6506,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1825,
+    "DateEndYear": 1875,
+    "DateText": "mid 19th century",
+    "Description": "At the lower right of this tsuba, an egret walks among reeds at the water's edge. On the reverse, an egret stands on a tree stump. Lightly incised clouds occupy the upper portion of both sides.",
+    "Dimensions": "2 13/16 x 2 11/16 x 1/8 in. (7.2 x 6.88 x 0.38 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\prefectures\\Ibaraki-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490882,
+            "GeographyTerm": "Mito",
+            "Latitude": "36 22",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.366,
+            "Longitude": "140 29",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 140.483
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Kanto\\metropolises\\Tokyo\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1490436,
+            "GeographyTerm": "Tokyo",
+            "Latitude": "35 45",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.75,
+            "Longitude": "139 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 139.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12287,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.171_Fnt_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.171_Fnt_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.171_Fnt_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.171_Fnt_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.171_Fnt_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 12286,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.171_Back_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.171_Back_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.171_Back_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.171_Back_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.171_Back_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 12288,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS3_51.171_Mrk_DD_JP08.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS3_51.171_Mrk_DD_JP08.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS3_51.171_Mrk_DD_JP08.jpg",
+                "Small": "http://static.thewalters.org/images/PS3_51.171_Mrk_DD_JP08.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS3_51.171_Mrk_DD_JP08.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": "[Signature] \u5b9d\u58fd\u658e\u3000\u5f18\u89aa; [Translation] Hojusai/Hirochika",
+    "Keywords": "cloud; river; animal; bird; egret; plant; reed; autumn",
+    "Medium": "shibuichi, gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 4104,
+        "LocationString": null
+    },
+    "ObjectID": 35207,
+    "ObjectName": "tsubas; sword components",
+    "ObjectNumber": "51.171",
+    "OnView": 0,
+    "Period": "late Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-12-31T15:11:44.087",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/35207",
+    "SortNumber": "    51   171                                            ",
+    "Style": "Mito School",
+    "Title": "Tsuba with Egrets at a Riverside"
+}

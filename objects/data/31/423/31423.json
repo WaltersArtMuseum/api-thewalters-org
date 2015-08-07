@@ -1,0 +1,82 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -300,
+    "DateEndYear": -101,
+    "DateText": "ca. 3rd-2nd century BC",
+    "Description": null,
+    "Dimensions": "8 7/8 x 6 1/2 in. (22.5 x 16.5 cm)",
+    "Dynasty": "Zhou [Chou], Qin [Ch'in'], Han [Han] Dynasty (?)",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5532,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_54.2167_Fnt_BW_H46.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_54.2167_Fnt_BW_H46.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_54.2167_Fnt_BW_H46.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_54.2167_Fnt_BW_H46.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_54.2167_Fnt_BW_H46.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 35534,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_54.2167_PcABFnt_NG_3365.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_54.2167_PcABFnt_NG_3365.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_54.2167_PcABFnt_NG_3365.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_54.2167_PcABFnt_NG_3365.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_54.2167_PcABFnt_NG_3365.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze with green patina",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 4250,
+        "LocationString": null
+    },
+    "ObjectID": 31423,
+    "ObjectName": "wine vessels",
+    "ObjectNumber": "54.2167",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.62",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/31423",
+    "SortNumber": "    54  2167                                            ",
+    "Style": null,
+    "Title": "Covered Wine Vessel with Chain"
+}

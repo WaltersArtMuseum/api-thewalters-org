@@ -1,0 +1,83 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Jean Pichore (French, active ca. 1501-1520) (?)",
+            "CreatorID": 16471,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1508,
+    "DateEndYear": 1532,
+    "DateText": "ca. 1520",
+    "Description": null,
+    "Dimensions": "6 11/16 x 4 5/16 in. (17 x 11 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Puer Natus Est : The Christmas Story in Medieval Manuscripts",
+            "ExhibBeginDate": "1986-11-25",
+            "ExhibBeginYear": 1986,
+            "ExhibDisplayDate": "November 25, 1986-January 18, 1987",
+            "ExhibEndDate": "1987-01-18",
+            "ExhibEndYear": 1987,
+            "ExhibitionID": 2430,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Puer Natus Est : The Christmas Story in Medieval Manuscripts. The Walters Art Gallery, Baltimore. 1986-1987."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\Centre\\departments\\Indre-et-Loire\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1425550,
+            "GeographyTerm": "Tours",
+            "Latitude": "47 23",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.383,
+            "Longitude": "000 42",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 0.7
+        }
+    ],
+    "Images": [
+        {
+            "ID": 11807,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.452.79V_OpnRev_TR_T89III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.452.79V_OpnRev_TR_T89III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.452.79V_OpnRev_TR_T89III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.452.79V_OpnRev_TR_T89III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.452.79V_OpnRev_TR_T89III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "ink, paint, and gold on parchment",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 78378,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.452.79V",
+    "OnView": 0,
+    "Period": "Renaissance",
+    "Provenance": "Florimond I Robertet (ca. 1457-1527) [royal treasurer under King Fran\u00e7ois I (born 1494, reigned 1515-1547)]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": "King Fran\u00e7ois I (1515-1547)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/78378",
+    "SortNumber": "W        452   79V                                      ",
+    "Style": null,
+    "Title": "Leaf from Book of Hours"
+}

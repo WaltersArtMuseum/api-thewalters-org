@@ -1,0 +1,101 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Murshid al-Katib",
+            "CreatorID": 8017,
+            "Gender": null,
+            "Role": "Scribe"
+        },
+        {
+            "ConcatDisplayName": "Muhammad ibn Ahmad `Assar Tabrizi (died 1382)",
+            "CreatorID": 8016,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, after 1894",
+    "Culture": "Islamic",
+    "DateBeginYear": 1476,
+    "DateEndYear": 1476,
+    "DateText": "881 AH/AD 1476",
+    "Description": "This folio from Walters manuscript W.627 contains an illustration, on which, driven by deep affection, Mihr sails to India in search of Mushtari.",
+    "Dimensions": "H: 8 1/16 x W: 4 3/4 in. (20.5 x 12 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Illuminated Manuscripts: Masterpieces in Miniature",
+            "ExhibBeginDate": "1984-11-21",
+            "ExhibBeginYear": 1984,
+            "ExhibDisplayDate": "November 21, 1984-January 13, 1985",
+            "ExhibEndDate": "1985-01-13",
+            "ExhibEndYear": 1985,
+            "ExhibitionID": 2289,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1507667,
+            "GeographyTerm": "\u00ceran",
+            "Latitude": "32 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 32.0,
+            "Longitude": "053 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 53.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23110,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.627.110A_Fp_DD_300.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.627.110A_Fp_DD_300.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.627.110A_Fp_DD_300.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.627.110A_Fp_DD_300.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.627.110A_Fp_DD_300.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Islamic; Persian; Book; Calligraphy; Codex; Colophon; Illumination; Illustration; Manuscript; Ornament; New Abbasid style; Iran; Literature -- Poetry",
+    "Medium": "ink and pigments on laid Persian laid paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 40539,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.627.110A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown] [bookplate]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/40539",
+    "SortNumber": "W        627  110A                                      ",
+    "Style": null,
+    "Title": "Mihr Sailing to India in Search of Mushtari"
+}

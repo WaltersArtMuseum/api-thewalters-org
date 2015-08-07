@@ -1,0 +1,113 @@
+{
+    "Classification": "Timepieces, Clocks & Watches",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Gerardus Brand (Dutch)",
+            "CreatorID": 15355,
+            "Gender": null,
+            "Role": "Clockmaker"
+        },
+        {
+            "ConcatDisplayName": "Dutch",
+            "CreatorID": 6227,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1623,
+    "DateEndYear": 1623,
+    "DateText": "1623",
+    "Description": "Many 17th-century watches were made with cases incorporating rock crystal.  This semiprecious stone introduced an added element of luxury and also, in this context, served as a symbol for eternity by recalling the crystalline sphere traditionally described as constituting the outermost edge of the universe.",
+    "Dimensions": "H: 2 1/16 in. (5.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "World of Wonder",
+            "ExhibBeginDate": "1971-11-08",
+            "ExhibBeginYear": 1971,
+            "ExhibDisplayDate": "November 8, 1971-January 31, 1972",
+            "ExhibEndDate": "1972-01-31",
+            "ExhibEndYear": 1972,
+            "ExhibitionID": 1994,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "World of Wonder. The Walters Art Gallery, Baltimore. 1971-1972."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Noord-Holland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473821,
+            "GeographyTerm": "Amsterdam",
+            "Latitude": "52 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.35,
+            "Longitude": "004 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.9
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Nederland\\provinces\\Noord-Holland\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1473821,
+            "GeographyTerm": "Amsterdam",
+            "Latitude": "52 21",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.35,
+            "Longitude": "004 54",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.9
+        }
+    ],
+    "Images": [
+        {
+            "ID": 46999,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 47000,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120A.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120A.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120A.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120A.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_58.28_Fnt_NG_1120A.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": "[Signature, location and date]  Gerardus Brand fecit Amsterdam 1623",
+    "Keywords": null,
+    "Medium": "rock crystal, gold and champlev\u00e9 enamel case, gold and champlev\u00e9 enamel dial, gilt on brass, steel and gold movement",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Collector's Study",
+        "LocationID": 4524,
+        "LocationString": null
+    },
+    "ObjectID": 21202,
+    "ObjectName": "watches",
+    "ObjectNumber": "58.28",
+    "OnView": 1,
+    "Period": "Baroque",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-15T14:36:37.64",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/21202",
+    "SortNumber": "    58    28                                            ",
+    "Style": null,
+    "Title": "Octagonal Watch with Rock Crystal Case"
+}

@@ -1,0 +1,83 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Circle of Fran\u00e7ois Clouet (French, ca. 1516-1572)",
+            "CreatorID": 3109,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, before 1909",
+    "Culture": null,
+    "DateBeginYear": 1553,
+    "DateEndYear": 1577,
+    "DateText": "ca. 1565",
+    "Description": "Small, carefully drawn portraits of members of the French nobility were a specialty of Clouet and his workshop. They could be easily sent to relatives.",
+    "Dimensions": "H: 12 3/8 x W: 9 1/4 in. (31.5 x 23.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Vive la France! French Treasures from the Middle Ages to Monet",
+            "ExhibBeginDate": "1999-10-26",
+            "ExhibBeginYear": 1999,
+            "ExhibDisplayDate": "October 26, 1999-January 16, 2000",
+            "ExhibEndDate": "2000-01-16",
+            "ExhibEndYear": 2000,
+            "ExhibitionID": 316,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Vive la France! French Treasures from the Middle Ages to Monet. The Walters Art Gallery, Baltimore. 1999-2000."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1423664,
+            "GeographyTerm": "France",
+            "Latitude": "46 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 46.0,
+            "Longitude": "002 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 54516,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_37.380_Fnt_BW_H44.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_37.380_Fnt_BW_H44.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_37.380_Fnt_BW_H44.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_37.380_Fnt_BW_H44.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_37.380_Fnt_BW_H44.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "oil on panel",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Charles Street: Second Floor: Chamber of Wonders",
+        "LocationID": 4498,
+        "LocationString": null
+    },
+    "ObjectID": 14944,
+    "ObjectName": "paintings",
+    "ObjectNumber": "37.380",
+    "OnView": 1,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore, prior to 1909 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-22T01:00:01.853",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/14944",
+    "SortNumber": "    37   380                                            ",
+    "Style": null,
+    "Title": "Portrait of a Courtier"
+}

@@ -1,0 +1,106 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Colima",
+            "CreatorID": 16368,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Gift of John G. Bourne, 2013",
+    "Culture": "Colima",
+    "DateBeginYear": -200,
+    "DateEndYear": 300,
+    "DateText": "200 BC-AD 300",
+    "Description": null,
+    "Dimensions": "H: 11 3/8 x W: 8 15/16 x D: 11 1/4 in. (28.9 x 22.7 x 28.6 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\North and Central America\\nations\\M\u00e9xico\\states\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 611809,
+            "GeographyTerm": "Colima",
+            "Latitude": "19 10",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 19.166,
+            "Longitude": "104 00",
+            "LongitudeDirection": "W",
+            "LongitudeNumber": -104.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 28398,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.167_Fnt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.167_Fnt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.167_Fnt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.167_Fnt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.167_Fnt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 28396,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrLft_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrLft_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrLft_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrLft_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrLft_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 28395,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrBack_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrBack_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrBack_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrBack_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrBack_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 28397,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrRt_DD_T10.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrRt_DD_T10.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrRt_DD_T10.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrRt_DD_T10.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_TL.2009.20.167_3QtrRt_DD_T10.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware, burnished slip",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5491,
+        "LocationString": null
+    },
+    "ObjectID": 80322,
+    "ObjectName": "vessels; figures; effigies",
+    "ObjectNumber": "2009.20.167",
+    "OnView": 0,
+    "Period": "Late Formative-Early Classic",
+    "Provenance": "Stendahl Galleries, Los Angeles; purchased by John G. Bourne, Santa Fe, New Mexico, between 1960 and 1969; given to Walters Art Museum, 2013.",
+    "PublicAccessDate": "2011-03-02T14:57:21.367",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/80322",
+    "SortNumber": "  2009    20  167                                       ",
+    "Style": null,
+    "Title": "Seated Shaman (?) Effigy Vessel"
+}

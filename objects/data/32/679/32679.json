@@ -1,0 +1,106 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Pao K'ai (Chinese)",
+            "CreatorID": 4831,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1701,
+    "DateEndYear": 1900,
+    "DateText": "18th-19th century",
+    "Description": "This painting is executed in a sketchy manner. It is damaged in spots.",
+    "Dimensions": "H: 52 1/2 x W: 21 5/8 in. (133.3 x 54.9 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 23738,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.23_Fnt_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.23_Fnt_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.23_Fnt_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.23_Fnt_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.23_Fnt_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 23736,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.23_DetA_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.23_DetA_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.23_DetA_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.23_DetA_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.23_DetA_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 23737,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.23_DetB_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.23_DetB_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.23_DetB_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.23_DetB_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.23_DetB_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 23739,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_35.23_Mrk_DD_T09.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_35.23_Mrk_DD_T09.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_35.23_Mrk_DD_T09.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_35.23_Mrk_DD_T09.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_35.23_Mrk_DD_T09.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": "[Inscription] Top left; [Seal] Top left",
+    "Keywords": "Tung-fang So",
+    "Medium": "ink and color on paper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2411,
+        "LocationString": null
+    },
+    "ObjectID": 32679,
+    "ObjectName": "kakemonos; scroll paintings",
+    "ObjectNumber": "35.23",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Panama-Pacific International Exposition, China Pavilion, San Francisco, 1915 [no. 154]; Henry Walters, Baltimore, 1915, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2010-03-29T16:23:59.513",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/32679",
+    "SortNumber": "    35    23                                            ",
+    "Style": null,
+    "Title": "Portrait of Dong Fang Suo [Tung-fang So] with Two Attendants"
+}

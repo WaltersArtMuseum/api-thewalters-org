@@ -1,0 +1,100 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "William of Tyre (French, ca. 1130-ca. 1190)",
+            "CreatorID": 7967,
+            "Gender": "male",
+            "Role": "Author"
+        },
+        {
+            "ConcatDisplayName": "French",
+            "CreatorID": 6229,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1903",
+    "Culture": null,
+    "DateBeginYear": 1283,
+    "DateEndYear": 1307,
+    "DateText": "ca. 1295-1300",
+    "Description": null,
+    "Dimensions": "H: 13 3/8 x W: 9 5/8 in. (34 x 24.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1428779,
+            "GeographyTerm": "Picardie",
+            "Latitude": "49 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.833,
+            "Longitude": "002 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.833
+        },
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1428779,
+            "GeographyTerm": "Picardie",
+            "Latitude": "49 50",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 49.833,
+            "Longitude": "002 50",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 2.833
+        }
+    ],
+    "Images": [
+        {
+            "ID": 12155,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_W.137.15R_Det_TR_T92III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_W.137.15R_Det_TR_T92III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_W.137.15R_Det_TR_T92III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_W.137.15R_Det_TR_T92III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_W.137.15R_Det_TR_T92III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 36368,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_W.137.15r_Fp_C80.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_W.137.15r_Fp_C80.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_W.137.15r_Fp_C80.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_W.137.15r_Fp_C80.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_W.137.15r_Fp_C80.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "parchment with ink, paint and gold",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 29541,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.137.15R",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Gordon of Buthlaw, mid 19th century [date and mode of acquisition unknown]; Bertram, 4th Earl of Ashburnham, London, 1861, no. CLIV; Sale, Sotheby's, London, March 16, 1903, lot 689; L\u00e9on Gruel, Paris, March 16, 1903, by purchase [Gruel and Engelmann bookplate 'No 138']; Henry Walters, Baltimore, 1903, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/29541",
+    "SortNumber": "W        137   15R                                      ",
+    "Style": "Gothic",
+    "Title": "Initial V with Godefroy de Bouillon and Four Knights"
+}

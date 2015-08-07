@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "African",
+            "CreatorID": 15527,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1987",
+    "Culture": "Roman",
+    "DateBeginYear": 400,
+    "DateEndYear": 499,
+    "DateText": "5th century",
+    "Description": null,
+    "Dimensions": "H: 3 9/16 x W: 2 15/16 in. (9 x 7.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544690,
+            "GeographyTerm": "North Africa",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 39375,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL7_48.2542_Fnt_BW_T93.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL7_48.2542_Fnt_BW_T93.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL7_48.2542_Fnt_BW_T93.jpg",
+                "Small": "http://static.thewalters.org/images/PL7_48.2542_Fnt_BW_T93.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL7_48.2542_Fnt_BW_T93.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "earthenware (redware)",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1691,
+        "LocationString": null
+    },
+    "ObjectID": 28930,
+    "ObjectName": "plates",
+    "ObjectNumber": "48.2542",
+    "OnView": 0,
+    "Period": "Late Antique",
+    "Provenance": "Pete N. Nickolas (\"Helios Old World Antiques\"), Westminster, Maryland, by purchase; Walters Art Museum, 1987, by purchase.",
+    "PublicAccessDate": "2012-06-04T22:00:00.403",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28930",
+    "SortNumber": "    48  2542                                            ",
+    "Style": null,
+    "Title": "Scene of Tobias in Relief"
+}

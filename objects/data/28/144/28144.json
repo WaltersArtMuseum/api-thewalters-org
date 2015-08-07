@@ -1,0 +1,95 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Ando Jubei (Japanese)",
+            "CreatorID": 6481,
+            "Gender": "male",
+            "Role": "Enameler"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1915",
+    "Culture": null,
+    "DateBeginYear": 1903,
+    "DateEndYear": 1927,
+    "DateText": "ca. 1915",
+    "Description": "A long-necked vase white enamel moriage (relief) design to imitate ceramics and a dragonfly depicted in colored enamels on the neck.  Mark of Ando Jubei on bottom.",
+    "Dimensions": "10 1/4 in. (26 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Panama-Pacific International Exposition",
+            "ExhibBeginDate": "1915-02-20",
+            "ExhibBeginYear": 1915,
+            "ExhibDisplayDate": "February 20, 1915-December 4, 1915",
+            "ExhibEndDate": "1915-12-04",
+            "ExhibEndYear": 1915,
+            "ExhibitionID": 2313,
+            "LocationID": null,
+            "NonWAMExhibition": true,
+            "Textblock": "The Panama-Pacific International Exposition. San Francisco. 1915."
+        },
+        {
+            "ExhTitle": "Japanese Cloisonne Enamels",
+            "ExhibBeginDate": "1996-03-02",
+            "ExhibBeginYear": 1996,
+            "ExhibDisplayDate": "March 2, 1996-ongoing",
+            "ExhibEndDate": null,
+            "ExhibEndYear": 0,
+            "ExhibitionID": 2748,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Japanese Cloisonne Enamels. The Walters Art Gallery, Baltimore. 1996."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\Nihon\\regions\\Chubu\\prefectures\\Aichi-ken\\inhabited places\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1492062,
+            "GeographyTerm": "Nagoya",
+            "Latitude": "35 08",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.133,
+            "Longitude": "136 53",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 136.883
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5143,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.1725_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.1725_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.1725_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.1725_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.1725_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "Mark of Ando Jubei",
+    "Keywords": "animal; insect; dragonfly",
+    "Medium": "cloisonn\u00e9 enamel on silver",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 1925,
+        "LocationString": null
+    },
+    "ObjectID": 28144,
+    "ObjectName": "vases",
+    "ObjectNumber": "49.1725",
+    "OnView": 0,
+    "Period": "Taisho",
+    "Provenance": "Panama-Pacific International Exposition, San Francisco, 1915; Henry Walters, Baltimore, 1915 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.823",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/28144",
+    "SortNumber": "    49  1725                                            ",
+    "Style": null,
+    "Title": "Decanter-Shaped Vase with Dragonfly"
+}

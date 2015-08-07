@@ -1,0 +1,104 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Geert Grote (1340-1384)",
+            "CreatorID": 31592,
+            "Gender": null,
+            "Role": "Author"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Christian; Dutch",
+    "DateBeginYear": 1460,
+    "DateEndYear": 1490,
+    "DateText": "2nd half 15th century",
+    "Description": "This book of hours was created in the Netherlands in the fifteenth century. Written entirely in Dutch, its calendar is for the use of Utrecht. However, it was probably made in Haarlem, which produced books of hours with this kind of border decoration. Its folios are highly finished, and it is richly illuminated throughout with sprouting foliage, occasionally inhabited by people, animals, and grotesques. Large decorative initials mark the main divisions in the text, the first of which is historiated with an image of the Virgin and Child. Especially notable is the fine quality and abundance of its burnished gold, found in the initials and vegetation on nearly every page of the manuscript.",
+    "Dimensions": "Folio H: 7 1/2 \u00d7 W: 5 3/16 in. (19.1 \u00d7 13.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "The Origins of Dutch Painting: Manuscripts from the Fifteenth Century",
+            "ExhibBeginDate": "1998-01-17",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "January 17, 1998- April 26, 1998",
+            "ExhibEndDate": "1998-04-26",
+            "ExhibEndYear": 1998,
+            "ExhibitionID": 22,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Origins of Dutch Painting: Manuscripts from the Fifteenth Century. The Walters Art Gallery, Baltimore. 1998."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1472826,
+            "GeographyTerm": "Nederland",
+            "Latitude": "52 30",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 52.5,
+            "Longitude": "005 45",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 5.75
+        }
+    ],
+    "Images": [
+        {
+            "ID": 52829,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.192.binding-1_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.192.binding-1_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.192.binding-1_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.192.binding-1_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.192.binding-1_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "book; codex; illumination; Walters Art Museum; manuscript; historiated initial; painting; binding; grotesques; ornament; devotion; scripture",
+    "Medium": "ink and pigments on highly finished,  thin to medium weight cream-colored parchment, covered with brown, oiled leather with a roll border with silver design, cast and chiselled metal corner pieces and clasps",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 2310,
+        "LocationString": null
+    },
+    "ObjectID": 35780,
+    "ObjectName": "illuminated manuscripts",
+    "ObjectNumber": "W.192",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Marshall C. Lefferts, New York [date and mode of acquisition unknown]; George H. Richmond, New York, 1901 [no. 56]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-09-18T12:57:09.117",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 91283,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91284,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91285,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91286,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 91282,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/35780",
+    "SortNumber": "W        192                                            ",
+    "Style": null,
+    "Title": "Book of Hours in Dutch"
+}

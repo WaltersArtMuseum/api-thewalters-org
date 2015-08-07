@@ -1,0 +1,131 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Painter of London F 1 (Greek, active ca. 400-366 BC) (?)",
+            "CreatorID": 3159,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1924",
+    "Culture": null,
+    "DateBeginYear": -390,
+    "DateEndYear": -380,
+    "DateText": "390-380 BC",
+    "Description": "It is sometimes easy to determine, which side of an ancient Greek vase was meant to face the viewer: the front differs from the back, the \"B-side,\" in the quality and sophistication of the decoration. The winged Nike on the front of this \"krater\" (mixing vessel) is much more skillfully rendered than the three male figures on the back, which were most likely executed by an apprentice in the workshop. This scene of three standing Athenian youths in conversation is a common subject for the \"B-side\" of vases.",
+    "Dimensions": "11 1/4 x 11 1/2 in. (28.6 x 29.2 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Things With Wings: Mythological Figures in Ancient Greek Art",
+            "ExhibBeginDate": "2005-10-12",
+            "ExhibBeginYear": 2005,
+            "ExhibDisplayDate": "October 12, 2005-November 26, 2006",
+            "ExhibEndDate": "2006-11-26",
+            "ExhibEndYear": 2006,
+            "ExhibitionID": 2177,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Things With Wings: Mythological Figures in Ancient Greek Art. The Walters Art Museum, Baltimore. 2005-2006."
+        },
+        {
+            "ExhTitle": "Things With Wings: Mythological Figures in Ancient Greek Art",
+            "ExhibBeginDate": "2009-05-15",
+            "ExhibBeginYear": 2009,
+            "ExhibDisplayDate": "May 15, 2009-July 19, 2009",
+            "ExhibEndDate": "2009-07-19",
+            "ExhibEndYear": 2009,
+            "ExhibitionID": 2121,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Things With Wings: Mythological Figures in Ancient Greek Art. Ward Museum, Salisbury. 2009."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\Ell\u00e1s\\regions\\Sterea Ell\u00e1s-\u00c9vvoia\\departments\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1431462,
+            "GeographyTerm": "Attik\u00ed",
+            "Latitude": "38 05",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 38.83,
+            "Longitude": "023 30",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 23.5
+        }
+    ],
+    "Images": [
+        {
+            "ID": 4844,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.261_SideA_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.261_SideA_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.261_SideA_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.261_SideA_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.261_SideA_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 4845,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.261_SideB_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.261_SideB_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.261_SideB_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.261_SideB_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.261_SideB_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 4842,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.261_LftSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.261_LftSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.261_LftSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.261_LftSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.261_LftSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 4843,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_48.261_RtSide_BW_T90.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_48.261_RtSide_BW_T90.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_48.261_RtSide_BW_T90.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_48.261_RtSide_BW_T90.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_48.261_RtSide_BW_T90.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "terracotta",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1677,
+        "LocationString": null
+    },
+    "ObjectID": 306,
+    "ObjectName": "kraters; vases; vessels",
+    "ObjectNumber": "48.261",
+    "OnView": 0,
+    "Period": "Classical",
+    "Provenance": "Joseph Brummer, New York [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-02-17T11:35:14.427",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/306",
+    "SortNumber": "    48   261                                            ",
+    "Style": "Attic",
+    "Title": "Red-Figure Krater with Three Standing Figures"
+}

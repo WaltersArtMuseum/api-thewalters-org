@@ -1,0 +1,143 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Egyptian",
+            "CreatorID": 6182,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": -664,
+    "DateEndYear": -525,
+    "DateText": "664-525 BC",
+    "Description": "Thoth was worshipped as the god of wisdom, but also as the moon god. Here, he holds the left so-called Udjat eye in his hands, which symbolizes the moon, while the right Udjat eye symbolizes the solar god.",
+    "Dimensions": "H: 2 1/2 x W: 1 1/4 x D: 1 in. (6.3 x 3.2 x 2.6 cm)",
+    "Dynasty": "26th Dynasty",
+    "Exhibitions": [
+        {
+            "ExhTitle": "Faience: The Colors of the Heavens",
+            "ExhibBeginDate": "2003-05-17",
+            "ExhibBeginYear": 2003,
+            "ExhibDisplayDate": "May 17, 2003-June 30, 2004",
+            "ExhibEndDate": "2004-06-30",
+            "ExhibEndYear": 2004,
+            "ExhibitionID": 10,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Faience: The Colors of the Heavens. The Walters Art Museum, Baltimore; The Walters Art Museum, Baltimore. 2003-2004."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1543485,
+            "GeographyTerm": "Misr",
+            "Latitude": "27 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 27.0,
+            "Longitude": "030 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 30.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 22124,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.475_Fnt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.475_Fnt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.475_Fnt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.475_Fnt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.475_Fnt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 22125,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.475_Lft_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.475_Lft_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.475_Lft_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.475_Lft_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.475_Lft_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 22126,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.475_Rt_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.475_Rt_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.475_Rt_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.475_Rt_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.475_Rt_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        },
+        {
+            "ID": 22122,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.475_Back_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.475_Back_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.475_Back_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.475_Back_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.475_Back_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 4
+        },
+        {
+            "ID": 22127,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.475_Top_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.475_Top_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.475_Top_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.475_Top_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.475_Top_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 5
+        },
+        {
+            "ID": 22123,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CUR_48.475_Bot_DD_RS2009.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CUR_48.475_Bot_DD_RS2009.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CUR_48.475_Bot_DD_RS2009.jpg",
+                "Small": "http://static.thewalters.org/images/CUR_48.475_Bot_DD_RS2009.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CUR_48.475_Bot_DD_RS2009.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 6
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "Egyptian faience with light blue glaze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 1897,
+        "LocationString": null
+    },
+    "ObjectID": 39831,
+    "ObjectName": "amulets; figurines",
+    "ObjectNumber": "48.475",
+    "OnView": 0,
+    "Period": "Late Period-Saite",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2009-09-17T15:10:01.847",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/39831",
+    "SortNumber": "    48   475                                            ",
+    "Style": null,
+    "Title": "Thoth in the Form of a Baboon with Udjat Eye"
+}

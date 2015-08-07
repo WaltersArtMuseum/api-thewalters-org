@@ -1,0 +1,119 @@
+{
+    "Classification": "Metal",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Frankish",
+            "CreatorID": 2386,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Museum purchase, 1949",
+    "Culture": "Frankish",
+    "DateBeginYear": 600,
+    "DateEndYear": 699,
+    "DateText": "7th century",
+    "Description": "This highly decorative buckle is unusual in that it is made of two pieces riveted together. It is decorated with incised and punched patterns and features a cross at the center. The tongue has a schematic human face and an animal head terminal.  Such animal head terminals are common on Migration period jewelry.",
+    "Dimensions": "2 3/16 x 5 3/8 x 3/8 in. (5.5 x 13.7 x 1 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Early Christian and Byzantine Art",
+            "ExhibBeginDate": "1947-04-24",
+            "ExhibBeginYear": 1947,
+            "ExhibDisplayDate": "April 24, 1947-June 22, 1947",
+            "ExhibEndDate": "1947-06-22",
+            "ExhibEndYear": 1947,
+            "ExhibitionID": 358,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Early Christian and Byzantine Art. Baltimore Museum of Art, Baltimore. 1947."
+        },
+        {
+            "ExhTitle": "Jewelry - Ancient to Modern",
+            "ExhibBeginDate": "1979-10-13",
+            "ExhibBeginYear": 1979,
+            "ExhibDisplayDate": "October 13, 1979-January 20, 1980",
+            "ExhibEndDate": "1980-01-20",
+            "ExhibEndYear": 1980,
+            "ExhibitionID": 2513,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Jewelry - Ancient to Modern. The Walters Art Gallery, Baltimore. 1979-1980."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Europe\\nations\\France\\regions\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1424855,
+            "GeographyTerm": "Bourgogne",
+            "Latitude": "47 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 47.0,
+            "Longitude": "004 31",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 4.516
+        }
+    ],
+    "Images": [
+        {
+            "ID": 8698,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2347_Fnt_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2347_Fnt_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2347_Fnt_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2347_Fnt_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2347_Fnt_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        },
+        {
+            "ID": 8697,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PS1_54.2347_Back_DD_T07.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PS1_54.2347_Back_DD_T07.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PS1_54.2347_Back_DD_T07.jpg",
+                "Small": "http://static.thewalters.org/images/PS1_54.2347_Back_DD_T07.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PS1_54.2347_Back_DD_T07.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 2
+        },
+        {
+            "ID": 39105,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_54.2347_Fnt_NF_H51.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_54.2347_Fnt_NF_H51.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_54.2347_Fnt_NF_H51.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_54.2347_Fnt_NF_H51.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_54.2347_Fnt_NF_H51.jpg?width=50"
+            },
+            "IsPrimary": false,
+            "Rank": 3
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": null,
+    "Medium": "bronze",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Migration and Early Medieval Art",
+        "LocationID": 3843,
+        "LocationString": null
+    },
+    "ObjectID": 34764,
+    "ObjectName": "buckle",
+    "ObjectNumber": "54.2347",
+    "OnView": 1,
+    "Period": "Early Medieval",
+    "Provenance": "Joseph Brummer, New York; Joseph Brummer Sale, Parke-Bernet Galleries, New York, May 12, 1949, no. 278; Walters Art Museum, 1949, by purchase.",
+    "PublicAccessDate": "2008-09-25T17:15:35.253",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/34764",
+    "SortNumber": "    54  2347                                            ",
+    "Style": null,
+    "Title": "Belt Buckle"
+}

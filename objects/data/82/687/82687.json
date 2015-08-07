@@ -1,0 +1,95 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "African",
+            "CreatorID": 15527,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1701,
+    "DateEndYear": 1800,
+    "DateText": "12th century AH/AD 18th century",
+    "Description": "The text on this folio from Walters manuscript W.568 is written in a large Maghribi script, with vocalization in red, green, and yellow ink.",
+    "Dimensions": "H: 11 13/16 x W: 8 7/16 in. (30 x 21.5 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum",
+            "ExhibBeginDate": "2010-03-20",
+            "ExhibBeginYear": 2010,
+            "ExhibDisplayDate": "March 20, 2010-June 13, 2010",
+            "ExhibEndDate": "2010-06-13",
+            "ExhibEndYear": 2010,
+            "ExhibitionID": 2827,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum. The Walters Art Museum, Baltimore. 2010."
+        },
+        {
+            "ExhTitle": "The Divine Word and Sacred Sites of Islam",
+            "ExhibBeginDate": "1997-01-11",
+            "ExhibBeginYear": 1997,
+            "ExhibDisplayDate": "January 11, 1997-April 6, 1997",
+            "ExhibEndDate": "1997-04-06",
+            "ExhibEndYear": 1997,
+            "ExhibitionID": 579,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "The Divine Word and Sacred Sites of Islam. The Walters Art Gallery, Baltimore. 1997."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Africa\\regions (general)\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1544690,
+            "GeographyTerm": "North Africa",
+            "Latitude": null,
+            "LatitudeDirection": null,
+            "LatitudeNumber": 0.0,
+            "Longitude": null,
+            "LongitudeDirection": null,
+            "LongitudeNumber": 0.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 31200,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.568.2a_Fp_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.568.2a_Fp_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.568.2a_Fp_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.568.2a_Fp_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.568.2a_Fp_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Koran; Qur`an; Arabic; Islamic; Book; Calligraphy; Codex; Illumination; Manuscript; Maghreb; Scripture",
+    "Medium": "ink and pigments on Italian paper with a watermark of three crescents",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 5023,
+        "LocationString": null
+    },
+    "ObjectID": 82687,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.568.2A",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/82687",
+    "SortNumber": "W        568    2A                                      ",
+    "Style": null,
+    "Title": "Text Page of Chapter 19"
+}

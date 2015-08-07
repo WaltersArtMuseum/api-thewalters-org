@@ -1,0 +1,112 @@
+{
+    "Classification": "Painting & Drawing",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Russian",
+            "CreatorID": 6214,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters, 1930",
+    "Culture": "Russian",
+    "DateBeginYear": 1500,
+    "DateEndYear": 1599,
+    "DateText": "16th century",
+    "Description": "These three icons form a group. In the center, Christ is represented as the Just Judge, surrounded by seraphim, archangels, and the apostles Peter and Paul. The Virgin and John the Baptist, accompanied by saints, turn toward him with their hands raised in prayer. Each panel is decorated with a gilded silver cover. Hung on the wall, small panels like these were used for prayer at home or in monastic cells.",
+    "Dimensions": "12 x 9 1/16 x 1 5/16 in. (30.5 x 23 x 3.3 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Highlights from the Collection",
+            "ExhibBeginDate": "1998-08-18",
+            "ExhibBeginYear": 1998,
+            "ExhibDisplayDate": "August 18, 1998-April 1, 2001",
+            "ExhibEndDate": "2001-04-01",
+            "ExhibEndYear": 2001,
+            "ExhibitionID": 13,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Highlights from the Collection. The Walters Art Gallery, Baltimore. 1998-2001."
+        },
+        {
+            "ExhTitle": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century",
+            "ExhibBeginDate": "1959-11-09",
+            "ExhibBeginYear": 1959,
+            "ExhibDisplayDate": "November 9, 1959-January 3, 1960",
+            "ExhibEndDate": "1960-01-03",
+            "ExhibEndYear": 1960,
+            "ExhibitionID": 69,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Russian Art: Icons and Decorative Arts from the Origin to the Twentieth Century. The Walters Art Gallery, Baltimore. 1959-1960."
+        },
+        {
+            "ExhTitle": "A Millennium of Christianity: Russian Art from The Walters Art Gallery",
+            "ExhibBeginDate": "1988-12-15",
+            "ExhibBeginYear": 1988,
+            "ExhibDisplayDate": "December 15, 1988-January 29, 1989",
+            "ExhibEndDate": "1989-01-29",
+            "ExhibEndYear": 1989,
+            "ExhibitionID": 563,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "A Millennium of Christianity: Russian Art from The Walters Art Gallery. The Walters Art Gallery, Baltimore. 1988-1989."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1509110,
+            "GeographyTerm": "Rossiya",
+            "Latitude": "60 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 60.0,
+            "Longitude": "047 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 47.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 51148,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL2_37.1065_Fnt_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Christ; gospel; St. Peter; St. Paul; Archangel; Virgin; John the Baptist",
+    "Medium": "tempera on wood, silver gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Centre Street: Third Floor: Byzantine, Russian, and Ethiopian Icons",
+        "LocationID": 3831,
+        "LocationString": null
+    },
+    "ObjectID": 10196,
+    "ObjectName": "icons",
+    "ObjectNumber": "37.1065",
+    "OnView": 1,
+    "Period": "Early Modern",
+    "Provenance": "Alexandre Polovtsoff (Aleksandr Aleksandrovich Polovtsov), Paris, by purchase; Henry Walters, Baltimore, 1930, by purchase; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2013-10-08T01:00:01.56",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 585,
+            "RelationType": "Component"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/10196",
+    "SortNumber": "    37  1065                                            ",
+    "Style": null,
+    "Title": "Three-Panel Icon with the \"Deesis\""
+}

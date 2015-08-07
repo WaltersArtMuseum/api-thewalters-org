@@ -1,0 +1,83 @@
+{
+    "Classification": "Wood",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Shuko (Japanese, active 1st half 19th century)",
+            "CreatorID": 5000,
+            "Gender": "male",
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1800,
+    "DateEndYear": 1850,
+    "DateText": "1st half 19th century",
+    "Description": "This is a polychrome and gilt carved wood netsuke of Yojo avenging his master's death by stabbing a robe.",
+    "Dimensions": "H: 1 5/16 x L: 1 1/2 in. (3.3 x 3.8 cm)",
+    "Dynasty": null,
+    "Exhibitions": [
+        {
+            "ExhTitle": "Netsuke: Miniature Sculpture of Japan",
+            "ExhibBeginDate": "1978-09-24",
+            "ExhibBeginYear": 1978,
+            "ExhibDisplayDate": "September 24, 1978-November 12, 1978",
+            "ExhibEndDate": "1978-11-12",
+            "ExhibEndYear": 1978,
+            "ExhibitionID": 275,
+            "LocationID": null,
+            "NonWAMExhibition": false,
+            "Textblock": "Netsuke: Miniature Sculpture of Japan. The Walters Art Gallery, Baltimore. 1978."
+        }
+    ],
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1489890,
+            "GeographyTerm": "Nihon",
+            "Latitude": "36 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 36.0,
+            "Longitude": "138 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 138.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 7439,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL1_61.253_Fnt_TR_C79III.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL1_61.253_Fnt_TR_C79III.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL1_61.253_Fnt_TR_C79III.jpg",
+                "Small": "http://static.thewalters.org/images/PL1_61.253_Fnt_TR_C79III.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL1_61.253_Fnt_TR_C79III.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "[Signature] Shuko",
+    "Keywords": "Chinese; revenge",
+    "Medium": "wood with polychrome and gilt",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2085,
+        "LocationString": null
+    },
+    "ObjectID": 4443,
+    "ObjectName": "netsukes",
+    "ObjectNumber": "61.253",
+    "OnView": 0,
+    "Period": "Edo",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:35.997",
+    "Reign": null,
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/4443",
+    "SortNumber": "    61   253                                            ",
+    "Style": null,
+    "Title": "The Loyal Yojo Avenges His Master's Death"
+}

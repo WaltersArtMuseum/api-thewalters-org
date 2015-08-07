@@ -1,0 +1,70 @@
+{
+    "Classification": "Ceramics",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Chinese",
+            "CreatorID": 6238,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by William T. or Henry Walters",
+    "Culture": null,
+    "DateBeginYear": 1770,
+    "DateEndYear": 1795,
+    "DateText": "1770-1795",
+    "Description": "This is an example of \"famille rose\" porcelain.",
+    "Dimensions": "1 15/16 in. (5 cm)",
+    "Dynasty": "Qing [Ch'ing] Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1475798,
+            "GeographyTerm": "Zhonghua",
+            "Latitude": "35 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 35.0,
+            "Longitude": "105 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 105.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 5276,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/PL9_49.79_Gp_BW.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/PL9_49.79_Gp_BW.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/PL9_49.79_Gp_BW.jpg",
+                "Small": "http://static.thewalters.org/images/PL9_49.79_Gp_BW.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/PL9_49.79_Gp_BW.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": "reign mark of Qianlong [Ch'ien-lung] (1735-1795)",
+    "Keywords": null,
+    "Medium": "porcelain with overglaze enamels and coral stopper",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not on View",
+        "LocationID": 2036,
+        "LocationString": null
+    },
+    "ObjectID": 8545,
+    "ObjectName": "snuff bottles",
+    "ObjectNumber": "49.79",
+    "OnView": 0,
+    "Period": null,
+    "Provenance": "William T. / Henry Walters Collection, Baltimore [date and mode of acquisition unknown];  Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2008-09-25T17:09:34.247",
+    "Reign": "Qianlong [Ch'ien-lung] (1735-1795)",
+    "RelatedObjects": null,
+    "ResourceURL": "http://art.thewalters.org/detail/8545",
+    "SortNumber": "    49    79                                            ",
+    "Style": "famille rose",
+    "Title": "Snuff Bottle with Sages and Children"
+}

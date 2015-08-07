@@ -1,0 +1,79 @@
+{
+    "Classification": "Manuscripts & Rare Books",
+    "Collection": null,
+    "Creators": [
+        {
+            "ConcatDisplayName": "Indian",
+            "CreatorID": 2191,
+            "Gender": null,
+            "Role": "Artist"
+        }
+    ],
+    "CreditLine": "Acquired by Henry Walters",
+    "Culture": "Islamic",
+    "DateBeginYear": 1651,
+    "DateEndYear": 1700,
+    "DateText": "mid 11th century AH/AD  17th century",
+    "Description": "This Mughal painting from Walters manuscript leaf W.695 portrays a Jesuit priest standing in a landscape, holding a rosary in his right hand. It is attributable to the the mid-11th century AH/AD 17th. The top and bottom of the painting are bordered with marbled paper. Reddish-brown-tinted paper with illuminated floral motifs surrounds the image on 4 sides.",
+    "Dimensions": "H: 12 1/2 x W: 8 1/4 in. (31.8 x 21 cm); Image H: 6 1/8 x W: 4 1/16 in. (15.5 x 10.3 cm)",
+    "Dynasty": "Mughal Dynasty",
+    "Exhibitions": null,
+    "Geographies": [
+        {
+            "GeoHierarchy": "The Thesaurus of Geographic Names\\World\\continents\\Asia\\nations\\",
+            "GeoType": "Place of Origin",
+            "GeographyID": 1503689,
+            "GeographyTerm": "Bharat",
+            "Latitude": "20 00",
+            "LatitudeDirection": "N",
+            "LatitudeNumber": 20.0,
+            "Longitude": "077 00",
+            "LongitudeDirection": "E",
+            "LongitudeNumber": 77.0
+        }
+    ],
+    "Images": [
+        {
+            "ID": 34126,
+            "ImageURLs": {
+                "Large": "http://static.thewalters.org/images/CPS_W.695_Det_DD.jpg?width=250",
+                "Medium": "http://static.thewalters.org/images/CPS_W.695_Det_DD.jpg?width=150",
+                "Raw": "http://static.thewalters.org/images/CPS_W.695_Det_DD.jpg",
+                "Small": "http://static.thewalters.org/images/CPS_W.695_Det_DD.jpg?width=100",
+                "Tiny": "http://static.thewalters.org/images/CPS_W.695_Det_DD.jpg?width=50"
+            },
+            "IsPrimary": true,
+            "Rank": 1
+        }
+    ],
+    "Inscriptions": null,
+    "Keywords": "Christian; Indian; Islamic; Mughal; Illustration; Painting; India",
+    "Medium": "ink and pigments on paper mounted on pasteboard",
+    "MuseumLocation": {
+        "DisplayCurrentLocation": "Not On View",
+        "LocationID": 6427,
+        "LocationString": null
+    },
+    "ObjectID": 2308,
+    "ObjectName": "illuminated manuscripts; folios (leaves)",
+    "ObjectNumber": "W.695",
+    "OnView": 0,
+    "Period": "Mughal",
+    "Provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "PublicAccessDate": "2014-01-24T13:51:40.93",
+    "Reign": null,
+    "RelatedObjects": [
+        {
+            "ObjectID": 83790,
+            "RelationType": "Part of a Book"
+        },
+        {
+            "ObjectID": 83791,
+            "RelationType": "Part of a Book"
+        }
+    ],
+    "ResourceURL": "http://art.thewalters.org/detail/2308",
+    "SortNumber": "W        695                                            ",
+    "Style": null,
+    "Title": "Single Leaf of a Jesuit Priest"
+}
