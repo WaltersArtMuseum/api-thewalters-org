@@ -22,11 +22,14 @@ The API describes:
 
 See also:
 
-  - [Online Collection
-    get artwork info. with conservation and exhibition histories, and download images](https://thewalters.org/about/)
-  - [Digitized Walters Manuscripts
-    download high-resolution archival images with detailed catalog data](https://www.thedigitalwalters.org/)
-  - [Walters Ex Libris
-    search and browse digitized manuscripts from the Walters Art Museum](https://manuscripts.thewalters.org/)
-  - [Journal
-    now available to all readers as an open-access digital publication](https://journal.thewalters.org/)
+  - [Online Collection](https://art.thewalters.org)  
+    get artwork info. with conservation and exhibition histories, and download images
+
+  - [Digitized Walters Manuscripts](https://www.thedigitalwalters.org/)  
+    download high-resolution archival images with detailed catalog data
+
+  - [Walters Ex Libris](https://manuscripts.thewalters.org/)  
+    search and browse digitized manuscripts from the Walters Art Museum
+
+  - [Journal](https://journal.thewalters.org/)  
+    now available to all readers as an open-access digital publication
