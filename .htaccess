@@ -9,8 +9,9 @@
 ### alternative robots.txt file staging server
 # robots_noindex.txt says disallow everything
 <IfModule mod_rewrite.c>
+RewriteEngine On
 RewriteCond %{HTTP_HOST} ^apidev\.thewalters\.org$ [NC]
-RewriteRule ^robots\.txt$ robots_noindex.txt [L]
+RewriteRule ^robots\.txt$ /robots_noindex.txt [R=301,L]
 </IfModule>
 
 ### Staging Server Password
