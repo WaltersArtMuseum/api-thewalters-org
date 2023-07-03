@@ -1,0 +1,7 @@
+# used to block crawling of dev site
+# pair with these lines within .htaccess
+# RewriteCond %{HTTP_HOST} ^dev\.thewalters\.org$ [NC]
+# RewriteRule ^robots\.txt$ robots_noindex.txt [L]
+
+User-agent: *
+Disallow: /
