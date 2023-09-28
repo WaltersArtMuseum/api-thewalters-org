@@ -3,6 +3,7 @@
 <head>
     <title>Walters Object Tombstone Generator</title>
     <style>
+      * {font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;}
       hgroup * {font-size: 125%;}
       form, #tombstone {margin-bottom:5em;}
         .italic-title {
@@ -29,9 +30,11 @@
     </script>
 </head>
 <body>
-    <hgroup><h1>Tombstone Generator</h1>
 
-    <p>This tool writes a "tombstone" credit line for online artworks from the Walters Art Museum. Since most artworks are online, it should be able to describe most any artwork you want to work with in any marketing and communications materials. The output is formatted according to the M&C section of the Walters Styleguide.</p></hgroup>
+    <hgroup>
+      <h1>Tombstone Generator</h1>
+      <p>This tool writes a "tombstone" credit line for online artworks from the Walters Art Museum. Since most artworks are online, it should be able to describe most any artwork from the collection. The output is formatted according to the Marketing and Communications section of the museum's style guide.</p>
+    </hgroup>
 
     <form method="get" action="<?php echo $_SERVER['PHP_SELF']; ?>">
         <label for="accessionNumber">Accession Number:</label>
@@ -98,7 +101,8 @@ LIMIT 1";
         $result = $stmt->get_result();
         if ($result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
-                echo "<p id='tombstone'>";
+                echo "<div id='tombstone'>";
+                echo "<p>";
 
                 // Show artist name, if available
                 if ($row['creator_search_string'] !== null) {
@@ -120,6 +124,10 @@ LIMIT 1";
                 echo $row['credit'];
                 echo "<span id='accNumOutput'>, acc. no. " . $row['number'] . "</span>";
                 echo "</p>";
+
+                echo "<p>URL: <a href='https://purl.thewalters.org/art/{$row['number']}'>purl.thewalters.org/art/{$row['number']}</a></p>";
+                echo "</div>";
+
 
                 // Add a button to toggle the accession number text
                 echo "<button onclick='toggleAccessionNumber()'>Toggle Accession Number</button>";
