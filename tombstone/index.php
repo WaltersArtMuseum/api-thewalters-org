@@ -11,7 +11,7 @@
     </style>
     <script>
         function toggleAccessionNumber() {
-            var numberElement = document.getElementById('accessionNumber');
+            var numberElement = document.getElementById('accNumOutput');
             if (numberElement.style.display === 'none') {
                 numberElement.style.display = 'inline';
             } else {
@@ -118,7 +118,7 @@ LIMIT 1";
                 echo trim($date) . ". ";
 
                 echo $row['credit'];
-                echo "<span id='accessionNumber'>, acc. no. " . $row['number'] . "</span>";
+                echo "<span id='accNumOutput'>, acc. no. " . $row['number'] . "</span>";
                 echo "</p>";
 
                 // Add a button to toggle the accession number text
