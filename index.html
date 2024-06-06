@@ -1,830 +1,91 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+<html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Open Data from the Walters Art Museum</title>
-  <meta name="description" content="">
-  <link rel="stylesheet" href="https://thewalters.org/css/site.css">
+  <meta name="description" content="Query the museum data. More than 10,000 digital records of art and artifacts">
+
+  <!-- Bootstrap CSS via CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="https://purl.thewalters.org/assets/css/walters.css">
 </head>
 
-<body class="preload fs-grid layout_default mode_light">
-  <figure style="display: none;">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <symbol viewBox="0 0 23 23" id="calendar" xmlns="http://www.w3.org/2000/svg">
-        <g fill-rule="nonzero">
-          <path d="M17.012 1.784A1.986 1.986 0 0015.069.198a.396.396 0 100 .793c.656 0 1.19.534 1.19 1.19 0 .656-.534 1.19-1.19 1.19a.396.396 0 100 .793c.957 0 1.758-.683 1.943-1.586h5.195v3.569H.793v-3.57H7.535a.396.396 0 100-.793h-.72a1.187 1.187 0 012.306.397c0 .656-.534 1.19-1.19 1.19a.396.396 0 100 .793c1.093 0 1.983-.89 1.983-1.983S9.024.198 7.93.198c-.957 0-1.758.683-1.943 1.586H0v21.018h23V1.784h-5.988zm5.195 20.225H.793V6.939h21.414v15.07z" />
-          <path d="M10.31.991c.656 0 1.19.534 1.19 1.19 0 .656-.534 1.19-1.19 1.19a.396.396 0 100 .793c1.094 0 1.983-.89 1.983-1.983S11.403.198 10.31.198a.396.396 0 100 .793z" />
-          <path d="M12.69.991c.656 0 1.19.534 1.19 1.19 0 .656-.534 1.19-1.19 1.19a.396.396 0 100 .793c1.093 0 1.982-.89 1.982-1.983S13.782.198 12.69.198a.396.396 0 100 .793z" />
-          <circle cx="8.724" cy="9.716" r="1" />
-          <circle cx="11.5" cy="9.716" r="1" />
-          <circle cx="14.276" cy="9.716" r="1" />
-          <circle cx="17.052" cy="9.716" r="1" />
-          <circle cx="19.828" cy="9.716" r="1" />
-          <circle cx="3.172" cy="12.888" r="1" />
-          <circle cx="5.948" cy="12.888" r="1" />
-          <circle cx="8.724" cy="12.888" r="1" />
-          <circle cx="11.5" cy="12.888" r="1" />
-          <circle cx="14.276" cy="12.888" r="1" />
-          <circle cx="17.052" cy="12.888" r="1" />
-          <circle cx="19.828" cy="12.888" r="1" />
-          <circle cx="3.172" cy="15.664" r="1" />
-          <circle cx="5.948" cy="15.664" r="1" />
-          <circle cx="8.724" cy="15.664" r="1" />
-          <circle cx="11.5" cy="15.664" r="1" />
-          <circle cx="14.276" cy="15.664" r="1" />
-          <circle cx="17.052" cy="15.664" r="1" />
-          <circle cx="19.828" cy="15.664" r="1" />
-          <circle cx="3.172" cy="18.836" r="1" />
-          <circle cx="5.948" cy="18.836" r="1" />
-          <circle cx="8.724" cy="18.836" r="1" />
-          <circle cx="11.5" cy="18.836" r="1" />
-          <circle cx="14.276" cy="18.836" r="1" />
-        </g>
-      </symbol>
-      <symbol fill="none" viewBox="0 0 16 12" id="caption" xmlns="http://www.w3.org/2000/svg">
-        <path fill="#fff" d="M0 0h16v2H0zM0 5h16v2H0zM0 10h10.667v2H0z" />
-      </symbol>
-      <symbol viewBox="0 0 15 9" id="caret_down" xmlns="http://www.w3.org/2000/svg">
-        <path d="M13.634.265l.732.68L7.5 8.34.634.946l.732-.68L7.5 6.87z" fill-rule="nonzero" />
-      </symbol>
-      <symbol viewBox="0 0 9 15" id="caret_left" xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="nonzero" d="M8.735 13.634l-.68.732L.66 7.5 8.054.634l.68.732L2.13 7.5z" />
-      </symbol>
-      <symbol viewBox="0 0 9 15" id="caret_right" xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="nonzero" d="M.66 1.366l.68-.732L8.735 7.5 1.34 14.366l-.68-.732L7.265 7.5z" />
-      </symbol>
-      <symbol fill="none" viewBox="0 0 14 14" id="close" xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="evenodd" clip-rule="evenodd" d="M7 8.728l4.95 4.95 1.414-1.415-4.95-4.95 4.95-4.949L11.95.95 7 5.9 2.05.95.636 2.364l4.95 4.95-4.95 4.95 1.414 1.414L7 8.728z" fill="#000" />
-      </symbol>
-      <symbol fill="none" viewBox="0 0 35 35" id="close_circle">
-        <rect width="35" height="35" fill="currentColor" rx="17.5" />
-        <path fill="#000" fill-rule="evenodd" d="M18 19.728l4.95 4.95 1.414-1.415-4.95-4.95 4.95-4.949-1.414-1.414L18 16.9l-4.95-4.95-1.414 1.414 4.95 4.95-4.95 4.95 1.414 1.414 4.95-4.95z" clip-rule="evenodd" />
-      </symbol>
-      <symbol viewBox="0 0 12 12" id="copy" xmlns="http://www.w3.org/2000/svg">
-        <g fill="#434A50" fill-rule="nonzero">
-          <path d="M6 2.546c-1.98 0-2.479 1.87-2.479 3.454 0 1.585.499 3.454 2.479 3.454S8.479 7.584 8.479 6 7.98 2.546 6 2.546zM6 3.85c.08 0 .154.012.223.028.143.124.212.294.075.531L4.98 6.832A6.418 6.418 0 014.933 6c0-.698.048-2.151 1.067-2.151zm.988 1.117c.08.372.08.76.08 1.034 0 .697-.048 2.152-1.068 2.152a.927.927 0 01-.222-.026.32.32 0 01-.039-.013.658.658 0 01-.062-.02c-.227-.097-.37-.271-.164-.58l1.475-2.546z" />
-          <path d="M5.987 0C4.324 0 2.92.58 1.777 1.744A6.065 6.065 0 00.45 3.718C.15 4.448 0 5.207 0 6c0 .8.15 1.56.45 2.282.3.722.735 1.37 1.307 1.95a6.248 6.248 0 001.948 1.318c.73.3 1.489.45 2.282.45a6.03 6.03 0 002.308-.461 6.172 6.172 0 001.991-1.33c.565-.549.992-1.18 1.277-1.893A6.108 6.108 0 0012 6c0-.814-.144-1.584-.437-2.306a5.742 5.742 0 00-1.286-1.938C9.098.585 7.667 0 5.987 0zm.026 1.08c1.357 0 2.514.482 3.478 1.446.465.465.822.995 1.064 1.588A4.93 4.93 0 0110.92 6c0 1.378-.472 2.522-1.408 3.437a5.145 5.145 0 01-1.637 1.084 4.773 4.773 0 01-1.862.374 5.176 5.176 0 01-1.866-.365 5.13 5.13 0 01-2.69-2.668 4.783 4.783 0 01.002-3.728c.257-.6.62-1.139 1.091-1.618.936-.943 2.09-1.436 3.463-1.436z" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 9 2" id="elipsis" xmlns="http://www.w3.org/2000/svg">
-        <path d="M1.16 2C.49 2 0 1.538 0 .988S.49 0 1.16 0c.67 0 1.16.438 1.16.988S1.83 2 1.16 2zM4.5 2C3.83 2 3.34 1.538 3.34.988S3.83 0 4.5 0c.67 0 1.16.438 1.16.988S5.17 2 4.5 2zm3.34 0C7.17 2 6.694 1.538 6.694.988S7.17 0 7.84 0C8.51 0 9 .438 9 .988S8.51 2 7.84 2z" fill-rule="evenodd" />
-      </symbol>
-      <symbol viewBox="0 0 12 9" id="email" xmlns="http://www.w3.org/2000/svg">
-        <g fill-rule="nonzero">
-          <path d="M6 6L4.515 4.7.271 8.34a.869.869 0 00.592.231h10.274c.229 0 .436-.089.59-.232L7.485 4.701 6 6z" />
-          <path d="M11.73.232A.863.863 0 0011.136 0H.863a.86.86 0 00-.59.234L6 5.143l5.73-4.91zM0 .753v7.12l4.143-3.52zM7.857 4.353L12 7.873V.75z" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 259 259" id="facebook" xmlns="http://www.w3.org/2000/svg">
-        <g fill-rule="nonzero" fill="none">
-          <path d="M244.082 258.307c7.854 0 14.223-6.369 14.223-14.225V14.812c0-7.857-6.368-14.224-14.223-14.224H14.812C6.955.588.588 6.955.588 14.812v229.27c0 7.855 6.366 14.225 14.224 14.225h229.27z" fill="#3C5A99" />
-          <path d="M178.409 258.307v-99.803h33.499l5.016-38.895h-38.515V94.777c0-11.261 3.127-18.935 19.275-18.935l20.596-.009V41.045c-3.562-.474-15.788-1.533-30.012-1.533-29.695 0-50.025 18.126-50.025 51.413v28.684h-33.585v38.895h33.585v99.803h40.166z" fill="#FFF" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 7 13" id="facebook_plain" xmlns="http://www.w3.org/2000/svg">
-        <path d="M6.477.003L4.862 0C3.05 0 1.877 1.202 1.877 3.063v1.413H.254A.254.254 0 000 4.73v2.046c0 .14.114.254.254.254h1.623v5.164c0 .14.113.254.254.254h2.117c.14 0 .254-.114.254-.254V7.03H6.4c.14 0 .254-.113.254-.254V4.73a.254.254 0 00-.254-.254H4.502V3.279c0-.576.137-.868.887-.868h1.087c.14 0 .254-.114.254-.254v-1.9a.254.254 0 00-.253-.254z" fill-rule="nonzero" />
-      </symbol>
-      <symbol viewBox="0 0 50 33" id="fs_logo" xmlns="http://www.w3.org/2000/svg">
-        <g fill-rule="evenodd">
-          <path d="M49.207 0H.794A.797.797 0 000 .8v4.4c0 .221.178.4.397.4h6.746V14h24.326c.29 0 .674-.338.674-.707V9.114A.792.792 0 0031.4 8.4h-9.178V5.6H38.89v4c0 .221.177.4.397.4h9.92A.797.797 0 0050 9.2V.8c0-.442-.355-.8-.793-.8M42.597 18.57c-1.636-.353-7.9-.872-10.595-.872l-6.482-.053c-.72 0-3.131-.132-3.454-.637L7.09 17c-.048.228-.1.75-.1 1 0 1.932 2.15 4.435 6.618 5.716 2.67.749 9.363 1.445 11.593 1.445l8.211.061c.462 0 2.218-.026 2.218 1.272s-1.756 1.277-2.218 1.277H23.115c-.315 0-4.826-.086-5.444-1.927-.006-.016-.014-.033-.019-.05a.39.39 0 00-.35-.223H7.034a.394.394 0 00-.394.394v5.905c0 .218.176.394.394.394h9.868a.393.393 0 00.391-.384l.102-1.723c2.08.925 5.429 1.87 8.589 1.87h7.847c4.145 0 16.079-.926 16.079-7.562 0-4.386-5.73-5.553-7.313-5.895z" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 552 552" id="instagram" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient x1="50%" y1="99.709%" x2="50%" y2=".777%" id="a">
-            <stop stop-color="#E09B3D" offset="0%" />
-            <stop stop-color="#C74C4D" offset="30%" />
-            <stop stop-color="#C21975" offset="60%" />
-            <stop stop-color="#7024C4" offset="100%" />
-          </linearGradient>
-          <linearGradient x1="50%" y1="146.098%" x2="50%" y2="-45.16%" id="b">
-            <stop stop-color="#E09B3D" offset="0%" />
-            <stop stop-color="#C74C4D" offset="30%" />
-            <stop stop-color="#C21975" offset="60%" />
-            <stop stop-color="#7024C4" offset="100%" />
-          </linearGradient>
-          <linearGradient x1="50%" y1="658.153%" x2="50%" y2="-140.038%" id="c">
-            <stop stop-color="#E09B3D" offset="0%" />
-            <stop stop-color="#C74C4D" offset="30%" />
-            <stop stop-color="#C21975" offset="60%" />
-            <stop stop-color="#7024C4" offset="100%" />
-          </linearGradient>
-        </defs>
-        <g fill-rule="nonzero" fill="none">
-          <path d="M386.878 0H164.156C73.64 0 0 73.64 0 164.156v222.722c0 90.516 73.64 164.156 164.156 164.156h222.722c90.516 0 164.156-73.64 164.156-164.156V164.156C551.033 73.64 477.393 0 386.878 0zM495.6 386.878c0 60.045-48.677 108.722-108.722 108.722H164.156c-60.045 0-108.722-48.677-108.722-108.722V164.156c0-60.046 48.677-108.722 108.722-108.722h222.722c60.045 0 108.722 48.676 108.722 108.722v222.722z" fill="url(#a)" />
-          <path d="M275.517 133C196.933 133 133 196.933 133 275.516s63.933 142.517 142.517 142.517S418.034 354.1 418.034 275.516 354.101 133 275.517 133zm0 229.6c-48.095 0-87.083-38.988-87.083-87.083s38.989-87.083 87.083-87.083c48.095 0 87.083 38.988 87.083 87.083 0 48.094-38.989 87.083-87.083 87.083z" fill="url(#b)" />
-          <circle fill="url(#c)" cx="418.306" cy="134.072" r="34.149" />
-        </g>
-      </symbol>
-      <symbol fill="none" viewBox="0 0 34 26" id="lightbox_next">
-        <path fill="currentColor" fill-rule="evenodd" d="M25.796 11H0v4h25.802l-7.903 7.902 2.829 2.829 12.727-12.728-.002-.002L20.726.272l-2.828 2.829L25.796 11z" clip-rule="evenodd" />
-      </symbol>
-      <symbol fill="none" viewBox="0 0 34 26" id="lightbox_prev">
-        <path fill="currentColor" fill-rule="evenodd" d="M7.66 11h25.796v4H7.654l7.902 7.902-2.828 2.829L0 13.003l.001-.002L12.73.272l2.829 2.829L7.659 11z" clip-rule="evenodd" />
-      </symbol>
-      <symbol viewBox="0 0 30 30" id="linkedin" xmlns="http://www.w3.org/2000/svg">
-        <g fill="none" fill-rule="evenodd">
-          <rect fill="#0077B5" width="30" height="30" rx="2" />
-          <path d="M27.917 17.41V26h-5.652v-8.018c0-2.016-.815-3.386-2.86-3.386-1.564 0-2.487.927-2.899 1.82-.148.322-.193.772-.193 1.216V26h-5.646s.075-13.575 0-14.98h5.647v2.123c-.007.017-.024.031-.032.05h.032v-.05c.755-1.021 2.091-2.475 5.093-2.475 3.725 0 6.51 2.14 6.51 6.744zM5.892 3C4.144 3 3 4.24 3 5.876 3 7.468 4.11 8.75 5.826 8.75h.031c1.786 0 2.893-1.282 2.893-2.874C8.715 4.24 7.643 3 5.892 3zM3 26h5.75V10.667H3V26z" fill="#FFF" fill-rule="nonzero" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 936 191" id="logo" xmlns="http://www.w3.org/2000/svg">
-        <g fill-rule="nonzero">
-          <path d="M918.49 1.53v187.7h16.974V1.53h-16.973M0 189.23h16.976V1.53H0v187.7M675.47 105.721h-60.957v83.51h63.506v-13.176H629.6v-29.126h44.595v-13.178h-44.595v-14.852h45.87V105.72zm-92.722 60.995c0 7.825-9.957 10.613-19.277 10.613-9.447 0-18.944-1.846-23.442-3.67l-.409-.167-1.884 13.332.267.095c7.184 2.549 15.71 3.841 25.341 3.841 22.325 0 35.13-8.996 35.13-24.681 0-17.419-15.895-22.511-28.669-26.602-9.365-3-17.454-5.592-17.454-12.003 0-6.18 5.91-9.722 16.217-9.722 7.741 0 15.94 1.217 23.088 3.425l.388.12 1.88-13.564-.281-.087c-9.876-3.003-20.43-3.453-25.84-3.453-18.648 0-31.178 9.765-31.178 24.299 0 15.844 14.626 20.664 27.53 24.915 9.977 3.289 18.593 6.128 18.593 13.31zm-122.839-60.995H444.82v50.291c0 23.056 12.676 34.748 37.677 34.748 12.651 0 22.448-3.356 29.12-9.974 6.015-5.971 9.196-14.493 9.196-24.647V105.72h-15.089v46.723c0 17.584-6.617 24.756-22.844 24.756-16.101 0-22.97-7.021-22.97-23.481V105.72zm-95.74 0h-22.722v83.51h15.088v-67.019h.085l21.15 40.007h12.52l21.151-40.007h.084v67.019h15.087v-83.51h-22.215l-19.924 38.21-20.304-38.21zM94.115 14.707h29.305V1.53H50.23v13.176h28.797V85.04h15.088V14.707zm10.692 141.216H75.645l10.258-37.026h8.522l10.382 37.026zm9.368 33.308h16.139l-24.211-83.26-.072-.25H74.42l-23.253 83.51h15.37l5.48-20.13h36.426l5.732 20.13zM194.12 85.04h15.088V1.53h-15.088v25.482h-44.796V1.531h-15.089v83.51h15.09V40.19h44.795v44.85zm-3.59 46.126c0 8.82-4.424 12.3-17.53 13.8l-15.162 1.614v-27.684h18.896c9.541 0 13.796 3.784 13.796 12.27zm1.152 58.064h17.598l-18.054-34.828c10.057-4.31 15.157-12.167 15.157-23.363 0-16.564-9.9-25.319-28.63-25.319H142.75v83.51h15.088v-28.962l18.313-2.228 15.435 30.998.096.192zm99.218-83.51h-73.188v13.176h28.796v70.334h15.087v-70.334h29.305v-13.176zm-63.506-20.68H290.9V71.863h-48.417V42.74h44.595V29.561h-44.595V14.707h45.87V1.53h-60.96v83.51zM439.54 1.942l.082-.412H424.26l-12.613 70.46h-.33L395.01 1.53h-20.937l-15.799 70.46h-.33L344.619 1.812l-.054-.281h-16.129l17.544 83.236.057.273h23.75l14.396-66.639h.338l15.035 66.64h23.75L439.54 1.942zm57.34 49.79h-29.16l10.258-37.026h8.522l10.38 37.026zm9.371 33.307h16.137L498.18 1.78l-.074-.25h-31.609l-23.253 83.51h15.37l5.479-20.13h36.427l5.733 20.13zm87.493-13.176h-43.83V1.531h-15.088v83.51h58.918V71.863zm29.178-57.157h29.304V1.53h-73.188v13.176h28.794V85.04h15.09V14.707zm40.106 70.333h63.506V71.864h-48.419V42.74h44.595V29.561h-44.595V14.707h45.87V1.53h-60.957v83.51zm67.316 92.16c-16.101 0-22.972-7.021-22.972-23.481V105.72h-15.086v50.291c0 23.056 12.676 34.748 37.677 34.748 12.65 0 22.447-3.356 29.113-9.974 6.027-5.971 9.2-14.493 9.2-24.647V105.72h-15.093v46.723c0 17.584-6.613 24.756-22.839 24.756zm56.879-150.224c0 8.82-4.427 12.301-17.52 13.801l-15.173 1.615V14.707h18.893c9.547 0 13.8 3.784 13.8 12.269zm18.747 58.064l-18.054-34.83c10.067-4.307 15.16-12.165 15.16-23.36 0-16.565-9.893-25.32-28.626-25.32h-35.004v83.51h15.084V56.077l18.32-2.226 15.426 30.999.094.19h17.6zm23.546 58.89l-20.306-38.209h-22.72v83.51h15.08v-67.019h.093l21.147 40.007h12.52l21.146-40.007h.08v67.019h15.094v-83.51h-22.214l-19.92 38.21zm41.467-126.825l1.88-13.562-.28-.086C862.704.452 852.157.003 846.744.003c-18.653 0-31.173 9.764-31.173 24.298 0 15.844 14.626 20.664 27.52 24.916 9.986 3.287 18.6 6.127 18.6 13.308 0 7.825-9.96 10.612-19.28 10.612-9.454 0-18.947-1.846-23.44-3.67l-.414-.166-1.88 13.332.267.094c7.187 2.55 15.707 3.842 25.347 3.842 22.32 0 35.12-8.995 35.12-24.68 0-17.418-15.894-22.512-28.667-26.602-9.36-3.002-17.453-5.594-17.453-12.006 0-6.177 5.906-9.72 16.213-9.72 7.747 0 15.947 1.216 23.093 3.423l.387.121z" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 335 25" id="logo_horizontal" xmlns="http://www.w3.org/2000/svg">
-        <g fill-rule="evenodd">
-          <path d="M111.765 18.152h-8.205V5.147h-2.825v15.441h11.03zM77.908 18.175h-.061l-3.02-13.028H70.95l-2.925 13.028h-.062L65.496 5.2l-.01-.052H62.5l3.248 15.39.011.051h4.398l2.666-12.322h.062l2.784 12.322h4.398l3.006-15.365.015-.076h-2.844zM94.017 5.147h-5.873l-4.32 15.441h2.855l1.018-3.722h6.769l1.065 3.722h2.998L94.031 5.193l-.014-.046zm-5.645 9.283l1.906-6.847h1.583l1.929 6.847h-5.418zM148.9 20.588h3.306l-3.392-6.44c1.89-.796 2.847-2.25 2.847-4.32 0-3.062-1.86-4.68-5.379-4.68h-6.576v15.44h2.835v-5.355l3.44-.412 2.9 5.732.018.035zm-3.51-8.184l-2.85.298V7.583h3.55c1.794 0 2.593.7 2.593 2.269 0 1.63-.831 2.275-3.293 2.552zM136.765 18.152h-8.97v-5.385h8.262V10.33h-8.262V7.583h8.498V5.147H125v15.441h11.765zM115.055 20.588h2.88V7.583h5.594V5.147h-13.97v2.436h5.496zM159.988 11.74c-1.782-.56-3.32-1.044-3.32-2.243 0-1.154 1.124-1.816 3.085-1.816 1.472 0 3.032.227 4.391.64l.074.022.358-2.534-.054-.016c-1.878-.562-3.885-.646-4.914-.646-3.548 0-5.932 1.825-5.932 4.54 0 2.962 2.783 3.862 5.237 4.657 1.898.614 3.537 1.145 3.537 2.487 0 1.462-1.894 1.983-3.667 1.983-1.797 0-3.604-.345-4.458-.686l-.078-.031-.359 2.491.05.018c1.367.476 2.989.718 4.821.718 4.247 0 6.682-1.681 6.682-4.613 0-3.254-3.023-4.206-5.453-4.97M234.643 12.212l-3.857-7.065h-4.315v15.441h2.865V8.196h.016l4.018 7.398h2.378l4.017-7.398h.016v12.392h2.866V5.148h-4.22zM256.05 14.035c0 3.345-1.217 4.71-4.2 4.71-2.96 0-4.223-1.337-4.223-4.468v-9.13h-2.774v9.567c0 4.386 2.33 6.61 6.927 6.61 2.325 0 4.126-.639 5.353-1.898 1.106-1.135 1.69-2.756 1.69-4.688v-9.59h-2.773v8.887zM300.903 14.035c0 3.345-1.217 4.71-4.2 4.71-2.96 0-4.223-1.337-4.223-4.468v-9.13h-2.774v9.567c0 4.386 2.33 6.61 6.927 6.61 2.326 0 4.127-.639 5.353-1.898 1.106-1.135 1.69-2.756 1.69-4.688v-9.59h-2.773v8.887zM268.076 11.74c-1.781-.56-3.32-1.044-3.32-2.242 0-1.155 1.124-1.817 3.085-1.817 1.472 0 3.032.227 4.392.64l.073.022.358-2.534-.054-.016c-1.879-.562-3.886-.646-4.915-.646-3.547 0-5.93 1.825-5.93 4.54 0 2.962 2.782 3.862 5.236 4.657 1.898.614 3.537 1.144 3.537 2.487 0 1.462-1.894 1.983-3.667 1.983-1.797 0-3.603-.345-4.458-.686l-.078-.031-.359 2.491.05.018c1.367.476 2.99.718 4.821.718 4.247 0 6.682-1.681 6.682-4.613 0-3.254-3.023-4.206-5.453-4.97M278.53 12.767h8.262V10.33h-8.262V7.584h8.498V5.147h-11.293v15.441H287.5v-2.436h-8.97zM315.526 12.212l-3.857-7.065h-4.316v15.441h2.866V8.196h.016l4.017 7.398h2.378l4.018-7.398h.016v12.392h2.865V5.148h-4.219zM15.056 20.588h2.88V7.583h5.593V5.147H9.56v2.436h5.497zM45.442 12.767h8.261V10.33h-8.26V7.584h8.496V5.147H42.647v15.441h11.765v-2.436h-8.97zM36.16 9.859h-8.348V5.147H25v15.441h2.812v-8.292h8.347v8.292h2.812V5.148h-2.812zM204.412 7.583h5.496v13.005h2.88V7.583h5.594V5.147h-13.97zM201.662 9.829c0-3.063-1.86-4.682-5.38-4.682h-6.576v15.441h2.834v-5.355l3.441-.412 2.9 5.732.018.035h3.307l-3.392-6.44c1.89-.796 2.848-2.25 2.848-4.32m-6.273 2.576l-2.849.298V7.583h3.55c1.793 0 2.593.7 2.593 2.27 0 1.63-.831 2.274-3.294 2.55M182.253 5.147h-5.874l-4.32 15.441h2.856l1.018-3.722h6.768l1.065 3.722h2.999l-4.499-15.395-.013-.046zm-5.646 9.283l1.906-6.847h1.583l1.93 6.847h-5.419zM0 25h2.941V0H0zM331.618 25h2.94V0h-2.94z" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 17 17" id="play" xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="evenodd" d="M17 8.5L0 17V0z" />
-      </symbol>
-      <symbol viewBox="0 0 128 72" id="play_large" xmlns="http://www.w3.org/2000/svg">
-        <g fill="none" fill-rule="evenodd">
-          <rect width="128" height="72" fill="#B51717" rx="36" />
-          <path fill="#FFF" d="M79 36L49 51V21z" />
-        </g>
-      </symbol>
-      <symbol viewBox="0 0 20 20" id="search" xmlns="http://www.w3.org/2000/svg">
-        <path d="M19.755 18.58l-4.808-4.809A8.431 8.431 0 008.429 0 8.428 8.428 0 000 8.429a8.428 8.428 0 008.429 8.428 8.384 8.384 0 005.338-1.906l4.809 4.804a.833.833 0 001.18-1.175zM8.4 15.2c-3.751 0-6.8-3.05-6.8-6.798S4.649 1.6 8.4 1.6c3.747 0 6.8 3.054 6.8 6.802 0 3.748-3.053 6.798-6.8 6.798z" fill-rule="nonzero" />
-      </symbol>
-      <symbol viewBox="0 0 10 12" id="share" xmlns="http://www.w3.org/2000/svg">
-        <path d="M8.332 7.822c-.421 0-.799.165-1.087.426L3.284 5.944c.028-.128.05-.257.05-.39 0-.132-.022-.26-.05-.389L7.2 2.883A1.663 1.663 0 0010 1.666C9.999.745 9.254 0 8.331 0c-.921 0-1.666.745-1.666 1.666 0 .134.023.26.05.389L2.8 4.339A1.664 1.664 0 000 5.554a1.664 1.664 0 002.8 1.217l3.954 2.31c-.027.117-.044.24-.044.362 0 .894.729 1.622 1.622 1.622.894 0 1.623-.727 1.623-1.622 0-.895-.729-1.621-1.623-1.621z" fill-rule="nonzero" />
-      </symbol>
-      <symbol viewBox="0 0 39 30" id="twitter" xmlns="http://www.w3.org/2000/svg">
-        <path d="M39 3.55a16.68 16.68 0 01-4.594 1.193c1.652-.937 2.917-2.424 3.517-4.19a16.687 16.687 0 01-5.084 1.84C31.38.92 29.303 0 27 0c-4.417 0-8 3.393-8 7.574 0 .594.07 1.173.207 1.727-6.648-.316-12.543-3.333-16.489-7.916a7.217 7.217 0 00-1.082 3.808c0 2.628 1.414 4.948 3.558 6.305a8.345 8.345 0 01-3.624-.951v.095c0 3.669 2.76 6.732 6.417 7.429a8.53 8.53 0 01-2.108.265 8.095 8.095 0 01-1.506-.14c1.019 3.011 3.972 5.201 7.472 5.261-2.737 2.031-6.188 3.238-9.936 3.238-.646 0-1.282-.037-1.908-.104C3.541 28.745 7.745 30 12.263 30c14.718 0 22.762-11.544 22.762-21.555l-.027-.981A15.54 15.54 0 0039 3.549z" fill-rule="nonzero" fill="#179CD6" />
-      </symbol>
-      <symbol viewBox="0 0 13 12" id="twitter_plain" xmlns="http://www.w3.org/2000/svg">
-        <path d="M12.55 2.063a5.12 5.12 0 01-1.478.408c.531-.32.938-.828 1.131-1.43a5.173 5.173 0 01-1.636.627A2.56 2.56 0 008.688.851a2.582 2.582 0 00-2.574 2.588c0 .202.023.4.066.59A7.296 7.296 0 01.874 1.323a2.58 2.58 0 00-.348 1.3c0 .899.455 1.691 1.145 2.155a2.564 2.564 0 01-1.166-.325v.032c0 1.254.888 2.3 2.065 2.538-.216.059-.443.091-.678.091-.167 0-.327-.016-.485-.048A2.578 2.578 0 003.81 8.865 5.148 5.148 0 010 9.935 7.249 7.249 0 003.946 11.1c4.736 0 7.325-3.944 7.325-7.364l-.009-.335a5.156 5.156 0 001.288-1.338z" fill-rule="nonzero" />
-      </symbol>
-      <symbol viewBox="0 0 204 142" id="youtube" xmlns="http://www.w3.org/2000/svg">
-        <path d="M101.938.223s63.344 0 79.21 4.373c8.621 2.249 15.492 9.12 17.74 17.74 4.374 15.867 4.249 48.852 4.249 48.852s0 32.859-4.248 48.601c-2.25 8.746-9.12 15.492-17.74 17.865-15.867 4.123-79.211 4.123-79.211 4.123s-63.094 0-79.086-4.248c-8.621-2.374-15.492-9.244-17.866-17.865C.863 104.047.863 71.063.863 71.063s0-32.86 4.123-48.727c2.374-8.62 9.37-15.616 17.866-17.99C38.719.223 101.938.223 101.938.223zm-20.116 40.48v60.594l52.6-30.234-52.6-30.36z" fill="#D34238" fill-rule="nonzero" />
-      </symbol>
-    </svg>
-  </figure>
-  <!-- Skip-to-Content Link -->
-  <a class="skip_link" id="skip_to_content" href="#main_content">Skip to Main Content</a>
-  <!-- Page Wrapper -->
-  <div class="page_wrapper">
-    <!-- Header -->
-    <header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header_ribbon">
-        <div class="fs-row fs-all-justify-between">
-          <div class="fs-cell fs-sm-2 fs-md-4 fs-lg-9 fs-all-align-center">
-            <div class="header_ribbon_inner">
-              <div class="logo logo_header logo_symbol" itemscope itemtype="http://schema.org/Organization">
-                <a class="logo_link" itemprop="url" href="https://thewalters.org">
-                  <span class="logo_link_label">Walters Art Museum</span>
-                  <span class="logo_link_symbol"> <svg class="symbol symbol_logo">
-                      <use xlink:href="#logo"></use>
-                    </svg>
-                  </span>
-                </a>
-                <meta content="../../images/logo-schema.png" itemprop="logo">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-    <!-- END: Header -->
-    <!-- Page -->
-    <div class="page">
-      <!-- Page Feature -->
-      <div class="page_feature">
-        <div class="fs-row">
-          <div class="fs-cell">
-            <div class="title_top">
-
-              <h1 class="page_title">Open Data from the Walters Art Museum</h1>
-
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- END: Page Feature -->
-      <!-- Page Content -->
-      <div class="page_content">
-        <!-- Main Content -->
-        <main class="main_content" id="main_content" itemprop="mainContentOfPage">
-          <!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
-          <div class="typography">
-            <div class="wysiwyg_block">
-              <div class="fs-row">
-                <div class="fs-cell fs-lg-8">
-                  <div class="detail_wrap">
-                    <div class="typography">
-
-
-<p><strong>The Walters Art Museum is pleased to offer an application program interface (API). </strong></p>
-
-<p>The API allows web developers and software programmers to query data from the museum, whose online repository contains more than 10,000 digital records of art and artifacts from the museum's collection. The records include information about the artworks as well as digital images. The museum created the API so developers and programmers can more easily create their own applications that feature the museum's data and images. The data and images are made available to the public under <a href="http://art.thewalters.org/license/">a CC0 license</a> that facilitates reuse, even for commercial purposes.</p>
-
-<p><a href="https://github.com/WaltersArtMuseum/walters-api">Detailed documentation</a> is available on GitHub.</p>
-
-
-                    </div>
-
-                  </div>
-                </div>
-                <div class="fs-cell fs-lg-3 fs-lg-push-1">
-                  <div class="typography">
-                    <h5>PLEASE NOTE</h5>
-                    <p>v1 of the Walters API closed in 2023. Until a v2 can come online, we will provide static data files. <a href="https://github.com/WaltersArtMuseum/api-thewalters-org">Watch the API's github repo<a > for updates.</p>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=WaltersArtMuseum&repo=api-thewalters-org&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-
-
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- END: WYSIWYG -->
-          <!-- In Content Callouts -->
-          <div class="in_content_callouts">
-          </div>
-          <!-- END: In Content Callouts -->
-        </main>
-        <!-- END: Main Content -->
-        <!-- Sidebar Callouts -->
-
-        <!-- END: Sidebar Callouts -->
-        <!-- Full Width Callouts -->
-        <div class="full_width_callouts">
-<div class="linked_list">
-  <div class="fs-row">
-    <div class="fs-cell">
-      <header class="linked_list_header">
-        <h2 class="linked_list_title">
-          <span class="linked_list_title_label">Related Links</span>
-        </h2>
+<body class="container">
+  <header class="d-flex flex-wrap justify-content-center py-3 mb-5">
+    <a href="https://thewalters.org" class="pt-5 d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+      <img src="https://art.thewalters.org/wp-content/themes/art-thewalters-org/assets/images/temp/walters-logo.svg" alt="The Walters Art Museum">
+      <span class="fs-4 ps-5 fw-light text-uppercase">Application Program Interface (API)</span>
+    </a>
+  </header>
+  <main class="row mt-5 pt-5">
+    <article class="col-7">
+      <header>
+        <h1 class="display-2 fw-semibold">Open Data from the Walters Art Museum</h1>
       </header>
-      <div class="linked_list_body">
-        <ul class="linked_list_group">
-          <li class="linked_list_item">
-            <a class="linked_list_link" href="https://thewalters.org/about/">Online Collection<br>
-              <span style="font-weight:normal">get artwork info. with conservation and exhibition histories, and download images</span></a>
-          </li>
-          <li class="linked_list_item">
 
-            <a class="linked_list_link" href="https://www.thedigitalwalters.org/">Digitized Walters Manuscripts<br>
-            <span style="font-weight:normal">download high-resolution archival images with detailed catalog data</span></a>
-          </li>
-          <li class="linked_list_item">
-            <a class="linked_list_link" href="https://manuscripts.thewalters.org/">Walters Ex Libris<br>
-            <span style="font-weight:normal">search and browse digitized manuscripts from the Walters Art Museum</span></a>
-          </li>
-          <li class="linked_list_item">
-            <a class="linked_list_link" href="https://journal.thewalters.org/">Journal<br>
-            <span style="font-weight:normal">now available to all readers as an open-access digital publication</span></a>
-          </li>
-      <!--    <li class="linked_list_item">
-            <a class="linked_list_link" href="https://thewalters.org/about/research/">Research</a>
-          </li>
+      <p><strong>The Walters Art Museum is pleased to offer an application program interface (API). </strong></p>
 
-          <li class="linked_list_item">
-            <a class="linked_list_link" href="https://thewalters.org/experience/exhibitions/">Exhibitions & Installations</a>
-          </li>
-          <li class="linked_list_item">
-            <a class="linked_list_link" href="https://thewalters.org/about/research/fellowship-internship/">Fellowships & Internships</a>
-          </li>
-          <li class="linked_list_item">
-            <a class="linked_list_link" href="https://thewalters.org/experience/virtual/">Virtual Museum</a>
-          </li> -->
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
+      <p>The API allows web developers and software programmers to query data from the museum, whose online repository contains more than 10,000 digital records of art and artifacts from the museum's collection. The records include information about the artworks as well as digital images. The museum created the API so developers and programmers can more easily create their own applications that feature the museum's data and images. The data and images are made available to the public under <a href="http://art.thewalters.org/license/">a CC0 license</a> that facilitates reuse, even for commercial purposes.</p>
 
-          <div class="fs-row">
-
-          </div>
-        </div>
-        <!-- END: Full Width Callouts -->
-      </div>
-      <!-- END: Page Content -->
-    </div>
-    <!-- END: Page -->
-    <!-- Footer -->
-    <footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
-      <div class="footer_ribbon">
-        <div class="fs-row">
-          <div class="fs-cell fs-lg-8 fs-xl-6">
-            <div class="footer_contact">
+      <p><a href="https://github.com/WaltersArtMuseum/walters-api">Detailed documentation</a> is available on GitHub.</p>
 
 
-            </div>
-          </div>
+      See also:
 
-        </div>
-        <div class="fs-row fs-lg-align-center fs-xl-align-center">
-          <div class="fs-cell fs-lg-7 fs-xl-6">
-            <div class="footer_signup">
 
-            </div>
-          </div>
-          <div class="fs-cell fs-lg-5 fs-xl-5 fs-xl-push-1">
-            <div class="footer_utility">
-              <div class="social_nav" itemscope itemtype="http://schema.org/Organization">
-                <link itemprop="url" href="https://thewalters.org//www.thewalters.org">
-                <div class="social_nav_header">
-                  <h2 class="social_nav_title">Social Navigation</h2>
-                </div>
-                <div class="social_nav_list">
-                  <div class="social_nav_item">
-                    <a class="social_nav_link" href="https://thewalters.org//www.facebook.com" target="_blank" itemprop="sameAs">
-                      <span class="social_nav_icon">
-                        <svg class="symbol symbol_facebook">
-                          <use xlink:href="#facebook"></use>
-                        </svg>
-                      </span>
-                      <span class="social_nav_label">Facebook</span>
-                    </a>
-                  </div>
-                  <div class="social_nav_item">
-                    <a class="social_nav_link" href="https://thewalters.org//www.twitter.com" target="_blank" itemprop="sameAs">
-                      <span class="social_nav_icon">
-                        <svg class="symbol symbol_twitter">
-                          <use xlink:href="#twitter"></use>
-                        </svg>
-                      </span>
-                      <span class="social_nav_label">Twitter</span>
-                    </a>
-                  </div>
-                  <div class="social_nav_item">
-                    <a class="social_nav_link" href="https://thewalters.org//www.instagram.com" target="_blank" itemprop="sameAs">
-                      <span class="social_nav_icon">
-                        <svg width="552px" height="552px" viewBox="0 0 552 552" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="symbol symbol_instagram">
-                          <defs>
-                            <linearGradient x1="50%" y1="99.7086568%" x2="50%" y2="0.776685286%" id="linearGradient-1">
-                              <stop stop-color="#E09B3D" offset="0%"></stop>
-                              <stop stop-color="#C74C4D" offset="30%"></stop>
-                              <stop stop-color="#C21975" offset="60%"></stop>
-                              <stop stop-color="#7024C4" offset="100%"></stop>
-                            </linearGradient>
-                            <linearGradient x1="50%" y1="146.098382%" x2="50%" y2="-45.1597534%" id="linearGradient-2">
-                              <stop stop-color="#E09B3D" offset="0%"></stop>
-                              <stop stop-color="#C74C4D" offset="30%"></stop>
-                              <stop stop-color="#C21975" offset="60%"></stop>
-                              <stop stop-color="#7024C4" offset="100%"></stop>
-                            </linearGradient>
-                            <linearGradient x1="50%" y1="658.153387%" x2="50%" y2="-140.038068%" id="linearGradient-3">
-                              <stop stop-color="#E09B3D" offset="0%"></stop>
-                              <stop stop-color="#C74C4D" offset="30%"></stop>
-                              <stop stop-color="#C21975" offset="60%"></stop>
-                              <stop stop-color="#7024C4" offset="100%"></stop>
-                            </linearGradient>
-                          </defs>
-                          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                            <g fill-rule="nonzero">
-                              <path d="M386.878,0 L164.156,0 C73.64,0 0,73.64 0,164.156 L0,386.878 C0,477.394 73.64,551.034 164.156,551.034 L386.878,551.034 C477.394,551.034 551.034,477.394 551.034,386.878 L551.034,164.156 C551.033,73.64 477.393,0 386.878,0 Z M495.6,386.878 C495.6,446.923 446.923,495.6 386.878,495.6 L164.156,495.6 C104.111,495.6 55.434,446.923 55.434,386.878 L55.434,164.156 C55.434,104.11 104.111,55.434 164.156,55.434 L386.878,55.434 C446.923,55.434 495.6,104.11 495.6,164.156 L495.6,386.878 Z" id="XMLID_17_" fill="url(#linearGradient-1)"></path>
-                              <path d="M275.517,133 C196.933,133 133,196.933 133,275.516 C133,354.099 196.933,418.033 275.517,418.033 C354.101,418.033 418.034,354.1 418.034,275.516 C418.034,196.932 354.101,133 275.517,133 Z M275.517,362.6 C227.422,362.6 188.434,323.612 188.434,275.517 C188.434,227.422 227.423,188.434 275.517,188.434 C323.612,188.434 362.6,227.422 362.6,275.517 C362.6,323.611 323.611,362.6 275.517,362.6 Z" id="XMLID_81_" fill="url(#linearGradient-2)"></path>
-                              <circle id="XMLID_83_" fill="url(#linearGradient-3)" cx="418.306" cy="134.072" r="34.149"></circle>
-                            </g>
-                          </g>
-                        </svg>
-                      </span>
-                      <span class="social_nav_label">Instagram</span>
-                    </a>
-                  </div>
-                  <div class="social_nav_item">
-                    <a class="social_nav_link" href="https://thewalters.org//www.youtube.com" target="_blank" itemprop="sameAs">
-                      <span class="social_nav_icon">
-                        <svg class="symbol symbol_youtube">
-                          <use xlink:href="#youtube"></use>
-                        </svg>
-                      </span>
-                      <span class="social_nav_label">Youtube</span>
-                    </a>
-                  </div>
-                  <div class="social_nav_item">
-                    <a class="social_nav_link" href="https://thewalters.org//www.linkedin.com" target="_blank" itemprop="sameAs">
-                      <span class="social_nav_icon">
-                        <svg class="symbol symbol_linkedin">
-                          <use xlink:href="#linkedin"></use>
-                        </svg>
-                      </span>
-                      <span class="social_nav_label">Linkedin</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="footer_utility_left">
-                <span class="footer_copyright"><span class="footer_copyright_icon"> <svg class="symbol symbol_copy">
-                      <use xlink:href="#copy"></use>
-                    </svg>
-                  </span> The Walters Art Museum</span>
-                <nav class="footer_utility_nav footer_utility_nav_lg" aria-label="Utility Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-                  <div class="footer_utility_nav_header">
-                    <h2 class="footer_utility_nav_title">Utility Navigation</h2>
-                  </div>
-                  <div class="footer_utility_nav_list" role="navigation">
-                    <div class="footer_utility_nav_item" itemprop="url">
-                      <a class="footer_utility_nav_link" href="#" itemprop="name">
-                        <span class="footer_utility_nav_link_label">Privacy Policy</span>
-                      </a>
-                    </div>
-                    <div class="footer_utility_nav_item" itemprop="url">
-                      <a class="footer_utility_nav_link" href="#" itemprop="name">
-                        <span class="footer_utility_nav_link_label">Accessibility</span>
-                      </a>
-                    </div>
-                  </div>
-                </nav>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- END: Footer -->
-  </div>
-  <!-- END: page_wrapper -->
-  <div class="mobile_sidebar" id="mobile_sidebar" aria-hidden="true">
-    <a class="mobile_sidebar_handle_wrapper mobile_sidebar_handle_wrapper_inline mobile_sidebar_close" href="#mobile_sidebar">
-      <span class="js-swap mobile_sidebar_handle mobile_sidebar_handle_inline" data-swap-target=".mobile_sidebar" data-swap-linked="mobile_sidebar"><span>Close</span></span>
-    </a>
-    <div class="mobile_sidebar_top">
-      <div class="fs-row fs-all-align-end">
-        <div class="fs-cell fs-lg-4">
-          <div class="logo logo_takeover logo_symbol" itemscope itemtype="http://schema.org/Organization">
-            <a class="logo_link" itemprop="url" href="page-home.html">
-              <span class="logo_link_label">Walters Art Museum</span>
-              <span class="logo_link_symbol"> <svg class="symbol symbol_logo">
-                  <use xlink:href="#logo"></use>
-                </svg>
-              </span>
-            </a>
-            <meta content="../../images/logo-schema.png" itemprop="logo">
-          </div>
-        </div>
-        <div class="fs-cell fs-lg-8">
-          <div class="mobile_sidebar_right">
+      <ul>
+        <li>
+          <a href="https://thewalters.org/about/">Online Collection</a><br>
+          get artwork info. with conservation and exhibition histories, and download images
+        </li>
 
-            <nav class="secondary_nav secondary_nav_lg" aria-label="Mobile Secondary Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-              <div class="secondary_nav_header">
-                <h2 class="secondary_nav_title">Mobile Secondary Navigation</h2>
-              </div>
-              <div class="secondary_nav_list" role="navigation">
-                <div class="secondary_nav_item" itemprop="url">
-                  <a class="secondary_nav_link" href="#" itemprop="name">
-                    <span class="secondary_nav_link_label">What's On</span>
-                  </a>
-                </div>
-                <div class="secondary_nav_item" itemprop="url">
-                  <a class="secondary_nav_link" href="#" itemprop="name">
-                    <span class="secondary_nav_link_label">Art</span>
-                  </a>
-                </div>
-                <div class="secondary_nav_item" itemprop="url">
-                  <a class="secondary_nav_link" href="#" itemprop="name">
-                    <span class="secondary_nav_link_label">Shop</span>
-                  </a>
-                </div>
-                <div class="secondary_nav_item" itemprop="url">
-                  <a class="secondary_nav_link" href="#" itemprop="name">
-                    <span class="secondary_nav_link_label">Give Now</span>
-                  </a>
-                </div>
-              </div>
-            </nav>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="mobile_sidebar_main">
-      <div class="fs-row">
-        <div class="fs-cell">
-          <nav class="js-main-nav main_nav main_nav_sidebar" aria-label="Mobile Site Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-            <div class="main_nav_header">
-              <h2 class="main_nav_title">Mobile Site Navigation</h2>
-            </div>
-            <div class="main_nav_list" role="navigation">
-              <div class="js-main-nav-item-1 main_nav_item main_nav_has_children" itemprop="url">
-                <div class="main_nav_item_wrapper">
-                  <a class="main_nav_link" href="#" itemprop="name">
-                    <span class="main_nav_link_label">Visit</span>
-                  </a>
-                  <button class="js-swap main_nav_toggle" data-swap-target=".js-main-nav-item-1" data-swap-group="main_nav">
-                    <span class="main_nav_toggle_label">Expand Navigation</span>
-                    <span class="main_nav_toggle_icon"> <svg class="symbol symbol_caret_right">
-                        <use xlink:href="#caret_right"></use>
-                      </svg>
-                    </span>
-                  </button>
-                </div>
-                <div class="main_nav_children">
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Free Admission</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Hours</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Directions & Parking</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Food & Drink</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Visitor Guidelines</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Accessibility</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Tours</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="js-main-nav-item-2 main_nav_item main_nav_has_children" itemprop="url">
-                <div class="main_nav_item_wrapper">
-                  <a class="main_nav_link" href="#" itemprop="name">
-                    <span class="main_nav_link_label">Experience</span>
-                  </a>
-                  <button class="js-swap main_nav_toggle" data-swap-target=".js-main-nav-item-2" data-swap-group="main_nav">
-                    <span class="main_nav_toggle_label">Expand Navigation</span>
-                    <span class="main_nav_toggle_icon"> <svg class="symbol symbol_caret_right">
-                        <use xlink:href="#caret_right"></use>
-                      </svg>
-                    </span>
-                  </button>
-                </div>
-                <div class="main_nav_children">
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Today at the Walters</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Exhibitions & Installations</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="js-main-nav-item-3 main_nav_item main_nav_has_children" itemprop="url">
-                <div class="main_nav_item_wrapper">
-                  <a class="main_nav_link" href="#" itemprop="name">
-                    <span class="main_nav_link_label">Support</span>
-                  </a>
-                  <button class="js-swap main_nav_toggle" data-swap-target=".js-main-nav-item-3" data-swap-group="main_nav">
-                    <span class="main_nav_toggle_label">Expand Navigation</span>
-                    <span class="main_nav_toggle_icon"> <svg class="symbol symbol_caret_right">
-                        <use xlink:href="#caret_right"></use>
-                      </svg>
-                    </span>
-                  </button>
-                </div>
-                <div class="main_nav_children">
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">One Child</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Two Child</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="js-main-nav-item-4 main_nav_item main_nav_has_children" itemprop="url">
-                <div class="main_nav_item_wrapper">
-                  <a class="main_nav_link" href="#" itemprop="name">
-                    <span class="main_nav_link_label">About</span>
-                  </a>
-                  <button class="js-swap main_nav_toggle" data-swap-target=".js-main-nav-item-4" data-swap-group="main_nav">
-                    <span class="main_nav_toggle_label">Expand Navigation</span>
-                    <span class="main_nav_toggle_icon"> <svg class="symbol symbol_caret_right">
-                        <use xlink:href="#caret_right"></use>
-                      </svg>
-                    </span>
-                  </button>
-                </div>
-                <div class="main_nav_children">
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">One Child</span>
-                    </a>
-                  </div>
-                  <div class="main_nav_child_item" itemprop="url">
-                    <a class="main_nav_child_link" href="#" itemprop="name">
-                      <span class="main_nav_child_link_label">Two Child</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </div>
-    </div>
-    <section class="mobile_sidebar_feature">
-      <div class="fs-row">
-        <div class="fs-cell">
-          <header class="mobile_sidebar_feature_header">
-            <h2 class="mobile_sidebar_feature_heading">Discover the Walters</h2>
-          </header>
-          <main class="mobile_sidebar_feature_main">
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 980x552">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/980x552/2">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">The 18th and 19th Century Collection</span></h3>
-                </div>
-              </a>
-            </article>
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 735x980">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/735x980/3">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">The Russian Ark</span></h3>
-                  <p class="mobile_sidebar_feature_caption_date">Thursday, January 25, 2018</p>
-                </div>
-              </a>
-            </article>
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 654x1022">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/654x1022/4">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">Roman Empire</span></h3>
-                </div>
-              </a>
-            </article>
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 980x552">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/980x552/5">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">Cindy Cheng Wins the 2017 Soundheim Prize</span></h3>
-                </div>
-              </a>
-            </article>
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 980x756">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/980x756/6">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">Byzantium and Early Russia</span></h3>
-                  <p class="mobile_sidebar_feature_caption_date">Thursday, January 25, 2018</p>
-                </div>
-              </a>
-            </article>
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 980x980">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/980x980/7">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">Mindfulness in the Galleries</span></h3>
-                </div>
-              </a>
-            </article>
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 980x654">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/980x654/8">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">The Ancient Egypt and Nubia Collection:</span></h3>
-                </div>
-              </a>
-            </article>
-            <article class="mobile_sidebar_feature_article">
-              <a href="#" class="mobile_sidebar_feature_inner">
-                <figure class="mobile_sidebar_feature_figure">
-                  <picture class="mobile_sidebar_feature_picture" data-reference="0: 735x980">
-                    <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source media="(min-width: 0)" srcset="//images.fastspot.com/walters/735x980/9">
-                    <!--[if IE 9]></video><![endif]-->
-                    <img class="mobile_sidebar_feature_image" src="../../images/placeholder.png" alt="">
-                  </picture>
-                </figure>
-                <div class="mobile_sidebar_feature_caption">
-                  <div class="mobile_sidebar_feature_caption_heading">The Collection</div>
-                  <h3 class="mobile_sidebar_feature_caption_title"><span class="mobile_sidebar_feature_caption_title_label">Lunar New Year Celebration</span></h3>
-                  <p class="mobile_sidebar_feature_caption_date">Thursday, January 25, 2018</p>
-                </div>
-              </a>
-            </article>
-          </main>
-        </div>
-      </div>
-    </section>
-  </div>
-  <div class="search_takeover" id="site_search_takover">
-    <a class="search_takeover_close">
-      <span class="js-swap search_takeover_handle" data-swap-target=".search_takeover" data-swap-linked="search_takeover"><span>Close</span></span>
-    </a>
-    <div class="mobile_sidebar_top">
-      <div class="fs-row fs-all-justify-between">
-        <div class="fs-cell fs-lg-4">
-          <div class="logo logo_takeover logo_symbol" itemscope itemtype="http://schema.org/Organization">
-            <a class="logo_link" itemprop="url" href="page-home.html">
-              <span class="logo_link_label">Walters Art Museum</span>
-              <span class="logo_link_symbol"> <svg class="symbol symbol_logo">
-                  <use xlink:href="#logo"></use>
-                </svg>
-              </span>
-            </a>
-            <meta content="../../images/logo-schema.png" itemprop="logo">
-          </div>
-        </div>
-        <div class="fs-cell fs-lg-5">
-          <div class="mobile_sidebar_right">
-            <div class="site_search site_search_takeover" id="site_search_takeover" itemscope itemtype="http://schema.org/WebSite" role="search">
-              <meta itemprop="url" content="//www.thewalters.org">
-              <form class="site_search_form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
-                <meta itemprop="target" content="https://thewalters.org/search?q={search_term_string}">
-                <label class="site_search_label" for="search_term_string_takeover">Search</label>
-                <input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_takeover" name="search_term_string_takeover" placeholder="Search">
-                <button class="site_search_button" type="submit" title="submit" aria-label="submit" data-swap-target=".search_takover">
-                  <span class="site_search_button_label">submit</span>
-                  <span class="site_search_button_icon"> <svg class="symbol symbol_search">
-                      <use xlink:href="#search"></use>
-                    </svg>
-                  </span>
-                </button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <script src="https://thewalters.org/js/site.js"></script>
+        <li>
 
+          <a href="https://www.thedigitalwalters.org/">Digitized Walters Manuscripts</a><br>
+          download high-resolution archival images with detailed catalog data
+        </li>
+        <li>
+          <a href="https://manuscripts.thewalters.org/">Walters Ex Libris</a><br>
+          search and browse digitized manuscripts from the Walters Art Museum
+        </li>
+        <li>
+          <a href="https://journal.thewalters.org/">Journal</a><br>
+          now available to all readers as an open-access digital publication
+        </li>
+        <li>
+          <a href="https://thewalters.org/about/research/">Research</a>
+        </li>
+
+        <li>
+          <a href="https://thewalters.org/experience/exhibitions/">Exhibitions and Installations</a>
+        </li>
+        <li>
+          <a href="https://thewalters.org/about/research/fellowship-internship/">Fellowships and Internships</a>
+        </li>
+      </ul>
+
+
+    </article>
+    <aside class="col-5 mt-5 pt-5">
+      <h2 class="pt-2">Please Note</h2>
+
+      <p>v1 of the Walters API closed in 2023. Until a v2 can come online, we will provide static data files. <a href="https://github.com/WaltersArtMuseum/api-thewalters-org">Watch the API's github repo<a> for updates.</p>
+
+      <iframe src="https://ghbtns.com/github-btn.html?user=WaltersArtMuseum&repo=api-thewalters-org&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+    </aside>
+  </main>
+  <footer class="d-flex mt-5 mb-3">
+    <nav class="ms-auto mb-5">
+      <strong class="fw-semibold">The Walters Art Museum</strong><br />
+      <a href="https://thewalters.org/visit/accessibility/" class="pe-2">Accessibility</a>
+      <a href="https://thewalters.org/privacy-terms/" class="pe-2">Privacy Policy/Terms of Use</a>
+      <a href="https://thewalters.org/about/policies/rights-reproductions/">Copyright Info</a>
+    </nav>
+  </footer>
 </body>
 
 </html>
