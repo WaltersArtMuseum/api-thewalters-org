@@ -1,5 +1,7 @@
 
 
+
+
 Walters Art Museum Collections API
 ===============================================================================
 
@@ -17,7 +19,6 @@ The API describes:
   - [Collections](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki/collections), or categories of museum objects [collections.csv](https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/collections.csv)
   - [Geographic locations](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki/geographies), where the museum objects came from
   - [Exhibitions](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki/exhibitions) created by the Walters, featuring the museum objects [exhibitions.csv](https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/exhibitions.csv)
-  - [Locations](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki/locations) within the Walters, where museum objects are displayed [locations.csv](https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/locations.csv)
 
 
 See also:
