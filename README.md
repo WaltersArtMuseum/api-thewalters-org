@@ -7,7 +7,7 @@ Walters Art Museum Collections API
 
 [Documentation](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki) and static data files, for the Walters Art Museum collections API.
 
-The API allows web developers and software programmers to query data from the museum, whose online repository contains more than 10,000 digital records of art and artifacts from the museum's collection. The records include information about the artworks as well as digital images. The museum created the API so developers and programmers can more easily create their own applications that feature the museum's data and images. The data and images are made available to the public under a [CC0 license](http://art.thewalters.org/license/) that facilitates reuse, even for commercial purposes.
+The API allows web developers and software programmers to query data from the museum, whose online repository contains more than 10,000 digital records of art and artifacts from the museum's collection. The records include information about the artworks as well as digital images. The museum created the API so developers and programmers can more easily create their own applications that feature the museum's data and images. The data and images are made available to the public under a [CC0 license](https://thewalters.org/about/policies/rights-reproductions/) that facilitates reuse, even for commercial purposes.
 
 **note**: v1 of the Walters API closed in 2023. Until a v2 can come online, we provide static data files via this repository.
 
