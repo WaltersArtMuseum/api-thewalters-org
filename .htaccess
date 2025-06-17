@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# If the user agent is GPTBot...
+RewriteCond %{HTTP_USER_AGENT} GPTBot [NC]
+
+# ... and the request is NOT for a .csv file
+RewriteCond %{REQUEST_URI} !\.csv$ [NC]
+
+# ... and the request is NOT for sitemap.xml
+RewriteCond %{REQUEST_URI} !^/sitemap\.xml$ [NC]
+
+# ... and the request is NOT for robots.txt
+RewriteCond %{REQUEST_URI} !^/robots\.txt$ [NC]
+
+# Then deny access
+RewriteRule .* - [F]
