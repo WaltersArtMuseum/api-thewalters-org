@@ -1,5 +1,16 @@
 # www.robotstxt.org/
 
+Sitemap: https://api.thewalters.org/sitemap.xml
+
 # Allow crawling of all content
 User-agent: *
 Disallow:
+
+# GPTBot: block all, allow only .csv
+User-agent: GPTBot
+Disallow: /
+Allow: /*.csv$
+
+# Googlebot: disallow all .csv files
+User-agent: Googlebot
+Disallow: /*.csv$
